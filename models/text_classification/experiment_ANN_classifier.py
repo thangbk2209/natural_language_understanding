@@ -30,7 +30,6 @@ def train_model(item):
                         file_to_save_classified_data=file_to_save_classified_data)
                 classifier.train(file_data_classifier)
 window_sizes = [1,2]
-epoch_word2vec = 2000
 embedding_dims = [8, 16, 32, 50, 64, 100, 128]
 batch_size_word2vecs = [4, 8, 16, 32, 64]
 file_to_save_word2vec_datas = []

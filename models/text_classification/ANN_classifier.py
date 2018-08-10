@@ -27,14 +27,13 @@ class Classifier:
         file_to_save_classified_data : path of file to save vector presentation
     """
     def __init__(self, vectors = None, word2int = None, int2word = None, input_size = None, num_classes = None, window_size = None, 
-    epoch_word2vec = None, epoch_classifier = None ,embedding_dim = None,
+     epoch_classifier = None ,embedding_dim = None,
     batch_size_classifier = None, optimizer_method = None, file_to_save_classified_data=""): 
         self.vectors = vectors
         self.word2int = word2int
         self.int2word = int2word
         self.input_size = input_size
         self.window_size = window_size
-        self.epoch_word2vec = epoch_word2vec
         self.epoch_classifier = epoch_classifier
         self.embedding_dim = embedding_dim
         self.num_classes = num_classes
