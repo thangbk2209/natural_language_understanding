@@ -1,7 +1,7 @@
 import numpy as np
-from Word2vec import Word2vec
+# from word2vec import Word2vec
 import tensorflow as tf
-from preprocess_data_classifier import PreprocessingDataClassifier
+from preprocessing_classifier import PreprocessingDataClassifier
 import pickle
 """
 this class training word2vec and receive a vector embedding and 
@@ -44,8 +44,8 @@ class Classifier:
     
     def classify(self, file_data_classifier):
         # Preprocessing data
-        PreprocessingDataClassifier(self.vectors, self.embedding_dim, self.input_size, self.file_data_classifier, self.word2int, self.int2word)
-        preprocessing_data = PreprocessingDataClassifier(vectors, self.embedding_dim, self.input_size,file_data_classifier)
+        preprocessing_data = PreprocessingDataClassifier(self.vectors, self.embedding_dim, self.input_size, self.word2int, self.int2word, file_data_classifier)
+        # preprocessing_data = PreprocessingDataClassifier(self.vectors, self.embedding_dim, self.input_size,file_data_classifier)
         self.x_train, self.y_train, self.x_test, self.y_test, self.int2intent, self.test_label = preprocessing_data.preprocessing_data()
         # Create graph
         x = tf.placeholder(tf.float32, shape=(None, self.input_size, self.embedding_dim))
@@ -57,30 +57,40 @@ class Classifier:
         cross_entropy_loss = tf.reduce_mean(-tf.reduce_sum(y_label * tf.log(prediction), reduction_indices=[1]))
         
         #select optimizer method 
-        if optimizer_method == self.OPTIMIZER_BY_GRADIENT:
+        if self.optimizer_method == self.OPTIMIZER_BY_GRADIENT:
             optimizer = tf.train.GradientDescentOptimizer(0.1).minimize(cross_entropy_loss)
-        elif optimizer_method == self.OPTIMIZER_BY_SGD:
+        elif self.optimizer_method == self.OPTIMIZER_BY_SGD:
             a = 0
-        elif optimizer_method == self.OPTIMIZER_BY_ADAM:
+        elif self.optimizer_method == self.OPTIMIZER_BY_ADAM:
             a = 0
        
         sess = tf.Session()
         init = tf.global_variables_initializer()
+        # Add ops to save and restore all the variables.
+        saver = tf.train.Saver()
         sess.run(init) #make sure you do this!
         # train for n_iter iterations
-        total_batch = int(len(self.x_train)/ batch_size_classifier)
+        total_batch = int(len(self.x_train)/ self.batch_size_classifier)
         for _ in range(self.epoch_classifier):
             avg_loss = 0
             for j in range(total_batch):
-                batch_x_train, batch_y_train = self.x_train[j*batch_size_classifier:(j+1)*batch_size_classifier], self.y_train[j*batch_size_classifier:(j+1)*batch_size_classifier]
+                batch_x_train, batch_y_train = self.x_train[j*self.batch_size_classifier:(j+1)*self.batch_size_classifier], self.y_train[j*self.batch_size_classifier:(j+1)*self.batch_size_classifier]
+                print (batch_x_train)
+                print (batch_y_train)
                 sess.run(optimizer, feed_dict={x: batch_x_train, y_label: batch_y_train})
                 loss = sess.run(cross_entropy_loss, feed_dict={x: batch_x_train, y_label: batch_y_train})/total_batch
                 avg_loss += loss
             print('loss is : ',avg_loss)
             print("finished training classification phrase!!!")
         prediction = sess.run(prediction, feed_dict={x: self.x_test})
+        save_path = saver.save(sess, self.file_to_save_classified_data)
         return prediction
+    def save_trained_classifier_data(self,data):
+        with open(self.file_to_save_classified_data,'wb+') as out:
+            pickle.dump(data,out,pickle.HIGHEST_PROTOCOL)
     def train(self, file_data_classifier):
+        print ('-------------------file_data_classifier----------------')
+        print (file_data_classifier)
         prediction = self.classify(file_data_classifier)
         predict = []
         for i in range(len(prediction)):

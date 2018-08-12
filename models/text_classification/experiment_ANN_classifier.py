@@ -1,5 +1,10 @@
 from preprocessing_classifier import PreprocessingDataClassifier
 from ANN_classifier import Classifier
+from multiprocessing import Pool
+from queue import Queue
+from sklearn.model_selection import ParameterGrid
+import pickle as pk
+queue = Queue()
 # read data to a file
 CLASSIFY_BY_SOFTMAX = 1
 CLASSIFY_BY_SVM = 2
@@ -23,25 +28,25 @@ def train_model(item):
                 
                 vectors, word2int, int2word = read_trained_data(file_to_save_word2vec_data)
 
-                file_to_save_classified_data = '../../results/ANN/ws-' + str(window_size) + '-embed-' + str(embedding_dim) + 'batch_size_w2c-' + str(batch_size_word2vec) + 'batch_size_cl' + str(batch_size_classifier) + '.pkl'
+                file_to_save_classified_data = '../../results/text_classification/ANN/ws-' + str(window_size) + '-embed-' + str(embedding_dim) + 'batch_size_w2c-' + str(batch_size_word2vec) + 'batch_size_cl' + str(batch_size_classifier) + '.ckpt'
                 
                 classifier = Classifier(vectors, word2int, int2word, input_size, num_classes, window_size, 
                         epoch_classifier ,embedding_dim,batch_size_classifier, optimizer_method,
                         file_to_save_classified_data=file_to_save_classified_data)
                 classifier.train(file_data_classifier)
+
 window_sizes = [1,2]
 embedding_dims = [8, 16, 32, 50, 64, 100, 128]
 batch_size_word2vecs = [4, 8, 16, 32, 64]
 file_to_save_word2vec_datas = []
-
 input_size = 16
 num_classes = 8
 epoch_classifier = 1
 
-file_data_classifier = '../../data/vietnam.txt'
-file_to_save_classified_data = "test.pkl"
+file_data_classifier = '../../data/text_classifier.txt'
+# file_to_save_classified_data = "test.pkl"
 optimizer_method = OPTIMIZER_BY_GRADIENT
-batch_size_classifier = [4,8,16,32]
+batch_size_classifiers = [4]
 param_grid = {
     'batch_size_classifier': batch_size_classifiers,
 }

@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # coding: utf8
 from __future__ import unicode_literals
 from pandas import read_csv
@@ -8,7 +9,7 @@ import regex
 
 # Stop words
 # this file is used to save the result of CleanContent
-file = open('../../results/tokenization/corpus_cleaned.txt','w')
+file = open('../../results/tokenization/corpus_cleaned.txt','w', encoding="utf8")
 """
 This class is used to clean stop words, special characters, number, ...
 in corpus and in sentence
@@ -1880,5 +1881,6 @@ xệp
         print (all_sentences_split[:20])
         # lol
         all_words = set(all_words)
+        print (len(all_words))
         return all_words, all_sentences_split
     

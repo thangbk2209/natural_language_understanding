@@ -9,11 +9,11 @@ def train_model(item):
     embedding_dim = item["embedding_dim"]
     batch_size_word2vec = item["batch_size_word2vec"]
     file_to_save_trained_data = '../../results/word2vec/ws-' + str(window_size) + '-embed-' + str(embedding_dim) + 'batch_size-' + str(batch_size_word2vec) + '.pkl'
-    word2vec = Word2Vec(window_size = window_size, epoch_word2vec, embedding_dim = embedding_dim,
+    word2vec = Word2Vec(window_size = window_size, epoch_word2vec = epoch_word2vec, embedding_dim = embedding_dim,
                         batch_size_word2vec = batch_size_word2vec, file_to_save_trained_data = file_to_save_trained_data)
     vectors, word2int, int2word = word2vec.train()
 window_sizes = [1,2]
-epoch_word2vec = 2000
+epoch_word2vec = 2
 embedding_dims = [8, 16, 32, 50, 64, 100, 128]
 batch_size_word2vecs = [4, 8, 16, 32, 64]
 # file_to_save_trained_datas = []

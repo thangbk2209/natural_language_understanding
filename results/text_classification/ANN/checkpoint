@@ -1,0 +1,2 @@
+model_checkpoint_path: "ws-1-embed-50batch_size_w2c-32batch_size_cl4.ckpt"
+all_model_checkpoint_paths: "ws-1-embed-50batch_size_w2c-32batch_size_cl4.ckpt"

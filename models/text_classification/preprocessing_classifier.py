@@ -3,7 +3,7 @@
 from pyvi import ViTokenizer, ViPosTagger
 import numpy as np 
 import re
-from tokenization.data_cleaner import DataCleaner
+from data_cleaner import DataCleaner
 class PreprocessingDataClassifier:
     """ This class prepare data for text_classification phrase.
     first, read the training data from text file: file_data_classifier.
@@ -52,11 +52,11 @@ class PreprocessingDataClassifier:
             intent2int[intent] = index
             int2intent[index] = intent 
         for i, sentence in enumerate(texts):
-            stop_words = StopWord(sentence)
-            all_words, all_sentences_split = stop_words.clean_content()
+            data_cleaner = DataCleaner(sentence)
+            all_words, all_sentences_split = data_cleaner.clean_content()
             data_x_raw = []
             for word in all_words:
-                data_x_raw.append(self.vectors[word2int[word]])
+                data_x_raw.append(self.vectors[self.word2int[word]])
             for k in range(self.input_size - len(data_x_raw)):
                 padding = np.zeros(self.embedding_dim)
                 data_x_raw.append(padding)
@@ -74,7 +74,7 @@ class PreprocessingDataClassifier:
         
         #train_index = np.random.choice(data_classifier_size,train_size,replace = False)
         #train
-        with open('data/train/train.txt') as input:
+        with open('../../data/train/train.txt') as input:
             line = input.readline()
             line = line.strip()
             temp = line.split(" ")
