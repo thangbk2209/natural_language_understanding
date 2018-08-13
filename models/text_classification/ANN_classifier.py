@@ -40,7 +40,7 @@ class Classifier:
         self.file_to_save_classified_data = file_to_save_classified_data
         self.batch_size_classifier = batch_size_classifier
         self.optimizer_method = optimizer_method
-        print(self.file_to_save_classified_data)
+        # print(self.file_to_save_classified_data)
     
     def classify(self, file_data_classifier):
         # Preprocessing data
@@ -50,8 +50,9 @@ class Classifier:
         # Create graph
         x = tf.placeholder(tf.float32, shape=(None, self.input_size, self.embedding_dim))
         input_classifier = tf.reshape(x,[tf.shape(x)[0], self.input_size * self.embedding_dim])
-        hidden_value = tf.layers.dense(input_classifier, 2 * self.input_size * self.embedding_dim, activation = tf.nn.sigmoid)
-        prediction = tf.layers.dense(hidden_value, self.num_classes, activation = tf.nn.softmax)
+        hidden_value1 = tf.layers.dense(input_classifier, 256, activation = tf.nn.relu)
+        hidden_value2 = tf.layers.dense(hidden_value1, 64, activation = tf.nn.relu)
+        prediction = tf.layers.dense(hidden_value2, self.num_classes, activation = tf.nn.softmax)
         y_label = tf.placeholder(tf.float32, shape=(None, self.num_classes))
         # define the loss function:
         cross_entropy_loss = tf.reduce_mean(-tf.reduce_sum(y_label * tf.log(prediction), reduction_indices=[1]))
@@ -75,11 +76,12 @@ class Classifier:
             avg_loss = 0
             for j in range(total_batch):
                 batch_x_train, batch_y_train = self.x_train[j*self.batch_size_classifier:(j+1)*self.batch_size_classifier], self.y_train[j*self.batch_size_classifier:(j+1)*self.batch_size_classifier]
-                print (batch_x_train)
-                print (batch_y_train)
+                # print (batch_x_train)
+                # print (batch_y_train)
                 sess.run(optimizer, feed_dict={x: batch_x_train, y_label: batch_y_train})
                 loss = sess.run(cross_entropy_loss, feed_dict={x: batch_x_train, y_label: batch_y_train})/total_batch
                 avg_loss += loss
+            print ('epoch: ', _ + 1)
             print('loss is : ',avg_loss)
             print("finished training classification phrase!!!")
         prediction = sess.run(prediction, feed_dict={x: self.x_test})

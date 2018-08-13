@@ -13,9 +13,9 @@ def train_model(item):
                         batch_size_word2vec = batch_size_word2vec, file_to_save_trained_data = file_to_save_trained_data)
     vectors, word2int, int2word = word2vec.train()
 window_sizes = [1,2]
-epoch_word2vec = 2
-embedding_dims = [8, 16, 32, 50, 64, 100, 128]
-batch_size_word2vecs = [4, 8, 16, 32, 64]
+epoch_word2vec = 200
+embedding_dims = [32,50]
+batch_size_word2vecs = [4, 8]
 # file_to_save_trained_datas = []
 # for window_size in window_sizes:
 #     for embedding_dim in embedding_dims:
@@ -32,7 +32,7 @@ param_grid = {
 for item in list(ParameterGrid(param_grid)) :
     queue.put_nowait(item)
 # Consumer
-pool = Pool(16)
+pool = Pool(8)
 pool.map(train_model, list(queue.queue))
 pool.close()
 pool.join()

@@ -50,13 +50,14 @@ class Preprocess_W2v:
                         continue
                     if(sentence[j] == '\n'):
                         continue
-                    data.append([sentence[i],sentence[j]])
-        print ("----------------data------------------")
-        print (data[:20])
-        print (data[0][0])
-        print (data[0][1])
-        print (word2int[ data[i][0] ])
-        print (word2int[ data[i][1] ])
+                    print (sentence[i].strip() ,sentence[j].strip())
+                    data.append([sentence[i].strip() ,sentence[j].strip()])
+        # print ("----------------data------------------")
+        # print (data[:20])
+        # print (data[0][0])
+        # print (data[0][1])
+        # print (word2int[ data[i][0] ])
+        # print (word2int[ data[i][1] ])
         sample_Df = pd.DataFrame(np.array(data))
         sample_Df.to_csv('../../results/word2vec/sample_word2vec.csv', index=False, header=None)
 
@@ -65,8 +66,8 @@ class Preprocess_W2v:
             temp = np.zeros(vocab_size)
             temp[data_point_index] = 1
             return temp
-        print (to_one_hot(word2int[ data[0][0] ], vocab_size))
-        print (to_one_hot(word2int[ data[0][1] ], vocab_size))
+        # print (to_one_hot(word2int[ data[0][0] ], vocab_size))
+        # print (to_one_hot(word2int[ data[0][1] ], vocab_size))
         x_train = [] # input word
         y_train = [] # output word
         for i in range(len(data)):
@@ -75,11 +76,11 @@ class Preprocess_W2v:
         # convert them to numpy arrays
         x_train = np.asarray(x_train)
         y_train = np.asarray(y_train)
-        print ('number of samples!!!')
-        print (len(x_train))
-        # print(word2int[u'trang chính'])
-        print(x_train[0])
-        print(y_train[0])
+        # print ('number of samples!!!')
+        # print (len(x_train))
+        # # print(word2int[u'trang chính'])
+        # print(x_train[0])
+        # print(y_train[0])
         #   print ('x_train')
         #   print (x_train[0])
         #   print (y_train[0])

@@ -1856,7 +1856,7 @@ xệp
             for part in part_of_sentence:
                 # file.write(part + '\n')
                 new_sentences.append(part)
-        print ("check")
+        # print ("check")
         all_words = []
         all_sentences_split = []
         for sentence in new_sentences:
@@ -1870,17 +1870,17 @@ xệp
                     
                     # print (i)
                     if (i == len(words)-1):
-                        file.write('\n')
+                        file.write(word + '\n')
                     else:
                         file.write(word + ' ')
             all_sentences_split.append(sentencei)
             # all_words, all_sentences_split = self.replace_acronym(all_words, all_sentences_split, sentence)
         print ('all_words')
         print (all_words[:20])
-        print ('all_sentences_split')
-        print (all_sentences_split[:20])
+        # print ('all_sentences_split')
+        # print (all_sentences_split[:20])
         # lol
         all_words = set(all_words)
-        print (len(all_words))
+        # print (len(all_words))
         return all_words, all_sentences_split
     

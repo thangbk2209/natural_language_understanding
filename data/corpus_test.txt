@@ -1,0 +1,762 @@
+có nên mua bán không
+mã được không
+có nên bán
+khuyến nghị
+khuyên thế nào
+nhận định
+mua giá bao nhiêu hợp lý
+bán giá bao nhiêu hợp lý
+vào bây giờ có nên không
+có nên mua vào không
+có nên bán ra không
+có nên mua không
+có nên bán không
+nên bán hay nắm giữ
+bán hay giữ
+nên mua hay bán
+mua hay bán đây
+nên mua vào hay bán ra
+đề xuất như nào
+khuyến nghị như nào
+đề xuất thế nào
+nhận định thế nào
+nhận định như nào
+mua bán thế nào
+xem đề xuất
+xem khuyến nghị
+xem nhận định
+khuyến nghị ra sao
+đề xuất ra sao
+nhận định thị trường ra sao
+nên đâm vào hay bán ra
+nên nắm giữ lúc này không
+nên lướt sóng trong giai đoạn này không
+khuyến nghị cho giai đoạn này
+giai đoạn này mua bán thế nào
+giai đoạn này nên nắm giữ hay bán ra
+nên hay không nên mua
+với cổ phiếu này mua giá bao nhiêu
+với mã chứng khoán này nên mua giá bao nhiêu
+với tiền trong tài khoản nên mua lượng cổ phiếu bao nhiêu
+nên bán giá bao nhiêu với cổ phiếu abc
+nên mua giá bao nhiêu với cổ phiếu abc
+nên bán giá bao nhiêu với mã chứng khoán abc
+nên mua giá bao nhiêu với mã chứng khoán abc
+giá trị trường bao nhiêu
+nên mua theo giá thị trường không
+nên bán theo giá thị trường không
+nên làm gì với thị trường hiện nay
+thị trường lên xuống thất thường nên mua vào hay bán ra
+mua mã chứng khoán
+mua con
+bán con
+đặt lệnh mua
+tôi muốn mua mã chứng khoán với khối lượng và giá
+mua mã giá khối lượng
+mua vào
+đầu tư vào
+mua thêm
+gom vào
+gom thêm
+bán mã chứng khoán
+đặt lệnh bán
+bán ra
+thoát hàng
+xả ra
+tôi muốn bán mã chứng khoán khối lương và giá
+tôi muốn giao dịch
+mua cho tôi mã chứng khoán với giá và khối lượng
+mua cổ phiếu abc với giá và khối lượng
+mua khối lượng abc với giá
+mua khối lượng cố phiếu abc với mức giá
+mua khối lượng với mức giá của cổ phiếu abc
+mua khối lượng cổ phiếu abc giá
+bán hết cổ phiếu abc với giá
+bán cổ phiếu abc với giá
+gom cổ phiếu abc với khối lượng và giá
+đặt lệnh mua cổ phiếu abc giá và khối lượng
+đặt lệnh bán cổ phiếu abc giá và khối lượng
+đầu tư thêm khối lượng cổ phiếu abc giá
+số dư chứng khoán
+danh mục ra sao
+tài khoản đuôi 1 có bao chứng khoán
+tài khoản đuôi 6 có bao chứng khoán
+danh mục đầu tư
+có bao nhiêu chứng khoán
+tình trạng chứng khoán
+tình trạng danh mục
+tình trạng đầu tư
+trạng thái chứng khoán
+trạng thái danh mục
+trạng thái đầu tư
+tài khoản đuôi 1 còn bao nhiêu chứng khoán
+xem tài khoản đuôi 1 còn bao nhiêu chứng khoán
+tài khoản đuôi 6 còn bao nhiêu chứng khoán
+xem tài khoản đuổi 6 còn bao nhiêu chứng khoán
+xem tài khoản đuôi 1 có bao nhiêu chứng khoán
+xem tài khoản đuôi 6 có bao nhiêu chứng khoán
+tài khoản đuôi 1 có bao nhiêu cổ phiếu
+xem tài khoản đuôi 1 có bao nhiêu cổ phiếu
+tài khoản đuôi 1 còn bao nhiêu cổ phiếu
+xem tài khoản đuôi 1 còn bao nhiêu cổ phiếu
+tài khoản đuôi 6 còn bao nhiêu cổ phiếu
+xem tài khoản đuôi 6 còn bao nhiêu cổ phiếu
+tình trạng cổ phiếu còn dư
+xem tình trạng cổ phiếu còn dư
+tình trạng cổ phiếu còn lại
+xem tình trạng cổ phiếu còn lại
+trạng thái cổ phiếu còn dư
+xem trạng thái cổ phiếu còn dư
+trạng thái cổ phiếu còn lại
+xem trạng thái cổ phiếu còn lại
+thông tin chứng khoán
+xem thông tin chứng khoán
+thông tin cổ phiếu
+xem thông tin cổ phiếu
+thông tin danh mục
+xem thông tin danh mục
+thông tin danh mục hiện có
+xem thông tin danh mục hiện có
+thông tin đầu tư
+xem thông tin đầu tư
+thông tin đầu tư hiện có
+xem thông tin đầu tư hiện có
+xem tình trạng chứng khoán
+xem tình trạng danh mục
+xem tình trạng đầu tư
+xem trạng thái chứng khoán
+xem trạng thái danh mục
+xem trạng thái đầu tư
+thông tin số chứng khoán còn dư
+xem thông tin số chứng khoán còn dư
+thông tin cổ phiếu còn lại
+xem thông tin cổ phiếu còn lại
+thông tin cổ phiếu còn dư
+xem thông tin cổ phiếu còn dư
+thông tin số chứng khoán còn lại
+xem thông tin số chứng khoán còn lại
+số chứng khoán còn dư
+xem số dư chứng khoán
+xem số chứng khoán còn dư
+tổng số chứng khoán
+xem tổng số chứng khoán
+số chứng khoán còn lại
+xem số chứng khoán còn lại
+tổng số chứng khoán còn lại
+xem tổng số chứng khoán còn lại
+tổng số chứng khoán còn dư
+xem tổng số chứng khoán còn dư
+danh mục của tôi
+xem danh mục của tôi
+danh mục đầu tư hiện nay
+xem danh mục đầu tư hiện nay
+danh mục chứng khoán
+xem danh mục chứng khoán
+danh mục chứng khoán của tôi
+xem danh mục chứng khoán của tôi
+danh mục đầu tư hiện có
+xem danh mục đầu tư hiện có
+xem danh mục đầu tư
+danh mục đầu tư của tôi
+xem danh mục đầu tư của tôi
+danh mục cổ phiều
+xem danh mục cổ phiếu
+danh mục cổ phiếu của tôi
+xem danh mục cổ phiếu của tôi
+danh mục cổ phiếu hiện có
+xem danh mục cổ phiếu hiện có
+trạng thái lệnh
+lệnh của tôi khớp chưa
+tình trạng lệnh
+lệnh ra sao
+xem trạng thái lệnh
+trạng thái lệnh của tôi
+xem trạng thái lệnh của tôi
+xem tình trạng lệnh
+thông tin lệnh
+xem thông tin lệnh
+tình trạng khớp lệnh
+trạng thái khớp lệnh
+thông tin khớp lệnh
+xem tình trạng khớp lệnh
+xem thông tin khớp lệnh
+xem trạng thái khớp lệnh
+thông tin lệnh của tôi
+xem thông tin lệnh của tôi
+tình trạng khớp lệnh của tôi
+trạng thái khớp lệnh của tôi
+thông tin khớp lệnh của tôi
+xem tình trạng khớp lệnh của tôi
+xem thông tin khớp lệnh của tôi
+xem trạng thái khớp lệnh của tôi
+lệnh đang giao dịch
+xem lệnh đang giao dịch
+lệnh đang chờ giao dịch
+xem lệnh đang chờ giao dịch
+lệnh bị hủy
+xem lệnh bị hủy
+lệnh không hợp lệ
+xem lệnh không hợp lệ
+xem lệnh đang chờ
+lệnh đang chờ
+lệnh đã được khớp chưa
+lệnh đã được thực hiện chưa
+lệnh đã giao dịch
+xem lệnh đã giao dịch
+tình trạng giao dịch của lệnh
+xem tình trạng giao dịch của lệnh
+giao dịch khớp lệnh
+xem giao dịch khớp lệnh
+kết quả khớp lệnh
+xem kết quả khớp lệnh
+xem kết quả giao dịch lệnh
+kết quả giao dịch lệnh
+thị trường thế nào
+lên xuống thế nào
+thị trường biến động ra sao
+diễn biến ra sao
+biến động thế nào
+tổng quan thị trường
+tổng quan thị trường chứng khoán
+thông tin thị trường
+thông tin giao dịch
+đang giao dịch thế nào
+hiện đang ra sao
+mã chứng khoán
+thị trường hôm nay
+thị trường hiện ra sao
+thị trường hôm nay thế nào
+thị trường biến động ra sao
+biến động thị trường
+biến động thị trường hôm nay
+biến động thị trường ra sao
+hôm nay thị trường biến động như thế nào
+hôm nay thị trường biến động ra sao
+tình hình thị trường
+tình hình thị trường hôm nay
+tình hình biến động
+tình hình biến động hôm nay
+diễn biến thị trường
+diễn biến hôm nay của thị trường
+diễn biến hôm nay
+diễn biến giao dịch hôm nay
+kết quả giao dịch
+kết quả giao dịch hiện tại
+thông tin cổ phiếu
+thông tin chứng khoán
+thông tin mã cổ phiếu abc
+thông tin giao dịch
+thông tin giao dịch hôm nay
+tổng quan VnIndex hôm nay
+khối lượng giao dịch hôm nay
+giá mở cửa hôm nay của mã chứng khoán abc
+giá đóng cửa hôm qua
+giá hiện tại của mã cổ phiếu abc
+giá hiện tại của mã chứng khoán 
+lịch sử giá
+biến động lên xuống của thị trường
+lịch sử giao dịch mã chứng khoán
+lịch sử giao dịch mã cổ 
+cập nhật thị trường
+cập nhật tình hình thị trường
+cập nhật thông tin thị trường
+cập nhật thông tin giao dịch
+cập nhật thị trường hôm nay
+cập nhật tình hình thị trường hôm nay
+cập nhật thông tin thị trường hôm nay
+cập nhật thông tin giao dịch hôm nay
+thông tin chung về thị trường
+thông tin thị trường tổng quan
+toàn cảnh thị trường
+toàn cảnh thị trường hôm nay
+bao quát thị trường
+giá trị thị trường
+báo cáo kết quả thị trường
+báo cáo kết quả
+nhận định thị trường
+nhận định thị trường hôm nay
+nhận định mã cổ phiếu abc
+nhận định giá cổ phiếu abc
+nhận định mã chứng khoán abc
+nhận định giá mã chứng khoán abc
+tin tức thị trường hôm nay
+tin nhanh thị trường
+xem giá khớp lệnh của cổ phiếu abc
+xem giá khớp lệnh của mã chứng khoán abc
+thông tin giá khớp lệnh của chứng khoán abc 
+thoát
+chấm dứt
+tạm biệt
+bye bye
+kết thúc
+gặp lại sau
+mai nói chuyện sau
+mai gặp lại
+hẹn lúc khác nhé
+hẹn gặp sau nhé
+chào tạm biệt
+phải đi đây
+thoát chương trình
+thoát app
+thoát khỏi chương trình
+bye
+đóng
+đóng app
+đóng chương trình
+quay lại sau
+tắt
+tắt chương trình
+chào nhé
+kết thúc
+trạng thái tiền
+tình trạng tiền
+tiền
+tiền nong
+hầu bao
+tài khoản
+số dư tiền
+số dư tài khoản tiền
+tài khoản đuôi 1 có bao tiền
+tài khoản đuôi 6 có bao nhiêu
+số dư đuôi 1 ra sao
+số dư đuôi 6 ra sao
+bao nhiêu tiền
+số tiền hiện tại
+tiền thế nào
+xem trạng thái tiền
+số tiền dư
+xem số dư tiền
+xem số tiền dư
+số tiền còn lại
+xem số tiền còn lại
+xem tiền trong tài khoản
+thông tin tiền trong tài khoản
+tình trạng tiền trong tài khoản
+trạng thái tiền trong tài khoản
+thông tin số dư tiền
+thông tin số tiền dư
+trạng thái tiền của tài khoản
+tiền còn lại
+tài khoản còn lại bao nhiêu tiền
+số tiền dư
+số dư tiền còn lại
+dư tiền trong tài khoản
+dư nợ tiền tài khoản
+xem dư nợ tiền tài khoản
+tiền dư bao nhiêu
+số dư tiền bao nhiêu
+tài khoản dư bao nhiêu tiền
+tài khoản tiền dư bao nhiêu
+thông tin tiền của các tài khoản
+số dư tiền các tài khoản
+thông tin tiền của tài khoản đuôi 1
+thông tin tiền của tài khoản đuôi 6
+trạng thái tiền của tài khoản đuôi 1
+trạng thái tiền của tài khoản đuôi 6
+số tiền hiện có
+số dư hiện có
+dữ liệu tiền của tài khoản
+xem thông tin tiền trong tài khoản
+xem tình trạng tiền trong tài khoản
+xem trạng thái tiền trong tài khoản
+xem thông tin số dư tiền
+xem thông tin số tiền dư
+xem trạng thái tiền của tài khoản
+xem tiền còn lại
+xem tài khoản còn lại bao nhiêu tiền
+xem số tiền dư
+xem số dư tiền còn lại
+xem dư tiền tài khoản
+xem dư nợ tài khoản
+xem số tiền dư bao nhiêu
+xem số dư tiền bao nhiêu
+xem tài khoản dư bao nhiêu tiền
+xem tài khoản tiền dư bao nhiêu
+xem thông tin tiền của các tài khoản
+xem số dư tiền các tài khoản
+xem thông tin tiền của tài khoản đuôi 1
+xem thông tin tiền của tài khoản đuôi 6
+xem trạng thái tiền của tài khoản đuôi 1
+xem trạng thái tiền của tài khoản đuôi 6
+xem số tiền hiện có
+xem số dư hiện có
+xem tiền của các tài khoản hiện có
+xem dữ liệu tiền của các tài khoản
+huỷ
+thôi
+bỏ qua
+bỏ đi
+về lại
+chức năng chính
+chứng năng hệ thống
+trợ giúp
+help
+làm được gì
+làm gì bây giờ
+quay lại
+quay về
+không đặt nữa
+không làm nữa
+hủy bỏ
+loại bỏ
+dừng
+hủy lệnh
+dừng lệnh
+dừng lại
+tạm dừng
+dừng ngay
+hủy ngay
+bỏ lệnh
+bỏ qua lệnh
+bỏ
+bỏ đi
+dừng đi
+hủy bỏ ngay
+hủy bỏ lệnh
+loại bỏ lệnh
+ngưng lại
+ngưng lệnh
+ngừng lệnh
+ngưng lại
+ngừng lại
+trang chủ
+về
+về trang chủ
+trở về trang chủ
+quay lại trang chủ
+quay về trang chủ
+trở lại trang chủ
+tới trang chủ
+trở về
+trở lại
+làm lại
+hướng dẫn
+hỏi đáp
+dừng đặt lệnh
+bỏ đặt lệnh
+dừng làm
+đừng làm
+quay trở lại
+làm lại
+không khớp lệnh
+bỏ khớp lệnh
+dừng khớp lệnh
+hủy khớp lệnh
+TTCK tăng mạnh nhất sau khi Fed nâng lãi suất vẫn chưa chịu dừng lại
+Chứng khoán sáng 23/12: Thị trường ảm đạm
+Cảng hàng không Việt Nam sẽ bán 20% cổ phần cho đối tác Pháp
+Sabeco bắt đầu thoái vốn Nhà nước
+Giá vàng hôm nay 7/1: Bất ngờ giảm mạnh sau 4 phiên tăng giá
+Giá vàng hôm nay 9/1: Ảm đạm đầu tuần
+Giá dầu đi xuống trên thị trường châu Á
+Chứng khoán sáng 10/1: Cổ tài chính trượt nhẹ, SAB đè chỉ số
+Cổ phiếu lớn phân hóa mạnh, hai sàn giảm nhẹ
+VN-Index giảm hơn 7 điểm, VNM, STB và MSN thỏa thuận mạnh
+Phiên khai xuân: VN-Index vượt 700 điểm
+Phiên sáng 3/2: VNM bứt phá, VN-Index duy trì đà tăng
+VN-Index vượt 700 điểm, năm Đinh Dậu hứa hẹn triển vọng sáng
+Thị trường tiếp tục phân hóa, VN-Index tiến gần đến mốc 690 điểm
+Cổ phiếu phân bón bứt phá, hai sàn tăng điểm
+Sắc đỏ lấn át, hai sàn giảm nhẹ
+Giá vàng, dầu, chứng khoán đồng loạt tăng
+Chứng khoán chiều 26/12: Blue-chip hụt hơi, VN-Index rớt điểm
+Cuối tuần, giá vàng tăng mạnh
+Giá vàng hôm nay 24/12: Tăng mạnh trong lễ Giáng sinh
+CTCP Tập đoàn Đầu tư Việt Nam nhận chuyển nhượng thêm 572 triệu cổ phiếu VIC
+Bộ Tài chính nói gì về việc chưa bán hết hơn 52 triệu cổ phiếu Vinamilk?
+Vinaseed tạm ứng cổ tức đợt 1/2016, tỷ lệ 15%
+May mà chỉ bán 9% cổ phần của Vinamilk!
+Ông Trịnh Văn Quyết bạo chi 1.100 tỷ nâng sở hữu tại FLC Faros
+Chứng khoán chiều 28/12: Hơn 400 tỷ đồng cổ phiếu NVL được giao dịch trong phiên đầu tiên
+Giá vàng hôm nay 31/12: Giá vàng tăng vọt ngày cuối năm
+DDM: Vợ Ủy viên HĐQT đăng ký mua 1,6 triệu cổ phiếu
+Ngày 6/1: Khối ngoại mua ròng hơn 125,4 tỷ đồng nhờ thỏa thuận SAB
+Phiên 6/1: Bắt đáy CDO bất thành, khối ngoại tiếp tục mua ròng 125 tỷ đồng
+Ngày 10/1: Khối ngoại trên HOSE bán ròng hơn 19 tỷ đồng, bắt đáy CDO và SIC
+HNF: Kế toán trưởng đăng kí mua 3 triệu cổ phiếu
+Phiên 12/1: Thỏa thuận hơn 3 triệu cổ phiếu HBC, khối ngoại bán ròng mạnh 190 tỷ đồng
+Phiên giao dịch trầm lắng
+Phiên sáng 9/2: Bluechip phân hóa, VN-Index rung lắc
+Phiên chiều 9/2: Dòng tiền hào hứng, VN-Index vẫn hụt bước
+Chứng khoán châu Á tăng điểm nhẹ phiên đầu tuần
+Giá trị thị trường của S&P 500 vượt mốc 20 ngàn tỷ USD
+Chứng khoán sáng 14/2: Trụ lớn mất đà, thị trường điều chỉnh nhẹ
+Phiên chiều 14/2: Tiền dồn mạnh vào penny, VN-Index hồi sinh
+Thị trường phủ sắc xanh, thanh khoản trên hai sàn xấp xỉ 3.800 tỷ đồng
+Sắc xanh tiếp tục chiếm ưu thế, hai sàn tăng điểm
+Tiếp tục bị bán mạnh, hai sàn giảm điểm
+HPG giao dịch đột biến, VN-Index giảm điểm
+Chứng khoán sáng 23/2: Xả mạnh tay, VN-Index giảm điểm
+Quỹ đầu tư Singapore GIC chi gần 1.400 tỷ, nắm 5,21% Vietjet Air
+Techcombank muốn bán tiếp cổ phiếu Vietnam Airlines
+Techcombank tiếp tục đăng ký bán 3,8 triệu cổ phiếu của Vietnam Airline
+Warren Buffett đang mua những cổ phiếu gì?
+Ngày 15/2: Khối ngoại đẩy mạnh mua ròng 102 tỷ đồng
+Techcombank thu 700 tỷ đồng từ bán cổ phiếu Vietnam Airlines
+Pyn Elite Fund đồng loạt bán ra FIT, VNE, DGW
+HPG: Vừa mua xong 3 triệu cp, PENM tiếp tục đăng ký mua thêm 5,5 triệu cổ phiếu
+Khối ngoại mua ròng mạnh VNM và VJC trong phiên đầu tuần ngày 6/3
+Phiên 10/3: Khối ngoại mua ròng 12,5 tỷ đồng ROS
+Cơ hội mua tốt ở blue-chips được ETF bán ròng
+Khối ngoại mua ròng hơn 260 tỷ đồng, bán mạnh NVL trong phiên 13/3
+Công ty của CEO Vietjet chuẩn bị rót 1.900 tỷ đồng mua thêm cổ phiếu VJC
+GEX vừa mua xong Sotrans, nợ vay đã tăng gấp 7 lần
+Khối ngoại mua ròng nhẹ, hơn 20 tỷ đồng trong phiên 15/3
+Khối ngoại mua ròng tới 210 tỷ đồng trong phiên 16/3
+Chủ tịch Lê Vỹ đăng ký mua 100.000 cổ phiếu Phú Tài ngay sau đại hội
+Làm gì khi mua đúng đỉnh cổ phiếu bị thao túng giá?
+Khối ngoại giảm mạnh mua ròng trong phiên 22/3
+Phiên 23/3: Đua lệnh VNM, STB, khối ngoại mua ròng mạnh 281 tỷ đồng
+Tuần qua, khối ngoại mua ròng kỷ lục hơn 1.000 tỷ đồng
+Hé lộ nữ đại gia mua trọn 51% cổ phiếu Bánh kẹo Hải Hà
+Minh Trung đăng ký mua cổ phần khối lượng lớn qua đấu giá
+Lại mua tiếp gần 15 triệu cổ phiếu, tỷ phú Thái vẫn 'đeo bám' chặt Vinamilk
+Góc nhìn kỹ thuật phiên 11/4: Tín hiệu mua được củng cố
+TTF có gì để mua?
+TGDĐ: Mua lại 80.495 cổ phiếu ESOP của nhân viên đã nghỉ việc
+NVL: Chủ tịch Bùi Thành Nhơn đăng ký mua hơn 19,5 triệu cổ phiếu
+Khối ngoại ồ ạt bán ra sau 8 phiên mua ròng liên tiếp trong ngày 20/4
+Chứng khoán chiều 20/4: Khối ngoại giảm mua, VN-Index mất hơn 4 điểm
+Nhận định thị trường phiên 25/4: Chủ động gom mua nhóm cổ phiếu
+Khối ngoại bán mạnh VCB, nhưng vẫn mua ròng 125 tỷ đồng trong phiên 27/4
+Ông Trịnh Văn Quyết chi hàng chục tỷ mua cổ phiếu FLC
+Khối ngoại mua ròng 290 tỷ đồng trong tuần cuối tháng 4
+SCIC 'bội thu' từ bán vốn
+TPBank bán gần 1,5 triệu cổ phiếu HNG trên VSD
+SCIC tiếp tục chào bán CP Xi măng Tiên Sơn Hà Tây
+Chứng khoán chiều 10/1: Vốn ngoại quay ra bán ròng
+Ngày 10/1: Khối ngoại trên HOSE bán ròng hơn 19 tỷ đồng, bắt đáy CDO và SIC
+Gần một nửa tổng số dự án mới 2016 tại Hà Nội được chào bán trong quý IV
+Phiên 12/1: Thỏa thuận hơn 3 triệu cổ phiếu HBC, khối ngoại bán ròng mạnh 190 tỷ đồng
+SCIC 'bội thu' từ bán vốn
+Vì sao hoãn thương vụ bán cổ phần Vietcombank cho quỹ Singapore?
+Gần 1/10 vốn điều lệ Sacombank được chào bán
+Cổ phiếu bánh kẹo chờ “sốt dẻo” mùa Tết
+Chi phí bán hàng tăng đột biến, Digiworld chỉ hoàn thành 50% chỉ tiêu lợi nhuận cả năm
+Techcombank chưa 'chốt lời' được cổ phiếu Vietnam Airlines, tiếp tục đăng ký bán ra
+Vietjet sắp lên sàn, Vietnam Airlines bán và thuê lại 4 máy bay
+Techcombank muốn bán tiếp cổ phiếu Vietnam Airlines
+Techcombank tiếp tục đăng ký bán 3,8 triệu cổ phiếu của Vietnam Airline
+Phiên 14/2: Khối ngoại chốt lời mạnh nhóm sắt thép, bán ra mạnh HPG, HSG và TLH
+Hoàng Anh Gia Lai có thể bán xong thủy điện, mía đường trong quý I
+Hoàng Anh Gia Lai có thể bán xong thủy điện, mía đường trong quý I
+Tiếp tục bị bán mạnh, hai sàn giảm điểm
+Vợ chủ tịch Thủy sản Việt Nhật bán nhà đất bù lỗ cho công ty
+Vietnam Airlines bán cổ phần cho tập đoàn hàng không lớn nhất Nhật Bản
+Cổ đông Vietnam Airlines thông qua việc bán và thuê lại 4 máy bay
+Ngày 22/2: Khối ngoại trên HOSE bán ròng trở lại hơn 21 tỷ đồng
+Sếp Thiên Long xin 'về vườn' sau khi bán sạch cả trăm tỷ đồng cổ phiếu
+Giao dịch trên OTC giá 4.000 đồng, cổ phiếu MaritimeBank được VNPT rao bán giá gấp 3
+Giá vàng hôm nay 26/2: Một cú rớt giá, ồ ạt bán vàng
+Techcombank thu 700 tỷ đồng từ bán cổ phiếu Vietnam Airlines
+Pyn Elite Fund đồng loạt bán ra FIT, VNE, DGW
+Khối ngoại bắt đầu bán ra VJC, bán ròng hơn 120 tỷ đồng trong phiên 7/3
+Phiên 7/3: Khối ngoại tiếp tục gom vào ROS, nhưng lại bán mạnh NLG, CTD
+Cảng hàng không Việt Nam sẽ bán 20% cổ phần cho đối tác Pháp
+VNPT vẫn không thể bán 71 triệu cổ phiếu Maritime Bank
+Cơ hội mua tốt ở blue-chips được ETF bán ròng
+Vietjet đã được chấp thuận chào bán riêng lẻ gần 22,4 triệu cổ phiếu
+Khối ngoại mua ròng hơn 260 tỷ đồng, bán mạnh NVL trong phiên 13/3
+Phiên giao dịch chiều 13/3: ACB bị bán mạnh, 3 sàn chìm trong sắc đỏ
+PVX đăng ký bán toàn bộ 2 triệu cổ phiếu PID
+PTKT tuần (20/03 – 24/03): Áp lực bán sẽ còn tiếp tục diễn ra
+Chứng khoán sáng 21/3: VIC bị bán mạnh, nỗ lực bứt phá khỏi 715 bất thành
+VIX quyết định bán nốt hơn 2 triệu cổ phiếu Quản lý quỹ IB còn lại
+Vinalines chào bán công ty quản lý bảo vệ ụ nổi 83M
+HNF: Tổng giám đốc muốn bán hết cổ phần
+Tân Liên Phát đã bán hơn 36 triệu cổ phiếu Gỗ Trường Thành (TTF)
+Phiên sáng 5/4: ITA bị bán tháo ồ ạt
+Tại sao cổ phiếu Công ty Mỹ thuật được rao bán lên tới gần 1,3 triệu đồng?
+Tập đoàn Bưu chính Viễn thông Việt Nam bán 2,45 triệu cổ phần
+GTN sẽ bán 10 triệu cổ phiếu cho InVest Tây Đại Dương
+Satra bán vốn tại Công ty Cầu Tre: Tập đoàn CJ quyết nắm quyền chi phối?
+Sabeco tiếp tục bán vốn Nhà nước trong năm 2017
+Tổng công ty Hàng hải Việt Nam sẽ bán đấu giá vốn góp hơn 262,5 tỷ đồng
+Khối ngoại ồ ạt bán ra sau 8 phiên mua ròng liên tiếp trong ngày 20/4
+Chứng khoán 24h: Thanh khoản đột biến, 1 tháng khối ngoại bán ròng hơn 22 triệu SHB
+HPG: Quý II chào bán cho cổ đông hiện hữu tỷ lệ 5:1 giá 20.000 đồng/cp
+Bán 49% vốn chủ sở hữu, 'ông lớn' PV Power sẽ vượt mặt đại gia Petrorlimex trên sàn CK
+Petrolimex sẽ bán 20 triệu cổ phiếu quỹ ra thị trường
+Khối ngoại bán mạnh VCB, nhưng vẫn mua ròng 125 tỷ đồng trong phiên 27/4
+Đấu giá bán cổ phần chào bán chứng khoán ra công chúng của CTCP Đầu tư Apax Holdings
+PLX bán cổ phiếu quỹ để vào VN30
+Chủ tịch Petrolimex: Giá bán cổ phiếu quỹ tối thiểu 47.000 đồng, rất nhiều quỹ nước ngoài đang đặt vấn đề mua lại
+Thêm cổ phần một công ty được bán giá tiền triệu
+Vinalines sắp chào bán 550 triệu USD vốn điều lệ
+SCIC đã bán toàn bộ 100 triệu cổ phiếu Tisco
+May Phú Thịnh - Nhà Bè hủy niêm yết, dồn sức tái cơ cấu
+NPS ngừng hoạt động sản xuất may mặc và lên phương án hủy niêm yết
+ATA bị hủy niêm yết tại HOSE
+Liên tiếp thua lỗ, cổ phiếu VNH có khả năng bị hủy niêm yết
+Cổ phiếu Gỗ Trường Thành có khả năng bị hủy niêm yết bắt buộc
+Chứng khoán 24h: Có nguy cơ bị hủy niêm yết bắt buộc, JVC vẫn được quỹ ngoại mua vào
+Lỗ vượt vốn, cổ phiếu Vinaship sẽ bị hủy niêm yết từ 21/4
+Gần 20 cổ phiếu có nguy cơ bị hủy niêm yết
+Kiểm toán từ chối đưa ý kiến, cổ phiếu HDO chính thức bị hủy niêm yết trên HNX từ ngày 26/05
+Chưa hoàn tất công tác nhân sự, Coteccons hủy danh sách đại hội cổ đông
+Khoáng sản Bắc Giang chính thức hủy niêm yết từ ngày 10/08
+Sau gần 5 tháng tạm ngừng giao dịch, cổ phiếu BGM chính thức bị hủy niêm yết
+Đường Biên Hòa hủy niêm yết để sáp nhập với công ty mía đường nhà họ Đặng
+VND chính thức hủy niêm yết tại HNX từ 14/8 để chuyển sàn
+Trần Anh xin ý kiến bán cổ phần cho MWG và hủy niêm yết tại HNX
+Trần Anh công khai chuyện 'bán mình' cho TGDĐ, hủy niêm yết cổ phiếu
+Cổ đông nhỏ TAG thông qua việc hủy niêm yết và để MWG nâng sở hữu lên 25%
+KHA chốt ngày lấy ý kiến lại việc hủy niêm yết tại HOSE và nhận cổ tức tiền 5%
+Bán 100 triệu cổ phiếu, TTF có thoát án hủy niêm yết?
+Muối Khánh Hòa sắp bị hủy giao dịch trên sàn UpCom
+May Phú Thịnh - Nhà Bè sắp bị hủy niêm yết trên HNX
+Bán thành công 70 triệu cổ phiếu phát hành riêng lẻ, TTF thoát án hủy niêm yết
+Sự cố hy hữu, HOSE phải hủy phiên ATC chiều 22-1
+HoSE lưu ý HAG và HNG có thể bị hủy niêm yết bắt buộc
+Thị trường có một phiên giao dịch trong biên độ hẹp với sự phân hóa mạnh và thanh khoản duy trì tích cực nhưng những tín hiệu giao dịch ở cuối phiên cho thấy đà tăng đang chững lại và có dấu hiệu quay đầu.
+VNIndex đóng cửa vẫn tăng nhẹ 0.63 điểm trong khi hầu hết các chỉ số khác như VN30, HNXIndex giảm điểm cho thấy sự biến động trái chiều và thanh khoản toàn thị trường vẫn duy trì tốt khi đạt hơn 6.000 tỷ đồng trong đó có giao dịch đột biến HNG với qui mô 580 tỷ đồng, VIC 236 tỷ đồng. 
+Các cổ phiếu lớn như GAS, MSN,VCB, VRE đóng góp cho chiều tăng điểm của chỉ số nhưng sức kéo giảm đến từ VNM, BVH, TCB, VPB, SAB đã khiến cho các chỉ số không duy trì được đà tăng tốt và quay đầu sụt giảm nhẹ ở cuối phiên.
+Nhóm cổ phiếu ngân hàng diễn biến trái chiều với VCB, BID, EIB, STB tăng nhẹ trong khi đa số các cổ phiếu ngân hàng còn lại giảm điểm nhẹ như VPB, MBB, ACB, TCB, SHB.
+Nhóm cổ phiếu ngành chứng khoán đồng thuận giảm và mức giảm rõ rệt hơn nhóm ngân hàng với HCM, SSI, VND, VCI,. SHS giảm điểm. 
+Nhóm cổ phiếu ngành tài nguyên vẫn diễn biến khá nổi bật so với mặt bằng chung khi tiếp tục duy trì sắc xanh hầu hết phiên nhưng chốt phiên cũng có những xáo trộn với GAS, PLX vẫn duy trì đà tăng điểm, BSR chốt phiên ở tham chiếu và PVD, PVS giảm điểm.
+Nhóm cổ phiếu ngành bán lẻ giảm điểm với sự dẫn đầu của VNM, SAB, MWG, PNJ và một số cổ phiếu nhóm ngành sản xuất cũng giảm điểm như HPG, HSG, AAA, NKG.
+Nhìn chung số lượng cổ phiếu giảm điểm đang chiếm ưu thế cho thấy tâm lý đã trở lên thận trọng hơn ở vùng giá hiện tại và động lực tăng tiếp theo của thị trường cũng yếu đi.
+Khối nhà đầu tư ngoại giao dịch khá sôi động phiên hôm nay và khối này tiếp tục bán ròng với qui mô gần 400 tỷ đồng trên sàn HOSE.
+Áp lực bán ròng tập trung vào các cổ phiếu lớn như VIC với 2.3 triệu cổ phiếu, VNM hơn 500 nghìn cổ phiếu, GTN 5.7 triệu cổ phiếu và VRE, VCB, HSG, PVD cũng bị bán ròng nhẹ.
+Ở chiều ngược lại khối này  mua ròng nhẹ GAS, MSN, HPG, SSI, DXG, HDB.
+Các chỉ số và nhiều cổ phiếu lớn đã có nhiều nỗ lực tiếp tục đà hồi phục tiếp diễn trong phiên hôm nay nhưng lực bán mạnh từ khối nhà đầu tư ngoại đã tạo ra lực cản tâm lý khá lớn cho bên mua. 
+Hơn nữa, các thị trường chứng khoán khu vực cũng diễn biến giảm đã tạo ra áp lực tâm lý đáng kể ngăn cản sự hồi phục của thị trường chung. Trong bối cảnh các tin tức hỗ trợ như kết quả kinh doanh.
+Quí 2 đã được công bố như hiện tại thị trường và nhiều cổ phiếu đang cần những động lực mới để duy trì tăng giá.
+Chúng tôi cho rằng cơ hội hồi phục tiếp diễn của các chỉ số đang qua đi và áp lực điều chỉnh đang quay trở lại do đó thị trường nhiều khả năng sẽ điều chỉnh để củng cố lại trong các phiên giao dịch tới với vùng sidway của VNIndex theo góc nhìn PTKT là 920-960 điểm.
+Dấu hiệu chấm dứt đợt điều chỉnh ở cuối phiên hôm qua đã giúp dòng tiền hào hứng tham gia ngay từ đầu phiên giao dịch hôm nay tạo ra mức độ hưng phấn đáng kể ở đầu phiên giao dịch và các chỉ số tăng suốt thời gian trong phiên mặc dù hơi chùng xuống ở cuối phiên. 
+VNIndex đóng cửa tăng nhẹ 6.05 điểm (+0.63%) với thanh khoản toàn thị trường đạt mức hơn 5.600 tỷ trong đó có thỏa thuận đột biến của TCB tương đương mức 273 tỷ đồng nhưng nhìn chung thanh khoản vẫn rất tốt. 
+Dòng tiền luân chuyển qua nhiều nhóm ngành và ở mỗi nhóm ngành đều có những cổ phiếu tăng giá tốt trong khi đó xét ở góc độ vốn hóa thì dòng tiền hoạt động tích cực cả ở nhóm vốn hóa lớn, tầm trung và vốn hóa nhỏ.
+Nhóm cổ phiếu ngân hàng đã có diễn biến khá ngược so với phiên hôm qua khi tăng điểm tốt hầu hết thời gian trong phiên hôm nay nhưng bất ngờ suy yếu và giảm nhẹ về cuối phiên dẫn đầu là VCB, CTG, TPB trong khi đó BID, HDB, VPB, MBB vẫn duy trì sắc xanh nhẹ. 
+Nhóm cổ phiếu ngành chứng khoán cũng diễn biến trái chiều với cổ phiếu đầu ngành SSI giảm trong khi HCM, VND, VCI, SHS tăng nhẹ. Nhóm cổ phiếu ngành xây dựng tăng tốt phiên hôm nay với sự dẫn dắt của CTD, HBC.
+Khối ngoại giao dịch rất mạnh phiên hôm nay so với qui mô thông thường và khối này bán ròng rất mạnh với mức 400 tỷ trên sàn HOSE. Áp lực bán ròng tập trung vào HPG với 2.3 triệu cổ phiếu, VIC 700 nghìn cổ phiếu, VNM, VCB, GEX, DXG, PVD, HSG, SSI, NVL, PDR trong khi đó ở chiều ngược lại khối này mua ròng VIS, BID, HDB, ANV, STB. 
+Chúng tôi thực sự quan ngại mức độ bán ròng với diễn biến bán trên diện rộng của khối nhà đầu tư nước ngoài trong phiên hôm nay và điều này nếu tiếp tục diễn ra trong các phiên giao dịch đầu tuần tới sẽ tạo ra lực cản lớn cho đà tăng điểm của chỉ số thậm chí hoàn toàn có rủi ro làm chặn bước hoặc làm đảo chiều xu hướng hồi phục hiện tại.
+Nhìn chung chúng tôi đánh giá mức độ tích cực của phiên giao dịch hôm nay với điểm số tăng và thanh khoản tích cực và mức độ mở rộng ở nhiều nhóm ngành.
+Động lực của các chỉ số vẫn là tăng cho nhịp hồi phục tiếp diễn tiến về vùng kháng cự mà chúng tôi kỳ vọng là 980-1000 điểm.
+Tuy nhiên, điểm trừ lớn nhất của phiên giao dịch hôm nay là lực bán ròng mạnh trở lại trên diện rộng của khối nhà đầu tư ngoại trong phiên hôm nay và nếu mức độ bán ròng này tiếp diễn trong các phiên đầu tuần tới thì sẽ tạo ra những lực cản lớn cho đợt hồi phục này. 
+Chúng tôi đánh giá thị trường vẫn tích cực trong triển vọng hồi tiếp diễn nhưng mức độ hồi phục sẽ phụ thuộc rất nhiều vào áp lực đến từ khối nhà đầu tư nước ngoài trong các phiên giao dịch đầu tuần.
+Chỉ số VN30 đang gặp khó khăn ở vùng cản 945-950 bất chấp số lượng cổ phiếu tăng giá trong danh mục nhiều hơn số giảm giá.
+Giao dịch 3 phiên gần nhất cũng đi xuống, nghĩa là sự hào hứng đang giảm dần.
+Trạng thái giao dịch của VNM và HPG đang trở nên bi quan trong khi ở chiều ngược lại GAS, PLX, VJC và VRE gặp áp lực bán ở giá cao.
+Các cổ phiếu như VCB, FPT, VPB và MSN không quá chủ động.
+Các chỉ số và nhiều cổ phiếu lớn có phiên giao dịch tích cực khi duy trì sắc xanh trong suốt phiên và đà tăng mạnh dần về cuối phiên. 
+VNindex mở cửa thận trọng và giao dịch trong phạm vi vùng sideway tương tự các phiên giao dịch trước nhưng đã mạnh lên dần đều ở cuối phiên đóng cửa tăng 9.48 điểm (+0.99%).
+Thanh khoản toàn thị trường chỉ đạt 4.600 tỷ đồng sụt giảm nhẹ so với các phiên giao dịch gần đây khi loại bỏ giao dịch thỏa thuận đột biến của các phiên trước đó.
+Nhóm cổ phiếu vốn hóa lớn phiên hôm nay đã có sự đồng thuận hơn khi những cổ phiếu giảm mạnh ở các phiên trước hồi trở lại như VNM, GAS, VHM, CTG, HPG cùng với BID, VCB tăng tiếp diễn trong khi chỉ có VIC giảm nhẹ.
+Nhóm cổ phiếu ngân hàng có diễn biến đồng thuận trở lại khi hầu hết cổ phiếu ngân hàng tăng tốt phiên hôm nay dẫn đầu là BID, CTG, ACB, MBB, VCB, VPB và nhóm này vẫn là nhóm có tầm ảnh hưởng lớn tới điểm số và tâm lý thị trường chung. 
+Nhóm cổ phiếu ngành chứng khoán cũng có diễn biến tích cực tương tự với nhiều cổ phiếu tăng điểm tốt trong đó VND tăng trần và SSI, HCM, SHS tăng khá tốt.
+Nhóm cổ phiếu dầu khí sau khi điều chỉnh cũng tăng trở lại với PVS, PVD tăng trần và GAS, PLX, PVB, BSR, PVC, PXS cũng tăng khá mạnh.
+Diễn biến nhóm ngành dầu khí thời gian gần đây tích cực hơn sau khi PVN công bố ký kết phát triển dự án Sao vàng Đại Nguyệt và khả năng khởi động lại một loạt dự án dầu khí lớn như Block B Ô Môn, Sư Tử Trắng giai đoạn 2. 
+Dự án mở rộng nhà máy lọc dầu Bình Sơn trong bối cảnh giá dầu Brent diễn biến tích cực duy trì giá trên vùng 70 USD cao hơn điểm hòa vốn và thúc đẩy hoạt động khai thác, thăm dò dầu khí trở lại.
+Khối ngoại giao dịch khá trầm lắng trong phiên hôm nay sau hai phiên liên tiếp giao dịch rất mạnh vừa qua nên cũng tác động phần nào tới thanh khoản chung trong phiên hôm nay và khối này vẫn bán ròng 170 tỷ trên sàn HOSE.
+Các cổ phiếu bị bán ròng vẫn là những cái tên quên thuộc như VNM, VIC, GTN, VRE, GEX, VHM, NVL và ở chiều ngược lại khối nhà đầu tư ngoại mua ròng nhẹ VJC,BID,SSI, DXG, GAS, VSC.
+Thị trường diễn biến tích cực và sôi động trở lại trái ngược với hai phiên ảm đảm trước đó với mức điểm tăng tốt và số lượng cổ phiếu tăng áp đảo.
+Các cổ phiếu nhóm ngành ngân hàng, chứng khoán, dầu khí thu hút được dòng tiền và tăng nổi bật trở lại tạo tâm lý tích cực.
+Mặc dù các chỉ số như VNIndex và VN30 chưa thoát hẳn khỏi vùng giá tích lũy trong năm phiên vừa qua nhưng diễn biến nội tại thị trường đang diễn biến tích cực hơn với nhiều cổ phiếu break out khỏi vùng tích lũy.
+Điều này vẫn cho thấy mức độ đồng thuận các cổ phiếu lớn chưa cao khi biến động trái chiều nhau tạo ra nhiều xáo trộn về điểm số nhưng dòng tiền đang luân chuyển tốt và cổ phiếu nào có câu chuyện riêng đủ mạnh đang tách nhóm để tiếp tục đi lên.
+Chỉ số VN30 quay trở lại vùng cản 950 điểm nhờ tâm lý lạc quan ở nhóm ngân hàng tài chính, dầu khí. Sự phục hồi của VNM và HPG cũng góp phần đẩy chỉ số.
+Chúng tôi vẫn duy trì cái nhìn kém tích cực về VNM, SAB và thận trọng với HPG. Đây là 3 cổ phiếu chiếm tỷ trọng lớn trong rổ chỉ số VN30.
+Ở chiều ngược lại, số lượng cổ phiếu giao dịch lạc quan đang tăng dần. Trạng thái ngắn hạn của VJC, VCB, VRE, GAS, MSN, PLX có thể tiếp tục tích cực.
+Chúng tôi nghĩ chỉ số VN30 sẽ tiếp tục duy trì xu hướng tăng giá chậm với đặc điểm thanh khoản thấp và chênh lệch tăng giảm không quá lớn. 
+Điểm đáng lưu ý là trong thị trường tăng chậm các phiên điều chỉnh xuất hiện xen kẽ phiên tăng. Chiến lược giao dịch hợp đồng tương lai phù hợp là chào mua giá thấp.
+Kể từ đầu tháng 7, hợp đồng tương lai chỉ số VN30 kỳ hạn tháng 8 đang mạnh hơn các kỳ hạn dài như tháng 9 và Quý 4 do giới đầu tư ngại rủi ro của việc giữ kỳ hạn dài. 
+Điều này nảy sinh cơ hội giao dịch chênh lệch bằng việc duy trì song song hai vị thế là mua kỳ hạn ngắn và  bán kỳ hạn dài ở cùng mức giá.
+Trong giai đoạn tới, thị trường chứng khoán (TTCK) Việt Nam sẽ tiếp tục tăng quy mô, độ sâu, tính thanh khoản và đặc biệt là TTCK phái sinh sắp đi vào hoạt động.
+Do đó, để hỗ trợ tích cực cho việc phát triển thị trường trong giai đoạn mới, cơ quan quản lý luôn coi trọng công tác thông tin, tuyên truyền và càng phải đẩy mạnh hơn bao giờ hết. 
+Đây là chia sẻ của Phó Chủ tịch Ủy ban Chứng khoán Nhà nước (UBCKNN) Phạm Hồng Sơn khi trao đổi với phóng viên TBTCVN nhân Ngày Báo chí Cách mạng Việt Nam 21/6/2017.
+Trong thời gian qua, dưới sự chỉ đạo của Chính phủ, Bộ Tài chính, TTCK đã dần trở thành kênh dẫn vốn trung và dài hạn của nền kinh tế, góp phần hoàn thiện thể chế kinh tế thị trường, đóng góp tích cực cho tăng trưởng và hội nhập kinh tế. 
+Để có được những thành công như ngày hôm nay, cùng với những nỗ lực rất lớn của cơ quan quản lý, các thành viên thị trường không thể thiếu được sự góp sức của cơ quan truyền thông, báo chí.
+Các cơ quan thông tấn, báo chí, truyền hình, cùng các phóng viên theo dõi mảng chứng khoán đã luôn hỗ trợ đồng hành cùng cơ quan quản lý tuyên truyền về cơ chế chính sách, công tác chỉ đạo điều hành phát triển thị trường.
+Báo chí cũng phát huy là cầu nối tích cực chuyển tải những ý kiến, đề xuất, mong muốn của nhà đầu tư, doanh nghiệp thành viên thị trường tới cơ quan quản lý, đảm bảo thị trường phát triển công bằng, minh bạch, công khai và bảo vệ lợi ích chính đáng của nhà đầu tư, doanh nghiệp.
+Chúng tôi đánh giá cao sự hỗ trợ, đóng góp có hiệu quả của các cơ quan thông tấn, báo chí và sự tận tâm, đồng hành của các biên tập viên, nhà báo, phóng viên cho sự phát triển của TTCK trong suốt thời gian qua.
+PV: Thị trường chứng khoán đang bước sang một giai đoạn phát triển mới, với định hướng tăng phát triển chiều sâu. Vậy, ông có thể cho biết, đâu là giải pháp để UBCKNN đẩy mạnh công tác thông tin, tuyên truyền cũng theo hướng “tăng chiều sâu” trong chặng đường sắp tới?
+Ông Phạm Hồng Sơn: Có thể nói trong suốt hơn 20 năm qua, TTCK Việt Nam đã từng bước xây dựng và phát triển, có lúc thăng lúc trầm, tuy nhiên đã đạt được những thành tựu đáng kể. Tính đến cuối tháng 5/2017, TTCK đã có 708 doanh nghiệp niêm yết và 542 công ty đăng ký giao dịch. 
+Hoạt động của các thành viên thị trường cũng ngày càng tốt hơn. Các Sở Giao dịch chứng khoán (SGDCK) đã tổ chức thị trường giao dịch cổ phiếu niêm yết, thị trường trái phiếu chuyên biệt với hệ thống thanh toán bù trừ do Trung tâm Lưu ký Chứng khoán (VSD) đảm nhận, đảm bảo thông suốt, an toàn tiền và tài sản của nhà đầu tư.
+Trong giai đoạn sắp tới, TTCK Việt Nam sẽ tiếp tục tăng quy mô, độ sâu, tính thanh khoản, chất lượng, hiệu quả của TTCK, đưa TTCK phái sinh vào hoạt động; nâng cao sức cạnh tranh, năng lực của hệ thống định chế trung gian, tổ chức phụ trợ và mở cửa thị trường theo các cam kết quốc tế; tăng cường năng lực quản lý, giám sát thị trường.
+Để hỗ trợ tích cực cho việc phát triển thị trường trong giai đoạn mới, UBCKNN luôn coi trọng công tác thông tin, tuyên truyền về chứng khoán, TTCK và càng phải đẩy mạnh hơn bao giờ hết. Chất lượng thông tin tuyên truyền luôn được đổi mới, với nhiều hình thức truyền thông đa dạng, để chủ động cung cấp kịp thời thông tin chính thống cho các cơ quan báo chí và công chúng, góp phần nâng cao tính công khai, minh bạch trong hoạt động của UBCKNN và TTCK. 
+Từ đó, kỳ vọng sẽ gắn kết hơn nữa mối quan hệ giữa cơ quan quản lý, thành viên thị trường, cơ quan báo chí để tạo hiệu ứng lan tỏa trong hoạt động của thị trường.
+PV: TTCK phái sinh chuẩn bị ra đời đây là một thị trường mới và khá phức tạp. UBCKNN có định hướng và giải pháp gì để tăng cường công tác tuyên truyền về thị trường này, thưa ông?
+Ông Phạm Hồng Sơn: Bên cạnh việc chuẩn bị các điều kiện cho TTCK phái sinh ra đời, công tác tuyên truyền, phổ biến kiến thức, cập nhật thông tin cho thành viên thị trường và công chúng đầu tư cũng rất được chú trọng.
+Với mục tiêu truyền đạt kiến thức về TTCK phái sinh một cách tổng quát, dễ hiểu nhất đến công chúng, đồng thời giới thiệu khung pháp lý và cập nhật công tác xây dựng triển khai các sản phẩm phái sinh đầu tiên, UBCKNN đã chỉ đạo Trung tâm Nghiên cứu Khoa học và Đào tạo chứng khoán tiến hành 3 hình thức bao gồm 
+Phổ cập kiến thức trên truyền hình, tổ chức hội nghị tuyên truyền và biên soạn các ấn phẩm tuyên truyền. Hiện Giáo trình chứng khoán phái sinh và TTCK phái sinh đã được xuất bản, ban hành.
+Bên cạnh đó, công tác đào tạo cũng được UBCKNN rất chú trọng. Năm 2016, UBCKNN đã tổ chức được 9 khóa đào tạo cho 933 học viên, cấp 665 chứng chỉ. 
+Theo kế hoạch, năm 2017 sẽ tiếp tục mở thêm 14 khóa đào tạo, với số lượng học viên hoàn thành khóa học và được cấp chứng chỉ là khoảng 1.500 người.
+Ngoài ra, UBCKNN phối hợp với chuyên gia nước ngoài tiến hành đào tạo nâng cao kiến thức chuyên môn cho cán bộ của UBCKNN, thành viên trực tiếp trong Tổ đề án chứng khoán phái sinh. 
+Đồng thời, tăng cường triển khai công tác tuyên truyền cho các thành viên thị trường, nhà đầu tư thông qua các hội nghị; tổ chức các lớp học cho các nhà đầu tư, đặc biệt là các nhà đầu tư nhỏ, nhằm trang bị cho họ những kiến thức cơ bản về thị trường. 
+UBCKNN cũng đã chỉ đạo các SGDCK Hà Nội (HNX) và VSD triển khai công tác đào tạo, tuyên truyền đi trước một bước ngay trong giai đoạn đầu chuẩn bị các điều kiện cho thị trường. 
+HNX đã xây dựng hệ thống thông tin và cơ sở dữ liệu đào tạo về chứng khoán phái sinh trên website; thiết kế, triển khai xây dựng tờ rơi sản phẩm, sổ tay hướng dẫn giao dịch và hỗ trợ đào tạo cho nhà đầu tư của thành viên giao dịch.
+Nhân tiện vừa ngồi nói chuyện với sếp nhỏ 1 DN về hóa chất, anh nhờ tôi lưu kí hộ mình 1 ít cổ phiếu mà trước đây công ty chia cho anh ta, tôi mới vỡ ra, thực ra có nhiều thứ chúng ta cần hiểu, nhất là những thứ cơ bản, đơn giản
+Chứng khoán là những chứng chỉ có giá tri chuyển đổi thành tiền. Chứng chỉ có thể là giấy chứng nhận phát hành cổ phiếu, trái phiếu công ty hoặc dữ liệu điện tử trong máy tính của Trung tâm lưu ký CK, xác nhận bạn đã mua cổ phiếu của một công ty nào đó.
+Chơi CK rất đơn giản. Vì mọi việc mua, bán, thanh toán do công ty môi giới CK thực hiện. Công việc của bạn chỉ là đặt lệnh cho công ty CK thực hiện.
+Nên chọn những công ty CK uy tín để mở tài khoản, ở HN hay Tp HCM không thành vấn đề vì các công ty này đều có điều kiện chặt chẽ thì mới được ủy ban chứng khoán chấp nhận là thành viên của sở giao dịch. Sau khi mở tài khoản, bạn có thể ngồi nhà đặt lệnh mua bán qua điện thoại hặc interrnet , thông qua sự tư vấn của môi giới .
+Tại đây nhân viên môi giới sẽ giúp bạn các thủ tục để mở Tài khoản chứng khoán. Nộp một số tiền nhất định ( thường là 50.000đ hoặc 100.000đ) để đăng ký. Nếu có nhu cầu tham gia vào TTCK hãy nộp số tiền mà bạn có vào TK chứng khoán. Bạn chỉ có quyền mua chứng khoán khi số tiền trong tài khoản CK đủ để thực hiện lệnh mua sau khi trừ đi phí giao dịch mà Công ty chứng khoán thu.
+Để có thể quyết định mua loại cổ phiếu nào có rất nhiều cách
+Nhân viên môi giới sẽ hổ trợ bạn về các thông số kỹ thuật. Bạn tìm hiểu về Công ty mà bạn đang quan tâm trên tất cả các kênh
+Kiến thức mà bạn có để phán đoán và quyết định. Các website hổ trợ về chứng khoán : cafef , vietstock , chungkhoanaz 
+Do sự phát triển của nền kinh tế, nhu cầu về tích vốn trong xã hội tăng lên và trở nên đa dạng, phong phú; người thì cần vốn cho mục đích tiêu dùng hay đầu tư, người thì có vốn nhàn rỗi muốn cho vay để sinh lời. 
+Đầu tiên, họ tìm gặp nhau trực tiếp trên cơ sở quen biết. Tuy nhiên sau đó, khi cung cầu vốn không ngừng tăng lên thì hình thức vay, cho vay trực tiếp dựa trên quan hệ quen biết không đáp ứng được; 
+Vậy cần phải có một thị trường cho cung và cầu gặp nhau, đáp ứng các nhu cầu tài chính của nhau. Đó là thị trường tài chính. 
+Thông qua thị trường tài chính, nhiều khoản vốn nhàn rỗi được huy động vào tiêu dùng, đầu tư, tạo đòn bẩy cho phát triển kinh tế. Căn cứ vào thời gian luân chuyển vốn, thị trường tài chính bao gồm
+Thị trường tiền tệ: mua bán, trao đổi các công cụ tài chính ngắn hạn dưới một năm.
+Thị trường vốn: mua bán, trao đổi các công cụ tài chính trung và dài hạn.
+Ban đầu nhu cầu vốn cũng như tiết kiệm trong dân chưa cao và nhu cầu về vốn chủ yếu là vốn ngắn hạn. Theo thời gian, sự phát triển kinh tế, nhu cầu về vốn dài hạn cho đầu tư phát triển ngày càng cao 
+Chính vì vậy, Thị trường vốn đã ra đời để đáp ứng các nhu cầu này. Để huy động được vốn dài hạn, bên cạnh việc đi vay ngân hàng thông qua hình thức tài chính gián tiếp, Chính phủ và doanh nghiệp còn huy động vốn thông qua hình thức phát hành chứng khoán. 
+Khi một bộ phận các chứng khoán có giá trị nhất định được phát hành, thì xuất hiện nhu cầu mua, bán chứng khoán; và đây chính là sự ra đời của Thị trường chứng khoán với tư cách là một bộ phận của Thị trường vốn nhằm đáp ứng nhu cầu mua, bán và trao đổi chứng khoán các loại.
+Đến nay, sau gần 10 năm đi vào hoạt động và phát triển dựa trên các mục tiêu đề ra trong Chiến lược phát triển TTCKVN đến năm 2010 và Chiến lược phát triển thị trường vốn đến 2010 và tầm nhìn 2020, hoạt động của TTCK đã đạt được một số kết quả sau:
+Về khung pháp lý, thể chế chính sách Kể từ khi Luật Chứng khoán được Quốc hội ban hành ngày 29/6/2006 và có hiệu lực thi hành kể từ ngày 01/01/2007, đã tạo lập được khuôn khổ pháp lý cao, đồng bộ và thống nhất cho hoạt động của TTCK, từng bước loại bỏ những mâu thuẫn, xung đột với các văn bản pháp luật khác có liên quan (về cơ bản thống nhất với Luat Doanh Nghiep va Luat Dau Tu); phù hợp hơn với luật pháp, thông lệ quốc tế, tạo nền tảng cho TTCKVN khả năng hội nhập với các thị trường vốn quốc tế và khu vực; tăng cường tính công khai minh bạch cho thị trường và nâng cao khả năng quản lý giám sát thị trường của cơ quan quản lý nhà nước.
+Tuy nhiên, bên cạnh kết quả đã đạt được thì Luật Chứng khoán vẫn còn hẹp về phạm vi điều chỉnh, mới chỉ bao hàm những nội dung cơ bản và chưa bao quát mọi hoạt động trên TTCK theo thông lệ quốc tế
+một số quy định của văn bản hướng dẫn Luật Chứng khoán còn chồng chéo, chưa thống nhất với các văn bản pháp luật khác; việc ban hành các quy định pháp lý nhìn chung đều có độ trễ so với mục tiêu đề ra, đồng thời, nhiều quy định tại Luật Chứng khoán chưa được hướng dẫn thực hiện
+Quy mô thị trường có bước tăng trưởng mạnh mẽ, vững chắc, từng bước đóng vai trò là kênh dẫn vốn trung và dài hạn quan trọng, đóng góp tích cực cho sự nghiệp công nghiệp hóa – hiện đại hóa đất nước. 
+Trong suốt thời kỳ từ 2000-2005, vốn hóa thị trường chỉ đạt trên dưới 1% GDP. Quy mô thị trường đã có bước nhảy vọt mạnh mẽ lên 22,7% GDP vào năm 2006 và tiếp tục tăng lên mức trên 43% vào năm 2007. 
+Trước biến động của thị trường tài chính thế giới và những khó khăn của nền kinh tế trong nước, chỉ số giá chứng khoán đã sụt giảm liên tục trong năm 2008 và làm mức vốn hóa thị trường giảm hơn 50%, xuống còn 18%. 
+Khi nền kinh tế trong nước và thế giới bắt đầu hồi phục nhẹ từ quý II/2009, chỉ số giá chứng khoán đã bắt đầu tăng trở lại cùng với số lượng các công ty niêm yết trên thị trường cũng gia tăng nhanh chóng. 
+Giá trị vốn hóa thị trường cổ phiếu tính đến cuối năm 2009 đã đạt 37,71% GDP. Ước tính đến cuối năm 2010 sẽ đạt khoảng từ 40-50% GDP.
+Ngoài ra, công tác cổ phần hoá doanh nghiệp Nhà nước (DNNN) đã được gắn kết với việc huy động vốn từ công chúng đầu tư, góp phần thúc đẩy nhanh việc sắp xếp khu vực DNNN theo tiến trình cải cách nền kinh tế của Chính phủ và huy động vốn cho ngân sách nhà nước. 
+Thực tế, việc gắn kết công tác cổ phần hóa DNNN với công tác tạo hàng cho TTCK là nhân tố chủ đạo quyết định thành công trong việc tạo ra một nguồn hàng phong phú, góp phần thúc đẩy tăng trưởng quy mô của thị trường.
+Hoạt động phát hành trái phiếu qua Sở giao dịch chứng khoán dần trở thành một kênh huy động vốn quan trọng cho Chính phủ. Dư nợ trái phiếu Chính phủ (TPCP) tính đến cuối 2009 vào khoảng 16,9% GDP. Các trái phiếu doanh nghiệp được phát hành chủ yếu theo hình thức phát hành riêng lẻ, do vậy, số trái phiếu doanh nghiệp được niêm yết trên TTGDCK và SGDCK không nhiều.
+Tuy nhiên, hoạt động phát hành của các công ty đại chúng vẫn còn mang tính tự phát, không hoàn toàn dựa trên nhu cầu sử dụng vốn của doanh nghiệp, làm giảm hiệu quả sử dụng vốn. 
+Không ít tổ chức phát hành huy động vốn trên TTCK để đầu tư trở lại vào chứng khoán mà không phải để mở rộng sản xuất kinh doanh, góp phần tạo nên bong bóng thị trường và rủi ro mất vốn khi thị trường sụt giảm. 
+Hoạt động chào bán riêng lẻ không có sự điều chỉnh đầy đủ của pháp luật và quản lý của các cơ quan có thẩm quyền dẫn đến các hành vi lạm dụng, ảnh hưởng đến sự lành mạnh của TTCK. 
+Bên cạnh đó, việc tuân thủ chào bán ra công chúng phải đăng ký với UBCKNN còn hạn chế (đặc biệt vào thời kỳ ngay sau khi Luật chứng khoán mới ban hành) đã tạo nên những rủi ro tiềm ẩn cho TTCK. 
+Hoạt động phát hành TPCP còn nhiều bất cập, công tác kế hoạch hoá phát hành trái phiếu chưa tốt, cơ chế phát hành trái phiếu còn nhiều bất cập, chưa có các tổ chức tạo lập thị trường TPCP đúng nghĩa để đảm bảo thành công cho các đợt phát hành cũng như tạo tính thanh khoản cho thị trường thứ cấp. Thiếu đường cong lợi suất chuẩn và tổ chức định mức tín nhiệm.
+Năm 2000, với 2 công ty niêm yết khi đưa TTGDCK TP.HCM vào hoạt động, TTCK đã có mức tăng trưởng nhanh về giá do nguồn cung hàng hóa khan hiếm, chỉ số VN Index liên tục tăng và đạt tới đỉnh điểm là 571,04 điểm ngày 25/6/2001. 
+Sau đó, thị trường đã liên tục sụt giảm trong suốt 3 năm sau đó, trước khi tăng mạnh trở lại vào cuối năm 2003. Năm 2005, sau khi TTGDCK Hà Nội đi vào hoạt động, tổng số các công ty niêm yết trên cả hai thị trường là 44 công ty với tổng giá trị niêm yết là 4,94 nghìn tỷ đồng. Tuy nhiên, nhìn chung giai đoạn 2000-2005 là giai đoạn hoạt động khá trầm của TTCK Việt Nam.
+Giai đoạn 2006-2009 cũng chứng kiến những kỷ lục của TTCKVN. Tháng 3/2007, các chỉ số chứng khoán đạt được mức cao nhất. VNIndex đạt mức 1,170.67 điểm và HASTC-Index đạt 459.36 điểm. 
+Trong khi đó, xét về khối lượng giao dịch, tháng 5/2009 là tháng có khối lượng giao dịch lớn nhất, bình quân có 77 triệu cổ phiếu được giao dịch mỗi phiên, với giá trị đạt 2.270,57 tỷ đồng.
+Đồng thời, với sự mở rộng của các thị trường chính thức, có sự quản lý với số lượng ngày càng lớn các tổ chức đăng ký niêm yết, đăng ký giao dịch là sự thu hẹp của thị trường tự do (thị trường OTC). Mặc dù còn nhiều loại cổ phiếu giao dịch trên thị trường OTC, chủ yếu từ các DNNN cổ phần hóa, tuy nhiên, tính thanh khoản của thị trường này trong năm 2009 đã sụt giảm rõ rệt.
+Ngoài ra, nhằm từng bước hoàn chỉnh cấu trúc thị trường, mở rộng thị trường có tổ chức, có sự quản lý của Nhà nước, từng bước thu hẹp thị trường tự do, hệ thống giao dịch UpCom trên SGDCK Hà Nội – hệ thống giao dịch cho các chứng khoán của công ty đại chúng chưa niêm yết – cũng đã được đưa vào vận hành vào ngày 24/6/2009. 
+Cuối 2009, đã có 34 cổ phiếu được giao dịch trên hệ thống Upcom với tổng giá trị giao dịch đạt gần 540 tỷ đồng. Giá trị thị trường ngày 31/12/2009 đạt 4.075 tỷ đồng.
+Trước năm 2006, TPCP được giao dịch đồng thời tại HoSE và HNX. Tuy nhiên, từ ngày 24/9/2009, hệ thống giao dịch TPCP chuyên biệt với gần 30 thành viên, trong đó, có nhiều ngân hàng thương mại và các công ty chứng khoán lớn đã chính thức hoạt động. Hệ thống này tách biệt khỏi hệ thống giao dịch cổ phiếu và với nhiều đặc điểm mới, được phát triển phù hợp với các đặc thù của giao dịch trái phiếu đã khắc phục một số hạn chế của hệ thống giao dịch trái phiếu trước đây.
+Hệ thống các tổ chức kinh doanh, dịch vụ chứng khoán phát triển nhanh về quy mô và năng lực nghiệp vụ, với hệ thống mạng lưới chi nhánh, phòng giao dịch trải khắp các tỉnh, thành phố lớn trong cả nước, góp phần giúp công chúng đầu tư tiếp cận dễ dàng hơn với TTCK. 
+Khi thị trường bắt đầu đi vào hoạt động, toàn thị trường mới chỉ có 7 công ty chứng khoán và cho đến tận năm 2004 vẫn chưa có một công ty quản lý quỹ nào. Sau 10 năm hoạt động, tính đến thời điểm hiện tại, đã có 105 công ty chứng khoán và 46 công ty quản lý quỹ đang hoạt động tại Việt Nam. 
+Số thành viên lưu ký của Trung tâm Lưu ký Chứng khoán (TTLKCK) là 122 thành viên, trong đó, có 8 ngân hàng lưu ký và 12 tổ chức mở tài khoản trực tiếp.
+Hiếm có một thị trường chứng khoán nào mới 20 năm đã trải qua tới hai cuộc khủng hoảng lớn của thế giới.
+Khi đã đối mặt và vượt qua những thời điểm gian nguy nhất của cuộc khủng hoảng 2007-2008 thì những biến cố của thị trường sau đó không có gì ghê gớm, Chủ tịch Ủy ban Chứng khoán Nhà nước Vũ Bằng nhìn lại những thăng trầm của ngành chứng khoán Việt Nam trong 20 năm qua.
+Với thị trường, chúng ta hình dung một bức tranh cơ sở ban đầu về thị trường cổ phiếu, thị trường trái phiếu chính phủ, thị trường trái phiếu doanh nghiệp, thị trường phái sinh. 
+Khi phát triển hơn nữa thị trường phái sinh sẽ đa dạng hơn như sản phẩm phái sinh với vàng, hàng hóa, lãi suất… thì đó sẽ là bức tranh hoàn chỉnh.
+Tôi vẫn nhớ lúc mở cửa thị trường, hàng quá ít nên phải gặp gỡ các đại diện UBND địa phương, trọng tâm là Tp.HCM và Hà Nội. 
+Những buổi làm việc cũng nói tới ích lợi thị trường, tính minh bạch, khả năng huy động vốn, tuy nhiên phản hồi là một câu nói mà tôi nhớ mãi: mặc dù thị trường chứng khoán có nhiều lợi ích, nhưng qua nhiều năm bao cấp, doanh nghiệp vẫn quá rụt rè, dù giờ mở cửa cũng không muốn ra
+Trước đó, thị trường đã có một đợt tăng trưởng rất nóng, VN-Index lên trên 1.100 điểm trong bối cảnh dấu hiệu khủng hoảng tài chính toàn cầu nổ ra, trong nước thì lạm phát tăng cao.
+Lúc đó, có một giáo sư người Đức, lần nào gặp tôi cũng nói rằng thị trường chứng khoán bong bóng và đang tăng ảo. 
+Nó là quả bóng trước mặt và cần phải chọc cho nó vỡ ra, còn hơn để nó vỡ một cách tự phát. Khi đó chúng tôi cũng nhìn thấy thị trường rất nóng, và rất lo lắng.
+Chúng tôi khi đó kiến nghị rằng, thị trường đã nóng như thế mà lại thắt dòng vốn thì sẽ đổ vỡ. Kinh nghiệm Thái Lan cho thấy, khi dùng biện pháp này, đã khiến nhà đầu tư nước ngoài rút vốn ồ ạt và thị trường sụp đổ còn nhanh hơn, đến mức Bộ trưởng Tài chính Thái Lan phải tuyên bố hủy bỏ.
+Lúc đó thị trường chứng khoán Việt Nam chịu ảnh hưởng từ cả hai yếu tố: nhà đầu tư nước ngoài rút vốn khi thấy các dấu hiệu cảnh báo khủng hoảng và chính bản thân các chính sách chống lạm phát. 
+Cuối cùng, Chính phủ cũng quyết định, chưa cần thiết phải áp dụng các biện pháp kiểm soát vốn nước ngoài
+Ví dụ như trong sự kiện Brexit (cử tri Anh chọn rời Liên minh Châu Âu), chúng tôi chỉ sau một ngày là đã có phân tích cụ thể.
+Kỳ vọng đến năm 2020, vốn hóa thị trường cổ phiếu sẽ đạt 60% GDP
+TTCK cũng đã có bước tiến tương đối rõ nét trong vấn đề hợp tác quốc tế, hội nhập. Việt Nam cùng với các thị trường ASEAN khác đã tạo lập Diễn đàn thị trường vốn ASEAN nhằm hướng tới một thị trường vốn ASEAN đủ tầm cỡ về quy mô để thu hút các nhà đầu tư lớn trên thế giới.
+TTCK phái sinh sẽ góp phần đưa thị trường tài chính lên mức cao hơn
+Cùng với đó, có thể khẳng định TTCK phái sinh mang lại nhiều cơ hội cho các doanh nghiệp và nhà đầu tư (NĐT). 
+Các doanh nghiệp sẽ có nhiều cơ hội tốt hơn để huy động vốn cho hoạt động sản xuất kinh doanh khi thanh khoản thị trường tăng lên do NĐT, đặc biệt là các quỹ đầu tư lớn sẽ đầu tư mạnh mẽ hơn khi TTCK Việt Nam đã có các công cụ phòng ngừa rủi ro.
+Cùng với đó, đã tập trung xây dựng và phát triển thành công hệ thống công nghệ thông tin hiện đại, nhằm đáp ứng yêu cầu ngày càng đa dạng của thị trường. 
+Hiện nay, VSD đang hoàn tất dự án đầu tư xây dựng hệ thống bù trừ thanh toán giao dịch chứng khoán phái sinh và bổ sung chức năng hệ thống hiện hành để thực hiện thanh toán tiền giao dịch trái phiếu chính phủ từ ngân hàng thương mại sang Ngân hàng Nhà nước để đưa vào vận hành từ quý I/2017.
+Quy mô thị trường TPCP hiện nay ước đạt khoảng 24% GDP. Tốc độ tăng trưởng bình quân về quy mô trong 5 năm qua lên đến trên 30%/năm, cao nhất khu vực Đông Á; 
+khối lượng trái phiếu phát hành sơ cấp và giao dịch thứ cấp TPCP trong giai đoạn này tăng bình quân gần 50%/năm. 
+Tuy nhiên, sự chênh lệch giữa tỷ lệ nắm giữ 22% và 60% free float (cổ phiếu tự do chuyển nhượng) cho thấy ngành Quản lý quỹ chưa phát huy được đúng tiềm năng. 
+Gần đây, khối ngoại đã bắt đầu quan tâm hơn đến thị trường Việt Nam do mức độ tăng trưởng ấn tượng của nền kinh tế và TTCK. 
+Đây là yếu tố mấu chốt đưa Việt Nam vào trong tầm ngắm của nhiều quỹ đầu tư quốc tế, trong đó có nhiều quỹ có quy mô vốn lên đến hàng trăm tỷ USD.
+Ngành Quản lý Quỹ Việt Nam hiện nay đã qua giai đoạn đầu phát triển và đang dần  đi vào ổn định hơn với sự ra đời của các loại hình quỹ đa dạng gồm quỹ đóng, quỹ mở, quỹ hoán đổi danh mục (ETF) và sắp tới là quỹ hưu trí. 
+Mặc dù vậy, ngành Quản lý quỹ vẫn còn là ngành non trẻ khi chỉ mới hoạt động chưa đến 15 năm, nhưng đã phải trải qua nhiều sự biến động lớn. 
+Kể từ năm 2006 đến nay, hàng loạt các doanh nghiệp quy mô vốn lớn hàng trăm, hàng nghìn tỷ đồng như VSH, PPC, DPM, PVI, BVH, VCB, CTG, BID đã cổ phần hóa thành công, niêm yết, đăng ký giao dịch trên TTCK, thu hút lượng tiền lớn từ nhà đầu tư bên ngoài, trong đó có nhiều tổ chức đầu tư nước ngoài. 
+Đặc biệt từ năm 2010, khi có kế hoạch tiếp tục thoái vốn nhà nước tại các công ty đã cổ phần hóa, TTCK thứ cấp đã là cầu nối cho các doanh nghiệp thoái các khoản vốn này như tại GEX, VSH
+TTCK Việt Nam khởi đầu với chỉ 6 công ty chứng khoán (CTCK), tuy nhiên, sự bùng nổ của thị trường giai đoạn 2006 - 2007 đã tạo ra làn sóng thành lập CTCK mới, nâng số lượng CTCK lên tới 105 công ty vào cuối năm 2009
+Trong môi trường cạnh tranh như vậy, tôi cho rằng, chỉ những CTCK có nền tảng về con người, về vốn, công nghệ, quản trị tốt và chiến lược rõ ràng, thì mới có thể tồn tại và phát triển được.
