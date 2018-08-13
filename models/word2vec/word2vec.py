@@ -24,6 +24,8 @@ class Word2Vec:
         self.x_train, self.y_train, self.vocab_size, self.word2int, self.int2word = preprocess_w2v.prepare()
     def train(self):
         self.preprocessing_data()
+        # print ('---------------check-----------------')
+        # print (self.x_train)
         # making placeholders for x_train and y_train
         x = tf.placeholder(tf.float32, shape=(None, self.vocab_size))
         y_label = tf.placeholder(tf.float32, shape=(None, self.vocab_size))

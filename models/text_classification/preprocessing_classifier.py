@@ -96,7 +96,7 @@ class PreprocessingDataClassifier:
             train_y.append(y_train[i])
             
         for i in range(data_classifier_size):
-            print (i)
+            # print (i)
             if i not in train_index:
                 test_label.append(intents[i])
                 test_x.append(x_train[i])

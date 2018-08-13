@@ -1815,7 +1815,13 @@ xệp
         text = regex.sub('cp ', 'cổ phiếu ', text)
         text = regex.sub(' cp', ' cổ phiếu', text)
         # this file include acronym and full words
-        df = read_csv('../../data/acronym_new.csv', header=None, index_col=False, usecols=[2,3], engine='python')
+        acronym_arr = []
+        with open ('../../data/acronym.txt',encoding = 'utf-8') as acro_file:
+            lines = acro_file.readlines()
+            for line in lines:
+                acroi = line.rstrip().split(',')
+                acronym_arr.append(acroi)
+        print (acronym_arr)
         # use regular expression to replace special characer and acronym
         text = regex.sub("(?s)<ref>.+?</ref>", "", text) # remove reference links
         text = regex.sub("(?s)<[^>]+>", "", text) # remove html tags
@@ -1835,8 +1841,8 @@ xệp
         text = regex.sub("\["," ",text)  # remove [ character
         text = regex.sub("\]"," ",text)  # remove [ character
         text = regex.sub('[@!#$%^&;*()<–>?/\"“”,|0-9}{~:]',' ',text)
-        # for i in range(len(df.values)):
-        #     text = regex.sub(r'%s' % df.values[i][0], r'%s' % df.values[i][1], text)
+        # for i in range(len(acronym_arr)):
+        #     text = regex.sub(r'%s' % acronym_arr[i][0], r'%s' % acronym_arr[i][1], text)
         return text
     
     """
@@ -1851,7 +1857,7 @@ xệp
         print("before data",self.data)
         print("---------------------after")
         self.data = self.execute_special_character(self.data)
-        print("after data",self.data)
+        # print("after data",self.data)
         sentences = self.data.split('\n')
         new_sentences = []
         for sentence in sentences:
@@ -1860,7 +1866,7 @@ xệp
             for part in part_of_sentence:
                 # file.write(part + '\n')
                 new_sentences.append(part)
-        print ("check")
+        # print ("check")
         all_words = []
         all_sentences_split = []
         for sentence in new_sentences:

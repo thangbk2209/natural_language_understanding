@@ -14,8 +14,8 @@ def train_model(item):
     vectors, word2int, int2word = word2vec.train()
 window_sizes = [1,2]
 epoch_word2vec = 2
-embedding_dims = [8, 16, 32, 50, 64, 100, 128]
-batch_size_word2vecs = [4, 8, 16, 32, 64]
+embedding_dims = [32,50]
+batch_size_word2vecs = [4, 8]
 # file_to_save_trained_datas = []
 # for window_size in window_sizes:
 #     for embedding_dim in embedding_dims:
