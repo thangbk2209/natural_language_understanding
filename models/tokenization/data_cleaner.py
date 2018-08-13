@@ -1815,7 +1815,7 @@ xệp
         text = regex.sub('cp ', 'cổ phiếu ', text)
         text = regex.sub(' cp', ' cổ phiếu', text)
         # this file include acronym and full words
-        df = read_csv('../../data/acronym.csv', header=None, index_col=False, usecols=[2,3], engine='python')
+        df = read_csv('../../data/acronym_new.csv', header=None, index_col=False, usecols=[2,3], engine='python')
         # use regular expression to replace special characer and acronym
         text = regex.sub("(?s)<ref>.+?</ref>", "", text) # remove reference links
         text = regex.sub("(?s)<[^>]+>", "", text) # remove html tags
@@ -1835,8 +1835,8 @@ xệp
         text = regex.sub("\["," ",text)  # remove [ character
         text = regex.sub("\]"," ",text)  # remove [ character
         text = regex.sub('[@!#$%^&;*()<–>?/\"“”,|0-9}{~:]',' ',text)
-        for i in range(len(df.values)):
-            text = regex.sub(r'%s' % df.values[i][0], r'%s' % df.values[i][1], text)
+        # for i in range(len(df.values)):
+        #     text = regex.sub(r'%s' % df.values[i][0], r'%s' % df.values[i][1], text)
         return text
     
     """
@@ -1847,7 +1847,11 @@ xệp
     """
     def clean_content(self):
         # acronym word
+        print("----------------------before-----")
+        print("before data",self.data)
+        print("---------------------after")
         self.data = self.execute_special_character(self.data)
+        print("after data",self.data)
         sentences = self.data.split('\n')
         new_sentences = []
         for sentence in sentences:
@@ -1867,20 +1871,21 @@ xệp
                 if(self.is_stop_word(word) == False):
                     all_words.append(word)
                     sentencei.append(word)
-                    
+                    # print (type(word))
                     # print (i)
                     if (i == len(words)-1):
-                        file.write('\n')
+                        file.write(word + '\n')
                     else:
                         file.write(word + ' ')
+                    # print("word oc cho:",word,"word encode:",word.encode("utf-8"))
             all_sentences_split.append(sentencei)
             # all_words, all_sentences_split = self.replace_acronym(all_words, all_sentences_split, sentence)
-        print ('all_words')
-        print (all_words[:20])
-        print ('all_sentences_split')
-        print (all_sentences_split[:20])
+        # print ('all_words')
+        # print (all_words[:20])
+        # print ('all_sentences_split')
+        # print (all_sentences_split[:20])
         # lol
         all_words = set(all_words)
-        print (len(all_words))
+        # print (len(all_words))
         return all_words, all_sentences_split
     

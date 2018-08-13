@@ -3,12 +3,25 @@ from data_cleaner import DataCleaner
 import pandas as pd 
 import numpy as np
 import pickle as pk
-corpus_file = '../../data/corpus.txt'
-file_to_save_vocab = '../../results/tokenization/vocabulary.csv'
+import csv
+
+corpus_file = '../../data/corpus_test.txt'
+file_to_save_vocab = '../../results/tokenization/vocabulary.txt'
 file_to_save_corpus = '../../results/tokenization/corpus_split.csv'
 # read data to a file
-with open(corpus_file, encoding="utf8") as f:
+with open(corpus_file, encoding="utf-8") as f:
+    #for line in f:
+        # print (line)
+        # #temp = line.split(" ")
+        # print (temp)
+        # for word in temp:
+        #    print("word:",word,"word encode",word.encode("utf-8"))
+        # #    print(word)
+        # print("---------------------------------")
     corpus = f.read().lower()
+    print("----------------------------------CORPUS----")
+    # print(corpus)
+
 # window_size = 1
 # tokenizer = Tokenizer(corpus)
 # tokenizer.tokenize()
@@ -17,15 +30,21 @@ all_words, all_sentences_split = data_cleaner.clean_content()
 print ('------------------vocabulary------------------------')
 # print (all_sentences_split)
 words_to_save = []
+file = open(file_to_save_vocab,'w', encoding="utf8")
 for word in all_words:
-    # print (word)
-    wordi = []
-    wordi.append(word)
-    # print (wordi)
-    words_to_save.append(wordi)
+    print (word)
+    file.write(word + '\n')
+    # wordi = []
+    # wordi.append(word)
+    # # print (wordi)
+    # words_to_save.append(wordi)
 # print (words_to_save)
-wordDf = pd.DataFrame(np.array(words_to_save))
-wordDf.to_csv(file_to_save_vocab, index=False, header=None)
+
+    # with open(file_to_save_vocab, 'a+', newline='', encoding='utf-8') as csv_file:
+    #     writer = csv.writer(csv_file)
+    #     writer.writerow(word)
+# wordDf = pd.DataFrame(np.array(words_to_save))
+# wordDf.to_csv(file_to_save_vocab, index=False, header=None, encoding ='utf-8')
 
 # all_sentences = []
 # for sentence in all_sentences_split:

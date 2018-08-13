@@ -13,16 +13,25 @@ class Preprocess_W2v:
     def __init__(self, window_size = None, corpus = ""):
         self.window_size = window_size
     def prepare(self):
-        file_to_save_vocab = '../../results/tokenization/vocabulary.csv'
+        file_to_save_vocab = '../../results/tokenization/vocabulary.txt'
         corpus_file = '../../results/tokenization/corpus_cleaned.txt'
-        vocab_df = pd.read_csv(file_to_save_vocab, header=None, index_col=False, usecols=[0], engine='python')
+        # vocab_df = pd.read_csv(file_to_save_vocab, header=None, index_col=False, usecols=[0], engine='python')
         # print (len(vocab_df.values))
-        vocab_raw = vocab_df.values
+        vocab_raw = []
+        print ("create vocab")
+        with open(file_to_save_vocab, encoding="utf8") as vocab_file:
+            lines = vocab_file.readlines()
+            for line in lines:
+                vocab_raw.append(line.rstrip())
+        # vocab_raw = lines
+        print ('-------------------vocab--------------------------')
+        print (vocab_raw)
+        # lol
         vocab_size = len(vocab_raw)
-        # print (vocab_raw[0])
+        print (vocab_size)
         vocab = []
         for i in range(vocab_size):
-            vocab.append(vocab_raw[i][0])
+            vocab.append(vocab_raw[i])
         # print (vocab)
         word2int = {}   # Word and coresponding number
         int2word = {}   # integer number and coresponding word
@@ -39,7 +48,7 @@ class Preprocess_W2v:
             lines = f.readlines()
         for line in lines:
             print (line)
-            sentence = line.split(' ')
+            sentence = line.rstrip().split(' ')
             if sentence == '':
                 continue
             for i in range(len(sentence)):
@@ -55,8 +64,8 @@ class Preprocess_W2v:
         print (data[:20])
         print (data[0][0])
         print (data[0][1])
-        print (word2int[ data[i][0] ])
-        print (word2int[ data[i][1] ])
+        # print (word2int[ data[i][0] ])
+        # print (word2int[ data[i][1] ])
         sample_Df = pd.DataFrame(np.array(data))
         sample_Df.to_csv('../../results/word2vec/sample_word2vec.csv', index=False, header=None)
 
@@ -70,6 +79,7 @@ class Preprocess_W2v:
         x_train = [] # input word
         y_train = [] # output word
         for i in range(len(data)):
+            print (data[i][0], data[i][1] )
             x_train.append(to_one_hot(word2int[ data[i][0] ], vocab_size))
             y_train.append(to_one_hot(word2int[ data[i][1] ], vocab_size))
         # convert them to numpy arrays
