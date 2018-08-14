@@ -5,7 +5,7 @@ import numpy as np
 import pickle as pk
 import csv
 
-corpus_file = '../../data/corpus_test.txt'
+corpus_file = '../../data/corpus.txt'
 file_to_save_vocab = '../../results/tokenization/vocabulary.txt'
 file_to_save_corpus = '../../results/tokenization/corpus_split.csv'
 # read data to a file
@@ -58,5 +58,6 @@ for word in all_words:
 # print (all_sentences)
 # Corpus_Df = pd.DataFrame(np.array(all_sentences))
 # Corpus_Df.to_csv(file_to_save_corpus, index=False, header=None)
+print (len(all_words))
 print ('DONE')
 # save_results(all_words)

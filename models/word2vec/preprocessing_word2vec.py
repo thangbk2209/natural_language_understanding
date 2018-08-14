@@ -24,11 +24,11 @@ class Preprocess_W2v:
             for line in lines:
                 vocab_raw.append(line.rstrip())
         # vocab_raw = lines
-        print ('-------------------vocab--------------------------')
-        print (vocab_raw)
+        # print ('-------------------vocab--------------------------')
+        # print (vocab_raw)
         # lol
         vocab_size = len(vocab_raw)
-        print (vocab_size)
+        # print (vocab_size)
         vocab = []
         for i in range(vocab_size):
             vocab.append(vocab_raw[i])
@@ -40,14 +40,14 @@ class Preprocess_W2v:
         for i,word in enumerate(vocab):
             word2int[word] = i
             int2word[i] = word
-        print (".......")
+        # print (".......")
         data = []
         input_words = []
         # read data to a file
         with open(corpus_file, encoding="utf8") as f:
             lines = f.readlines()
         for line in lines:
-            print (line)
+            # print (line)
             sentence = line.rstrip().split(' ')
             if sentence == '':
                 continue
@@ -60,10 +60,10 @@ class Preprocess_W2v:
                     if(sentence[j] == '\n'):
                         continue
                     data.append([sentence[i],sentence[j]])
-        print ("----------------data------------------")
-        print (data[:20])
-        print (data[0][0])
-        print (data[0][1])
+        # print ("----------------data------------------")
+        # print (data[:20])
+        # print (data[0][0])
+        # print (data[0][1])
         # print (word2int[ data[i][0] ])
         # print (word2int[ data[i][1] ])
         sample_Df = pd.DataFrame(np.array(data))
@@ -79,7 +79,7 @@ class Preprocess_W2v:
         x_train = [] # input word
         y_train = [] # output word
         for i in range(len(data)):
-            print (data[i][0], data[i][1] )
+            # print (data[i][0], data[i][1] )
             x_train.append(to_one_hot(word2int[ data[i][0] ], vocab_size))
             y_train.append(to_one_hot(word2int[ data[i][1] ], vocab_size))
         # convert them to numpy arrays
