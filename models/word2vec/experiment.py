@@ -13,7 +13,7 @@ def train_model(item):
                         batch_size_word2vec = batch_size_word2vec, file_to_save_trained_data = file_to_save_trained_data)
     vectors, word2int, int2word = word2vec.train()
 window_sizes = [2]
-epoch_word2vec = 100
+epoch_word2vec = 2
 embedding_dims = [32]
 batch_size_word2vecs = [4]
 # file_to_save_trained_datas = []
