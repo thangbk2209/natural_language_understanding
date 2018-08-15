@@ -7,8 +7,19 @@ corpus_file = '../../data/corpus.txt'
 file_to_save_vocab = '../../results/tokenization/vocabulary.txt'
 file_to_save_corpus = '../../results/tokenization/corpus_split.csv'
 # read data to a file
-with open(corpus_file, encoding="utf8") as f:
+with open(corpus_file, encoding="utf-8") as f:
+    #for line in f:
+        # print (line)
+        # #temp = line.split(" ")
+        # print (temp)
+        # for word in temp:
+        #    print("word:",word,"word encode",word.encode("utf-8"))
+        # #    print(word)
+        # print("---------------------------------")
     corpus = f.read().lower()
+    print("----------------------------------CORPUS----")
+    # print(corpus)
+
 # window_size = 1
 # tokenizer = Tokenizer(corpus)
 # tokenizer.tokenize()
@@ -43,5 +54,6 @@ for word in all_words:
 # print (all_sentences)
 # Corpus_Df = pd.DataFrame(np.array(all_sentences))
 # Corpus_Df.to_csv(file_to_save_corpus, index=False, header=None)
+print (len(all_words))
 print ('DONE')
 # save_results(all_words)

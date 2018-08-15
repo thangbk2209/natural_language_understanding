@@ -1810,6 +1810,19 @@ xệp
         text = regex.sub('vn-index ', 'vnindex ', text)
         text = regex.sub(' vn-index', ' vnindex', text)
         text = regex.sub(' cp ', ' cổ phiếu ', text)
+<<<<<<< HEAD
+=======
+        text = regex.sub('cp ', 'cổ phiếu ', text)
+        text = regex.sub(' cp', ' cổ phiếu', text)
+        # this file include acronym and full words
+        acronym_arr = []
+        with open ('../../data/acronym.txt',encoding = 'utf-8') as acro_file:
+            lines = acro_file.readlines()
+            for line in lines:
+                acroi = line.rstrip().split(',')
+                acronym_arr.append(acroi)
+        print (acronym_arr)
+>>>>>>> 99e3b941a18430b1585d9db19edbe740f6dfc3d6
         # use regular expression to replace special characer and acronym
         text = regex.sub("(?s)<ref>.+?</ref>", "", text) # remove reference links
         text = regex.sub("(?s)<[^>]+>", "", text) # remove html tags
@@ -1859,7 +1872,11 @@ xệp
     """
     def clean_content(self):
         # acronym word
+        print("----------------------before-----")
+        print("before data",self.data)
+        print("---------------------after")
         self.data = self.execute_special_character(self.data)
+        # print("after data",self.data)
         sentences = self.data.split('\n')
         new_sentences = []
         for sentence in sentences:
@@ -1879,12 +1896,13 @@ xệp
                 if(self.is_stop_word(word) == False):
                     all_words.append(word)
                     sentencei.append(word)
-                    
+                    # print (type(word))
                     # print (i)
                     if (i == len(words)-1):
                         file.write(word + '\n')
                     else:
                         file.write(word + ' ')
+                    # print("word oc cho:",word,"word encode:",word.encode("utf-8"))
             all_sentences_split.append(sentencei)
             # all_words, all_sentences_split = self.replace_acronym(all_words, all_sentences_split, sentence)
         # print ('all_words')

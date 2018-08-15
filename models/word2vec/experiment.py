@@ -32,8 +32,9 @@ param_grid = {
 for item in list(ParameterGrid(param_grid)) :
     queue.put_nowait(item)
 # Consumer
-pool = Pool(8)
-pool.map(train_model, list(queue.queue))
-pool.close()
-pool.join()
-pool.terminate()
+if __name__ == '__main__':
+    pool = Pool(8)
+    pool.map(train_model, list(queue.queue))
+    pool.close()
+    pool.join()
+    pool.terminate()

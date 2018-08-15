@@ -24,10 +24,10 @@ class Preprocess_W2v:
             for line in lines:
                 vocab_raw.append(line.rstrip())
         vocab_size = len(vocab_raw)
-        # print (vocab_raw[0])
+        # print (vocab_size)
         vocab = []
         for i in range(vocab_size):
-            vocab.append(vocab_raw[i][0])
+            vocab.append(vocab_raw[i])
         # print (vocab)
         word2int = {}   # Word and coresponding number
         int2word = {}   # integer number and coresponding word
@@ -36,7 +36,7 @@ class Preprocess_W2v:
         for i,word in enumerate(vocab):
             word2int[word] = i
             int2word[i] = word
-        print (".......")
+        # print (".......")
         data = []
         input_words = []
         # read data to a file
@@ -55,8 +55,7 @@ class Preprocess_W2v:
                         continue
                     if(sentence[j] == '\n'):
                         continue
-                    # print (sentence[i].strip() ,sentence[j].strip())
-                    data.append([sentence[i].strip() ,sentence[j].strip()])
+                    data.append([sentence[i],sentence[j]])
         # print ("----------------data------------------")
         # print (data[:20])
         # print (data[0][0])
@@ -76,6 +75,7 @@ class Preprocess_W2v:
         x_train = [] # input word
         y_train = [] # output word
         for i in range(len(data)):
+            # print (data[i][0], data[i][1] )
             x_train.append(to_one_hot(word2int[ data[i][0] ], vocab_size))
             y_train.append(to_one_hot(word2int[ data[i][1] ], vocab_size))
         # convert them to numpy arrays

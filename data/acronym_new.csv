@@ -1,0 +1,165 @@
+TTCK,Thị trường chứng khoán, ttck , thị trường chứng khoán 
+ UBCKNN ,Ủy ban Chứng khoán Nhà nước, ubcknn , ủy ban chứng khoán nhà nước 
+TBTCVN,Thời báo tài chính Việt Nam, tbtcvn , thời báo tài chính việt nam 
+PV,Phóng viên, pv , phóng viên 
+SGDCK,Sở Giao dịch chứng khoán, sgdck , sở giao dịch chứng khoán 
+DN,Doanh nghiệp, dn , doanh nghiệp 
+CK,Chứng khoán, ck , chứng khoán 
+HN,Hà Nội, hn , hà nội 
+TP HN,Thành phố, tp hn , thành phố hà nội 
+Tp HCM,Thành phố Hồ Chí Minh, tp hcm , thành phố hồ chí minh 
+ TPHCM , Thành phố Hồ Chí Minh , tphcm , thành phố hồ chí minh 
+TP.HCM,Hà Nội, tphcm , thành phố hồ chí minh 
+Tp,Thành phố, tp , thành phố 
+Tp.HCM,Thành phố Hồ Chí Minh, tp.hcm , thành phố hồ chí minh 
+TK,Tài khoản, tk , tài khoản 
+TTCKVN,Thị trường chứng khoán Việt Nam, ttckvn , thị trường chứng khoán việt nam 
+DNNN,Doanh nghiệp Nhà nước, dnnn , doanh nghiệp nhà nước 
+TPCP,Trái phiếu Chính phủ , tpcp , trái phiếu chính phủ 
+TTGDCK,Trung tâm Giao dịch chứng khoán, ttgdck , trung tâm giao dịch chứng khoán 
+TTLKCK,Trung tâm Lưu ký Chứng khoán, ttlkck , trung tâm lưu ký chứng khoán 
+UBND,Ủy ban nhân dân, ubnd , ủy ban nhân dân 
+NĐT,Nhà đầu tư, nđt , nhà đầu tư 
+CTCK,Công ty chứng khoán, ctck , công ty chứng khoán 
+ NHNN ,Ngân hàng Nhà nước, nhnn , ngân hàng nhà nước 
+HĐQT,Hội đồng Quản trị, hđqt , hội đồng quản trị 
+CTCP,Công ty Cổ phần, ctcp , công ty cổ phần 
+HĐ,Hợp đồng, hđ , hợp đồng 
+CKPS,chứng khoán phái sinh, ckps , chứng khoán phái sinh 
+TPHCM,Thành phố Hồ Chí Minh, tphcm , thành phố hồ chí minh 
+TP,Thành phố, tp , thành phố 
+GTGD,Giá trị giao dịch, gtgd , giá trị giao dịch 
+BCTC,Báo cáo tài chính, bctc , báo cáo tài chính 
+BĐS,Bất động sản, bđs , bất động sản 
+KQKD,Kết quả kinh doanh, kqkd , kết quả kinh doanh 
+NWC,Net working capital, nwc , net working capital 
+TMCP,Thương mại Cổ phần, tmcp , thương mại cổ phần 
+HĐTL,Hợp đồng tương lai, hđtl , hợp đồng tương lai 
+HĐQC,Hợp đồng quyền chọn, hđqc , hợp đồng quyền chọn 
+FIA,Futures Industry Association, fia , futures industry association 
+TPDN,Trái phiếu doanh nghiệp, tpdn , trái phiếu doanh nghiệp 
+PHTP,Phát hành trái phiếu, phtp , phát hành trái phiếu 
+Cty,Công ty, cty , công ty 
+TCTD,Tổ chức tín dụng, tctd , tổ chức tín dụng 
+ĐHCĐ,Đại hội cổ đông, đhcđ , đại hội cổ đông 
+NHTM,Ngân hàng thương mại, bctc , ngân hàng thương mại 
+CMCN,Cách mạng Công nghiệp, cmcn , cách mạng công nghiệp 
+CNTT,Công nghệ thông tin, cntt , công nghệ thông tin 
+TP,Thành phố, tp , thành phố 
+NHTMCP,Ngân hàng thương mại cổ phần, nhtmcp , ngân hàng thương mại cổ phần 
+CSTT,Chính sách tiền tệ, cstt, chính sách tiền tệ 
+ĐTTC,Đầu tư tài chính, đttc , đầu tư tài chính 
+phó_tgđ,phó_tgđ, phó tgđ , phó tổng giám đốc 
+LNST,lợi nhuận sau thuế, lnst, lợi nhuận sau thuế 
+ĐHĐCĐ,Đại hội đồng cổ đông, đhđcđ , đại hội đồng cổ đông 
+TTCK,Thị trường chứng khoán,ttck ,thị trường chứng khoán 
+ UBCKNN ,Ủy ban Chứng khoán Nhà nước,ubcknn ,ủy ban chứng khoán nhà nước 
+TBTCVN,Thời báo tài chính Việt Nam,tbtcvn ,thời báo tài chính việt nam 
+PV,Phóng viên,pv ,phóng viên 
+SGDCK,Sở Giao dịch chứng khoán,sgdck ,sở giao dịch chứng khoán 
+DN,Doanh nghiệp,dn ,doanh nghiệp 
+CK,Chứng khoán,ck ,chứng khoán 
+HN,Hà Nội,hn ,hà nội 
+TP HN,Thành phố,tp hn ,thành phố hà nội 
+Tp HCM,Thành phố Hồ Chí Minh,tp hcm ,thành phố hồ chí minh 
+ TPHCM , Thành phố Hồ Chí Minh ,tphcm ,thành phố hồ chí minh 
+TP.HCM,Hà Nội,tphcm ,thành phố hồ chí minh 
+Tp,Thành phố,tp ,thành phố 
+Tp.HCM,Thành phố Hồ Chí Minh,tp.hcm ,thành phố hồ chí minh 
+TK,Tài khoản,tk ,tài khoản 
+TTCKVN,Thị trường chứng khoán Việt Nam,ttckvn ,thị trường chứng khoán việt nam 
+DNNN,Doanh nghiệp Nhà nước,dnnn ,doanh nghiệp nhà nước 
+TPCP,Trái phiếu Chính phủ ,tpcp ,trái phiếu chính phủ 
+TTGDCK,Trung tâm Giao dịch chứng khoán,ttgdck ,trung tâm giao dịch chứng khoán  
+TTLKCK,Trung tâm Lưu ký Chứng khoán,ttlkck ,trung tâm lưu ký chứng khoán 
+UBND,Ủy ban nhân dân,ubnd ,ủy ban nhân dân 
+NĐT,Nhà đầu tư,nđt ,nhà đầu tư 
+CTCK,Công ty chứng khoán,ctck ,công ty chứng khoán 
+ NHNN ,Ngân hàng Nhà nước,nhnn ,ngân hàng nhà nước 
+HĐQT,Hội đồng Quản trị,hđqt ,hội đồng quản trị 
+CTCP,Công ty Cổ phần,ctcp ,công ty cổ phần 
+HĐ,Hợp đồng,hđ ,hợp đồng 
+CKPS,chứng khoán phái sinh,ckps ,chứng khoán phái sinh 
+TPHCM,Thành phố Hồ Chí Minh,tphcm ,thành phố hồ chí minh 
+TP,Thành phố,tp ,thành phố 
+GTGD,Giá trị giao dịch,gtgd ,giá trị giao dịch 
+BCTC,Báo cáo tài chính,bctc ,báo cáo tài chính 
+BĐS,Bất động sản,bđs ,bất động sản 
+KQKD,Kết quả kinh doanh,kqkd ,kết quả kinh doanh 
+NWC,Net working capital,nwc ,net working capital 
+TMCP,Thương mại Cổ phần,tmcp ,thương mại cổ phần 
+HĐTL,Hợp đồng tương lai,hđtl ,hợp đồng tương lai 
+HĐQC,Hợp đồng quyền chọn,hđqc ,hợp đồng quyền chọn 
+FIA,Futures Industry Association,fia ,futures industry association 
+TPDN,Trái phiếu doanh nghiệp,tpdn ,trái phiếu doanh nghiệp 
+PHTP,Phát hành trái phiếu,phtp ,phát hành trái phiếu 
+Cty,Công ty,cty ,công ty 
+TCTD,Tổ chức tín dụng,tctd ,tổ chức tín dụng 
+ĐHCĐ,Đại hội cổ đông,đhcđ ,đại hội cổ đông 
+NHTM,Ngân hàng thương mại,bctc ,ngân hàng thương mại 
+CMCN,Cách mạng Công nghiệp,cmcn ,cách mạng công nghiệp 
+CNTT,Công nghệ thông tin,cntt ,công nghệ thông tin 
+TP,Thành phố,tp ,thành phố 
+NHTMCP,Ngân hàng thương mại cổ phần,nhtmcp ,ngân hàng thương mại cổ phần 
+CSTT,Chính sách tiền tệ,cstt ,chính sách tiền tệ 
+ĐTTC,Đầu tư tài chính,đttc ,đầu tư tài chính 
+phó_tgđ,phó_tgđ,phó tgđ ,phó tổng giám đốc 
+LNST,lợi nhuận sau thuế,lnst ,lợi nhuận sau thuế 
+ĐHĐCĐ,Đại hội đồng cổ đông,đhđcđ ,đại hội đồng cổ đông 
+TTCK,Thị trường chứng khoán, ttck, thị trường chứng khoán
+ UBCKNN ,Ủy ban Chứng khoán Nhà nước, ubcknn, ủy ban chứng khoán nhà nước
+TBTCVN,Thời báo tài chính Việt Nam, tbtcvn, thời báo tài chính việt nam
+PV,Phóng viên, pv, phóng viên
+SGDCK,Sở Giao dịch chứng khoán, sgdck, sở giao dịch chứng khoán
+DN,Doanh nghiệp, dn, doanh nghiệp
+CK,Chứng khoán, ck, chứng khoán
+HN,Hà Nội, hn, hà nội
+TP HN,Thành phố, tp hn, thành phố hà nội
+Tp HCM,Thành phố Hồ Chí Minh, tp hcm, thành phố hồ chí minh
+ TPHCM , Thành phố Hồ Chí Minh , tphcm, thành phố hồ chí minh
+TP.HCM,Hà Nội, tphcm, thành phố hồ chí minh
+Tp,Thành phố, tp, thành phố
+Tp.HCM,Thành phố Hồ Chí Minh, tp.hcm, thành phố hồ chí minh
+TK,Tài khoản, tk, tài khoản
+TTCKVN,Thị trường chứng khoán Việt Nam, ttckvn, thị trường chứng khoán việt nam 
+DNNN,Doanh nghiệp Nhà nước, dnnn, doanh nghiệp nhà nước
+TPCP,Trái phiếu Chính phủ , tpcp, trái phiếu chính phủ
+TTGDCK,Trung tâm Giao dịch chứng khoán, ttgdck, trung tâm giao dịch chứng khoán 
+TTLKCK,Trung tâm Lưu ký Chứng khoán, ttlkck, trung tâm lưu ký chứng khoán
+UBND,Ủy ban nhân dân, ubnd, ủy ban nhân dân
+NĐT,Nhà đầu tư, nđt, nhà đầu tư
+CTCK,Công ty chứng khoán, ctck, công ty chứng khoán
+ NHNN ,Ngân hàng Nhà nước, nhnn, ngân hàng nhà nước
+HĐQT,Hội đồng Quản trị, hđqt, hội đồng quản trị
+CTCP,Công ty Cổ phần, ctcp, công ty cổ phần
+HĐ,Hợp đồng, hđ, hợp đồng
+CKPS,chứng khoán phái sinh, ckps, chứng khoán phái sinh
+TPHCM,Thành phố Hồ Chí Minh, tphcm, thành phố hồ chí minh
+TP,Thành phố, tp, thành phố
+GTGD,Giá trị giao dịch, gtgd, giá trị giao dịch
+BCTC,Báo cáo tài chính, bctc, báo cáo tài chính
+BĐS,Bất động sản, bđs, bất động sản
+KQKD,Kết quả kinh doanh, kqkd, kết quả kinh doanh
+NWC,Net working capital, nwc, net working capital
+TMCP,Thương mại Cổ phần, tmcp, thương mại cổ phần
+HĐTL,Hợp đồng tương lai, hđtl, hợp đồng tương lai
+HĐQC,Hợp đồng quyền chọn, hđqc, hợp đồng quyền chọn
+FIA,Futures Industry Association, fia, futures industry association
+TPDN,Trái phiếu doanh nghiệp, tpdn, trái phiếu doanh nghiệp
+PHTP,Phát hành trái phiếu, phtp, phát hành trái phiếu
+Cty,Công ty, cty, công ty
+TCTD,Tổ chức tín dụng, tctd, tổ chức tín dụng
+ĐHCĐ,Đại hội cổ đông, đhcđ, đại hội cổ đông
+NHTM,Ngân hàng thương mại, bctc, ngân hàng thương mại
+CMCN,Cách mạng Công nghiệp, cmcn, cách mạng công nghiệp 
+CNTT,Công nghệ thông tin, cntt, công nghệ thông tin
+TP,Thành phố, tp, thành phố
+NHTMCP,Ngân hàng thương mại cổ phần, nhtmcp, ngân hàng thương mại cổ phần
+CSTT,Chính sách tiền tệ, cstt, chính sách tiền tệ
+ĐTTC,Đầu tư tài chính, đttc, đầu tư tài chính
+phó_tgđ,phó_tgđ, phó tgđ, phó tổng giám đốc
+LNST,lợi nhuận sau thuế, lnst, lợi nhuận sau thuế
+ĐHĐCĐ,Đại hội đồng cổ đông, đhđcđ, đại hội đồng cổ đông
+đhcđcđ,Đại hội đồng cổ đông, đhcđcđ , đại hội đồng cổ đông 
+đhcđcđ,Đại hội đồng cổ đông, đhcđcđ, đại hội đồng cổ đông
+đhcđcđ,Đại hội đồng cổ đông,đhcđcđ ,đại hội đồng cổ đông 
