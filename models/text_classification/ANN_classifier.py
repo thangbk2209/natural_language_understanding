@@ -41,18 +41,20 @@ class Classifier:
         self.batch_size_classifier = batch_size_classifier
         self.optimizer_method = optimizer_method
         # print(self.file_to_save_classified_data)
-    
     def classify(self, file_data_classifier):
         # Preprocessing data
+        print ('------------------start preprocessing data ------------------')
         preprocessing_data = PreprocessingDataClassifier(self.vectors, self.embedding_dim, self.input_size, self.word2int, self.int2word, file_data_classifier)
         # preprocessing_data = PreprocessingDataClassifier(self.vectors, self.embedding_dim, self.input_size,file_data_classifier)
+        print ('----------------------start training -----------------------')
         self.x_train, self.y_train, self.x_test, self.y_test, self.int2intent, self.test_label = preprocessing_data.preprocessing_data()
         # Create graph
-        x = tf.placeholder(tf.float32, shape=(None, self.input_size, self.embedding_dim))
+        tf.reset_default_graph()
+        x = tf.placeholder(tf.float32, name="x", shape=(None, self.input_size, self.embedding_dim))
         input_classifier = tf.reshape(x,[tf.shape(x)[0], self.input_size * self.embedding_dim])
-        hidden_value1 = tf.layers.dense(input_classifier, 256, activation = tf.nn.relu)
+        hidden_value1 = tf.layers.dense(input_classifier, 320, activation = tf.nn.relu, name="hidden1")
         hidden_value2 = tf.layers.dense(hidden_value1, 64, activation = tf.nn.relu)
-        prediction = tf.layers.dense(hidden_value2, self.num_classes, activation = tf.nn.softmax)
+        prediction = tf.layers.dense(hidden_value2,self.num_classes, activation = tf.nn.softmax, name="prediction")
         y_label = tf.placeholder(tf.float32, shape=(None, self.num_classes))
         # define the loss function:
         cross_entropy_loss = tf.reduce_mean(-tf.reduce_sum(y_label * tf.log(prediction), reduction_indices=[1]))
@@ -63,8 +65,7 @@ class Classifier:
         elif self.optimizer_method == self.OPTIMIZER_BY_SGD:
             a = 0
         elif self.optimizer_method == self.OPTIMIZER_BY_ADAM:
-            a = 0
-       
+            optimizer = tf.train.AdamOptimizer(0.1).minimize(cross_entropy_loss)
         sess = tf.Session()
         init = tf.global_variables_initializer()
         # Add ops to save and restore all the variables.
@@ -72,6 +73,7 @@ class Classifier:
         sess.run(init) #make sure you do this!
         # train for n_iter iterations
         total_batch = int(len(self.x_train)/ self.batch_size_classifier)
+        loss_set = []
         for _ in range(self.epoch_classifier):
             avg_loss = 0
             for j in range(total_batch):
@@ -81,6 +83,7 @@ class Classifier:
                 sess.run(optimizer, feed_dict={x: batch_x_train, y_label: batch_y_train})
                 loss = sess.run(cross_entropy_loss, feed_dict={x: batch_x_train, y_label: batch_y_train})/total_batch
                 avg_loss += loss
+            loss_set.append(avg_loss)
             print ('epoch: ', _ + 1)
             print('loss is : ',avg_loss)
             print("finished training classification phrase!!!")
@@ -92,15 +95,26 @@ class Classifier:
             pickle.dump(data,out,pickle.HIGHEST_PROTOCOL)
     def train(self, file_data_classifier):
         print ('-------------------file_data_classifier----------------')
-        print (file_data_classifier)
+        # print (file_data_classifier)
         prediction = self.classify(file_data_classifier)
         predict = []
         for i in range(len(prediction)):
             predict.append(self.int2intent[np.argmax(prediction[i])])
         correct = 0
+        with open('../../data/train/train.txt') as input:
+            line = input.readline()
+            line = line.strip()
+            temp = line.split(" ")
+            train_index = [int(i) for i in temp]
+            y = []
+        for i in range(1265):
+            # print (i)
+            if i not in train_index:
+                y.append(i)
         for i in range(len(predict)):
+            # print (y[i],',',self.test_label[i],',',predict[i])
             if(predict[i] == self.test_label[i]):
                 correct +=1
         accuracy = correct/len(self.test_label)
         print ("accuracy: ", accuracy)
-        return accuracy
+        return accuracy, self.int2intent

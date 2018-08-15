@@ -1,0 +1,98 @@
+cancel,về chức năng chính
+cancel,về chức năng hệ thống
+cancel,tới chức năng chính
+cancel,tới chức năng hệ thống
+cancel,về chức năng chính ngay
+cancel,về chức năng hệ thống ngay
+cancel,tới chức năng chính ngay
+cancel,tới chức năng hệ thống ngay
+cancel,về chức năng chính đi
+cancel,về chức năng hệ thống đi
+cancel,tới chức năng chính đi
+cancel,tới chức năng hệ thống đi
+cancel,đến chức năng chính
+cancel,đến chức năng hệ thống
+cancel,đến chức năng chính đi
+cancel,đến chức năng hệ thống đi
+cancel,đến chức năng chính ngay
+cancel,đến chức năng hệ thống ngay
+cancel,đi tới chức năng chính
+cancel,đi tới chức năng hệ thống
+cancel,đi tới chức năng chính ngay
+cancel,đi tới chức năng hệ thống ngay
+cancel,đi tới chức năng chính đi
+cancel,đi tới chức năng hệ thống đi
+cancel,hủy bỏ đi
+cancel,loại bỏ đi
+cancel,hủy lệnh đi
+cancel,dừng lệnh đi
+cancel,dừng lại đi
+cancel,tạm dừng đi
+cancel,dừng ngay đi
+cancel,hủy ngay đi
+cancel,bỏ lệnh đi
+cancel,bỏ qua lệnh đi
+cancel,hủy bỏ ngay đi
+cancel,hủy bỏ lệnh đi
+cancel,loại bỏ lệnh đi
+cancel,ngưng lại đi
+cancel,ngưng lệnh đi
+cancel,ngừng lệnh đi
+cancel,ngừng lại đi
+cancel,về trang chủ đi
+cancel,trở về trang chủ đi
+cancel,quay lại trang chủ đi
+cancel,quay về trang chủ đi
+cancel,trở lại trang chủ đi
+cancel,tới trang chủ đi
+cancel,trở về đi
+cancel,trở lại đi
+cancel,làm lại đi
+cancel,dừng đặt lệnh đi
+cancel,bỏ đặt lệnh đi
+cancel,dừng làm đi
+cancel,quay trở lại đi
+cancel,làm lại đi
+cancel,bỏ khớp lệnh đi
+cancel,dừng khớp lệnh đi
+cancel,hủy khớp lệnh đi
+cancel,hủy bỏ ngay
+cancel,loại bỏ ngay
+cancel,dừng ngay
+cancel,hủy lệnh ngay
+cancel,dừng lệnh ngay
+cancel,dừng lại ngay
+cancel,tạm dừng ngay
+cancel,bỏ lệnh ngay
+cancel,bỏ qua lệnh ngay
+cancel,bỏ ngay
+cancel,bỏ đi ngay
+cancel,dừng đi ngay
+cancel,hủy bỏ lệnh ngay
+cancel,loại bỏ lệnh ngay
+cancel,ngưng lại ngay
+cancel,ngưng lệnh ngay
+cancel,ngừng lệnh ngay
+cancel,ngưng lại ngay
+cancel,ngừng lại ngay
+cancel,về lại ngay
+cancel,về trang chủ ngay
+cancel,trở về trang chủ ngay
+cancel,quay lại trang chủ ngay
+cancel,quay về trang chủ ngay
+cancel,trở lại trang chủ ngay
+cancel,tới trang chủ ngay
+cancel,trở về ngay
+cancel,trở lại ngay
+cancel,làm lại ngay
+cancel,đi tới trang chủ
+cancel,dừng đặt lệnh ngay
+cancel,bỏ đặt lệnh ngay
+cancel,dừng làm ngay
+cancel,đừng làm nữa
+cancel,quay trở lại ngay
+cancel,làm lại ngay
+cancel,bỏ khớp lệnh ngay
+cancel,dừng khớp lệnh ngay
+cancel,hủy khớp lệnh ngay
+cancel,stop ngay

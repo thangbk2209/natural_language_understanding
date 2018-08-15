@@ -1,0 +1,43 @@
+order_status,lệnh đang giao dịch của tôi
+order_status,xem lệnh đang giao dịch của tôi
+order_status,lệnh đang chờ giao dịch của tôi
+order_status,xem lệnh đang chờ giao dịch của tôi
+order_status,lệnh bị hủy của tôi
+order_status,xem lệnh bị hủy của tôi
+order_status,lệnh không hợp lệ của tôi
+order_status,xem lệnh không hợp lệ của tôi
+order_status,xem lệnh đang chờ của tôi
+order_status,lệnh đang chờ của tôi
+order_status,lệnh đã được khớp chưa của tôi
+order_status,lệnh đã được thực hiện chưa của tôi
+order_status,lệnh đã giao dịch của tôi
+order_status,xem lệnh đã giao dịch của tôi
+order_status,tình trạng giao dịch của lệnh của tôi
+order_status,xem tình trạng giao dịch của lệnh của tôi
+order_status,giao dịch khớp lệnh của tôi
+order_status,xem giao dịch khớp lệnh của tôi
+order_status,kết quả khớp lệnh của tôi
+order_status,xem kết quả khớp lệnh của tôi
+order_status,xem kết quả giao dịch lệnh của tôi
+order_status,kết quả giao dịch lệnh của tôi
+order_status,xem cho tôi trạng thái lệnh
+order_status,xem cho tôi trạng thái lệnh của tôi
+order_status,xem cho tôi tình trạng lệnh
+order_status,xem cho tôi thông tin lệnh
+order_status,xem cho tôi tình trạng khớp lệnh
+order_status,xem cho tôi thông tin khớp lệnh
+order_status,xem cho tôi trạng thái khớp lệnh
+order_status,xem cho tôi thông tin lệnh của tôi
+order_status,xem cho tôi tình trạng khớp lệnh của tôi
+order_status,xem cho tôi thông tin khớp lệnh của tôi
+order_status,xem cho tôi trạng thái khớp lệnh của tôi
+order_status,xem cho tôi lệnh đang giao dịch
+order_status,xem cho tôi lệnh đang chờ giao dịch
+order_status,xem cho tôi lệnh bị hủy
+order_status,xem cho tôi lệnh không hợp lệ
+order_status,xem cho tôi lệnh đang chờ
+order_status,xem cho tôi lệnh đã giao dịch
+order_status,xem cho tôi tình trạng giao dịch của lệnh
+order_status,xem cho tôi giao dịch khớp lệnh
+order_status,xem cho tôi kết quả khớp lệnh
+order_status,xem cho tôi kết quả giao dịch lệnh

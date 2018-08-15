@@ -1,0 +1,132 @@
+trade,mua mã cổ phiếu abc với giá 
+trade,bán mã cổ phiếu abc với giá và khối lượng 
+trade,bán mã cổ phiếu abc với khối lượng và giá
+trade,bán khối lượng mã cổ phiếu abc với giá
+trade,bán mã chứng khoán abc với giá và khối lượng
+trade,bán mã chứng khoán abc với khối lượng và giá
+trade,bán khối lượng mã chứng khoán abc với giá
+trade,bán hết mã cổ phiếu abc với giá
+trade,bán hến mã chứng khoán abc với giá
+trade,lấy thêm cổ phiếu abc với khối lượng và giá
+trade,lấy thêm khối lượng cổ phiếu abc với giá
+trade,mua thêm cổ phiếu abc với khối lượng và giá
+trade,mua thêm khối lượng cổ phiếu abc với giá
+trade,lấy thêm mã cổ phiếu abc với khối lượng và giá
+trade,lấy thêm khối lượng mã cổ phiếu abc với giá
+trade,mua thêm mã cổ phiếu abc với khối lượng và giá
+trade,mua thêm khối lượng mã cổ phiếu abc với giá
+trade,bán con abc với khối lượng và giá
+trade,bắt đầu giao dịch
+trade,bán khối lượng cổ phiếu abc với giá
+trade,bán cho tôi mã chứng khoán abc với giá và khối lượng
+trade,mua cho tôi mã chứng khoán abc với khối lượng và giá
+trade,mua cho tôi mã cổ phiếu abc với giá và khối lượng
+trade,mua cho tôi mã cổ phiếu abc với khối lượng và giá
+trade,bán cho tôi mã cổ phiếu abc với giá và khối lượng
+trade,bán cho tôi mã cổ phiếu abc với khối lượng và giá
+trade,mua cổ phiếu abc với khối lượng và giá
+trade,mua mã cổ phiếu abc với khối lượng và giá
+trade,mua mã cổ phiếu abc với giá và khối lượng
+trade,mua khối lượng mã cổ phiếu abc với giá
+trade,mua mã chứng khoán abc với giá và khối lượng
+trade,mua mã chứng khoán abc với khối lượng và giá
+trade,mua khối lượng mã chứng khoán abc với giá
+trade,mua cho tôi khối lượng cổ phiếu abc với giá
+trade,mua cho tôi mã chứng khoán abc với giá
+trade,mua cho tôi khối lượng mã cổ phiếu abc với giá
+trade,bán cho tôi khối lượng mã cổ phiếu abc với giá
+trade,tôi muốn giao dịch mua cổ phiếu abc với giá và khối lượng
+trade,tôi muốn giao dịch mua cổ phiếu abc với khối lượng và giá
+trade,tôi muốn giao dịch mua khối lượng cổ phiếu với giá
+trade,tôi muốn giao dịch bán cổ phiếu abc với giá và khối lượng
+trade,tôi muốn giao dịch bán cổ phiếu abc với khối lượng và giá
+trade,tôi muốn giao dịch bán khối lượng cổ phiếu abc với giá
+trade,tôi muốn giao dịch mua mã cổ phiếu abc với giá và khối lượng
+trade,tôi muốn giao dịch mua mã cổ phiếu abc với khối lượng và giá
+trade,tôi muốn giao dịch bán mã cổ phiếu abc với giá và khối lượng
+trade,tôi muốn giao dịch bán mã cổ phiếu abc với khối lượng và giá
+trade,tôi muốn giao dịch mua mã chứng khoán abc với giá và khối lượng
+trade,tôi muốn giao dịch mua mã chứng khoán abc với khối lượng và giá
+trade,tôi muốn giao dịch mua khối lượng mã chứng khoán abc với giá
+trade,tôi muốn giao dịch bán mã chứng khoán abc với giá và khối lượng
+trade,tôi muốn giao dịch bán mã chứng khoán abc với khối lượng và giá
+trade,tôi muốn giao dịch bán khối lượng mã chứng khoán abc với giá
+trade,tôi muốn đặt lệnh mua cổ phiếu abc với giá và khối lượng
+trade,tôi muốn đặt lệnh mua cổ phiếu abc với khối lượng và giá
+trade,tôi muốn đặt lệnh mua khối lượng cổ phiếu với giá
+trade,tôi muốn đặt lệnh bán cổ phiếu abc với giá và khối lượng
+trade,tôi muốn đặt lệnh bán cổ phiếu abc với khối lượng và giá
+trade,tôi muốn đặt lệnh bán khối lượng cổ phiếu abc với giá
+trade,tôi muốn đặt lệnh mua mã cổ phiếu abc với giá và khối lượng
+trade,tôi muốn đặt lệnh mua mã cổ phiếu abc với khối lượng và giá
+trade,tôi muốn đặt lệnh bán mã cổ phiếu abc với giá và khối lượng
+trade,tôi muốn đặt lệnh bán mã cổ phiếu abc với khối lượng và giá
+trade,tôi muốn đặt lệnh mua mã chứng khoán abc với giá và khối lượng
+trade,tôi muốn đặt lệnh mua mã chứng khoán abc với khối lượng và giá
+trade,tôi muốn đặt lệnh mua khối lượng mã chứng khoán abc với giá
+trade,tôi muốn đặt lệnh bán mã chứng khoán abc với giá và khối lượng
+trade,tôi muốn đặt lệnh bán mã chứng khoán abc với khối lượng và giá
+trade,tôi muốn đặt lệnh bán khối lượng mã chứng khoán abc với giá
+trade,mua mã cổ phiếu abc giá 1000
+trade,bán mã cổ phiếu abc giá 1000 với khối lượng
+trade,bán khối lượng mã cổ phiếu abc giá 1000
+trade,bán mã chứng khoán abc giá 1000 với khối lượng
+trade,bán khối lượng mã chứng khoán abc giá 1000
+trade,bán hết mã cổ phiếu abc giá 1000
+trade,bán hến mã chứng khoán abc giá 1000
+trade,lấy thêm khối lượng cổ phiếu abc giá 1000
+trade,mua thêm khối lượng cổ phiếu abc giá 1000
+trade,lấy thêm mã cổ phiếu abc với khối lượng giá 1000
+trade,lấy thêm khối lượng mã cổ phiếu abc giá 1000
+trade,mua thêm khối lượng mã cổ phiếu abc giá 1000
+trade,bán hết con abc giá 1000
+trade,bán khối lượng cổ phiếu abc giá 1000
+trade,bán cho tôi mã chứng khoán abc giá 1000 với khối lượng
+trade,mua cho tôi mã chứng khoán abc với khối lượng giá 1000
+trade,mua cho tôi mã cổ phiếu abc giá 1000 với khối lượng
+trade,mua cho tôi mã cổ phiếu abc với khối lượng giá 1000
+trade,bán cho tôi mã cổ phiếu abc giá 1000 với khối lượng
+trade,bán cho tôi mã cổ phiếu abc với khối lượng giá 1000
+trade,mua cổ phiếu abc với khối lượng giá 1000
+trade,mua mã cổ phiếu abc với khối lượng giá cổ phiếu
+trade,mua mã cổ phiếu abc giá 1000 với khối lượng
+trade,mua khối lượng mã cổ phiếu abc giá 1000
+trade,mua mã chứng khoán abc giá 1000 với khối lượng
+trade,mua mã chứng khoán abc với khối lượng giá 1000
+trade,mua khối lượng mã chứng khoán abc giá 1000
+trade,mua cho tôi khối lượng cổ phiếu abc giá 1000
+trade,mua cho tôi mã chứng khoán abc giá 1000
+trade,mua cho tôi khối lượng mã cổ phiếu abc giá 1000
+trade,bán cho tôi khối lượng mã cổ phiếu abc giá 1000
+trade,tôi muốn giao dịch mua cổ phiếu abc giá 1000 với khối lượng
+trade,tôi muốn giao dịch mua cổ phiếu abc với khối lượng giá 1000
+trade,tôi muốn giao dịch mua khối lượng cổ phiếu giá 1000
+trade,tôi muốn giao dịch bán cổ phiếu abc giá 1000 với khối lượng
+trade,tôi muốn giao dịch bán cổ phiếu abc với khối lượng giá 1000
+trade,tôi muốn giao dịch bán khối lượng cổ phiếu abc giá 1000
+trade,tôi muốn giao dịch mua mã cổ phiếu abc giá 1000 với khối lượng
+trade,tôi muốn giao dịch mua mã cổ phiếu abc với khối lượng giá 1000
+trade,tôi muốn giao dịch bán mã cổ phiếu abc giá 1000 với khối lượng
+trade,tôi muốn giao dịch bán mã cổ phiếu abc với khối lượng giá 1000
+trade,tôi muốn giao dịch mua mã chứng khoán abc giá 1000 với khối lượng
+trade,tôi muốn giao dịch mua mã chứng khoán abc với khối lượng giá 1000
+trade,tôi muốn giao dịch mua khối lượng mã chứng khoán abc giá 1000
+trade,tôi muốn giao dịch bán mã chứng khoán abc giá 1000 với khối lượng
+trade,tôi muốn giao dịch bán mã chứng khoán abc với khối lượng giá 1000
+trade,tôi muốn giao dịch bán khối lượng mã chứng khoán abc giá 1000
+trade,tôi muốn đặt lệnh mua cổ phiếu abc giá 1000 với khối lượng
+trade,tôi muốn đặt lệnh mua cổ phiếu abc với khối lượng giá 1000
+trade,tôi muốn đặt lệnh mua khối lượng cổ phiếu giá 1000
+trade,tôi muốn đặt lệnh bán cổ phiếu abc giá 1000 với khối lượng
+trade,tôi muốn đặt lệnh bán cổ phiếu abc với khối lượng giá 1000
+trade,tôi muốn đặt lệnh bán khối lượng cổ phiếu abc giá 1000
+trade,tôi muốn đặt lệnh mua mã cổ phiếu abc giá 1000 với khối lượng
+trade,tôi muốn đặt lệnh mua mã cổ phiếu abc với khối lượng giá 1000
+trade,tôi muốn đặt lệnh bán mã cổ phiếu abc giá 1000 với khối lượng
+trade,tôi muốn đặt lệnh bán mã cổ phiếu abc với khối lượng giá 1000
+trade,tôi muốn đặt lệnh mua mã chứng khoán abc giá 1000 với khối lượng
+trade,tôi muốn đặt lệnh mua mã chứng khoán abc với khối lượng giá 1000
+trade,tôi muốn đặt lệnh mua khối lượng mã chứng khoán abc giá 1000
+trade,tôi muốn đặt lệnh bán mã chứng khoán abc giá 1000 với khối lượng
+trade,tôi muốn đặt lệnh bán mã chứng khoán abc với khối lượng giá 1000
+trade,tôi muốn đặt lệnh bán khối lượng mã chứng khoán abc giá 1000

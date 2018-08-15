@@ -1,0 +1,25 @@
+end,kết thúc chương trình
+end,kết thúc app
+end,kết thúc đi
+end,kết thúc ngay
+end,kết thúc chương trình ngay
+end,kết thúc chương trình đi
+end,chấm dứt ngay
+end,chấm dứt đi
+end,chấm dứt chương trình ngay
+end,chấm dứt chương trình đi
+end,chấm dứt app
+end,trở lại sau
+end,trở lại sau nhé
+end,đi đây
+end,chào
+end,thế nhé
+end,stop
+end,tắt app
+end,tạm biệt nhé
+end,chào tạm biệt nhé
+end,đi nhé
+end,dừng chương trình
+end,dừng app
+end,dừng ngay
+end,dừng đi

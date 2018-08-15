@@ -23,7 +23,9 @@ class Word2Vec:
         preprocess_w2v = Preprocess_W2v(self.window_size)
         self.x_train, self.y_train, self.vocab_size, self.word2int, self.int2word = preprocess_w2v.prepare()
     def train(self):
+        print ('-------------------preprocessing data -----------------------')
         self.preprocessing_data()
+        print ('-------------------- start training word2vec --------------------')
         # print ('---------------check-----------------')
         # print (self.x_train)
         # making placeholders for x_train and y_train
@@ -59,7 +61,7 @@ class Word2Vec:
                 sess.run(optimizer, feed_dict={x: batch_x_train, y_label: batch_y_train})
                 # prediction = sess.run(prediction, feed_dict={x: batch_x_train, y_label: batch_y_train})
                 loss = sess.run(cross_entropy_loss, feed_dict={x: batch_x_train, y_label: batch_y_train})/total_batch
-                print ("loss: ", loss)
+                # print ("loss: ", loss)
                 # print ('prediction: ', prediction)
                 avg_loss += loss
             print('epoch_word2vec : ', _+1)

@@ -1,0 +1,610 @@
+advice,có nên mua bán không
+advice,mã được không
+advice,có nên bán
+advice,khuyến nghị
+advice,khuyên thế nào
+advice,nhận định
+advice,mua giá bao nhiêu hợp lý
+advice,bán giá bao nhiêu hợp lý
+advice,vào bây giờ có nên không
+advice,có nên mua vào không
+advice,có nên bán ra không
+advice,có nên mua không
+advice,có nên bán không
+advice,nên bán hay nắm giữ
+advice,bán hay giữ
+advice,nên mua hay bán
+advice,mua hay bán đây
+advice,nên mua vào hay bán ra
+advice,đề xuất như nào
+advice,khuyến nghị như nào
+advice,đề xuất thế nào
+advice,nhận định thế nào
+advice,nhận định như nào
+advice,mua bán thế nào
+advice,xem đề xuất
+advice,xem khuyến nghị
+advice,xem nhận định
+advice,khuyến nghị ra sao
+advice,đề xuất ra sao
+advice,nhận định thị trường ra sao
+advice,nên đâm vào hay bán ra
+advice,nên nắm giữ lúc này không
+advice,nên lướt sóng trong giai đoạn này không
+advice,khuyến nghị cho giai đoạn này
+advice,giai đoạn này mua bán thế nào
+advice,giai đoạn này nên nắm giữ hay bán ra
+advice,nên hay không nên mua
+advice,với cổ phiếu này mua giá bao nhiêu
+advice,với mã chứng khoán này nên mua giá bao nhiêu
+advice,với tiền trong tài khoản nên mua lượng cổ phiếu bao nhiêu
+advice,nên bán giá bao nhiêu với cổ phiếu abc
+advice,nên mua giá bao nhiêu với cổ phiếu abc
+advice,nên bán giá bao nhiêu với mã chứng khoán abc
+advice,nên mua giá bao nhiêu với mã chứng khoán abc
+advice,giá trị trường bao nhiêu
+advice,nên mua theo giá thị trường không
+advice,nên bán theo giá thị trường không
+advice,nên làm gì với thị trường hiện nay
+advice,thị trường lên xuống thất thường nên mua vào hay bán ra
+trade,mua mã chứng khoán
+trade,mua con
+trade,bán con
+trade,đặt lệnh mua
+trade,tôi muốn mua mã chứng khoán với khối lượng và giá
+trade,mua mã giá khối lượng
+trade,mua vào
+trade,đầu tư vào
+trade,mua thêm
+trade,gom vào
+trade,gom thêm
+trade,bán mã chứng khoán
+trade,đặt lệnh bán
+trade,bán ra
+trade,thoát hàng
+trade,xả ra
+trade,tôi muốn bán mã chứng khoán khối lương và giá
+trade,tôi muốn giao dịch
+trade,mua cho tôi mã chứng khoán với giá và khối lượng
+trade,mua cổ phiếu abc với giá và khối lượng
+trade,mua khối lượng abc với giá
+trade,mua khối lượng cố phiếu abc với mức giá
+trade,mua khối lượng với mức giá của cổ phiếu abc
+trade,mua khối lượng cổ phiếu abc giá
+trade,bán hết cổ phiếu abc với giá
+trade,bán cổ phiếu abc với giá
+trade,gom cổ phiếu abc với khối lượng và giá
+trade,đặt lệnh mua cổ phiếu abc giá và khối lượng
+trade,đặt lệnh bán cổ phiếu abc giá và khối lượng
+trade, đầu tư thêm khối lượng cổ phiếu abc giá
+stock_balance,số dư chứng khoán
+stock_balance,danh mục ra sao
+stock_balance,tài khoản đuôi 1 có bao chứng khoán
+stock_balance,tài khoản đuôi 6 có bao chứng khoán
+stock_balance,danh mục đầu tư
+stock_balance,có bao nhiêu chứng khoán
+stock_balance,tình trạng chứng khoán
+stock_balance,tình trạng danh mục
+stock_balance,tình trạng đầu tư
+stock_balance,trạng thái chứng khoán
+stock_balance,trạng thái danh mục
+stock_balance,trạng thái đầu tư
+stock_balance,tài khoản đuôi 1 còn bao nhiêu chứng khoán
+stock_balance,xem tài khoản đuôi 1 còn bao nhiêu chứng khoán
+stock_balance,tài khoản đuôi 6 còn bao nhiêu chứng khoán
+stock_balance,xem tài khoản đuổi 6 còn bao nhiêu chứng khoán
+stock_balance,xem tài khoản đuôi 1 có bao nhiêu chứng khoán
+stock_balance,xem tài khoản đuôi 6 có bao nhiêu chứng khoán
+stock_balance,tài khoản đuôi 1 có bao nhiêu cổ phiếu
+stock_balance,xem tài khoản đuôi 1 có bao nhiêu cổ phiếu
+stock_balance,tài khoản đuôi 1 còn bao nhiêu cổ phiếu
+stock_balance,xem tài khoản đuôi 1 còn bao nhiêu cổ phiếu
+stock_balance,tài khoản đuôi 6 còn bao nhiêu cổ phiếu
+stock_balance,xem tài khoản đuôi 6 còn bao nhiêu cổ phiếu
+stock_balance,tình trạng cổ phiếu còn dư
+stock_balance,xem tình trạng cổ phiếu còn dư
+stock_balance,tình trạng cổ phiếu còn lại
+stock_balance,xem tình trạng cổ phiếu còn lại
+stock_balance,trạng thái cổ phiếu còn dư
+stock_balance,xem trạng thái cổ phiếu còn dư
+stock_balance,trạng thái cổ phiếu còn lại
+stock_balance,xem trạng thái cổ phiếu còn lại
+stock_balance,thông tin chứng khoán
+stock_balance,xem thông tin chứng khoán
+stock_balance,thông tin cổ phiếu
+stock_balance,xem thông tin cổ phiếu
+stock_balance,thông tin danh mục
+stock_balance,xem thông tin danh mục
+stock_balance,thông tin danh mục hiện có
+stock_balance,xem thông tin danh mục hiện có
+stock_balance,thông tin đầu tư
+stock_balance,xem thông tin đầu tư
+stock_balance,thông tin đầu tư hiện có
+stock_balance,xem thông tin đầu tư hiện có
+stock_balance,xem tình trạng chứng khoán
+stock_balance,xem tình trạng danh mục
+stock_balance,xem tình trạng đầu tư
+stock_balance,xem trạng thái chứng khoán
+stock_balance,xem trạng thái danh mục
+stock_balance,xem trạng thái đầu tư
+stock_balance,thông tin số chứng khoán còn dư
+stock_balance,xem thông tin số chứng khoán còn dư
+stock_balance,thông tin cổ phiếu còn lại
+stock_balance,xem thông tin cổ phiếu còn lại
+stock_balance,thông tin cổ phiếu còn dư
+stock_balance,xem thông tin cổ phiếu còn dư
+stock_balance,thông tin số chứng khoán còn lại
+stock_balance,xem thông tin số chứng khoán còn lại
+stock_balance,số chứng khoán còn dư
+stock_balance,xem số dư chứng khoán
+stock_balance,xem số chứng khoán còn dư
+stock_balance,tổng số chứng khoán
+stock_balance,xem tổng số chứng khoán
+stock_balance,số chứng khoán còn lại
+stock_balance,xem số chứng khoán còn lại
+stock_balance,tổng số chứng khoán còn lại
+stock_balance,xem tổng số chứng khoán còn lại
+stock_balance,tổng số chứng khoán còn dư
+stock_balance,xem tổng số chứng khoán còn dư
+stock_balance,danh mục của tôi
+stock_balance,xem danh mục của tôi
+stock_balance,danh mục đầu tư hiện nay
+stock_balance,xem danh mục đầu tư hiện nay
+stock_balance,danh mục chứng khoán
+stock_balance,xem danh mục chứng khoán
+stock_balance,danh mục chứng khoán của tôi
+stock_balance,xem danh mục chứng khoán của tôi
+stock_balance,danh mục đầu tư hiện có
+stock_balance,xem danh mục đầu tư hiện có
+stock_balance,xem danh mục đầu tư
+stock_balance,danh mục đầu tư của tôi
+stock_balance,xem danh mục đầu tư của tôi
+stock_balance,danh mục cổ phiều
+stock_balance,xem danh mục cổ phiếu
+stock_balance,danh mục cổ phiếu của tôi
+stock_balance,xem danh mục cổ phiếu của tôi
+stock_balance,danh mục cổ phiếu hiện có
+stock_balance,xem danh mục cổ phiếu hiện có
+order_status,trạng thái lệnh
+order_status,lệnh của tôi khớp chưa
+order_status,tình trạng lệnh
+order_status,lệnh ra sao
+order_status,xem trạng thái lệnh
+order_status,trạng thái lệnh của tôi
+order_status,xem trạng thái lệnh của tôi
+order_status,xem tình trạng lệnh
+order_status,thông tin lệnh
+order_status,xem thông tin lệnh
+order_status,tình trạng khớp lệnh
+order_status,trạng thái khớp lệnh
+order_status,thông tin khớp lệnh
+order_status,xem tình trạng khớp lệnh
+order_status,xem thông tin khớp lệnh
+order_status,xem trạng thái khớp lệnh
+order_status,thông tin lệnh của tôi
+order_status,xem thông tin lệnh của tôi
+order_status,tình trạng khớp lệnh của tôi
+order_status,trạng thái khớp lệnh của tôi
+order_status,thông tin khớp lệnh của tôi
+order_status,xem tình trạng khớp lệnh của tôi
+order_status,xem thông tin khớp lệnh của tôi
+order_status,xem trạng thái khớp lệnh của tôi
+order_status,lệnh đang giao dịch
+order_status,xem lệnh đang giao dịch
+order_status,lệnh đang chờ giao dịch
+order_status,xem lệnh đang chờ giao dịch
+order_status,lệnh bị hủy
+order_status,xem lệnh bị hủy
+order_status,lệnh không hợp lệ
+order_status,xem lệnh không hợp lệ
+order_status,xem lệnh đang chờ
+order_status,lệnh đang chờ
+order_status,lệnh đã được khớp chưa
+order_status,lệnh đã được thực hiện chưa
+order_status,lệnh đã giao dịch
+order_status,xem lệnh đã giao dịch
+order_status,tình trạng giao dịch của lệnh
+order_status,xem tình trạng giao dịch của lệnh
+order_status,giao dịch khớp lệnh
+order_status,xem giao dịch khớp lệnh
+order_status,kết quả khớp lệnh
+order_status,xem kết quả khớp lệnh
+order_status,xem kết quả giao dịch lệnh
+order_status,kết quả giao dịch lệnh
+market,thị trường thế nào
+market,lên xuống thế nào
+market,thị trường biến động ra sao
+market,diễn biến ra sao
+market,biến động thế nào
+market,tổng quan thị trường
+market,tổng quan thị trường chứng khoán
+market,thông tin thị trường
+market,thông tin giao dịch
+market,đang giao dịch thế nào
+market,hiện đang ra sao
+market,mã chứng khoán
+market,thị trường hôm nay
+market,thị trường hiện ra sao
+market,thị trường hôm nay thế nào
+market,thị trường biến động ra sao
+market,biến động thị trường
+market,biến động thị trường hôm nay
+market,biến động thị trường ra sao
+market,hôm nay thị trường biến động như thế nào
+market,hôm nay thị trường biến động ra sao
+market,tình hình thị trường
+market,tình hình thị trường hôm nay
+market,tình hình biến động
+market,tình hình biến động hôm nay
+market,diễn biến thị trường
+market,diễn biến hôm nay của thị trường
+market,diễn biến hôm nay
+market,diễn biến giao dịch hôm nay
+market,kết quả giao dịch
+market,kết quả giao dịch hiện tại
+market,thông tin cổ phiếu
+market,thông tin chứng khoán
+market,thông tin mã cổ phiếu abc
+market,thông tin giao dịch
+market,thông tin giao dịch hôm nay
+market,tổng quan VnIndex hôm nay
+market,khối lượng giao dịch hôm nay
+market,giá mở cửa hôm nay của mã chứng khoán abc
+market,giá đóng cửa hôm qua
+market,giá hiện tại của mã cổ phiếu abc
+market,giá hiện tại của mã chứng khoán 
+market,lịch sử giá
+market,biến động lên xuống của thị trường
+market,lịch sử giao dịch mã chứng khoán
+market,lịch sử giao dịch mã cổ 
+market,cập nhật thị trường
+market,cập nhật tình hình thị trường
+market,cập nhật thông tin thị trường
+market,cập nhật thông tin giao dịch
+market,cập nhật thị trường hôm nay
+market,cập nhật tình hình thị trường hôm nay
+market,cập nhật thông tin thị trường hôm nay
+market,cập nhật thông tin giao dịch hôm nay
+market,thông tin chung về thị trường
+market,thông tin thị trường tổng quan
+market,toàn cảnh thị trường
+market,toàn cảnh thị trường hôm nay
+market,bao quát thị trường
+market,giá trị thị trường
+market,báo cáo kết quả thị trường
+market,báo cáo kết quả
+market,nhận định thị trường
+market,nhận định thị trường hôm nay
+market,nhận định mã cổ phiếu abc
+market,nhận định giá cổ phiếu abc
+market,nhận định mã chứng khoán abc
+market,nhận định giá mã chứng khoán abc
+market,tin tức thị trường hôm nay
+market,tin nhanh thị trường
+market,xem giá khớp lệnh của cổ phiếu abc
+market,xem giá khớp lệnh của mã chứng khoán abc
+market,thông tin giá khớp lệnh của chứng khoán abc 
+end,thoát
+end,chấm dứt
+end,tạm biệt
+end,bye bye
+end,kết thúc
+end,gặp lại sau
+end,mai nói chuyện sau
+end,mai gặp lại
+end,hẹn lúc khác nhé
+end,hẹn gặp sau nhé
+end,chào tạm biệt
+end,phải đi đây
+end,thoát chương trình
+end,thoát app
+end,thoát khỏi chương trình
+end,bye
+end,đóng
+end,đóng app
+end,đóng chương trình
+end,quay lại sau
+end,tắt
+end,tắt chương trình
+end,chào nhé
+end,kết thúc
+cash_balance,trạng thái tiền
+cash_balance,tình trạng tiền
+cash_balance,tiền
+cash_balance,tiền nong
+cash_balance,hầu bao
+cash_balance,tài khoản
+cash_balance,số dư tiền
+cash_balance,số dư tài khoản tiền
+cash_balance,tài khoản đuôi 1 có bao tiền
+cash_balance,tài khoản đuôi 6 có bao nhiêu
+cash_balance,số dư đuôi 1 ra sao
+cash_balance,số dư đuôi 6 ra sao
+cash_balance,bao nhiêu tiền
+cash_balance,số tiền hiện tại
+cash_balance,tiền thế nào
+cash_balance,xem trạng thái tiền
+cash_balance,số tiền dư
+cash_balance,xem số dư tiền
+cash_balance,xem số tiền dư
+cash_balance,số tiền còn lại
+cash_balance,xem số tiền còn lại
+cash_balance,xem tiền trong tài khoản
+cash_balance,thông tin tiền trong tài khoản
+cash_balance,tình trạng tiền trong tài khoản
+cash_balance,trạng thái tiền trong tài khoản
+cash_balance,thông tin số dư tiền
+cash_balance,thông tin số tiền dư
+cash_balance,trạng thái tiền của tài khoản
+cash_balance,tiền còn lại
+cash_balance,tài khoản còn lại bao nhiêu tiền
+cash_balance,số tiền dư
+cash_balance,số dư tiền còn lại
+cash_balance,dư tiền trong tài khoản
+cash_balance,dư nợ tiền tài khoản
+cash_balance,xem dư nợ tiền tài khoản
+cash_balance,tiền dư bao nhiêu
+cash_balance,số dư tiền bao nhiêu
+cash_balance,tài khoản dư bao nhiêu tiền
+cash_balance,tài khoản tiền dư bao nhiêu
+cash_balance,thông tin tiền của các tài khoản
+cash_balance,số dư tiền các tài khoản
+cash_balance,thông tin tiền của tài khoản đuôi 1
+cash_balance,thông tin tiền của tài khoản đuôi 6
+cash_balance,trạng thái tiền của tài khoản đuôi 1
+cash_balance,trạng thái tiền của tài khoản đuôi 6
+cash_balance,số tiền hiện có
+cash_balance,số dư hiện có
+cash_balance,dữ liệu tiền của tài khoản
+cash_balance,xem thông tin tiền trong tài khoản
+cash_balance,xem tình trạng tiền trong tài khoản
+cash_balance,xem trạng thái tiền trong tài khoản
+cash_balance,xem thông tin số dư tiền
+cash_balance,xem thông tin số tiền dư
+cash_balance,xem trạng thái tiền của tài khoản
+cash_balance,xem tiền còn lại
+cash_balance,xem tài khoản còn lại bao nhiêu tiền
+cash_balance,xem số tiền dư
+cash_balance,xem số dư tiền còn lại
+cash_balance,xem dư tiền tài khoản
+cash_balance,xem dư nợ tài khoản
+cash_balance,xem số tiền dư bao nhiêu
+cash_balance,xem số dư tiền bao nhiêu
+cash_balance,xem tài khoản dư bao nhiêu tiền
+cash_balance,xem tài khoản tiền dư bao nhiêu
+cash_balance,xem thông tin tiền của các tài khoản
+cash_balance,xem số dư tiền các tài khoản
+cash_balance,xem thông tin tiền của tài khoản đuôi 1
+cash_balance,xem thông tin tiền của tài khoản đuôi 6
+cash_balance,xem trạng thái tiền của tài khoản đuôi 1
+cash_balance,xem trạng thái tiền của tài khoản đuôi 6
+cash_balance,xem số tiền hiện có
+cash_balance,xem số dư hiện có
+cash_balance,xem tiền của các tài khoản hiện có
+cash_balance,xem dữ liệu tiền của các tài khoản
+cancel,huỷ
+cancel,thôi
+cancel,bỏ qua
+cancel,bỏ đi
+cancel,về lại
+cancel,chức năng chính
+cancel,chứng năng hệ thống
+cancel,trợ giúp
+cancel,help
+cancel,làm được gì
+cancel,làm gì bây giờ
+cancel,quay lại
+cancel,quay về
+cancel,không đặt nữa
+cancel,không làm nữa
+cancel,hủy bỏ
+cancel,loại bỏ
+cancel,dừng
+cancel,hủy lệnh
+cancel,dừng lệnh
+cancel,dừng lại
+cancel,tạm dừng
+cancel,dừng ngay
+cancel,hủy ngay
+cancel,bỏ lệnh
+cancel,bỏ qua lệnh
+cancel,bỏ
+cancel,bỏ đi
+cancel,dừng đi
+cancel,hủy bỏ ngay
+cancel,hủy bỏ lệnh
+cancel,loại bỏ lệnh
+cancel,ngưng lại
+cancel,ngưng lệnh
+cancel,ngừng lệnh
+cancel,ngưng lại
+cancel,ngừng lại
+cancel,trang chủ
+cancel,về
+cancel,về trang chủ
+cancel,trở về trang chủ
+cancel,quay lại trang chủ
+cancel,quay về trang chủ
+cancel,trở lại trang chủ
+cancel,tới trang chủ
+cancel,trở về
+cancel,trở lại
+cancel,làm lại
+cancel,hướng dẫn
+cancel,hỏi đáp
+cancel,dừng đặt lệnh
+cancel,bỏ đặt lệnh
+cancel,dừng làm
+cancel,đừng làm
+cancel,quay trở lại
+cancel,làm lại
+cancel,không khớp lệnh
+cancel,bỏ khớp lệnh
+cancel,dừng khớp lệnh
+cancel,hủy khớp lệnh
+market,TTCK tăng mạnh nhất sau khi Fed nâng lãi suất vẫn chưa chịu dừng lại
+market,Chứng khoán sáng 23/12: Thị trường ảm đạm
+trade,Cảng hàng không Việt Nam sẽ bán 20% cổ phần cho đối tác Pháp
+trade,Sabeco bắt đầu thoái vốn Nhà nước
+market,Giá vàng hôm nay 7/1: Bất ngờ giảm mạnh sau 4 phiên tăng giá
+market,Giá vàng hôm nay 9/1: Ảm đạm đầu tuần
+market,Giá dầu đi xuống trên thị trường châu Á
+market,Chứng khoán sáng 10/1: Cổ tài chính trượt nhẹ, SAB đè chỉ số
+market,Cổ phiếu lớn phân hóa mạnh, hai sàn giảm nhẹ
+market,VN-Index giảm hơn 7 điểm, VNM, STB và MSN thỏa thuận mạnh
+market,Phiên khai xuân: VN-Index vượt 700 điểm
+market,Phiên sáng 3/2: VNM bứt phá, VN-Index duy trì đà tăng
+market,VN-Index vượt 700 điểm, năm Đinh Dậu hứa hẹn triển vọng sáng
+market,Thị trường tiếp tục phân hóa, VN-Index tiến gần đến mốc 690 điểm
+market,Cổ phiếu phân bón bứt phá, hai sàn tăng điểm
+market,Sắc đỏ lấn át, hai sàn giảm nhẹ
+market,Giá vàng, dầu, chứng khoán đồng loạt tăng
+market,Chứng khoán chiều 26/12: Blue-chip hụt hơi, VN-Index rớt điểm
+market,Cuối tuần, giá vàng tăng mạnh
+market,Giá vàng hôm nay 24/12: Tăng mạnh trong lễ Giáng sinh
+trade,Công ty cổ phần Tập đoàn Đầu tư Việt Nam nhận chuyển nhượng thêm 572 triệu cổ phiếu VIC
+trade,Bộ Tài chính nói gì về việc chưa bán hết hơn 52 triệu cổ phiếu Vinamilk?
+trade,Vinaseed tạm ứng cổ tức đợt 1/2016, tỷ lệ 15%
+trade,May mà chỉ bán 9% cổ phần của Vinamilk!
+trade,Ông Trịnh Văn Quyết bạo chi 1.100 tỷ nâng sở hữu tại FLC Faros
+trade,Chứng khoán chiều 28/12: Hơn 400 tỷ đồng cổ phiếu NVL được giao dịch trong phiên đầu tiên
+trade,Giá vàng hôm nay 31/12: Giá vàng tăng vọt ngày cuối năm
+trade,DDM: Vợ Ủy viên HĐQT đăng ký mua 1,6 triệu cổ phiếu
+trade,Ngày 6/1: Khối ngoại mua ròng hơn 125,4 tỷ đồng nhờ thỏa thuận SAB
+trade,Phiên 6/1: Bắt đáy CDO bất thành, khối ngoại tiếp tục mua ròng 125 tỷ đồng
+trade,Ngày 10/1: Khối ngoại trên HOSE bán ròng hơn 19 tỷ đồng, bắt đáy CDO và SIC
+trade,HNF: Kế toán trưởng đăng kí mua 3 triệu cổ phiếu
+trade,Phiên 12/1: Thỏa thuận hơn 3 triệu cổ phiếu HBC, khối ngoại bán ròng mạnh 190 tỷ đồng
+market,Phiên giao dịch trầm lắng
+market,Phiên sáng 9/2: Bluechip phân hóa, VN-Index rung lắc
+market,Phiên chiều 9/2: Dòng tiền hào hứng, VN-Index vẫn hụt bước
+market,Chứng khoán châu Á tăng điểm nhẹ phiên đầu tuần
+market,Giá trị thị trường của S&P 500 vượt mốc 20 ngàn tỷ USD
+market,Chứng khoán sáng 14/2: Trụ lớn mất đà, thị trường điều chỉnh nhẹ
+market,Phiên chiều 14/2: Tiền dồn mạnh vào penny, VN-Index hồi sinh
+market,Thị trường phủ sắc xanh, thanh khoản trên hai sàn xấp xỉ 3.800 tỷ đồng
+market,Sắc xanh tiếp tục chiếm ưu thế, hai sàn tăng điểm
+market,Tiếp tục bị bán mạnh, hai sàn giảm điểm
+market,HPG giao dịch đột biến, VN-Index giảm điểm
+market,Chứng khoán sáng 23/2: Xả mạnh tay, VN-Index giảm điểm
+trade,Quỹ đầu tư Singapore GIC chi gần 1.400 tỷ, nắm 5,21% Vietjet Air
+trade,Techcombank muốn bán tiếp cổ phiếu Vietnam Airlines
+trade,Techcombank tiếp tục đăng ký bán 3,8 triệu cổ phiếu của Vietnam Airline
+trade,Warren Buffett đang mua những cổ phiếu gì?
+trade,Ngày 15/2: Khối ngoại đẩy mạnh mua ròng 102 tỷ đồng
+trade,Techcombank thu 700 tỷ đồng từ bán cổ phiếu Vietnam Airlines
+trade,Pyn Elite Fund đồng loạt bán ra FIT, VNE, DGW
+trade,HPG: Vừa mua xong 3 triệu cp, PENM tiếp tục đăng ký mua thêm 5,5 triệu cổ phiếu
+trade,Khối ngoại mua ròng mạnh VNM và VJC trong phiên đầu tuần ngày 6/3
+trade,Phiên 10/3: Khối ngoại mua ròng 12,5 tỷ đồng ROS
+trade,Cơ hội mua tốt ở blue-chips được ETF bán ròng
+trade,Khối ngoại mua ròng hơn 260 tỷ đồng, bán mạnh NVL trong phiên 13/3
+trade,Công ty của CEO Vietjet chuẩn bị rót 1.900 tỷ đồng mua thêm cổ phiếu VJC
+trade,GEX vừa mua xong Sotrans, nợ vay đã tăng gấp 7 lần
+trade,Khối ngoại mua ròng nhẹ, hơn 20 tỷ đồng trong phiên 15/3
+trade,Khối ngoại mua ròng tới 210 tỷ đồng trong phiên 16/3
+trade,Chủ tịch Lê Vỹ đăng ký mua 100.000 cổ phiếu Phú Tài ngay sau đại hội
+trade,Làm gì khi mua đúng đỉnh cổ phiếu bị thao túng giá?
+trade,Khối ngoại giảm mạnh mua ròng trong phiên 22/3
+trade,Phiên 23/3: Đua lệnh VNM, STB, khối ngoại mua ròng mạnh 281 tỷ đồng
+trade,Tuần qua, khối ngoại mua ròng kỷ lục hơn 1.000 tỷ đồng
+trade,Hé lộ nữ đại gia mua trọn 51% cổ phiếu Bánh kẹo Hải Hà
+trade,Minh Trung đăng ký mua cổ phần khối lượng lớn qua đấu giá
+trade,Lại mua tiếp gần 15 triệu cổ phiếu, tỷ phú Thái vẫn 'đeo bám' chặt Vinamilk
+trade,Góc nhìn kỹ thuật phiên 11/4: Tín hiệu mua được củng cố
+trade,TTF có gì để mua?
+trade,TGDĐ: Mua lại 80.495 cổ phiếu ESOP của nhân viên đã nghỉ việc
+trade,NVL: Chủ tịch Bùi Thành Nhơn đăng ký mua hơn 19,5 triệu cổ phiếu
+trade,Khối ngoại ồ ạt bán ra sau 8 phiên mua ròng liên tiếp trong ngày 20/4
+trade,Chứng khoán chiều 20/4: Khối ngoại giảm mua, VN-Index mất hơn 4 điểm
+trade,Nhận định thị trường phiên 25/4: Chủ động gom mua nhóm cổ phiếu
+trade,Khối ngoại bán mạnh VCB, nhưng vẫn mua ròng 125 tỷ đồng trong phiên 27/4
+trade,Ông Trịnh Văn Quyết chi hàng chục tỷ mua cổ phiếu FLC
+trade,Khối ngoại mua ròng 290 tỷ đồng trong tuần cuối tháng 4
+trade,SCIC 'bội thu' từ bán vốn
+trade,TPBank bán gần 1,5 triệu cổ phiếu HNG trên VSD
+trade,SCIC tiếp tục chào bán CP Xi măng Tiên Sơn Hà Tây
+trade,Chứng khoán chiều 10/1: Vốn ngoại quay ra bán ròng
+trade,Ngày 10/1: Khối ngoại trên HOSE bán ròng hơn 19 tỷ đồng, bắt đáy CDO và SIC
+trade,Gần một nửa tổng số dự án mới 2016 tại Hà Nội được chào bán trong quý IV
+trade,Phiên 12/1: Thỏa thuận hơn 3 triệu cổ phiếu HBC, khối ngoại bán ròng mạnh 190 tỷ đồng
+trade,SCIC 'bội thu' từ bán vốn
+trade,Vì sao hoãn thương vụ bán cổ phần Vietcombank cho quỹ Singapore?
+trade,Gần 1/10 vốn điều lệ Sacombank được chào bán
+trade,Cổ phiếu bánh kẹo chờ “sốt dẻo” mùa Tết
+trade,Chi phí bán hàng tăng đột biến, Digiworld chỉ hoàn thành 50% chỉ tiêu lợi nhuận cả năm
+trade,Techcombank chưa 'chốt lời' được cổ phiếu Vietnam Airlines, tiếp tục đăng ký bán ra
+trade,Vietjet sắp lên sàn, Vietnam Airlines bán và thuê lại 4 máy bay
+trade,Techcombank muốn bán tiếp cổ phiếu Vietnam Airlines
+trade,Techcombank tiếp tục đăng ký bán 3,8 triệu cổ phiếu của Vietnam Airline
+trade,Phiên 14/2: Khối ngoại chốt lời mạnh nhóm sắt thép, bán ra mạnh HPG, HSG và TLH
+trade,Hoàng Anh Gia Lai có thể bán xong thủy điện, mía đường trong quý I
+trade,Hoàng Anh Gia Lai có thể bán xong thủy điện, mía đường trong quý I
+trade,Tiếp tục bị bán mạnh, hai sàn giảm điểm
+trade,Vợ chủ tịch Thủy sản Việt Nhật bán nhà đất bù lỗ cho công ty
+trade,Vietnam Airlines bán cổ phần cho tập đoàn hàng không lớn nhất Nhật Bản
+trade,Cổ đông Vietnam Airlines thông qua việc bán và thuê lại 4 máy bay
+trade,Ngày 22/2: Khối ngoại trên HOSE bán ròng trở lại hơn 21 tỷ đồng
+trade,Sếp Thiên Long xin 'về vườn' sau khi bán sạch cả trăm tỷ đồng cổ phiếu
+trade,Giao dịch trên OTC giá 4.000 đồng, cổ phiếu MaritimeBank được VNPT rao bán giá gấp 3
+trade,Giá vàng hôm nay 26/2: Một cú rớt giá, ồ ạt bán vàng
+trade,Techcombank thu 700 tỷ đồng từ bán cổ phiếu Vietnam Airlines
+trade,Pyn Elite Fund đồng loạt bán ra FIT, VNE, DGW
+trade,Khối ngoại bắt đầu bán ra VJC, bán ròng hơn 120 tỷ đồng trong phiên 7/3
+trade,Phiên 7/3: Khối ngoại tiếp tục gom vào ROS, nhưng lại bán mạnh NLG, CTD
+trade,Cảng hàng không Việt Nam sẽ bán 20% cổ phần cho đối tác Pháp
+trade,VNPT vẫn không thể bán 71 triệu cổ phiếu Maritime Bank
+trade,Cơ hội mua tốt ở blue-chips được ETF bán ròng
+trade,Vietjet đã được chấp thuận chào bán riêng lẻ gần 22,4 triệu cổ phiếu
+trade,Khối ngoại mua ròng hơn 260 tỷ đồng, bán mạnh NVL trong phiên 13/3
+trade,Phiên giao dịch chiều 13/3: ACB bị bán mạnh, 3 sàn chìm trong sắc đỏ
+trade,PVX đăng ký bán toàn bộ 2 triệu cổ phiếu PID
+trade,PTKT tuần (20/03 – 24/03): Áp lực bán sẽ còn tiếp tục diễn ra
+trade,Chứng khoán sáng 21/3: VIC bị bán mạnh, nỗ lực bứt phá khỏi 715 bất thành
+trade,VIX quyết định bán nốt hơn 2 triệu cổ phiếu Quản lý quỹ IB còn lại
+trade,Vinalines chào bán công ty quản lý bảo vệ ụ nổi 83M
+trade,HNF: Tổng giám đốc muốn bán hết cổ phần
+trade,Tân Liên Phát đã bán hơn 36 triệu cổ phiếu Gỗ Trường Thành (TTF)
+trade,Phiên sáng 5/4: ITA bị bán tháo ồ ạt
+trade,Tại sao cổ phiếu Công ty Mỹ thuật được rao bán lên tới gần 1,3 triệu đồng?
+trade,Tập đoàn Bưu chính Viễn thông Việt Nam bán 2,45 triệu cổ phần
+trade,GTN sẽ bán 10 triệu cổ phiếu cho InVest Tây Đại Dương
+trade,Satra bán vốn tại Công ty Cầu Tre: Tập đoàn CJ quyết nắm quyền chi phối?
+trade,Sabeco tiếp tục bán vốn Nhà nước trong năm 2017
+trade,Tổng công ty Hàng hải Việt Nam sẽ bán đấu giá vốn góp hơn 262,5 tỷ đồng
+trade,Khối ngoại ồ ạt bán ra sau 8 phiên mua ròng liên tiếp trong ngày 20/4
+trade,Chứng khoán 24h: Thanh khoản đột biến, 1 tháng khối ngoại bán ròng hơn 22 triệu SHB
+trade,HPG: Quý II chào bán cho cổ đông hiện hữu tỷ lệ 5:1 giá 20.000 đồng/cp
+trade,Bán 49% vốn chủ sở hữu, 'ông lớn' PV Power sẽ vượt mặt đại gia Petrorlimex trên sàn CK
+trade,Petrolimex sẽ bán 20 triệu cổ phiếu quỹ ra thị trường
+trade,Khối ngoại bán mạnh VCB, nhưng vẫn mua ròng 125 tỷ đồng trong phiên 27/4
+trade,Đấu giá bán cổ phần chào bán chứng khoán ra công chúng của công ty cổ phần Đầu tư Apax Holdings
+trade,PLX bán cổ phiếu quỹ để vào VN30
+trade,Chủ tịch Petrolimex: Giá bán cổ phiếu quỹ tối thiểu 47.000 đồng, rất nhiều quỹ nước ngoài đang đặt vấn đề mua lại
+trade,Thêm cổ phần một công ty được bán giá tiền triệu
+trade,Vinalines sắp chào bán 550 triệu USD vốn điều lệ
+trade,SCIC đã bán toàn bộ 100 triệu cổ phiếu Tisco
+cancel,May Phú Thịnh - Nhà Bè hủy niêm yết, dồn sức tái cơ cấu
+cancel,NPS ngừng hoạt động sản xuất may mặc và lên phương án hủy niêm yết
+cancel,ATA bị hủy niêm yết tại HOSE
+cancel,Liên tiếp thua lỗ, cổ phiếu VNH có khả năng bị hủy niêm yết
+cancel,Cổ phiếu Gỗ Trường Thành có khả năng bị hủy niêm yết bắt buộc
+cancel,Chứng khoán 24h: Có nguy cơ bị hủy niêm yết bắt buộc, JVC vẫn được quỹ ngoại mua vào
+cancel,Lỗ vượt vốn, cổ phiếu Vinaship sẽ bị hủy niêm yết từ 21/4
+cancel,Gần 20 cổ phiếu có nguy cơ bị hủy niêm yết
+cancel,Kiểm toán từ chối đưa ý kiến, cổ phiếu HDO chính thức bị hủy niêm yết trên HNX từ ngày 26/05
+cancel,Chưa hoàn tất công tác nhân sự, Coteccons hủy danh sách đại hội cổ đông
+cancel,Khoáng sản Bắc Giang chính thức hủy niêm yết từ ngày 10/08
+cancel,Sau gần 5 tháng tạm ngừng giao dịch, cổ phiếu BGM chính thức bị hủy niêm yết
+cancel,Đường Biên Hòa hủy niêm yết để sáp nhập với công ty mía đường nhà họ Đặng
+cancel,VND chính thức hủy niêm yết tại HNX từ 14/8 để chuyển sàn
+cancel,Trần Anh xin ý kiến bán cổ phần cho MWG và hủy niêm yết tại HNX
+cancel,Trần Anh công khai chuyện 'bán mình' cho TGDĐ, hủy niêm yết cổ phiếu
+cancel,Cổ đông nhỏ TAG thông qua việc hủy niêm yết và để MWG nâng sở hữu lên 25%
+cancel,KHA chốt ngày lấy ý kiến lại việc hủy niêm yết tại HOSE và nhận cổ tức tiền 5%
+cancel,Bán 100 triệu cổ phiếu, TTF có thoát án hủy niêm yết?
+cancel,Muối Khánh Hòa sắp bị hủy giao dịch trên sàn UpCom
+cancel,May Phú Thịnh - Nhà Bè sắp bị hủy niêm yết trên HNX
+cancel,Bán thành công 70 triệu cổ phiếu phát hành riêng lẻ, TTF thoát án hủy niêm yết
+cancel,Sự cố hy hữu, HOSE phải hủy phiên ATC chiều 22-1
+cancel,HoSE lưu ý HAG và HNG có thể bị hủy niêm yết bắt buộc

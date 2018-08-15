@@ -1149,7 +1149,6 @@ thanh_thanh
 thanh_tính
 thanh_điều_kiện
 thanh_điểm
-thay_đổi
 thay_đổi_tình_trạng
 theo
 theo_bước
@@ -1357,7 +1356,6 @@ tìm_bạn
 tìm_cách
 tìm_ra
 tìm_việc
-tình_trạng
 tính
 tính_cách
 tính_căn
@@ -1812,10 +1810,6 @@ xệp
         text = regex.sub('vn-index ', 'vnindex ', text)
         text = regex.sub(' vn-index', ' vnindex', text)
         text = regex.sub(' cp ', ' cổ phiếu ', text)
-        text = regex.sub('cp ', 'cổ phiếu ', text)
-        text = regex.sub(' cp', ' cổ phiếu', text)
-        # this file include acronym and full words
-        df = read_csv('../../data/acronym.csv', header=None, index_col=False, usecols=[2,3], engine='python')
         # use regular expression to replace special characer and acronym
         text = regex.sub("(?s)<ref>.+?</ref>", "", text) # remove reference links
         text = regex.sub("(?s)<[^>]+>", "", text) # remove html tags
@@ -1835,8 +1829,26 @@ xệp
         text = regex.sub("\["," ",text)  # remove [ character
         text = regex.sub("\]"," ",text)  # remove [ character
         text = regex.sub('[@!#$%^&;*()<–>?/\"“”,|0-9}{~:]',' ',text)
-        for i in range(len(df.values)):
-            text = regex.sub(r'%s' % df.values[i][0], r'%s' % df.values[i][1], text)
+        # this file include financial symbols
+        symbol_arr = []
+        with open ('../../data/stockslist.txt',encoding = 'utf-8') as acro_file:
+            lines = acro_file.readlines()
+            for line in lines:
+                symboli = line.rstrip('\n').split(',')
+                symbol_arr.append(' '+ symboli[0].lower() + ' ')
+                # symbol_arr.append(' '+ symboli[0].lower())
+                # symbol_arr.append(symboli[0].lower() +' ')
+        # this file include acronym words
+        acronym_arr = []
+        with open ('../../data/acronym.txt',encoding = 'utf-8') as acro_file:
+            lines = acro_file.readlines()
+            for line in lines:
+                acroi = line.rstrip('\n').split(',')
+                acronym_arr.append(acroi)
+        for i in range(len(acronym_arr)):
+            text = regex.sub(r'%s' % acronym_arr[i][0], r'%s' % acronym_arr[i][1], text)
+        for i in range(len(symbol_arr)):
+            text = regex.sub(r'%s' % symbol_arr[i], '  ', text)
         return text
     
     """
@@ -1875,12 +1887,37 @@ xệp
                         file.write(word + ' ')
             all_sentences_split.append(sentencei)
             # all_words, all_sentences_split = self.replace_acronym(all_words, all_sentences_split, sentence)
-        print ('all_words')
-        print (all_words[:20])
+        # print ('all_words')
+        # print (all_words[:20])
         # print ('all_sentences_split')
         # print (all_sentences_split[:20])
         # lol
         all_words = set(all_words)
+        all_words_final = []
+        # this file include financial symbols
+        symbol_arr = []
+        with open ('../../data/stockslist.txt',encoding = 'utf-8') as acro_file:
+            lines = acro_file.readlines()
+            for line in lines:
+                symboli = line.rstrip('\n').split(',')
+                symbol_arr.append(symboli[0].lower())
+        for word in all_words:
+            if word not in symbol_arr:
+                all_words_final.append(word)
+            
         # print (len(all_words))
-        return all_words, all_sentences_split
-    
+        return all_words_final, all_sentences_split
+    def separate_sentence (self):
+        self.data = self.execute_special_character(self.data)
+        for sentence in sentences:
+            part_of_sentence = sentence.split('  ')
+            for part in part_of_sentence:
+                new_sentences.append(part)
+        all_words = []
+        for sentence in new_sentences:
+            words = ViPosTagger.postagging(ViTokenizer.tokenize(sentence))[0]
+            for i , word in enumerate(words):
+                if(self.is_stop_word(word) == False):
+                    if word not in symbol_arr:
+                        all_words.append(word)
+        return all_words

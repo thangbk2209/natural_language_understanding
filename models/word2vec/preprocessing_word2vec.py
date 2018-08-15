@@ -13,11 +13,16 @@ class Preprocess_W2v:
     def __init__(self, window_size = None, corpus = ""):
         self.window_size = window_size
     def prepare(self):
-        file_to_save_vocab = '../../results/tokenization/vocabulary.csv'
+        file_to_save_vocab = '../../results/tokenization/vocabulary.txt'
         corpus_file = '../../results/tokenization/corpus_cleaned.txt'
-        vocab_df = pd.read_csv(file_to_save_vocab, header=None, index_col=False, usecols=[0], engine='python')
+        # vocab_df = pd.read_csv(file_to_save_vocab, header=None, index_col=False, usecols=[0], engine='python')
         # print (len(vocab_df.values))
-        vocab_raw = vocab_df.values
+        vocab_raw = []
+        print ("create vocab")
+        with open(file_to_save_vocab, encoding="utf8") as vocab_file:
+            lines = vocab_file.readlines()
+            for line in lines:
+                vocab_raw.append(line.rstrip())
         vocab_size = len(vocab_raw)
         # print (vocab_raw[0])
         vocab = []
@@ -38,8 +43,8 @@ class Preprocess_W2v:
         with open(corpus_file, encoding="utf8") as f:
             lines = f.readlines()
         for line in lines:
-            print (line)
-            sentence = line.split(' ')
+            # print (line)
+            sentence = line.rstrip().split(' ')
             if sentence == '':
                 continue
             for i in range(len(sentence)):
@@ -50,7 +55,7 @@ class Preprocess_W2v:
                         continue
                     if(sentence[j] == '\n'):
                         continue
-                    print (sentence[i].strip() ,sentence[j].strip())
+                    # print (sentence[i].strip() ,sentence[j].strip())
                     data.append([sentence[i].strip() ,sentence[j].strip()])
         # print ("----------------data------------------")
         # print (data[:20])

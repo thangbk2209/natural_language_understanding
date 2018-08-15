@@ -1,0 +1,39 @@
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,4,8,0.21492921492921493
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,4,8,0.23037323037323038
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,4,8,0.23037323037323038
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,4,8,0.039525691699604744
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,4,16,0.9288537549407114
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,4,16,0.9367588932806324
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,4,16,0.9209486166007905
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,4,16,0.924901185770751
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,4,16,0.9090909090909091
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,4,16,0.9169960474308301
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,4,16,0.924901185770751
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,4,16,0.9090909090909091
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,4,16,0.7747035573122529
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,4,16,0.9090909090909091
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,4,16,0.932806324110672
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,4,16,0.9288537549407114
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,4,16,0.9407114624505929
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,4,16,0.9169960474308301

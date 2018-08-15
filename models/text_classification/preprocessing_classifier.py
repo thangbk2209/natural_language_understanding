@@ -22,7 +22,8 @@ class PreprocessingDataClassifier:
     def preprocessing_data(self):
         # stop_words = StopWord()
         texts = []
-        intents = []
+        intents_data = [] # danh sách intents trong bộ dữ liệu
+        intents_official = ['end', 'trade', 'cash_balance', 'advice', 'order_status', 'stock_balance', 'market', 'cancel']
         sentences = {}
         with open(self.file_data_classifier, encoding="utf8") as input:
             for line in input :
@@ -30,12 +31,12 @@ class PreprocessingDataClassifier:
                 temp = line.split(",",1)
                 temp[1] = temp[1].lower()
                 texts.append(temp[1])  #list of train_word
-                intents.append(temp[0]) #list of label
+                intents_data.append(temp[0]) #list of label
                 sentences[temp[1]] = temp[0]
-        intents_filter = set(intents)
-        intents = list(intents)
+        intents_filter = intents_official
+        intents = list(intents_data)
         intents_size = len(intents_filter)
-
+        # print (intents)
         """
         create vector one hot for label(intent)
         """
@@ -51,11 +52,15 @@ class PreprocessingDataClassifier:
         for index,intent in enumerate(intents_filter):
             intent2int[intent] = index
             int2intent[index] = intent 
+        print (int2intent)
+        # lol
         for i, sentence in enumerate(texts):
+            # print (i)
             data_cleaner = DataCleaner(sentence)
-            all_words, all_sentences_split = data_cleaner.clean_content()
+            all_words = data_cleaner.separate_sentence()
             data_x_raw = []
             for word in all_words:
+                # print (word)
                 data_x_raw.append(self.vectors[self.word2int[word]])
             for k in range(self.input_size - len(data_x_raw)):
                 padding = np.zeros(self.embedding_dim)
@@ -64,16 +69,8 @@ class PreprocessingDataClassifier:
             label = to_one_hot(intent2int[intents[i]], intents_size)
             x_train.append(data_x_original)
             y_train.append(label)
-        # print('x_train nhe!!!')
-        # print (x_train[0])
         data_classifier_size = len(x_train)
-        train_size = int(data_classifier_size *0.8)
-        #for i in range(len(train_size)):
-        #    train_index
-        
-        
-        #train_index = np.random.choice(data_classifier_size,train_size,replace = False)
-        #train
+        train_size = int(data_classifier_size * 0.8)
         with open('../../data/train/train.txt') as input:
             line = input.readline()
             line = line.strip()
@@ -81,16 +78,12 @@ class PreprocessingDataClassifier:
             train_index = [int(i) for i in temp]
            # print(train_index)
         test_label = []
-        # print ('check train_index')
-        # print (train_index)
-        # print (len(train_index))
-
-        # print(train_index)
         train_x = []
         train_y = []
         test_x = []
         test_y = []
-        
+        # train_x = x_train
+        # train_y = y_train 
         for i in train_index:
             train_x.append(x_train[i])
             train_y.append(y_train[i])
@@ -101,6 +94,10 @@ class PreprocessingDataClassifier:
                 test_label.append(intents[i])
                 test_x.append(x_train[i])
                 test_y.append(y_train[i])
+        # for i in range(data_classifier_size):
+        #     test_label.append(intents[i])
+        #     test_x.append(x_train[i])
+        #     test_y.append(y_train[i])
                 # print (i)
        #  train_x = x_train[i for i in train_index]
        # train_y = y_train[i for i in train_index]

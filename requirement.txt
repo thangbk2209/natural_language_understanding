@@ -2,3 +2,5 @@ pyvi
 spacy
 seaborn
 flask
+plotly
+tensorflow

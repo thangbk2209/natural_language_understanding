@@ -9,7 +9,7 @@ import regex
 
 # Stop words
 # this file is used to save the result of CleanContent
-# file = open('../results/tokenization/corpus_cleaned.txt','w')
+file = open('../results/tokenization/corpus_cleaned.txt','w')
 """
 This class is used to clean stop words, special characters, number, ...
 in corpus and in sentence
@@ -1856,7 +1856,7 @@ xệp
             for part in part_of_sentence:
                 # file.write(part + '\n')
                 new_sentences.append(part)
-        print ("check")
+        # print ("check")
         all_words = []
         all_sentences_split = []
         for sentence in new_sentences:
