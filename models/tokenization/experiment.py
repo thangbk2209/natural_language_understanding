@@ -3,7 +3,7 @@ from data_cleaner import DataCleaner
 import pandas as pd 
 import numpy as np
 import pickle as pk
-corpus_file = '../../data/corpus_test.txt'
+corpus_file = '../../data/corpus.txt'
 file_to_save_vocab = '../../results/tokenization/vocabulary.txt'
 file_to_save_corpus = '../../results/tokenization/corpus_split.csv'
 # read data to a file

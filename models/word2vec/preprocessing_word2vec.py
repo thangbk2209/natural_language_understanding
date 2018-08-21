@@ -75,7 +75,7 @@ class Preprocess_W2v:
         x_train = [] # input word
         y_train = [] # output word
         for i in range(len(data)):
-            print (data[i][0], data[i][1] )
+            # print (data[i][0], data[i][1] )
             x_train.append(to_one_hot(word2int[ data[i][0] ], vocab_size))
             y_train.append(to_one_hot(word2int[ data[i][1] ], vocab_size))
         # convert them to numpy arrays
