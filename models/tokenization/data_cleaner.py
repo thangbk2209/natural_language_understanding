@@ -9,7 +9,7 @@ import regex
 
 # Stop words
 # this file is used to save the result of CleanContent
-file = open('../../results/tokenization/corpus_cleaned.txt','w', encoding="utf8")
+file = open('../../results/tokenization/corpus_test_cleaned.txt','w', encoding="utf8")
 """
 This class is used to clean stop words, special characters, number, ...
 in corpus and in sentence
@@ -1259,7 +1259,6 @@ thốt_nhiên
 thốt_nói
 thốt_thôi
 thộc
-thời_gian
 thời_gian_sử_dụng
 thời_gian_tính
 thời_điểm
@@ -1810,19 +1809,6 @@ xệp
         text = regex.sub('vn-index ', 'vnindex ', text)
         text = regex.sub(' vn-index', ' vnindex', text)
         text = regex.sub(' cp ', ' cổ phiếu ', text)
-<<<<<<< HEAD
-=======
-        text = regex.sub('cp ', 'cổ phiếu ', text)
-        text = regex.sub(' cp', ' cổ phiếu', text)
-        # this file include acronym and full words
-        acronym_arr = []
-        with open ('../../data/acronym.txt',encoding = 'utf-8') as acro_file:
-            lines = acro_file.readlines()
-            for line in lines:
-                acroi = line.rstrip().split(',')
-                acronym_arr.append(acroi)
-        print (acronym_arr)
->>>>>>> 99e3b941a18430b1585d9db19edbe740f6dfc3d6
         # use regular expression to replace special characer and acronym
         text = regex.sub("(?s)<ref>.+?</ref>", "", text) # remove reference links
         text = regex.sub("(?s)<[^>]+>", "", text) # remove html tags
@@ -1849,8 +1835,6 @@ xệp
             for line in lines:
                 symboli = line.rstrip('\n').split(',')
                 symbol_arr.append(' '+ symboli[0].lower() + ' ')
-                # symbol_arr.append(' '+ symboli[0].lower())
-                # symbol_arr.append(symboli[0].lower() +' ')
         # this file include acronym words
         acronym_arr = []
         with open ('../../data/acronym.txt',encoding = 'utf-8') as acro_file:
@@ -1871,6 +1855,13 @@ xệp
     output: corpus and sentence was cleaned
     """
     def clean_content(self):
+        # this file include financial symbols
+        symbol_arr = []
+        with open ('../../data/stockslist.txt',encoding = 'utf-8') as acro_file:
+            lines = acro_file.readlines()
+            for line in lines:
+                symboli = line.rstrip('\n').split(',')
+                symbol_arr.append(symboli[0].lower())
         # acronym word
         print("----------------------before-----")
         print("before data",self.data)
@@ -1894,14 +1885,15 @@ xệp
             sentencei = []
             for i , word in enumerate(words):
                 if(self.is_stop_word(word) == False):
-                    all_words.append(word)
-                    sentencei.append(word)
-                    # print (type(word))
-                    # print (i)
-                    if (i == len(words)-1):
-                        file.write(word + '\n')
-                    else:
-                        file.write(word + ' ')
+                    if word not in symbol_arr:
+                        all_words.append(word)
+                        sentencei.append(word)
+                        # print (type(word))
+                        # print (i)
+                        if (i == len(words)-1):
+                            file.write(word + '\n')
+                        else:
+                            file.write(word + ' ')
                     # print("word oc cho:",word,"word encode:",word.encode("utf-8"))
             all_sentences_split.append(sentencei)
             # all_words, all_sentences_split = self.replace_acronym(all_words, all_sentences_split, sentence)
@@ -1912,13 +1904,7 @@ xệp
         # lol
         all_words = set(all_words)
         all_words_final = []
-        # this file include financial symbols
-        symbol_arr = []
-        with open ('../../data/stockslist.txt',encoding = 'utf-8') as acro_file:
-            lines = acro_file.readlines()
-            for line in lines:
-                symboli = line.rstrip('\n').split(',')
-                symbol_arr.append(symboli[0].lower())
+        
         for word in all_words:
             if word not in symbol_arr:
                 all_words_final.append(word)
