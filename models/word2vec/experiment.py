@@ -12,10 +12,10 @@ def train_model(item):
     word2vec = Word2Vec(window_size = window_size, epoch_word2vec = epoch_word2vec, embedding_dim = embedding_dim,
                         batch_size_word2vec = batch_size_word2vec, file_to_save_trained_data = file_to_save_trained_data)
     vectors, word2int, int2word = word2vec.train()
-window_sizes = [1,2]
-epoch_word2vec = 200
-embedding_dims = [32,50,64,100]
-batch_size_word2vecs = [4,8,16,32,64]
+window_sizes = [2]
+epoch_word2vec = 50
+embedding_dims = [32]
+batch_size_word2vecs = [4]
 # file_to_save_trained_datas = []
 # for window_size in window_sizes:
 #     for embedding_dim in embedding_dims:

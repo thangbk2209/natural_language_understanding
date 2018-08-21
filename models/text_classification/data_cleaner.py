@@ -1908,7 +1908,16 @@ xệp
         # print (len(all_words))
         return all_words_final, all_sentences_split
     def separate_sentence (self):
+         # this file include financial symbols
+        symbol_arr = []
+        with open ('../../data/stockslist.txt',encoding = 'utf-8') as acro_file:
+            lines = acro_file.readlines()
+            for line in lines:
+                symboli = line.rstrip('\n').split(',')
+                symbol_arr.append(symboli[0].lower())
         self.data = self.execute_special_character(self.data)
+        sentences = self.data.split('\n')
+        new_sentences = []
         for sentence in sentences:
             part_of_sentence = sentence.split('  ')
             
@@ -1920,6 +1929,6 @@ xệp
             words = ViPosTagger.postagging(ViTokenizer.tokenize(sentence))[0]
             for i , word in enumerate(words):
                 if(self.is_stop_word(word) == False):
-                    if symbol_arr.includes(word) == False:
+                    if word not in symbol_arr:
                         all_words.append(word)
         return all_words

@@ -13,8 +13,8 @@ class Preprocess_W2v:
     def __init__(self, window_size = None, corpus = ""):
         self.window_size = window_size
     def prepare(self):
-        file_to_save_vocab = '../../results/tokenization/vocabulary.txt'
-        corpus_file = '../../results/tokenization/corpus_cleaned.txt'
+        file_to_save_vocab = '../../results/tokenization/vocabulary_test.txt'
+        corpus_file = '../../results/tokenization/corpus_test_cleaned.txt'
         # vocab_df = pd.read_csv(file_to_save_vocab, header=None, index_col=False, usecols=[0], engine='python')
         # print (len(vocab_df.values))
         vocab_raw = []
@@ -81,12 +81,5 @@ class Preprocess_W2v:
         # convert them to numpy arrays
         x_train = np.asarray(x_train)
         y_train = np.asarray(y_train)
-        # print ('number of samples!!!')
-        # print (len(x_train))
-        # # print(word2int[u'trang chính'])
-        # print(x_train[0])
-        # print(y_train[0])
-        #   print ('x_train')
-        #   print (x_train[0])
-        #   print (y_train[0])
+
         return x_train, y_train, vocab_size, word2int, int2word

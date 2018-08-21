@@ -21,17 +21,17 @@ def read_trained_data(file_trained_data):
     return vectors, word2int, int2word
 def train_model(item):
     batch_size_classifier = item["batch_size_classifier"]
-    summary = open("../../results/text_classification/ANN_ver2_2layer.csv",'a+')
+    summary = open("../../results/text_classification/ANN_ver3_2layer.csv",'a+')
     summary.write("window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy\n")
     
     for window_size in window_sizes:
         for embedding_dim in embedding_dims:
             for batch_size_word2vec in batch_size_word2vecs:
-                file_to_save_word2vec_data = '../../results/word2vec/ver2/ws-' + str(window_size) + '-embed-' + str(embedding_dim) + 'batch_size-' + str(batch_size_word2vec) + '.pkl'
+                file_to_save_word2vec_data = '../../results/word2vec/ver3/ws-' + str(window_size) + '-embed-' + str(embedding_dim) + 'batch_size-' + str(batch_size_word2vec) + '.pkl'
                 
                 vectors, word2int, int2word = read_trained_data(file_to_save_word2vec_data)
 
-                file_to_save_classified_data = '../../results/text_classification/ANN_ver2_2layer/ws-' + str(window_size) + '-embed-' + str(embedding_dim) + 'batch_size_w2c-' + str(batch_size_word2vec) + 'batch_size_cl' + str(batch_size_classifier)
+                file_to_save_classified_data = '../../results/text_classification/ANN_ver3_2layer/ws-' + str(window_size) + '-embed-' + str(embedding_dim) + 'batch_size_w2c-' + str(batch_size_word2vec) + 'batch_size_cl' + str(batch_size_classifier)
                 
                 classifier = Classifier(vectors, word2int, int2word, input_size, num_classes, window_size, 
                         epoch_classifier ,embedding_dim,batch_size_classifier, optimizer_method,
@@ -41,24 +41,25 @@ def train_model(item):
                 # print (int2intent)
 window_sizes = [2]
 embedding_dims = [32]
-batch_size_word2vecs = [4]
+batch_size_word2vecs = [8]
 file_to_save_word2vec_datas = []
 input_size = 16
 num_classes = 8
-epoch_classifier = 50
+epoch_classifier = 500
 
 file_data_classifier = '../../data/text_classifier_ver2.txt'
 # file_to_save_classified_data = "test.pkl"
 optimizer_method = OPTIMIZER_BY_GRADIENT
-batch_size_classifiers = [16]
+batch_size_classifiers = [4]
 param_grid = {
     'batch_size_classifier': batch_size_classifiers,
 }
 for item in list(ParameterGrid(param_grid)) :
     queue.put_nowait(item)
 # Consumer
-pool = Pool(16)
-pool.map(train_model, list(queue.queue))
-pool.close()
-pool.join()
-pool.terminate()
+if __name__ == '__main__':
+    pool = Pool(16)
+    pool.map(train_model, list(queue.queue))
+    pool.close()
+    pool.join()
+    pool.terminate()

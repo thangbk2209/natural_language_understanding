@@ -9,7 +9,7 @@ import regex
 
 # Stop words
 # this file is used to save the result of CleanContent
-file = open('../../results/tokenization/corpus_cleaned.txt','w', encoding="utf8")
+file = open('../../results/tokenization/corpus_test_cleaned.txt','w', encoding="utf8")
 """
 This class is used to clean stop words, special characters, number, ...
 in corpus and in sentence
@@ -1259,7 +1259,6 @@ thốt_nhiên
 thốt_nói
 thốt_thôi
 thộc
-thời_gian
 thời_gian_sử_dụng
 thời_gian_tính
 thời_điểm
@@ -1810,8 +1809,6 @@ xệp
         text = regex.sub('vn-index ', 'vnindex ', text)
         text = regex.sub(' vn-index', ' vnindex', text)
         text = regex.sub(' cp ', ' cổ phiếu ', text)
-        text = regex.sub('cp ', 'cổ phiếu ', text)
-        text = regex.sub(' cp', ' cổ phiếu', text)
         # use regular expression to replace special characer and acronym
         text = regex.sub("(?s)<ref>.+?</ref>", "", text) # remove reference links
         text = regex.sub("(?s)<[^>]+>", "", text) # remove html tags
@@ -1838,8 +1835,6 @@ xệp
             for line in lines:
                 symboli = line.rstrip('\n').split(',')
                 symbol_arr.append(' '+ symboli[0].lower() + ' ')
-                # symbol_arr.append(' '+ symboli[0].lower())
-                # symbol_arr.append(symboli[0].lower() +' ')
         # this file include acronym words
         acronym_arr = []
         with open ('../../data/acronym.txt',encoding = 'utf-8') as acro_file:
@@ -1909,6 +1904,7 @@ xệp
         # lol
         all_words = set(all_words)
         all_words_final = []
+        
         for word in all_words:
             if word not in symbol_arr:
                 all_words_final.append(word)
