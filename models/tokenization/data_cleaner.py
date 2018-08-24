@@ -9,7 +9,7 @@ import regex
 
 # Stop words
 # this file is used to save the result of CleanContent
-file = open('../../results/tokenization/corpus_test_cleaned.txt','w', encoding="utf8")
+file = open('../../results/tokenization/corpus_cleaned.txt','w', encoding="utf8")
 """
 This class is used to clean stop words, special characters, number, ...
 in corpus and in sentence

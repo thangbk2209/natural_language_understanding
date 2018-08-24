@@ -20,3 +20,12 @@ window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
 window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
 window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
 2,32,4,4,0.8972332015810277
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,8,4,0.9234042553191489
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,8,4,0.9063829787234042
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,8,4,0.9361702127659575
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,8,4,0.948936170212766

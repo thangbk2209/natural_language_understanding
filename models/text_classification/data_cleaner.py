@@ -1902,7 +1902,7 @@ xệp
                 symboli = line.rstrip('\n').split(',')
                 symbol_arr.append(symboli[0].lower())
         for word in all_words:
-            if symbol_arr.includes(word) == False:
+            if word not in symbol_arr:
                 all_words_final.append(word)
             
         # print (len(all_words))

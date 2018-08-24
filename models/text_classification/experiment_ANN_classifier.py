@@ -41,11 +41,11 @@ def train_model(item):
                 # print (int2intent)
 window_sizes = [2]
 embedding_dims = [32]
-batch_size_word2vecs = [4]
+batch_size_word2vecs = [8]
 file_to_save_word2vec_datas = []
 input_size = 16
 num_classes = 8
-epoch_classifier = 50
+epoch_classifier = 500
 
 file_data_classifier = '../../data/text_classifier_ver2.txt'
 # file_to_save_classified_data = "test.pkl"
@@ -57,8 +57,9 @@ param_grid = {
 for item in list(ParameterGrid(param_grid)) :
     queue.put_nowait(item)
 # Consumer
-pool = Pool(16)
-pool.map(train_model, list(queue.queue))
-pool.close()
-pool.join()
-pool.terminate()
+if __name__ == '__main__':
+    pool = Pool(16)
+    pool.map(train_model, list(queue.queue))
+    pool.close()
+    pool.join()
+    pool.terminate()

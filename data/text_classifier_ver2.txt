@@ -160,6 +160,9 @@ trade,tôi muốn đặt lệnh mua khối lượng mã chứng khoán abc giá 
 trade,tôi muốn đặt lệnh bán mã chứng khoán abc giá 1000 với khối lượng
 trade,tôi muốn đặt lệnh bán mã chứng khoán abc với khối lượng giá 1000
 trade,tôi muốn đặt lệnh bán khối lượng mã chứng khoán abc giá 1000
+market,giá cổ phiếu ssi như thế nào?
+market,mã ssi hôm nay có ổn không?
+market,mã ssi hôm nay có biến động nhiều không?
 market,thị trường chứng khoán hôm nay thế nào nhỉ?
 market,thị trường chứng khoán Việt Nam hôm nay thế nào nhỉ?
 market,thị trường chứng khoán Việt Nam hôm nay thế nào?
@@ -383,6 +386,8 @@ market,Sắc xanh tiếp tục chiếm ưu thế, hai sàn tăng điểm
 market,Tiếp tục bị bán mạnh, hai sàn giảm điểm
 market,HPG giao dịch đột biến, VN-Index giảm điểm
 market,Chứng khoán sáng 23/2: Xả mạnh tay, VN-Index giảm điểm
+stock_balance,tôi còn bao nhiêu cổ phiếu nữa
+stock_balance,lượng ssi còn lại của tôi là bao nhiêu
 stock_balance,số dư chứng khoán
 stock_balance,danh mục ra sao
 stock_balance,tài khoản đuôi 1 có bao chứng khoán
@@ -581,6 +586,7 @@ stock_balance,xem cho tôi danh mục đầu tư của tôi
 stock_balance,xem cho tôi danh mục cổ phiếu
 stock_balance,xem cho tôi danh mục cổ phiếu của tôi
 stock_balance,xem cho tôi danh mục cổ phiếu hiện có
+cash_balance,tôi còn bao nhiêu tiền
 cash_balance,trạng thái tiền
 cash_balance,tình trạng tiền
 cash_balance,tiền
@@ -827,6 +833,18 @@ end,tắt
 end,tắt chương trình
 end,chào nhé
 end,kết thúc
+advice,với thị trường này, có nên mua ssi không?
+advice,với thị trường này, có nên mua 300 cổ phiếu ssi giá 12.4 không?
+advice,cho tôi xin ý kiến về thị trường hôm nay
+advice,ý kiến của bạn về thị trường hôm nay
+advice,bạn nghĩ thị trường hôm nay sẽ thế nào
+advice,bạn nghĩ mã ssi hôm nay thế nào
+advice,bạn nghĩ mã ssi hôm nay sẽ tăng hay giảm
+advice,mua 100 cổ phiếu ssi giá 39.5 có nên không
+advice,bán 100 cổ phiếu ssi giá 34.5 có nên không
+advice,có nên mua ssi hôm nay không
+advice,có nên bán ssi không
+advice,bán ssi giá 12.5 liệu có ổn không nhỉ
 advice,có nên mua bán không
 advice,mã được không
 advice,có nên bán
@@ -880,6 +898,7 @@ advice,bạn nghĩ thị trường hôm nay thế nào?
 advice,ý kiến của bạn về thị trường hôm nay?
 advice,bạn nghĩ thế nào về thị trường hôm nay?
 advice,bạn nghĩ thị trường hôm nay sẽ thế nào?
+order_status,đã khớp lệnh chưa
 order_status,trạng thái lệnh
 order_status,lệnh của tôi khớp chưa
 order_status,tình trạng lệnh
