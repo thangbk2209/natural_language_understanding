@@ -13,8 +13,10 @@ input = "bỏ qua lệnh"
 input_size = 16
 window_size = 2
 embedding_dim = 32
+
 batch_size_word2vec = 4
 file_to_save_word2vec_data = '../../results/word2vec/ver4/ws-' + str(window_size) + '-embed-' + str(embedding_dim) + 'batch_size-' + str(batch_size_word2vec) + '.pkl'
+
                 
 vectors, word2int, int2word = read_trained_data(file_to_save_word2vec_data)
 # prepare data for test
@@ -34,8 +36,8 @@ int2intent = {0: 'end', 1: 'trade', 2: 'cash_balance', 3: 'advice', 4: 'order_st
 # create session, restore model and prediction
 with tf.Session() as sess:
     #First let's load meta graph and restore weights
-    saver = tf.train.import_meta_graph('../../results/text_classification/ANN_1layers_256/ws-2-embed-32batch_size_w2c-4batch_size_cl4.meta')
-    saver.restore(sess,tf.train.latest_checkpoint('../../results/text_classification/ANN_1layers_256/'))
+    saver = tf.train.import_meta_graph('../../results/text_classification/ANN_ver3_2layer_test_pretrain/ws-2-embed-32batch_size_w2c-8batch_size_cl4.meta')
+    saver.restore(sess,tf.train.latest_checkpoint('../../results/text_classification/ANN_ver3_2layer_test_pretrain/'))
     # Access and create placeholders variables and
     graph = tf.get_default_graph()
     x = graph.get_tensor_by_name("x:0")

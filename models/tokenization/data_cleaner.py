@@ -9,7 +9,7 @@ import regex
 
 # Stop words
 # this file is used to save the result of CleanContent
-file = open('../../results/tokenization/corpus_test_cleaned.txt','w', encoding="utf8")
+file = open('../../results/tokenization/corpus_cleaned.txt','w', encoding="utf8")
 """
 This class is used to clean stop words, special characters, number, ...
 in corpus and in sentence
@@ -21,7 +21,7 @@ class DataCleaner:
     def __init__(self, data = None):
         self.data = data
         # stop words set
-        self.STOP_WORDS = set("""
+         self.STOP_WORDS = set("""
 a_lô
 a_ha
 ai
@@ -36,6 +36,7 @@ ba_bau
 ba_bản
 ba_cùng
 ba_họ
+bạn
 ba_ngày
 ba_ngôi
 ba_tăng
@@ -160,6 +161,7 @@ bởi_thế
 bởi_thế_cho_nên
 bởi_tại
 bởi_đâu
+bớt
 bức
 cao_lâu
 cao_ráo
@@ -209,6 +211,7 @@ chính_thị
 chính_điểm
 chùn_chùn
 chùn_chũn
+chú
 chú_dẫn
 chú_khách
 chú_mày
@@ -243,6 +246,7 @@ chỉ_có
 chỉ_là
 chỉ_tên
 chỉn
+chị
 chị_bộ
 chị_ấy
 chịu_chưa
@@ -445,6 +449,7 @@ dễ_đâu
 dở_chừng
 dữ
 dữ_cách
+em
 em_em
 giảm_chính
 giảm_thế
@@ -1136,6 +1141,7 @@ thanh_thanh
 thanh_tính
 thanh_điều_kiện
 thanh_điểm
+thay_đổi
 thay_đổi_tình_trạng
 theo
 theo_bước
@@ -1244,6 +1250,7 @@ thốt_nhiên
 thốt_nói
 thốt_thôi
 thộc
+thời_gian
 thời_gian_sử_dụng
 thời_gian_tính
 thời_điểm

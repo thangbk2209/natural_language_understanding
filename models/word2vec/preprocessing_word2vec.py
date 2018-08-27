@@ -13,8 +13,8 @@ class Preprocess_W2v:
     def __init__(self, window_size = None, corpus = ""):
         self.window_size = window_size
     def prepare(self):
-        file_to_save_vocab = '../../results/tokenization/vocabulary_test.txt'
-        corpus_file = '../../results/tokenization/corpus_test_cleaned.txt'
+        file_to_save_vocab = '../../results/tokenization/vocabulary.txt'
+        corpus_file = '../../results/tokenization/corpus_cleaned.txt'
         # vocab_df = pd.read_csv(file_to_save_vocab, header=None, index_col=False, usecols=[0], engine='python')
         # print (len(vocab_df.values))
         vocab_raw = []
