@@ -124,7 +124,6 @@ bệt
 bị
 bị_chú
 bị_vì
-bỏ
 bỏ_bà
 bỏ_cha
 bỏ_cuộc
@@ -151,6 +150,7 @@ bộ_thuộc
 bộ_điều
 bội_phần
 bớ
+bớt
 bởi
 bởi_ai
 bởi_chưng
@@ -302,7 +302,6 @@ cái_ấy
 câu_hỏi
 cây
 cây_nước
-còn
 còn_như
 còn_nữa
 còn_thời_gian
@@ -457,7 +456,6 @@ giờ_đi
 giờ_đây
 giờ_đến
 giữ
-giữ_lấy
 giữ_ý
 giữa_lúc
 gây
@@ -478,7 +476,6 @@ gần_đến
 gặp_phải
 hay_biết
 hay_hay
-hay_không
 hay_làm
 hay_nhỉ
 hay_nói
@@ -495,6 +492,7 @@ hơn_hết
 hơn_là
 hơn_nữa
 hơn_trước
+hết
 hết_chuyện
 hết_cả
 hết_của
@@ -596,7 +594,6 @@ lâu_ngày
 lên_cơn
 lên_nước
 lên_số
-lên_đến
 lòng
 lòng_không
 lúc
@@ -614,7 +611,6 @@ lượng
 lượng_cả
 lượng_số
 lượng_từ
-lại
 lại_bộ
 lại_cái
 lại_còn
@@ -627,7 +623,6 @@ lại_quả
 lại_thôi
 lại_ăn
 lại_đây
-lấy
 lấy_có
 lấy_cả
 lấy_giống
@@ -729,7 +724,6 @@ nghe_đâu_như
 nghe_được
 nghen
 nghiễm_nhiên
-nghĩ
 nghĩ_lại
 nghĩ_ra
 nghĩ_tới
@@ -802,12 +796,10 @@ nhé
 nhìn
 nhìn_chung
 nhìn_lại
-nhìn_nhận
 nhìn_theo
 nhìn_thấy
 nhìn_xuống
 nhón_nhén
-như
 như_ai
 như_chơi
 như_không
@@ -816,7 +808,6 @@ như_nhau
 như_quả
 như_sau
 như_thường
-như_thế
 như_thể
 như_trên
 như_trước
@@ -874,7 +865,6 @@ những_là
 những_lúc
 những_muốn
 những_như
-nào
 nào_cũng
 nào_hay
 nào_là
@@ -883,7 +873,6 @@ nào_đâu
 nào_đó
 này
 này_nọ
-nên
 nên_chi
 nên_chăng
 nên_làm
@@ -1007,9 +996,7 @@ qua_tay
 qua_thì
 qua_đi
 quan_trọng_vấn_đề
-quay
 quay_bước
-quay_lại
 quay_số
 quay_đi
 quá
@@ -1179,6 +1166,7 @@ tháng
 tháng_ngày
 tháng_năm
 tháng_tháng
+thêm
 thêm_chuyện
 thêm_giờ
 thêm_vào
@@ -1195,7 +1183,6 @@ thích_thuộc
 thích_tự
 thích_ý
 thím
-thôi
 thôi_việc
 thúng_thắng
 thương_ôi
@@ -1234,12 +1221,10 @@ thật_sự
 thật_thà
 thật_tốt
 thật_vậy
-thế
 thế_chuẩn_bị
 thế_là
 thế_lại
 thế_mà
-thế_nào
 thế_nên
 thế_ra
 thế_sự
@@ -1370,7 +1355,6 @@ tù_tì
 tăm_tắp
 tăng_chúng
 tăng_cấp
-tăng_giảm
 tăng_thêm
 tại
 tại_lòng
@@ -1390,7 +1374,6 @@ tấm_bản
 tấm_các
 tấn
 tấn_tới
-tất_cả_bao_nhiêu
 tất_thảy
 tất_tần_tật
 tất_tật
@@ -1402,7 +1385,6 @@ tỏ_ra
 tỏ_vẻ
 tốc_tả
 tối_ư
-tốt
 tốt_bạn
 tốt_bộ
 tốt_hơn
@@ -1507,7 +1489,6 @@ vậy_nên
 vậy_ra
 vậy_thì
 vậy_ư
-về
 về_không
 về_nước
 về_phần
@@ -1535,11 +1516,9 @@ xa_tanh
 xa_tắp
 xa_xa
 xa_xả
-xem
 xem_lại
 xem_ra
 xem_số
-xin
 xin_gặp
 xin_vâng
 xiết_bao
@@ -1693,7 +1672,6 @@ xệp
 đầy_phè
 đầy_tuổi
 đặc_biệt
-đặt
 đặt_làm
 đặt_mình
 đặt_mức
@@ -1894,6 +1872,9 @@ xệp
                             file.write(word + '\n')
                         else:
                             file.write(word + ' ')
+                elif(self.is_stop_word(word) == True):
+                    print (word)
+                    file.write('\n')
                     # print("word oc cho:",word,"word encode:",word.encode("utf-8"))
             all_sentences_split.append(sentencei)
             # all_words, all_sentences_split = self.replace_acronym(all_words, all_sentences_split, sentence)

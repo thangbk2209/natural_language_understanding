@@ -30,7 +30,10 @@ tphcm,thành phố hồ chí minh
  tp , thành phố 
 gtgd,giá trị giao dịch
 bctc,báo cáo tài chính
-bđs ,bất động sản
+bđs,bất động sản
+ntn,như thế nào
+đk,được
+ko,không
 kqkd,kết quả kinh doanh
  nwc , net working capital 
 tmcp,thương mại cổ phần

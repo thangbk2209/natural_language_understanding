@@ -8,7 +8,7 @@ def train_model(item):
     window_size = item["window_size"]
     embedding_dim = item["embedding_dim"]
     batch_size_word2vec = item["batch_size_word2vec"]
-    file_to_save_trained_data = '../../results/word2vec/ver3/ws-' + str(window_size) + '-embed-' + str(embedding_dim) + 'batch_size-' + str(batch_size_word2vec) + '.pkl'
+    file_to_save_trained_data = '../../results/word2vec/ver4/ws-' + str(window_size) + '-embed-' + str(embedding_dim) + 'batch_size-' + str(batch_size_word2vec) + '.pkl'
     word2vec = Word2Vec(window_size = window_size, epoch_word2vec = epoch_word2vec, embedding_dim = embedding_dim,
                         batch_size_word2vec = batch_size_word2vec, file_to_save_trained_data = file_to_save_trained_data)
     vectors, word2int, int2word = word2vec.train()
@@ -33,7 +33,7 @@ for item in list(ParameterGrid(param_grid)) :
     queue.put_nowait(item)
 # Consumer
 if __name__ == '__main__':
-    pool = Pool(4)
+    pool = Pool(1)
     pool.map(train_model, list(queue.queue))
     pool.close()
     pool.join()

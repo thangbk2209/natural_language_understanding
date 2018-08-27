@@ -994,9 +994,7 @@ cancel,bỏ qua
 cancel,bỏ đi
 cancel,về lại
 cancel,chức năng chính
-cancel,chứng năng hệ thống
-cancel,trợ giúp
-cancel,help
+cancel,chức năng hệ thống
 cancel,làm được gì
 cancel,làm gì bây giờ
 cancel,quay lại
@@ -1036,8 +1034,6 @@ cancel,tới trang chủ
 cancel,trở về
 cancel,trở lại
 cancel,làm lại
-cancel,hướng dẫn
-cancel,hỏi đáp
 cancel,dừng đặt lệnh
 cancel,bỏ đặt lệnh
 cancel,dừng làm

@@ -14,7 +14,7 @@ input_size = 16
 window_size = 2
 embedding_dim = 32
 batch_size_word2vec = 4
-file_to_save_word2vec_data = '../../results/word2vec/ws-' + str(window_size) + '-embed-' + str(embedding_dim) + 'batch_size-' + str(batch_size_word2vec) + '.pkl'
+file_to_save_word2vec_data = '../../results/word2vec/ver4/ws-' + str(window_size) + '-embed-' + str(embedding_dim) + 'batch_size-' + str(batch_size_word2vec) + '.pkl'
                 
 vectors, word2int, int2word = read_trained_data(file_to_save_word2vec_data)
 # prepare data for test

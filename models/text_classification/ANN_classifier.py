@@ -112,9 +112,11 @@ class Classifier:
             if i not in train_index:
                 y.append(i)
         for i in range(len(predict)):
-            # print (y[i],',',self.test_label[i],',',predict[i])
+            
             if(predict[i] == self.test_label[i]):
                 correct +=1
+            else:
+                print (y[i],',',self.test_label[i],',',predict[i])
         accuracy = correct/len(self.test_label)
         print ("accuracy: ", accuracy)
         return accuracy, self.int2intent

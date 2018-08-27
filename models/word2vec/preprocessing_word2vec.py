@@ -28,7 +28,7 @@ class Preprocess_W2v:
         vocab = []
         for i in range(vocab_size):
             vocab.append(vocab_raw[i])
-        # print (vocab)
+        print (vocab)
         word2int = {}   # Word and coresponding number
         int2word = {}   # integer number and coresponding word
         # vocab_size = len(words) # gives the total number of unique words

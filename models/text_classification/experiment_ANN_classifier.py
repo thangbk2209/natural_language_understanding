@@ -21,17 +21,17 @@ def read_trained_data(file_trained_data):
     return vectors, word2int, int2word
 def train_model(item):
     batch_size_classifier = item["batch_size_classifier"]
-    summary = open("../../results/text_classification/ANN_ver3_2layer.csv",'a+')
+    summary = open("../../results/text_classification/ANN_ver4_2layer.csv",'a+')
     summary.write("window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy\n")
     
     for window_size in window_sizes:
         for embedding_dim in embedding_dims:
             for batch_size_word2vec in batch_size_word2vecs:
-                file_to_save_word2vec_data = '../../results/word2vec/ver3/ws-' + str(window_size) + '-embed-' + str(embedding_dim) + 'batch_size-' + str(batch_size_word2vec) + '.pkl'
+                file_to_save_word2vec_data = '../../results/word2vec/ver4/ws-' + str(window_size) + '-embed-' + str(embedding_dim) + 'batch_size-' + str(batch_size_word2vec) + '.pkl'
                 
                 vectors, word2int, int2word = read_trained_data(file_to_save_word2vec_data)
 
-                file_to_save_classified_data = '../../results/text_classification/ANN_ver3_2layer/ws-' + str(window_size) + '-embed-' + str(embedding_dim) + 'batch_size_w2c-' + str(batch_size_word2vec) + 'batch_size_cl' + str(batch_size_classifier)
+                file_to_save_classified_data = '../../results/text_classification/ANN_ver4_2layer/ws-' + str(window_size) + '-embed-' + str(embedding_dim) + 'batch_size_w2c-' + str(batch_size_word2vec) + 'batch_size_cl' + str(batch_size_classifier)
                 
                 classifier = Classifier(vectors, word2int, int2word, input_size, num_classes, window_size, 
                         epoch_classifier ,embedding_dim,batch_size_classifier, optimizer_method,
@@ -41,7 +41,7 @@ def train_model(item):
                 # print (int2intent)
 window_sizes = [2]
 embedding_dims = [32]
-batch_size_word2vecs = [8]
+batch_size_word2vecs = [4]
 file_to_save_word2vec_datas = []
 input_size = 16
 num_classes = 8
