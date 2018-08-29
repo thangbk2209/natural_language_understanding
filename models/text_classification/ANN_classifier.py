@@ -47,7 +47,7 @@ class Classifier:
         preprocessing_data = PreprocessingDataClassifier(self.vectors, self.embedding_dim, self.input_size, self.word2int, self.int2word, file_data_classifier)
         # preprocessing_data = PreprocessingDataClassifier(self.vectors, self.embedding_dim, self.input_size,file_data_classifier)
         print ('----------------------start training -----------------------')
-        self.x_train, self.y_train, self.x_test, self.y_test, self.int2intent, self.test_label = preprocessing_data.preprocessing_data()
+        self.x_train, self.y_train, self.x_test, self.y_test, self.int2intent, self.test_label, self.all_sentences = preprocessing_data.preprocessing_data()
         # Create graph
         tf.reset_default_graph()
         x = tf.placeholder(tf.float32, name="x", shape=(None, self.input_size, self.embedding_dim))
@@ -65,7 +65,7 @@ class Classifier:
         elif self.optimizer_method == self.OPTIMIZER_BY_SGD:
             a = 0
         elif self.optimizer_method == self.OPTIMIZER_BY_ADAM:
-            optimizer = tf.train.AdamOptimizer(0.1).minimize(cross_entropy_loss)
+            optimizer = tf.train.AdamOptimizer(0.05).minimize(cross_entropy_loss)
         sess = tf.Session()
         init = tf.global_variables_initializer()
         # Add ops to save and restore all the variables.
@@ -101,6 +101,7 @@ class Classifier:
         for i in range(len(prediction)):
             predict.append(self.int2intent[np.argmax(prediction[i])])
         correct = 0
+        fail_file = open('../../results/text_classification/fail.txt','w')
         with open('../../data/train/train.txt') as input:
             line = input.readline()
             line = line.strip()
@@ -115,8 +116,8 @@ class Classifier:
             
             if(predict[i] == self.test_label[i]):
                 correct +=1
-            else:
-                print (y[i],',',self.test_label[i],',',predict[i])
+            # print (y[i]+1,',',self.all_sentences[y[i]],',',self.test_label[i],',',predict[i])
+            fail_file.write(str(y[i]+1)+" ")
         accuracy = correct/len(self.test_label)
         print ("accuracy: ", accuracy)
         return accuracy, self.int2intent

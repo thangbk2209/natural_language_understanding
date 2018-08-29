@@ -3,6 +3,7 @@ ubcknn, ủy ban chứng khoán nhà nước
 tbtcvn, thời báo tài chính việt nam 
  pv , phóng viên 
 sgdck,sở giao dịch chứng khoán
+gdck,giao dịch chứng khoán
  dn , doanh nghiệp 
  ck , chứng khoán 
  hn , hà nội 

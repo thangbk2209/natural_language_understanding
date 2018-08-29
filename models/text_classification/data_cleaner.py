@@ -36,6 +36,7 @@ ba_bau
 ba_bản
 ba_cùng
 ba_họ
+bạn
 ba_ngày
 ba_ngôi
 ba_tăng
@@ -150,7 +151,6 @@ bộ_thuộc
 bộ_điều
 bội_phần
 bớ
-bớt
 bởi
 bởi_ai
 bởi_chưng
@@ -160,6 +160,7 @@ bởi_thế
 bởi_thế_cho_nên
 bởi_tại
 bởi_đâu
+bớt
 bức
 cao_lâu
 cao_ráo
@@ -209,6 +210,7 @@ chính_thị
 chính_điểm
 chùn_chùn
 chùn_chũn
+chú
 chú_dẫn
 chú_khách
 chú_mày
@@ -243,6 +245,7 @@ chỉ_có
 chỉ_là
 chỉ_tên
 chỉn
+chị
 chị_bộ
 chị_ấy
 chịu_chưa
@@ -445,6 +448,7 @@ dễ_đâu
 dở_chừng
 dữ
 dữ_cách
+em
 em_em
 giảm_chính
 giảm_thế
@@ -455,7 +459,7 @@ giờ_lâu
 giờ_đi
 giờ_đây
 giờ_đến
-giữ
+giữ_lấy
 giữ_ý
 giữa_lúc
 gây
@@ -476,6 +480,7 @@ gần_đến
 gặp_phải
 hay_biết
 hay_hay
+hay_không
 hay_làm
 hay_nhỉ
 hay_nói
@@ -492,7 +497,6 @@ hơn_hết
 hơn_là
 hơn_nữa
 hơn_trước
-hết
 hết_chuyện
 hết_cả
 hết_của
@@ -594,6 +598,7 @@ lâu_ngày
 lên_cơn
 lên_nước
 lên_số
+lên_đến
 lòng
 lòng_không
 lúc
@@ -611,6 +616,7 @@ lượng
 lượng_cả
 lượng_số
 lượng_từ
+lại
 lại_bộ
 lại_cái
 lại_còn
@@ -654,6 +660,7 @@ mang_mang
 mang_nặng
 mang_về
 mà
+mày
 mà_cả
 mà_không
 mà_lại
@@ -724,6 +731,7 @@ nghe_đâu_như
 nghe_được
 nghen
 nghiễm_nhiên
+nghĩ
 nghĩ_lại
 nghĩ_ra
 nghĩ_tới
@@ -779,6 +787,7 @@ nhanh_lên
 nhanh_tay
 nhau
 nhiên_hậu
+nhiều
 nhiều_ít
 nhiệt_liệt
 nhung_nhăng
@@ -800,6 +809,7 @@ nhìn_theo
 nhìn_thấy
 nhìn_xuống
 nhón_nhén
+như
 như_ai
 như_chơi
 như_không
@@ -808,6 +818,7 @@ như_nhau
 như_quả
 như_sau
 như_thường
+như_thế
 như_thể
 như_trên
 như_trước
@@ -865,6 +876,7 @@ những_là
 những_lúc
 những_muốn
 những_như
+nào
 nào_cũng
 nào_hay
 nào_là
@@ -907,7 +919,6 @@ năm
 năm_tháng
 nơi
 nơi_nơi
-nước
 nước_bài
 nước_cùng
 nước_lên
@@ -996,7 +1007,9 @@ qua_tay
 qua_thì
 qua_đi
 quan_trọng_vấn_đề
+quay
 quay_bước
+quay_lại
 quay_số
 quay_đi
 quá
@@ -1025,7 +1038,6 @@ ra_lại
 ra_lời
 ra_ngôi
 ra_người
-ra_sao
 ra_tay
 ra_vào
 ra_ý
@@ -1122,13 +1134,13 @@ sự
 sự_thế
 tanh
 tanh_tanh
+tao
 tay
 tay_quay
 tha_hồ
 tha_hồ_chơi
 tha_hồ_ăn
 than_ôi
-thanh
 thanh_ba
 thanh_chuyển
 thanh_không
@@ -1183,6 +1195,7 @@ thích_thuộc
 thích_tự
 thích_ý
 thím
+thôi
 thôi_việc
 thúng_thắng
 thương_ôi
@@ -1221,6 +1234,7 @@ thật_sự
 thật_thà
 thật_tốt
 thật_vậy
+thế
 thế_chuẩn_bị
 thế_là
 thế_lại
@@ -1244,6 +1258,7 @@ thốt_nhiên
 thốt_nói
 thốt_thôi
 thộc
+thời_gian
 thời_gian_sử_dụng
 thời_gian_tính
 thời_điểm
@@ -1252,7 +1267,6 @@ thứ
 thứ_bản
 thứ_đến
 thửa
-thực_hiện
 thực_hiện_đúng
 thực_ra
 thực_sự
@@ -1355,6 +1369,7 @@ tù_tì
 tăm_tắp
 tăng_chúng
 tăng_cấp
+tăng_giảm
 tăng_thêm
 tại
 tại_lòng
@@ -1374,6 +1389,7 @@ tấm_bản
 tấm_các
 tấn
 tấn_tới
+tất_cả_bao_nhiêu
 tất_thảy
 tất_tần_tật
 tất_tật
@@ -1489,6 +1505,7 @@ vậy_nên
 vậy_ra
 vậy_thì
 vậy_ư
+về
 về_không
 về_nước
 về_phần
@@ -1519,6 +1536,7 @@ xa_xả
 xem_lại
 xem_ra
 xem_số
+xin
 xin_gặp
 xin_vâng
 xiết_bao
@@ -1614,7 +1632,6 @@ xệp
 đáng_lý
 đáng_lẽ
 đáng_số
-đánh_giá
 đánh_đùng
 đáo_để
 đâu
@@ -1812,7 +1829,7 @@ xệp
             lines = acro_file.readlines()
             for line in lines:
                 symboli = line.rstrip('\n').split(',')
-                symbol_arr.append(' '+ symboli[0].lower() + ' ')
+                symbol_arr.append( ' ' +symboli[0].lower() + ' ')
                 # symbol_arr.append(' '+ symboli[0].lower())
                 # symbol_arr.append(symboli[0].lower() +' ')
         # this file include acronym words

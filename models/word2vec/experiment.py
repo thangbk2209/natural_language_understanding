@@ -4,18 +4,15 @@ from multiprocessing import Pool
 from queue import Queue
 from sklearn.model_selection import ParameterGrid
 queue = Queue()
-def train_model(item):
-    window_size = item["window_size"]
-    embedding_dim = item["embedding_dim"]
-    batch_size_word2vec = item["batch_size_word2vec"]
-    file_to_save_trained_data = '../../results/word2vec/ver4/ws-' + str(window_size) + '-embed-' + str(embedding_dim) + 'batch_size-' + str(batch_size_word2vec) + '.pkl'
+def train_model(window_size, embedding_dim, batch_size_word2vec):
+    file_to_save_trained_data = '../../results/word2vec/ver5/ws-' + str(window_size) + '-embed-' + str(embedding_dim) + 'batch_size-' + str(batch_size_word2vec) + '.pkl'
     word2vec = Word2Vec(window_size = window_size, epoch_word2vec = epoch_word2vec, embedding_dim = embedding_dim,
                         batch_size_word2vec = batch_size_word2vec, file_to_save_trained_data = file_to_save_trained_data)
     vectors, word2int, int2word = word2vec.train()
-window_sizes = [2]
-epoch_word2vec = 50
+window_size = 2
+epoch_word2vec = 200
 embedding_dims = [32]
-batch_size_word2vecs = [4]
+batch_size_word2vecs = [16]
 # file_to_save_trained_datas = []
 # for window_size in window_sizes:
 #     for embedding_dim in embedding_dims:
@@ -23,18 +20,11 @@ batch_size_word2vecs = [4]
 #             file_to_save_trained_data = '../../results/word2vec/ws-' + str(window_size) + '-embed-' + str(embedding_dim) + 'batch_size-' + str(batch_size_word2vec) + '.pkl'
 #             file_to_save_trained_datas.append(file_to_save_trained_data)
 
-param_grid = {
-    'window_size': window_sizes,
-    'embedding_dim': embedding_dims,
-    'batch_size_word2vec': batch_size_word2vecs,
-}
 
-for item in list(ParameterGrid(param_grid)) :
-    queue.put_nowait(item)
+
+
 # Consumer
 if __name__ == '__main__':
-    pool = Pool(1)
-    pool.map(train_model, list(queue.queue))
-    pool.close()
-    pool.join()
-    pool.terminate()
+    for batch_size_word2vec in batch_size_word2vecs:
+        for embedding_dim in embedding_dims:
+            train_model(window_size,embedding_dim,batch_size_word2vec)

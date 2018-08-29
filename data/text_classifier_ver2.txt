@@ -312,6 +312,12 @@ market,diễn biến thị trường
 market,diễn biến hôm nay của thị trường
 market,diễn biến hôm nay
 market,diễn biến giao dịch hôm nay
+market,thanh khoản thế nào rồi
+market,thanh khoản ssi thế nào
+market,thanh khoản ssi có gì đột biến không
+market,thanh khoản ssi tăng hay giảm
+market,thanh khoản ssi trong 3 tháng qua như thế nào
+market,thanh khoản ssi hôm nay thế nào
 market,kết quả giao dịch
 market,kết quả giao dịch hiện tại
 market,thông tin cổ phiếu

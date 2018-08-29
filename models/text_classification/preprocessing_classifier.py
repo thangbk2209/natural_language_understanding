@@ -49,16 +49,19 @@ class PreprocessingDataClassifier:
         
         x_train = []
         y_train = []
+        all_sentences = []
         for index,intent in enumerate(intents_filter):
             intent2int[intent] = index
             int2intent[index] = intent 
-        print (int2intent)
+        # print (int2intent)
         # lol
         for i, sentence in enumerate(texts):
             # print (i)
             data_cleaner = DataCleaner(sentence)
             all_words = data_cleaner.separate_sentence()
             data_x_raw = []
+            # print (i)
+            # print (all_words)
             for word in all_words:
                 # print (word)
                 data_x_raw.append(self.vectors[self.word2int[word]])
@@ -67,8 +70,10 @@ class PreprocessingDataClassifier:
                 data_x_raw.append(padding)
             data_x_original = data_x_raw
             label = to_one_hot(intent2int[intents[i]], intents_size)
+
             x_train.append(data_x_original)
             y_train.append(label)
+            all_sentences.append(all_words)
         data_classifier_size = len(x_train)
         train_size = int(data_classifier_size * 0.8)
         with open('../../data/train/train.txt') as input:
@@ -104,4 +109,4 @@ class PreprocessingDataClassifier:
        # test_x = x_train[i for i not in train_index]
        # test_y = y_train[i for i not in train_index ]
         
-        return train_x, train_y, test_x, test_y, int2intent,test_label
+        return train_x, train_y, test_x, test_y, int2intent,test_label, all_sentences

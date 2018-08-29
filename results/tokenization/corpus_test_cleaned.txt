@@ -9,21 +9,24 @@ tín_hiệu giao_dịch
 
 phiên cho 
 đà tăng 
-chững lại 
-có dấu_hiệu quay đầu
+chững 
+
+có dấu_hiệu 
+đầu
 đóng_cửa 
 tăng nhẹ
 
 trong 
 hầu_hết 
 chỉ_số 
-như
+
 hnxindex giảm 
 cho 
 sự_biến_động trái chiều 
 
 khoản toàn thị_trường 
-duy_trì tốt 
+duy_trì 
+
 
 
 tỷ đồng trong 
@@ -35,7 +38,7 @@ tỷ đồng
 tỷ đồng
 
 cổ_phiếu 
-như
+
 
 
 đóng_góp cho chiều tăng 
@@ -51,8 +54,10 @@ sức_kéo giảm
 
 cho 
 chỉ_số không duy_trì 
-đà tăng tốt 
-quay đầu sụt_giảm nhẹ 
+đà tăng 
+
+
+đầu sụt_giảm nhẹ 
 
 phiên
 nhóm cổ_phiếu ngân_hàng diễn_biến trái chiều 
@@ -61,8 +66,10 @@ nhóm cổ_phiếu ngân_hàng diễn_biến trái chiều
 
 tăng nhẹ trong 
 đa_số 
-cổ_phiếu ngân_hàng còn lại giảm 
-nhẹ như
+cổ_phiếu ngân_hàng 
+
+giảm 
+nhẹ 
 
 
 
@@ -102,7 +109,7 @@ dẫn_đầu
 
 cổ_phiếu nhóm ngành sản_xuất 
 giảm 
-như
+
 
 
 
@@ -129,7 +136,7 @@ sàn hose
 áp_lực bán ròng tập_trung 
 
 cổ_phiếu 
-như
+
 
 triệu cổ_phiếu
 
@@ -175,11 +182,13 @@ ngăn_cản
 hồi_phục 
 thị_trường 
 trong bối_cảnh 
-tin_tức hỗ_trợ như kết_quả kinh_doanh
+tin_tức hỗ_trợ 
+kết_quả kinh_doanh
 quí
 
 
-công_bố như hiện_tại thị_trường 
+công_bố 
+hiện_tại thị_trường 
 nhiều cổ_phiếu 
 
 
@@ -193,11 +202,13 @@ chỉ_số
 
 đi 
 áp_lực điều_chỉnh 
-quay trở_lại 
+
+trở_lại 
 
 thị_trường nhiều khả_năng 
 điều_chỉnh 
-củng_cố lại trong 
+củng_cố 
+trong 
 phiên giao_dịch tới 
 
 sidway 
@@ -216,7 +227,8 @@ mức_độ hưng_phấn
 
 đầu phiên giao_dịch 
 
-chỉ_số tăng suốt thời_gian trong phiên mặc_dù hơi chùng xuống 
+chỉ_số tăng suốt 
+trong phiên mặc_dù hơi chùng xuống 
 
 phiên
 đóng_cửa tăng nhẹ
@@ -233,14 +245,15 @@ tỷ đồng
 
 khoản 
 
-tốt
+
 dòng tiền luân_chuyển 
 nhiều nhóm ngành 
 
 
 nhóm ngành 
 có 
-cổ_phiếu tăng_giá tốt trong 
+cổ_phiếu tăng_giá 
+trong 
 
 xét 
 góc_độ vốn_hóa 
@@ -253,9 +266,12 @@ có diễn_biến khá ngược
 
 phiên hôm_qua 
 tăng 
-tốt hầu_hết thời_gian trong phiên hôm_nay 
+
+hầu_hết 
+trong phiên hôm_nay 
 bất_ngờ suy_yếu 
-giảm nhẹ về 
+giảm nhẹ 
+
 phiên dẫn_đầu 
 
 
@@ -273,7 +289,8 @@ giảm trong
 
 
 
-tăng nhẹ nhóm cổ_phiếu ngành xây_dựng tăng tốt phiên hôm_nay 
+tăng nhẹ nhóm cổ_phiếu ngành xây_dựng tăng 
+phiên hôm_nay 
 
 dẫn_dắt 
 khối ngoại_giao_dịch 
@@ -348,7 +365,8 @@ nhiều nhóm ngành
 
 chỉ_số 
 
-tăng cho nhịp hồi_phục tiếp_diễn tiến về 
+tăng cho nhịp hồi_phục tiếp_diễn tiến 
+
 kháng_cự 
 chúng_tôi kỳ_vọng 
 
@@ -412,7 +430,7 @@ chiều ngược_lại
 gặp áp_lực bán 
 giá cao
 
-cổ_phiếu như
+cổ_phiếu 
 
 
 
@@ -424,7 +442,8 @@ nhiều cổ_phiếu
 có phiên giao_dịch tích_cực 
 duy_trì sắc xanh trong suốt phiên 
 đà tăng 
-dần về 
+dần 
+
 phiên
 mở cửa thận_trọng 
 giao_dịch trong phạm_vi 
@@ -461,7 +480,7 @@ cổ_phiếu giảm
 
 
 phiên 
-hồi trở_lại như
+hồi trở_lại 
 
 
 
@@ -474,7 +493,8 @@ tăng tiếp_diễn trong
 có
 giảm nhẹ
 nhóm cổ_phiếu ngân_hàng có diễn_biến đồng thuận trở_lại 
-hầu_hết cổ_phiếu ngân_hàng tăng tốt phiên hôm_nay dẫn_đầu 
+hầu_hết cổ_phiếu ngân_hàng tăng 
+phiên hôm_nay dẫn_đầu 
 
 
 
@@ -492,11 +512,12 @@ tâm_lý thị_trường
 nhóm cổ_phiếu ngành chứng_khoán 
 có diễn_biến tích_cực tương_tự 
 nhiều cổ_phiếu tăng 
-tốt trong 
+
+trong 
 tăng trần 
 
 
-tăng khá tốt
+tăng khá 
 nhóm cổ_phiếu dầu_khí 
 
 điều_chỉnh 
@@ -510,16 +531,19 @@ tăng trần
 
 
 tăng khá 
-diễn_biến nhóm ngành dầu_khí thời_gian 
+diễn_biến nhóm ngành dầu_khí 
+
 
 tích_cực 
 
 
 pvn công_bố ký_kết phát_triển dự_án 
 vàng đại_nguyệt 
-khả_năng khởi_động lại 
+khả_năng khởi_động 
+
 loạt dự_án dầu_khí 
-như block b ô_môn
+
+block b ô_môn
 sư_tử trắng giai_đoạn
 
 dự_án mở_rộng nhà_máy lọc dầu bình_sơn trong bối_cảnh giá dầu brent diễn_biến tích_cực duy_trì giá 
@@ -550,7 +574,7 @@ bán ròng
 
 cái 
 quên 
-như
+
 
 
 
@@ -570,7 +594,8 @@ phiên ảm đảm
 
 
 mức 
-tăng tốt 
+tăng 
+
 số_lượng cổ_phiếu tăng áp_đảo
 
 cổ_phiếu nhóm ngành ngân_hàng
@@ -581,7 +606,7 @@ dòng tiền
 tăng nổi_bật trở_lại 
 tâm_lý tích_cực
 mặc_dù 
-chỉ_số như
+chỉ_số 
 
 chưa thoát hẳn 
 
@@ -604,12 +629,15 @@ chưa cao
 biến_động trái chiều 
 
 
-nhiều xáo_trộn về 
+nhiều xáo_trộn 
+
 
 
 dòng tiền 
-luân_chuyển tốt 
-cổ_phiếu nào có câu_chuyện 
+luân_chuyển 
+
+cổ_phiếu 
+có câu_chuyện 
 
 
 
@@ -617,7 +645,8 @@ tách nhóm
 
 đi lên
 chỉ_số
-quay trở_lại 
+
+trở_lại 
 cản
 
 
@@ -630,7 +659,7 @@ phục_hồi
 góp_phần đẩy chỉ_số
 chúng_tôi 
 duy_trì cái 
-kém tích_cực về
+kém tích_cực 
 
 
 thận_trọng 
@@ -649,7 +678,8 @@ tăng dần trạng_thái ngắn_hạn
 
 có_thể 
 tích_cực
-chúng_tôi nghĩ chỉ_số
+chúng_tôi 
+chỉ_số
 
 
 duy_trì xu_hướng tăng_giá chậm 
@@ -676,7 +706,8 @@ kỳ_hạn
 
 
 kỳ_hạn 
-như 
+
+
 
 quý
 
@@ -721,7 +752,7 @@ tuyên_truyền
 càng 
 đẩy_mạnh 
 
-
+hết
 
 
 chia_sẻ 
@@ -733,7 +764,8 @@ phóng_viên
 thời báo tài_chính việt_nam
 nhân 
 báo_chí cách_mạng việt_nam
-trong thời_gian 
+trong 
+
 
 
 chỉ_đạo 
@@ -754,7 +786,8 @@ hội_nhập kinh_tế
 
 có 
 
-thành_công như 
+thành_công 
+
 hôm_nay
 
 
@@ -779,7 +812,8 @@ truyền_hình
 phóng_viên theo_dõi mảng chứng_khoán 
 
 hỗ_trợ đồng_hành 
-cơ_quan quản_lý tuyên_truyền về cơ_chế chính_sách
+cơ_quan quản_lý tuyên_truyền 
+cơ_chế chính_sách
 công_tác chỉ_đạo điều_hành phát_triển thị_trường
 báo_chí 
 phát_huy 
@@ -813,7 +847,8 @@ nhà_báo
 phóng_viên cho 
 phát_triển 
 thị_trường chứng_khoán
-trong suốt thời_gian 
+trong suốt 
+
 pv
 thị_trường chứng_khoán 
 
@@ -868,7 +903,8 @@ hoạt_động
 
 thành_viên thị_trường 
 
-tốt 
+
+
 
 sở giao_dịch chứng_khoán
 sở giao_dịch chứng_khoán
@@ -916,14 +952,14 @@ phát_triển thị_trường trong giai_đoạn
 ủy_ban chứng_khoán nhà_nước
 
 coi_trọng công_tác thông_tin
-tuyên_truyền về chứng_khoán
+tuyên_truyền 
+chứng_khoán
 thị_trường chứng_khoán
 
 càng 
 đẩy_mạnh 
 
-
-chất_lượng thông_tin tuyên_truyền 
+hết chất_lượng thông_tin tuyên_truyền 
 
 đổi_mới
 
@@ -963,7 +999,8 @@ khá phức_tạp
 có định_hướng 
 giải_pháp 
 
-tăng_cường công_tác tuyên_truyền về thị_trường 
+tăng_cường công_tác tuyên_truyền 
+thị_trường 
 thưa 
 
 phạm hồng_sơn
@@ -982,7 +1019,7 @@ công_chúng đầu_tư
 
 chú_trọng
 
-mục_tiêu truyền_đạt kiến_thức về
+mục_tiêu truyền_đạt kiến_thức 
 thị_trường chứng_khoán
 phái_sinh 
 tổng_quát
@@ -1063,7 +1100,8 @@ lớp_học cho
 
 trang_bị cho 
 
-kiến_thức cơ_bản về thị_trường
+kiến_thức cơ_bản 
+thị_trường
 ủy_ban chứng_khoán nhà_nước
 
 
@@ -1081,7 +1119,8 @@ trong giai_đoạn đầu chuẩn_bị
 cho thị_trường
 hnx 
 xây_dựng hệ_thống thông_tin 
-cơ_sở dữ_liệu đào_tạo về chứng_khoán phái_sinh 
+cơ_sở dữ_liệu đào_tạo 
+chứng_khoán phái_sinh 
 website
 thiết_kế
 triển_khai xây_dựng tờ_rơi sản_phẩm
@@ -1094,7 +1133,8 @@ thành_viên giao_dịch
 
 nói_chuyện 
 sếp 
-doanh_nghiệp về hóa_chất
+doanh_nghiệp 
+hóa_chất
 
 
 
@@ -1124,10 +1164,12 @@ chứng_chỉ có giá tri chuyển_đổi thành tiền chứng_chỉ có_thể
 giấy chứng_nhận phát_hành cổ_phiếu
 trái_phiếu công_ty hoặc dữ_liệu điện_tử trong máy_tính 
 trung_tâm lưu ký chứng_khoán
-xác_nhận bạn 
+xác_nhận 
+
 mua cổ_phiếu 
 
-công_ty nào 
+công_ty 
+
 chơi chứng_khoán 
 đơn_giản 
 
@@ -1137,9 +1179,11 @@ bán
 thanh_toán 
 công_ty môi_giới chứng_khoán 
 công_việc 
-bạn 
 
-đặt lệnh cho công_ty_chứng_khoán 
+
+
+
+lệnh cho công_ty_chứng_khoán 
 nên 
 
 công_ty_chứng_khoán uy_tín 
@@ -1158,7 +1202,8 @@ thành_viên
 sở giao_dịch 
 
 mở tài_khoản
-bạn có_thể 
+
+có_thể 
 nhà_đặt lệnh mua_bán 
 điện_thoại hặc interrnet
 thông_qua 
@@ -1167,7 +1212,8 @@ môi_giới
 
 
 nhân_viên môi_giới 
-giúp bạn 
+giúp 
+
 thủ_tục 
 mở tài_khoản chứng_khoán nộp 
 tiền nhất_định
@@ -1181,8 +1227,10 @@ thị_trường chứng_khoán
 
 nộp 
 tiền 
-bạn có 
-tài_khoản chứng_khoán bạn 
+
+có 
+tài_khoản chứng_khoán 
+
 có quyền mua chứng_khoán 
 
 tiền trong tài_khoản chứng_khoán 
@@ -1192,20 +1240,28 @@ lệnh mua
 
 trừ đi phí giao_dịch 
 công_ty_chứng_khoán 
-có_thể quyết_định mua loại cổ_phiếu nào có 
+có_thể quyết_định mua loại cổ_phiếu 
+có 
 nhiều 
 nhân_viên môi_giới 
-hổ trợ bạn về 
-thông_số kỹ_thuật bạn tìm_hiểu về công_ty 
-bạn 
+hổ trợ 
+
+
+thông_số kỹ_thuật 
+tìm_hiểu 
+công_ty 
+
+
 quan_tâm 
 tất_cả 
 kênh
 kiến_thức 
-bạn có 
+
+có 
 phán_đoán 
 quyết_định 
-website hổ_trợ về chứng_khoán
+website hổ_trợ 
+chứng_khoán
 cafef
 vietstock
 chungkhoanaz
@@ -1214,7 +1270,8 @@ chungkhoanaz
 phát_triển 
 
 kinh_tế
-nhu_cầu về tích vốn trong xã_hội tăng lên 
+nhu_cầu 
+tích vốn trong xã_hội tăng lên 
 trở_nên đa_dạng
 phong_phú
 
@@ -1259,7 +1316,8 @@ tiêu_dùng
 đầu_tư
 
 đòn_bẩy cho phát_triển kinh_tế căn_cứ 
-thời_gian luân_chuyển vốn
+
+luân_chuyển vốn
 thị_trường tài_chính bao_gồm
 thị_trường tiền_tệ
 mua_bán
@@ -1273,13 +1331,16 @@ trao_đổi
 công_cụ tài_chính trung 
 dài_hạn
 ban_đầu nhu_cầu vốn 
-như tiết_kiệm trong dân chưa cao 
-nhu_cầu về vốn chủ_yếu 
+
+tiết_kiệm trong dân chưa cao 
+nhu_cầu 
+vốn chủ_yếu 
 vốn ngắn_hạn 
-thời_gian
+
 
 phát_triển kinh_tế
-nhu_cầu về vốn dài_hạn cho đầu_tư phát_triển 
+nhu_cầu 
+vốn dài_hạn cho đầu_tư phát_triển 
 cao
 
 
@@ -1294,7 +1355,8 @@ vốn dài_hạn
 cạnh 
 đi vay ngân_hàng thông_qua hình_thức tài_chính gián_tiếp
 chính_phủ 
-doanh_nghiệp còn huy_động vốn thông_qua hình_thức phát_hành chứng_khoán
+doanh_nghiệp 
+huy_động vốn thông_qua hình_thức phát_hành chứng_khoán
 
 
 bộ_phận 
@@ -1342,7 +1404,8 @@ thị_trường chứng_khoán
 
 
 kết_quả 
-về khung pháp_lý
+
+khung pháp_lý
 thể_chế chính_sách 
 
 
@@ -1367,7 +1430,8 @@ xung_đột
 
 văn_bản pháp_luật 
 có liên_quan
-về cơ_bản thống_nhất 
+
+cơ_bản thống_nhất 
 luat doanh nghiep va luat dau tu
 phù_hợp 
 
@@ -1390,7 +1454,9 @@ cạnh kết_quả
 
 
 luật_chứng_khoán 
-còn hẹp về phạm_vi điều_chỉnh
+
+hẹp 
+phạm_vi điều_chỉnh
 
 
 bao_hàm 
@@ -1402,7 +1468,8 @@ thị_trường chứng_khoán
 thông_lệ quốc_tế
 
 quy_định 
-văn_bản hướng_dẫn luật_chứng_khoán còn chồng_chéo
+văn_bản hướng_dẫn luật_chứng_khoán 
+chồng_chéo
 chưa thống_nhất 
 
 văn_bản pháp_luật 
@@ -1455,7 +1522,7 @@ sụt_giảm liên_tục trong
 
 
 mức vốn_hóa thị_trường giảm 
-xuống còn
+xuống 
 
 
 
@@ -1537,7 +1604,8 @@ sở giao_dịch chứng_khoán không nhiều
 hoạt_động phát_hành 
 
 công_ty đại_chúng 
-còn 
+
+
 
 tự_phát
 không hoàn_toàn dựa 
@@ -1579,7 +1647,8 @@ cạnh
 tuân_thủ chào_bán ra_công_chúng 
 đăng_ký 
 ủy_ban chứng_khoán nhà_nước
-còn hạn_chế
+
+hạn_chế
 
 
 thời_kỳ 
@@ -1593,15 +1662,18 @@ nên
 rủi_ro tiềm_ẩn cho
 thị_trường chứng_khoán
 
-hoạt_động phát_hành trái_phiếu chính_phủ còn nhiều bất_cập
-công_tác kế_hoạch_hoá phát_hành trái_phiếu chưa tốt
-cơ_chế phát_hành trái_phiếu còn nhiều bất_cập
+hoạt_động phát_hành trái_phiếu chính_phủ 
+nhiều bất_cập
+công_tác kế_hoạch_hoá phát_hành trái_phiếu chưa 
+cơ_chế phát_hành trái_phiếu 
+nhiều bất_cập
 chưa có 
 tổ_chức tạo_lập thị_trường trái_phiếu chính_phủ 
 nghĩa 
 đảm_bảo thành_công cho 
 đợt phát_hành 
-như 
+
+
 
 
 khoản cho thị_trường 
@@ -1618,7 +1690,8 @@ hoạt_động
 thị_trường chứng_khoán
 
 có mức tăng_trưởng 
-về giá 
+
+giá 
 
 cung hàng_hóa khan_hiếm
 chỉ_số việt nam index liên_tục tăng 
@@ -1675,7 +1748,8 @@ hastcindex
 
 trong 
 
-xét về khối_lượng giao_dịch
+xét 
+khối_lượng giao_dịch
 
 
 
@@ -1705,7 +1779,8 @@ tổ_chức đăng_ký niêm_yết
 hẹp 
 thị_trường tự_do
 thị_trường otc
-mặc_dù còn nhiều loại cổ_phiếu giao_dịch 
+mặc_dù 
+nhiều loại cổ_phiếu giao_dịch 
 thị_trường otc
 chủ_yếu 
 
@@ -1787,7 +1862,8 @@ hệ_thống giao_dịch trái_phiếu
 hệ_thống 
 tổ_chức kinh_doanh
 dịch_vụ chứng_khoán phát_triển 
-về quy_mô 
+
+quy_mô 
 năng_lực nghiệp_vụ
 
 hệ_thống mạng_lưới chi_nhánh
@@ -1810,7 +1886,8 @@ cho
 tận 
 
 chưa có 
-công_ty quản_lý quỹ nào 
+công_ty quản_lý quỹ 
+
 
 hoạt_động
 
@@ -1834,7 +1911,8 @@ có
 ngân_hàng lưu ký 
 tổ_chức mở tài_khoản 
 hiếm có 
-thị_trường chứng_khoán nào 
+thị_trường chứng_khoán 
+
 
 
 trải 
@@ -1861,7 +1939,8 @@ không có
 ghê_gớm
 chủ_tịch ủy_ban chứng_khoán nhà_nước vũ 
 
-lại 
+
+
 thăng_trầm 
 ngành chứng_khoán việt nam trong
 năm_qua
@@ -1869,7 +1948,8 @@ năm_qua
 thị_trường
 chúng_ta hình_dung 
 
-tranh cơ_sở ban_đầu về thị_trường cổ_phiếu
+tranh cơ_sở ban_đầu 
+thị_trường cổ_phiếu
 thị_trường trái_phiếu chính_phủ
 thị_trường trái_phiếu doanh_nghiệp
 thị_trường_phái_sinh
@@ -1878,7 +1958,8 @@ phát_triển
 
 thị_trường_phái_sinh 
 đa_dạng 
-như sản_phẩm phái_sinh 
+
+sản_phẩm phái_sinh 
 vàng
 hàng_hóa
 lãi_suất … 
@@ -1945,7 +2026,8 @@ lạm_phát tăng cao
 có 
 giáo_sư 
 đức
-lần nào gặp 
+lần 
+gặp 
 
 
 
@@ -1961,7 +2043,8 @@ mặt
 
 chọc cho 
 vỡ 
-còn 
+
+
 
 
 vỡ 
@@ -1979,7 +2062,9 @@ chúng_tôi
 
 kiến_nghị 
 thị_trường 
-nóng như thế 
+nóng 
+
+
 thắt dòng vốn 
 
 đổ_vỡ kinh_nghiệm thái lan cho 
@@ -1990,7 +2075,8 @@ biện_pháp
 
 
 đầu_tư nước_ngoài rút vốn ồ_ạt 
-thị_trường sụp_đổ còn 
+thị_trường sụp_đổ 
+
 
 
 mức bộ_trưởng tài_chính thái lan 
@@ -2014,7 +2100,8 @@ quyết_định
 chưa cần_thiết 
 áp_dụng 
 biện_pháp kiểm_soát vốn nước_ngoài
-ví_dụ như trong sự_kiện brexit
+ví_dụ 
+trong sự_kiện brexit
 cử_tri 
 
 rời liên_minh châu âu
@@ -2043,7 +2130,8 @@ thị_trường asean
 tạo_lập diễn_đàn thị_trường_vốn asean 
 hướng tới 
 thị_trường_vốn asean 
-tầm_cỡ về quy_mô 
+tầm_cỡ 
+quy_mô 
 hút 
 
 đầu_tư 
@@ -2059,7 +2147,8 @@ thị_trường tài_chính lên mức cao
 có_thể khẳng_định
 thị_trường chứng_khoán
 phái_sinh 
-lại nhiều cơ_hội cho 
+
+nhiều cơ_hội cho 
 doanh_nghiệp 
 
 đầu_tư
@@ -2068,7 +2157,8 @@ doanh_nghiệp
 
 
 doanh_nghiệp 
-có nhiều cơ_hội tốt 
+có nhiều cơ_hội 
+
 
 huy_động vốn cho hoạt_động_sản_xuất kinh_doanh 
 
@@ -2110,7 +2200,8 @@ vận_hành
 quý
 quy_mô thị_trường trái_phiếu chính_phủ hiện_nay ước 
 khoảng
-gdp tốc_độ tăng_trưởng bình_quân về quy_mô trong
+gdp tốc_độ tăng_trưởng bình_quân 
+quy_mô trong
 
 
 lên 
@@ -2175,7 +2266,8 @@ tới
 quỹ hưu_trí
 mặc_dù 
 ngành quản_lý quỹ 
-còn 
+
+
 ngành non_trẻ 
 
 
@@ -2194,7 +2286,7 @@ nhiều sự_biến_động
 hàng_loạt 
 doanh_nghiệp quy_mô vốn 
 hàng trăm
-hàng nghìn_tỷ đồng như
+hàng nghìn_tỷ đồng 
 
 
 
@@ -2233,7 +2325,8 @@ thị_trường chứng_khoán
 cầu_nối cho 
 doanh_nghiệp thoái 
 khoản vốn 
-như 
+
+
 thị_trường chứng_khoán
 việt nam khởi_đầu 
 
@@ -2257,10 +2350,13 @@ trong môi_trường cạnh_tranh
 cho 
 
 
-công_ty_chứng_khoán có nền_tảng về con_người
-về vốn
+công_ty_chứng_khoán có nền_tảng 
+con_người
+
+vốn
 công_nghệ
-quản_trị tốt 
+quản_trị 
+
 chiến_lược rõ_ràng
 
 
@@ -2280,7 +2376,8 @@ quyết_định tăng lãi_suất đồng usd lần
 trong 
 
 dự_kiến 
-còn tăng 
+
+tăng 
 lần 
 trong 
 
@@ -2342,10 +2439,12 @@ tăng_giá
 
 đồng_tiền 
 
-không tốt 
+không 
+
 giảm 
 
-không tốt nên 
+không 
+nên 
 ngân_hàng nhà_nước điều_chỉnh tăng chậm 
 phù_hợp 
 xu_hướng quốc_tế 
@@ -2407,7 +2506,8 @@ chưa
 tăng_giá 
 
 đồng_tiền 
-ví_dụ như euro hay yên nhật
+ví_dụ 
+euro hay yên nhật
 
 
 quốc_gia đầu_tư khá nhiều 
@@ -2476,7 +2576,8 @@ dự_kiến nâng lãi_suất tới
 lần trong 
 
 cao 
-lần như dự_báo 
+lần 
+dự_báo 
 
 hồi 
 động_thái 
@@ -2495,9 +2596,12 @@ giá
 
 đồng
 
-khá ổn_định như trong thời_gian 
+khá ổn_định 
+trong 
 
-có nhiều lý_do như 
+
+có nhiều lý_do 
+
 khoản usd dồi_dào
 dự_trữ ngoại_hối 
 lên tới 
@@ -2545,7 +2649,8 @@ vượt
 ngưỡng
 
 
-hướng về mức
+hướng 
+mức
 phiên giao_dịch 
 tuần
 
@@ -2580,14 +2685,16 @@ có phiên giao_dịch tăng
 
 khoản chưa 
 cải_thiện
-còn trong bối_cảnh hiện_nay
+
+trong bối_cảnh hiện_nay
 thị_trường đan_xen hồi_phục 
 có_thể xuất_hiện cơ_hội đầu_tư trong ngắn_hạn 
 đầu_tư 
 
 nên lựa_chọn cổ_phiếu large
 hoặc 
-cổ_phiếu có kết_quả kinh_doanh tốt trong quý
+cổ_phiếu có kết_quả kinh_doanh 
+trong quý
 
 hạn_chế rủi_ro cho danh_mục đầu_tư
 
@@ -2641,7 +2748,7 @@ khoản đồng_đều
 cả
 sàn
 toàn_bộ cổ_phiếu ngành ngân_hàng 
-chứng_khoán như
+chứng_khoán 
 
 
 
@@ -2664,7 +2771,8 @@ lan_tỏa rộng
 cả 
 nhóm midcap dường_như tâm_lý hoảng_loạn trong 
 phiên đầu tuần 
-còn dư_âm khá 
+
+dư_âm khá 
 
 thị_trường chứng_khoán phái_sinh
 tuần 
@@ -2770,7 +2878,8 @@ doanh_nghiệp xuất_khẩu
 
 
 xung_đột thương_mại trở_nên căng_thẳng
-chỉ_số nasdaq composite không thay_đổi 
+chỉ_số nasdaq composite không 
+
 
 tuần 
 
@@ -2817,7 +2926,8 @@ sản_xuất ô_tô châu âu
 
 cảnh_báo 
 mỹ 
-đặt mức thuế
+
+mức thuế
 
 nhập_khẩu ô_tô 
 liên_minh châu âu 
@@ -2884,7 +2994,8 @@ tuần
 châu âu 
 đón_nhận 
 
-tốt 
+
+
 hy lạp 
 
 chủ_nợ khu_vực đồng euro 
@@ -2941,7 +3052,8 @@ cổ_phiếu phản_ánh
 kỳ_vọng 
 
 
-đầu_tư về hiệu_suất hoạt_động 
+đầu_tư 
+hiệu_suất hoạt_động 
 
 công_ty trong tương
 
@@ -3023,7 +3135,8 @@ phiên
 
 trong phiên chiều 
 
-quay đầu 
+
+đầu 
 
 cổ_phiếu vốn_hóa_lớn
 chỉ_số
@@ -3049,8 +3162,7 @@ tương_ứng tăng
 
 
 
-
-
+hết 
 tổng giá_trị giao_dịch chứng_khoán phái_sinh 
 
 nghìn_tỷ đồng tương_ứng 
@@ -3058,7 +3170,8 @@ nghìn_tỷ đồng tương_ứng
 triệu hợp_đồng 
 giao_dịch 
 
-còn tới
+
+tới
 phiên giao_dịch 
 khả_năng 
 cao 
@@ -3072,14 +3185,16 @@ cổ_phiếu
 lựa_chọn phổ_biến trong lĩnh_vực đầu_tư 
 kênh đầu_tư 
 có nhiều 
-khác_biệt về tính_chất
+khác_biệt 
+tính_chất
 rủi_ro
 nhập 
 
 
 xu_hướng giá 
 
-kinh_tế thay_đổi 
+kinh_tế 
+
 
 
 trái_phiếu 
@@ -3087,16 +3202,19 @@ trái_phiếu
 khoản nợ 
 
 đầu_tư cho chính_phủ hoặc 
-doanh_nghiệp vay lãi_suất duy_trì cố_định trong suốt thời_gian hiệu_lực 
+doanh_nghiệp vay lãi_suất duy_trì cố_định trong suốt 
+hiệu_lực 
 khoản vay 
 đầu_tư 
 
-lại vốn gốc 
+
+vốn gốc 
 đáo_hạn 
 tổ_chức phát_hành trái_phiếu không phá_sản
 
 
-bán lại trái_phiếu 
+bán 
+trái_phiếu 
 thị_trường 
 
 
@@ -3113,7 +3231,8 @@ trái_phiếu
 đầu_tư muốn bán 
 
 trái_phiếu 
-trái_phiếu nào lãi_suất 
+trái_phiếu 
+lãi_suất 
 
 hoặc có xếp_hạng tín_nhiệm 
 
@@ -3122,18 +3241,22 @@ hoặc có xếp_hạng tín_nhiệm
 định_giá 
 
 
-trái_phiếu còn lại
+trái_phiếu 
+
 thông_thường 
 công_ty 
 công_bố báo_cáo
 nhập 
 
-giá cổ_phiếu thay_đổi hàng 
+giá cổ_phiếu 
+hàng 
 phụ_thuộc 
-nhiều yếu_tố ví_dụ như dự_đoán 
+nhiều yếu_tố ví_dụ 
+dự_đoán 
 
 
-đầu_tư về lợi_nhuận tương
+đầu_tư 
+lợi_nhuận tương
 
 công_ty 
 
@@ -3141,8 +3264,10 @@ công_ty
 công_ty đối_thủ
 
 đầu_tư 
-trái_phiếu tốt 
-hay cổ_phiếu tốt 
+trái_phiếu 
+
+hay cổ_phiếu 
+
 phụ_thuộc 
 yếu_tố
 đầu_tiên
@@ -3158,10 +3283,12 @@ mong_muốn có
 
 khoản
 nhập đều_đặn 
-không lo_lắng về lạm_phát 
+không lo_lắng 
+lạm_phát 
 trái_phiếu 
 
-lựa_chọn tốt cho 
+lựa_chọn 
+cho 
 đầu_tư
 
 
@@ -3175,7 +3302,8 @@ lạm_phát
 cổ_phiếu 
 lựa_chọn thích_hợp 
 có khả_năng 
-lại nhiều lợi_ích 
+
+nhiều lợi_ích 
 yếu_tố 
 
 cân_nhắc 
@@ -3188,7 +3316,8 @@ chúng_ta
 xem_xét 
 kinh_tế 
 
-giai_đoạn nào 
+giai_đoạn 
+
 chu_kỳ kinh_doanh
 
 
@@ -3196,7 +3325,8 @@ chu_kỳ kinh_doanh
 giai_đoạn mở_rộng 
 cổ_phiếu 
 
-lại nhiều lợi_ích 
+
+nhiều lợi_ích 
 bởi_vì giá cổ_phiếu có xu_hướng tăng 
 nhập tăng
 
@@ -3216,7 +3346,8 @@ hầu_hết
 
 hoạch_định kế_hoạch tài_chính 
 khuyên chúng_ta nên đa_dạng_hóa danh_mục đầu_tư 
-chiến_lược tốt 
+chiến_lược 
+
 
 
 đồng_nghĩa 
@@ -3227,20 +3358,23 @@ nắm
 
 trái_phiếu 
 cổ_phiếu trong danh_mục đầu_tư 
-tỷ_lệ nào 
+tỷ_lệ 
+
 
 kết_quả 
 
 nghiên_cứu 
 cho 
 đa_dạng_hóa 
-lại lợi_nhuận cao 
+
+lợi_nhuận cao 
 
 mức rủi_ro 
 hạn_chế 
 
 
-đầu_tư có_thể thay_đổi tỷ_trọng_tài_sản nắm 
+đầu_tư có_thể 
+tỷ_trọng_tài_sản nắm 
 
 tỷ_lệ phần_trăm đầu_tư 
 trái_phiếu 
@@ -3250,7 +3384,8 @@ giai_đoạn
 chu_kỳ kinh_tế 
 mục_tiêu tài_chính 
 
-cổ_phiếu ipo hay còn gọi 
+cổ_phiếu ipo hay 
+gọi 
 cổ_phiếu lần đầu 
 phát_hành ra_công_chúng 
 công_cụ 
@@ -3284,13 +3419,15 @@ huy_động vốn
 
 vốn 
 công_ty
-về 
+
+
 
 phát_hành cổ_phiếu ipo có_thể 
 đầu_tư 
 thị_trường 
 hoặc phát_triển sản_phẩm 
-phát_hành cổ_phiếu ipo có nghĩa_là bạn 
+phát_hành cổ_phiếu ipo có nghĩa_là 
+
 trao quyền sở_hữu cho 
 cổ_đông 
 cổ_phiếu cho phép chủ_nhân 
@@ -3304,7 +3441,7 @@ bỏ_phiếu bầu_chọn thành_viên hội_đồng quản_trị
 quy_trình chuẩn_bị phát_hành cổ_phiếu ipo 
 tốn_kém 
 
-thời_gian
+
 
 
 
@@ -3320,7 +3457,8 @@ nộp báo_cáo tài_chính
 
 có 
 quy_định 
-về 
+
+
 phát_hành 
 giao_dịch cổ_phiếu
 
@@ -3339,11 +3477,13 @@ phát_hành cổ_phiếu ipo không
 duy_nhất 
 
 công_ty huy_động vốn 
-bạn không muốn 
+
+không muốn 
 quyền sở_hữu công_ty 
 
 quy_trình phát_hành ipo tốn_kém
-bạn có_thể chuyển 
+
+có_thể chuyển 
 
 khoản vay vốn
 
@@ -3367,7 +3507,8 @@ vấn_đề
 nhiều 
 đầu_tư e_ngại khối ngoại có phiên mua ròng 
 ba liên_tiếp
-càng về 
+càng 
+
 phiên
 dòng tiền càng có 
 luân_chuyển giữa 
@@ -3378,7 +3519,8 @@ cho
 trong 
 
 ép 
-về mức tham_chiếu
+
+mức tham_chiếu
 kết_thúc phiên giao_dịch
 tăng
 
@@ -3388,7 +3530,8 @@ upcomindex tăng
 
 lên
 
-còn hnxindex 
+
+hnxindex 
 
 đổi 
 
@@ -3400,7 +3543,7 @@ tăng
 
 
 
-ngành ngân_hàng như
+ngành ngân_hàng 
 
 
 
@@ -3411,7 +3554,7 @@ nhiều
 
 cổ_phiếu 
 khối ngoại mua 
-trong phiên hôm_nay như
+trong phiên hôm_nay 
 
 
 
@@ -3444,7 +3587,8 @@ cổ_phiếu
 giảm 
 
 
-còn có_thể 
+
+có_thể 
 
 nhóm thủy_sản 
 
@@ -3477,7 +3621,8 @@ dòng tiền
 
 mức giá cao 
 
-ngành như dầu_khí
+ngành 
+dầu_khí
 ngân_hàng
 xây_dựng
 kết_thúc phiên_ato
@@ -3542,8 +3687,7 @@ doanh_nghiệp đăng_ký giao_dịch
 đầu khai_trương
 
 
-
-
+hết 
 upcom có
 doanh_nghiệp đăng_ký giao_dịch
 vốn_hóa thị_trường 
@@ -3593,12 +3737,14 @@ giảm
 
 
 giảm
-tương_tự như 
+tương_tự 
+
 phiên 
 
 khoản 
 
-yếu tốt 
+yếu 
+
 lo_ngại 
 thị_trường
 kết_thúc phiên giao_dịch
@@ -3621,7 +3767,8 @@ khoảng
 tỷ đồng phiên trong tuần 
 tuần 
 thị_trường_phái_sinh 
-giao_dịch chậm lại 
+giao_dịch chậm 
+
 khoảng
 nghìn hợp_đồng 
 giao_dịch trong phiên hôm_nay
@@ -3642,11 +3789,13 @@ xảy
 trong phiên atc 
 hợp_đồng 
 giảm 
-về sát giá_sàn
+
+sát giá_sàn
 
 lực bán trong phiên atc 
 ép
-về mức
+
+mức
 
 mức sàn 
 
@@ -3654,7 +3803,8 @@ mức sàn
 khối_lượng khớp lệnh 
 hợp_đồng
 không loại_trừ khả_năng 
-đầu_tư nào 
+đầu_tư 
+
 
 bấm nhầm lệnh bán atc cho hợp_đồng
 hoặc 
@@ -3712,7 +3862,8 @@ bổ_sung tiền ký_quỹ
 sáng_mai
 
 
-đầu_tư nào mua 
+đầu_tư 
+mua 
 trong phiên atc 
 có_thể 
 
@@ -3862,7 +4013,8 @@ hoàn_tất chạy thử_nghiệm
 sạch hệ_thống
 xóa_bỏ hoàn_toàn 
 tài_khoản thử_nghiệm 
-như 
+
+
 số_liệu giao_dịch trong quá_trình thử_nghiệm hệ_thống 
 sẵn_sàng cho 
 mở_cửa thị_trường sản_phẩm đầu_tiên 
@@ -3887,7 +4039,8 @@ tỷ_lệ ký_quỹ
 
 thuế 
 không 
-như 
+
+
 giao_dịch cổ_phiếu
 
 
@@ -3935,7 +4088,7 @@ chức_năng
 sở cho 
 kết_quả 
 yêu_cầu vận_hành ổn_định
-hệ_thống đồng_bộ tốt
+hệ_thống đồng_bộ 
 chức_năng khai_thác thông_tin
 hiển_thị thông_tin 
 hệ_thống giao_dịch chính_xác
@@ -3976,12 +4129,14 @@ trái_phiếu chính_phủ
 tài_chính 
 giao vụ tài_chính ngân_hàng nghiên_cứu 
 
-có văn_bản chấp_thuận về thiết_kế sản_phẩm
+có văn_bản chấp_thuận 
+thiết_kế sản_phẩm
 
 
 thông 
 hnx
-dự_kiến thời_gian đầu mở_cửa
+dự_kiến 
+đầu mở_cửa
 thị_trường_phái_sinh 
 hút chủ_yếu 
 tổ_chức đầu_tư
@@ -3995,7 +4150,8 @@ nhật
 tỏ 
 quan_tâm 
 
-tiếp_xúc tìm_hiểu về 
+tiếp_xúc tìm_hiểu 
+
 quy_định pháp_lý 
 thị_trường_phái_sinh
 hợp_đồng tương
@@ -4003,7 +4159,7 @@ hợp_đồng tương
 chỉ_số
 
 
-sản_phẩm tốt
+sản_phẩm 
 
 xây_dựng xuất_phát 
 tham_khảo nhu_cầu 
@@ -4101,12 +4257,14 @@ tiếng pháp
 bourse
 tức_là
 mậu_dịch thị_trường
-hay còn gọi_là
+hay 
+gọi_là
 sở giao_dịch
 
 phát_triển 
 thị_trường 
-phát_triển cả về 
+phát_triển cả 
+
 
 chất 
 
@@ -4116,11 +4274,12 @@ nhiều nội_dung
 
 
 tính_chất tự_nhiên 
-lại 
+
+
 phân 
 thành nhiều thị_trường 
 
-như
+
 thị_trường giao_dịch hàng_hoá
 thị_trường hối_đoái
 thị_trường giao_dịch 
@@ -4186,7 +4345,8 @@ sở giao_dịch chứng_khoán
 cải_tiến dần 
 tốc_độ 
 khối_lượng yêu_cầu 
-đem lại hiệu_quả 
+đem 
+hiệu_quả 
 chất_lượng cho giao_dịch
 
 sở giao_dịch 
@@ -4259,7 +4419,8 @@ mất_lòng
 phản_ứng dây_chuyền 
 hậu_quả 
 
-còn 
+
+
 
 
 khủng_hoảng 
@@ -4269,7 +4430,8 @@ quy_luật tự_nhiên
 
 
 mất_lòng 
-thị_trường chứng_khoán thế_giới lại đi 
+thị_trường chứng_khoán thế_giới 
+đi 
 giai_đoạn ổn_định 
 phát_triển 
 ngày_nay
@@ -4318,13 +4480,15 @@ phát_triển
 
 
 
-đông âu như balan
+đông âu 
+balan
 hunggari
 séc
 nga
 
 châu 
-như trung quốc 
+
+trung quốc 
 
 
 
@@ -4333,7 +4497,8 @@ lịch_sử hình_thành
 phát_triển 
 thị_trường chứng_khoán 
 thế_giới cho 
-thời_gian đầu
+
+đầu
 thị_trường hình_thành 
 tự_phát
 đối_tượng tham_gia chủ_yếu 
@@ -4341,7 +4506,8 @@ tự_phát
 
 đầu_cơ
 
-về 
+
+
 
 có 
 tham_gia 
@@ -4367,7 +4533,8 @@ ban_hành
 kinh_nghiệm 
 
 thị_trường 
-hình_thành về 
+hình_thành 
+
 cho 
 thị_trường 
 
@@ -4376,8 +4543,10 @@ có_thể hoạt_động có hiệu_quả
 ổn_định 
 nhanh_chóng 
 có 
-chuẩn_bị chu_đáo về 
-mặt về hàng_hoá
+chuẩn_bị chu_đáo 
+
+mặt 
+hàng_hoá
 luật_pháp
 con_người
 bộ_máy quản_lý 
@@ -4423,7 +4592,8 @@ vốn
 tổ_chức
 
 trong 
-còn khá nhiều
+
+khá nhiều
 thay_vì huy_động vốn 
 nước_ngoài 
 tận_dụng 
@@ -4479,7 +4649,8 @@ nước_ngoài
 tỷ usd
 
 
-tiền còn lại
+tiền 
+
 
 tỷ usd 
 
@@ -4531,7 +4702,8 @@ tiếp_cận
 
 vốn 
 
-còn khắc_phục 
+
+khắc_phục 
 
 hạn_chế 
 
@@ -4542,7 +4714,8 @@ thị_trường vốn quốc_tế
 chính_phủ quy_định khá 
 
 nghị_định
-về 
+
+
 phát_hành trái_phiếu quốc_tế
 
 
@@ -4551,8 +4724,10 @@ phát_hành trái_phiếu quốc_tế
 
 nghị_quyết 
 quốc_hội 
-như chính_phủ 
-bàn về 
+
+chính_phủ 
+bàn 
+
 đa_dạng_hóa 
 
 vốn huy_động trong 
@@ -4626,7 +4801,8 @@ hnxindex
 
 đáy cũ 
 hỗ_trợ 
-tốt 
+
+
 
 đường trendline dài_hạn 
 thủng
@@ -4636,7 +4812,8 @@ khối_lượng giao_dịch
 số_lượng cổ_phần
 hay hợp_đồng
 giao_dịch trong 
-khung thời_gian 
+khung 
+
 
 
 tuần
@@ -4827,7 +5004,8 @@ tỉ_lệ đòn_bẩy
 lựa_chọn short chỉ_số
 
 có_thể
-về mức lợi_nhuận 
+
+mức lợi_nhuận 
 
 trong 
 
@@ -4855,7 +5033,8 @@ doanh_nghiệp
 hiện_tại
 
 
-như 
+
+
 nhận_định trong báo_cáo chiến_lược 
 phát_hành
 
@@ -4892,7 +5071,8 @@ tỉ_lệ đòn_bẩy
 lựa_chọn short chỉ_số
 
 có_thể
-về mức lợi_nhuận 
+
+mức lợi_nhuận 
 
 trong 
 
@@ -4929,9 +5109,11 @@ khả_năng
 
 
 đầu_tư 
-tĩnh_tâm lại 
+tĩnh_tâm 
+
 lực bán 
-không còn 
+không 
+
 
 
 
@@ -5016,7 +5198,8 @@ biết
 
 thị_trường chứng_khoán phát_triển 
 
-về quy_mô 
+
+quy_mô 
 
 
 khoản trong khu_vực asean 
@@ -5041,7 +5224,8 @@ yếu_tố hấp_dẫn
 đầu_tư
 
 
-lợi_thế về mặt nhân_khẩu_học 
+lợi_thế 
+mặt nhân_khẩu_học 
 dân_số đông 
 tăng 
 
@@ -5055,7 +5239,8 @@ thái_lan
 môi_trường kinh_doanh mở_cửa 
 thuận_lợi
 
-tương_đồng về văn_hóa 
+tương_đồng 
+văn_hóa 
 
 dân nhật_bản
 kinh_tế xã_hội ổn_định
@@ -5095,7 +5280,8 @@ tập_đoàn
 nhà_nước 
 
 
-thoái vốn như công_ty cổ_phần sữa việt_nam
+thoái vốn 
+công_ty cổ_phần sữa việt_nam
 vinamilk
 tổng công_ty cổ_phần bia
 rượu
@@ -5121,7 +5307,9 @@ cơ_hội cho
 thị_trường chứng_khoán phát_triển 
 
 khối doanh_nghiệp tự_chủ huy_động nguồn_lực 
-không còn con đường nào 
+không 
+con đường 
+
 
 huy_động 
 
@@ -5179,7 +5367,8 @@ tốc_độ phát_triển
 
 
 thị_trường chứng_khoán việt nam 
-như 
+
+
 tham_gia 
 
 đầu_tư nước_ngoài
@@ -5189,13 +5378,15 @@ mặc_dù quy_mô khiêm_tốn
 tỷ usd 
 xếp_hạng thị_trường cận biên
 
-sức tăng_trưởng trong thời_gian 
+sức tăng_trưởng trong 
+
 
 minh_chứng 
 
 
 hấp_dẫn
-phát_triển tốt 
+phát_triển 
+
 thị_trường chứng_khoán việt_nam
 dần 
 kênh huy_động vốn trung 
@@ -5216,11 +5407,13 @@ vững đà tăng_trưởng
 sâu 
 thị_trường chứng_khoán không
 mặc_dù 
-kinh_tế việt nam còn nhiều khó_khăn
+kinh_tế việt nam 
+nhiều khó_khăn
 có 
 
 lạc_quan 
-chúng_ta trong thời_gian tới
+chúng_ta trong 
+tới
 hiện_tại
 gdp việt nam tăng
 kiểm_soát lạm_phát
@@ -5255,7 +5448,8 @@ nâng cao
 chất_lượng công_bố thông_tin 
 minh_bạch thị_trường
 
-thời_gian tới 
+
+tới 
 tăng 
 kỷ_luật 
 thị_trường 
@@ -5268,7 +5462,8 @@ thị_trường hoạt_động minh_bạch
 hiệu_quả
 
 thị_trường chứng_khoán lao dốc 
-trong thời_gian 
+trong 
+
 
 
 không 
@@ -5281,7 +5476,7 @@ kinh_tế vĩ_mô
 diễn_biến tích_cực 
 không có thông_tin xấu
 đột_biến
-nào
+
 
 
 
@@ -5297,7 +5492,7 @@ ngưỡng
 
 
 tuần 
-xuống còn
+xuống 
 
 trong phiên thứ_sáu
 đánh 
@@ -5392,7 +5587,8 @@ bằng_chứng
 nhiều cổ_phiếu trụ_cột 
 giảm tới
 
-hoạt_động bán còn nhắm 
+hoạt_động bán 
+nhắm 
 cả 
 mã cổ_phiếu 
 cho 
@@ -5434,7 +5630,8 @@ im_lặng
 
 phiên làm_việc 
 
-lãnh_đạo ngành về triển_vọng kinh_tế vĩ_mô
+lãnh_đạo ngành 
+triển_vọng kinh_tế vĩ_mô
 
 diễn_biến không ổn_định
 mật_độ tăng giảm dày 
@@ -5447,7 +5644,8 @@ yếu_tố chi_phối
 
 giao_dịch nội_gián
 giới phân_tích cho 
-trong bối_cảnh thị_trường cơ_sở khó_khăn như hiện_tại
+trong bối_cảnh thị_trường cơ_sở khó_khăn 
+hiện_tại
 
 đầu_tư có_thể cân_nhắc tham_gia 
 thị_trường chứng_khoán phái_sinh
@@ -5495,7 +5693,8 @@ vdsc
 
 đầu_tư không 
 
-rời bỏ thị_trường 
+rời 
+thị_trường 
 
 
 
@@ -5520,9 +5719,11 @@ vdsc
 
 thị_trường việt_nam
 
-thay_đổi trong 
+
+trong 
 chính_sách 
-như 
+
+
 yếu_tố 
 vĩ_mô 
 có tác_động khá 
@@ -5566,7 +5767,8 @@ báo_hiệu
 tăng_trưởng kém bền_vững
 trong 
 thị_trường chứng_khoán
-như chiếc nhiệt_kế đo sức_khỏe 
+
+chiếc nhiệt_kế đo sức_khỏe 
 kinh_tế
 
 lạm_phát tăng cao
@@ -5599,13 +5801,15 @@ doanh_nghiệp
 cả 
 kinh_tế 
 
-chậm lại
+chậm 
 
 
 
-đầu_tư chứng_khoán không còn 
+đầu_tư chứng_khoán không 
+
 kênh sinh_lợi
-lạm_phát tăng cao còn ảnh_hưởng 
+lạm_phát tăng cao 
+ảnh_hưởng 
 tới 
 doanh_nghiệp
 
@@ -5636,7 +5840,8 @@ cung tiền mở_rộng
 
 
 gia_tăng trong tiêu_dùng hàng_hóa 
-như 
+
+
 gia_tăng 
 sử_dụng 
 tài_sản tài_chính mà_chứng_khoán 
@@ -5722,7 +5927,8 @@ nghiên_cứu
 không thống_nhất 
 chiều ảnh_hưởng 
 tỷ_giá lên giá chứng_khoán
-về mặt lý_thuyết có
+
+mặt lý_thuyết có
 
 tiếp_cận 
 quan_hệ giữa tỷ_giá hối_đoái 
@@ -5789,7 +5995,8 @@ giảm
 
 tiếp_cận 
 
-mô_hình cân_bằng danh_mục đầu_tư về tỷ_giá
+mô_hình cân_bằng danh_mục đầu_tư 
+tỷ_giá
 branson
 
 chứng_minh 
@@ -5863,7 +6070,8 @@ giá chứng_khoán
 tỷ_giá 
 ngược chiều
 
-tăng lên về giá 
+tăng lên 
+giá 
 
 tài_sản trong 
 
@@ -5871,10 +6079,12 @@ cho
 
 đầu_tư gia_tăng nhu_cầu 
 
-về tiền_tệ
+
+tiền_tệ
 
 
-lại 
+
+
 cho lãi_suất gia_tăng
 
 hoạt_động 
@@ -5891,7 +6101,8 @@ tài_sản trong
 
 gia_tăng_giá chứng_khoán
 
-tiếp_cận tỷ_giá như 
+tiếp_cận tỷ_giá 
+
 tài_sản
 giá 
 
@@ -5903,14 +6114,16 @@ khẳng_định tỷ_giá
 giá cổ_phiếu có 
 quan_hệ yếu hoặc hoàn_toàn không có quan_hệ
 
-như giá 
+
+giá 
 
 tài_sản 
 tỷ_giá 
 
 xác_định 
 tỷ_giá tương
-kỳ_vọng bất_kỳ yếu_tố nào ảnh_hưởng 
+kỳ_vọng bất_kỳ yếu_tố 
+ảnh_hưởng 
 giá_trị tương
 
 tỷ_giá 
@@ -5921,11 +6134,13 @@ hiện_tại
 
 yếu_tố 
 nên 
-thay_đổi trong tỷ_giá có_thể khác_biệt 
+
+trong tỷ_giá có_thể khác_biệt 
 
 yếu_tố 
 nên 
-thay_đổi trong giá cổ_phiếu
+
+trong giá cổ_phiếu
 trong 
 trường_hợp 
 
@@ -5971,7 +6186,8 @@ sản_phẩm
 
 quốc_gia 
 
-lại nhập_khẩu nguyên_liệu thô có_thể giá cổ_phiếu 
+
+nhập_khẩu nguyên_liệu thô có_thể giá cổ_phiếu 
 
 
 giảm 
@@ -6004,7 +6220,8 @@ quan_hệ
 chiều
 ngược chiều hay 
 không có 
-liên_hệ ràng_buộc nào giữa
+liên_hệ ràng_buộc 
+giữa
 thị_trường chứng_khoán
 
 tỷ_giá
@@ -6020,7 +6237,8 @@ khoản cao
 
 phản_ứng 
 
-thay_đổi giá
+
+giá
 sự_biến_động 
 giá vàng ảnh_hưởng 
 
@@ -6082,7 +6300,8 @@ có_thể
 
 giá vàng trong lịch_sử 
 
-xem 
+
+
 
 
 bão
@@ -6097,7 +6316,9 @@ thời_kỳ
 giá cổ_phiếu luôn_luôn sụt_giảm
 trong 
 
-khủng_hoảng như thế 
+khủng_hoảng 
+
+
 giá vàng tăng 
 
 giá chứng_khoán sụt_giảm
@@ -6115,7 +6336,8 @@ cơ_sở lý_thuyết
 
 nghiên_cứu 
 
-về 
+
+
 quan_hệ 
 bốn yếu_tố kinh_tế vĩ_mô bao_gồm
 chỉ_số giá tiêu_dùng
@@ -6147,7 +6369,8 @@ quốc_tế
 ảnh_hưởng không 
 tới thị_trường việt_nam
 
-về 
+
+
 phiên 
 chuyện 
 trở_nên tích_cực 
@@ -6159,7 +6382,8 @@ hẹp đà_giảm
 đóng_cửa phiên giao_dịch
 chỉ_số
 
-còn giảm
+
+giảm
 
 xuống
 
@@ -6194,7 +6418,8 @@ xuống
 cổ_phiếu 
 trong
 mua ròng 
-khối ngoại còn có
+khối ngoại 
+có
 tỷ đồng
 
 tỷ đồng
@@ -6217,7 +6442,8 @@ tỷ đồng
 tỷ đồng
 
 tỷ đồng
-khối ngoại không mua ròng cổ_phiếu nào 
+khối ngoại không mua ròng cổ_phiếu 
+
 hnx 
 tỷ đồng trong phiên hôm_nay
 
@@ -6255,7 +6481,7 @@ cổ_phiếu
 trong
 mua ròng 
 tăng 
-khá tốt
+khá 
 
 chiều ngược_lại
 áp_lực bán ròng 
@@ -6273,7 +6499,8 @@ có_thể vượt
 thị_giá 
 hàng_loạt 
 
-như sabeco
+
+sabeco
 vinamilk
 vietjet
 sở giao_dịch chứng_khoán thành_phố hồ chí_minh
@@ -6308,7 +6535,8 @@ mức giá
 vốn_hóa thị_trường 
 
 tỉ đồng
-lý_giải về 
+lý_giải 
+
 
 
 mức giá 
@@ -6336,7 +6564,8 @@ quan_trọng
 
 đầu_tư 
 
-lạc_quan về triển_vọng tăng_trưởng mạnh_mẽ 
+lạc_quan 
+triển_vọng tăng_trưởng mạnh_mẽ 
 ngành truyền_thông
 quảng_cáo 
 thế_giới
@@ -6351,7 +6580,8 @@ triệu cổ_phiếu cho
 
 đầu_tư chiến_lược 
 kỳ_vọng
-về 
+
+
 triệu usd
 tương_ứng 
 cổ_phiếu có giá khoảng
@@ -6376,7 +6606,8 @@ doanh_nghiệp
 
 xây_dựng hệ sinh_thái truyền_thông 
 quảng_cáo khép_kín 
-nhiều nền_tảng kỹ_thuật_số như website
+nhiều nền_tảng kỹ_thuật_số 
+website
 youtube
 facebook
 
@@ -6398,7 +6629,8 @@ thị_trường tiền_tệ trong
 tuần 
 
 kỳ_hạn 
-lại tăng 
+
+tăng 
 lợi_suất kỳ_hạn
 
 giảm
@@ -6406,14 +6638,14 @@ trong tuần
 
 giảm
 trong
-tuần xuống còn
+tuần xuống 
 lợi_suất kỳ_hạn
 
 giảm
 
 giảm
 trong
-tuần xuống còn
+tuần xuống 
 trong 
 
 lợi_suất kỳ_hạn
@@ -6444,7 +6676,8 @@ hsc cho
 cho 
 
 đầu_tư 
-lo_ngại một_chút về lạm_phát trong 
+lo_ngại một_chút 
+lạm_phát trong 
 lợi_suất kỳ_hạn ngắn chịu ảnh_hưởng nhiều 
 
 lãi_suất trồi_sụt 
@@ -6460,7 +6693,8 @@ trong kịch_bản khả_dĩ
 
 lợi_suất trái_phiếu 
 tăng khoảng
-về giá_trị giao_dịch
+
+giá_trị giao_dịch
 giá_trị giao_dịch
 
 thị_trường trái_phiếu trong tuần 
@@ -6523,8 +6757,10 @@ quá_khứ
 
 đầu_tư có_thể tìm 
 
-dấu_hiệu về 
-cơ_hội kiếm tiền như thế_nào
+dấu_hiệu 
+
+cơ_hội kiếm tiền 
+thế_nào
 xét 
 góc_độ 
 đầu_tư chứng_khoán 
@@ -6572,7 +6808,8 @@ trình_bày
 nét cơ_bản 
 
 phổ_biến 
-về 
+
+
 tìm_kiếm cơ_hội 
 báo_cáo tài_chính 
 áp_dụng không 
@@ -6589,9 +6826,10 @@ thúc_đẩy tăng_giá cổ_phiếu
 trường_hợp điển_hình 
 diễn 
 
-thị_trường chứng_khoán như
+thị_trường chứng_khoán 
 bán mảng bánh_kẹo 
-lại lợi_nhuận hàng nghìn_tỷ 
+
+lợi_nhuận hàng nghìn_tỷ 
 
 cổ_tức kỷ_lục lên 
 
@@ -6599,8 +6837,7 @@ cổ_tức kỷ_lục lên
 
 cổ_phiếu tăng_giá
 
-
-khấu_hao hay bán tài_sản thông_thường 
+hết khấu_hao hay bán tài_sản thông_thường 
 
 cho lợi_nhuận 
 doanh_nghiệp tăng_trưởng đột_biến
@@ -6618,14 +6855,16 @@ giá_trị sổ_sách
 giá thị_trường
 khoản mục khấu_hao 
 
-doanh_nghiệp đầu_tư nhiều tài_sản dài_hạn như máy_móc thiết_bị
+doanh_nghiệp đầu_tư nhiều tài_sản dài_hạn 
+máy_móc thiết_bị
 tàu chở hàng
 cảng biển
 bất_động_sản 
 trụ_sở 
 cạnh 
 nghe_ngóng 
-thị_trường về 
+thị_trường 
+
 bán 
 tài_sản
 
@@ -6634,7 +6873,7 @@ có_thể xem_xét áp_dụng
 
 cổ_phiếu 
 thị_trường chứng_khoán
-như
+
 sở_hữu 
 lô đất vàng có giá_trị 
 
@@ -6656,7 +6895,7 @@ giá cổ_phiếu
 
 trường_hợp điển_hình 
 thị_trường chứng_khoán
-như
+
 
 tích 
 nhiều nguyên_liệu cao_su tự_nhiên giá 
@@ -6695,7 +6934,7 @@ lợi_nhuận tăng_trưởng
 trong 
 
 
-giá cổ_phiếu tăng tốt
+giá cổ_phiếu tăng 
 
 
 
@@ -6705,7 +6944,8 @@ giá nguyên vật_liệu hàng hóa_cơ_bản
 khoản mục hàng tồn_kho 
 
 doanh_nghiệp tích_trữ hàng tồn_kho nhiều cho sản_xuất 
-tính_toán xem lợi bao_nhiêu 
+tính_toán 
+lợi bao_nhiêu 
 
 giá thị_trường
 
@@ -6786,8 +7026,10 @@ tiền
 tăng lên đột_biến 
 
 tìm_hiểu tăng lên 
-dụ_án nào hay 
-sản_phẩm nào 
+dụ_án 
+hay 
+sản_phẩm 
+
 
 chuyển_giao sản_phẩm
 
@@ -6808,7 +7050,8 @@ giảm_giá hoặc
 đòi
 hoặc 
 
-lý_do nào 
+lý_do 
+
 doanh_nghiệp 
 ghi_nhận giảm 
 
@@ -6818,18 +7061,22 @@ cho doanh_nghiệp
 khoản lỗ bất_thường 
 
 khoản 
-không còn 
+không 
+
 trích 
 trong tương
 lợi_nhuận 
 doanh_nghiệp 
-quay về bình_thường
+
+
+bình_thường
 hoặc 
 
 tài_sản
 khoản 
 
-lại 
+
+
 
 doanh_nghiệp 
 
@@ -6844,14 +7091,17 @@ chủ_yếu
 
 khoản đầu_tư 
 doanh_nghiệp 
-báo_cáo xem doanh_nghiệp sở_hữu cổ_phiếu nào
+báo_cáo 
+doanh_nghiệp sở_hữu cổ_phiếu 
 
 
 công_ty_chứng_khoán
 công_ty tài_chính
-hoặc xem có 
+hoặc 
+có 
 khoản dự_phòng 
-nào bất_thường ghi_nhận 
+
+bất_thường ghi_nhận 
 báo_cáo tài_chính 
 doanh_nghiệp 
 
@@ -6859,7 +7109,8 @@ phân_tích
 khoản 
 
 
-dự_phòng như thế_nào
+dự_phòng 
+thế_nào
 doanh_nghiệp gặp khó_khăn
 kết_quả kinh_doanh đi xuống 
 giá cổ_phiếu giảm_mạnh
@@ -6869,7 +7120,8 @@ tình_hình kinh_doanh
 phục_hồi trở_lại 
 
 
-yếu_tố nào 
+yếu_tố 
+
 cổ_phiếu 
 lãng_quên nên giá 
 giảm
@@ -6992,10 +7244,12 @@ tâm_lý trở_nên bất_ổn
 chỉ_số
 có lức giảm 
 
-về sát mốc
+
+sát mốc
 
 trong phiên_sáng
-mặc_dù giao_dịch về 
+mặc_dù giao_dịch 
+
 phiên chiều khá tích_cực 
 
 chỉ_số thị_trường 
@@ -7023,8 +7277,11 @@ nhịp rung lắc trong phiên
 dòng tiền 
 thận_trọng đứng 
 quan_sát
-về kỹ_thuật
-thị_trường lại về 
+
+kỹ_thuật
+thị_trường 
+
+
 ngưỡng đường trung_bình
 
 
@@ -7070,7 +7327,8 @@ phiên tăng
 
 nến 
 giảm 
-phiên hôm_nay lại ngược_lại
+phiên hôm_nay 
+ngược_lại
 
 phiên giảm 
 
@@ -7125,7 +7383,8 @@ trong giai_đoạn tích_lũy
 khoản cạn_kiệt
 
 phân_vân 
-như chán_nản 
+
+chán_nản 
 
 đầu_tư có xu_hướng tăng dần
 dự_báo
@@ -7144,7 +7403,8 @@ có quyết_định hợp_lý
 đầu_tư dài_hạn nắm 
 
 cổ_phiếu 
-có vị_thế tốt trong danh_mục 
+có vị_thế 
+trong danh_mục 
 triển_vọng tăng_trưởng tích_cực trong
 
 
@@ -7162,7 +7422,8 @@ mức cao
 
 cạnh 
 ảnh_hưởng tiêu_cực 
-còn 
+
+
 
 thông_tin 
 chúng_tôi 
@@ -7229,7 +7490,8 @@ câu hỏi quan_trọng
 
 đầu_tư chứng_khoán 
 
-đọc báo_cáo tài_chính có đem lại giá_trị hay không
+đọc báo_cáo tài_chính có đem 
+giá_trị hay không
 
 
 
@@ -7239,7 +7501,8 @@ trường_phái thị_trường hiệu_quả hoặc phân_tích kỹ_thuật
 
 
 
-thông_tin về công_ty 
+thông_tin 
+công_ty 
 lượng_hóa 
 giá cổ_phiếu 
 
@@ -7249,7 +7512,9 @@ phản_ánh
 thông_tin tài_chính 
 
 
-báo tốt về giá_trị doanh_nghiệp
+báo 
+
+giá_trị doanh_nghiệp
 
 trong nhiều trường_hợp 
 thị_trường không hoàn_toàn 
@@ -7332,7 +7597,8 @@ do_vậy
 trong 
 tài_liệu đọc đầu_tiên 
 ý_kiến 
-kiểm_toán_viên về báo_cáo tài_chính
+kiểm_toán_viên 
+báo_cáo tài_chính
 
 
 
@@ -7361,7 +7627,8 @@ công_ty chưa trích_lập dự_phòng nợ
 tỷ 
 
 đầu_tư 
-điều_chỉnh lại số_liệu 
+điều_chỉnh 
+số_liệu 
 
 ghi giảm lợi_nhuận tiếp 
 
@@ -7455,7 +7722,7 @@ công_ty không_thể dựa nhiều
 
 vốn nội_sinh
 lợi_nhuận 
-lại
+
 
 phục_vụ nhu_cầu đầu_tư
 
@@ -7469,7 +7736,8 @@ phụ_thuộc
 vay nợ
 
 cạnh 
-hệ_số nợ cao còn có_thể 
+hệ_số nợ cao 
+có_thể 
 hệ_quả 
 
 tích_hợp dọc tràn_lan hoặc đa_dạng_hóa 
@@ -7494,7 +7762,8 @@ khâu
 
 tài_sản cố_định 
 vốn lưu_động
-ví_dụ như khâu
+ví_dụ 
+khâu
 sản_xuất linh_kiện hay lắp_ráp
 trong 
 
@@ -7549,7 +7818,8 @@ muộn
 tiềm_ẩn rủi_ro 
 
 đem 
-áp_lực về khả_năng thanh_toán cho doanh_nghiệp
+áp_lực 
+khả_năng thanh_toán cho doanh_nghiệp
 
 
 
@@ -7599,14 +7869,17 @@ công_ty
 
 đầu_tiên 
 
-phù_hợp về mặt chiến_lược
+phù_hợp 
+mặt chiến_lược
 
 khoản đầu_tư không có 
 chiến_lược rõ_ràng 
 
 
 
-lại hiệu_quả tài_chính về mặt dài_hạn
+
+hiệu_quả tài_chính 
+mặt dài_hạn
 chẳng_hạn
 
 công_ty trong ngành thép đi mở siêu_thị hoặc thâu_tóm 
@@ -7628,13 +7901,15 @@ hoạt_động ủy_thác đầu_tư
 
 ủy_thác đầu_tư có thiết_thực hay không 
 
-công_ty chuyên về sản_xuất kinh_doanh 
+công_ty chuyên 
+sản_xuất kinh_doanh 
 
 vốn 
 
 đi vay 
 kinh_doanh 
-lãi_suất cao lại 
+lãi_suất cao 
+
 tiền đi ủy_thác đầu_tư
 liệu 
 có 
@@ -7646,9 +7921,11 @@ khoản đầu_tư khôn_ngoan hay không
 thực_chất 
 hoạt_động tăng vốn 
 phát_hành cổ_phiếu
-bạn 
+
+
 phân_tích 
-nhận_định thế_nào về 
+nhận_định thế_nào 
+
 thực_chất 
 
 hoạt_động phát_hành riêng_lẻ cho
@@ -7709,13 +7986,15 @@ công_ty có chi_trả cổ_tức tiền_mặt
 dấu_hiệu 
 quan_trọng 
 chứng_tỏ 
-lành_mạnh về dòng tiền_của doanh_nghiệp 
+lành_mạnh 
+dòng tiền_của doanh_nghiệp 
 lợi_nhuận doanh_nghiệp công_bố 
 lợi_nhuận thực
 thứ_tư
 tăng_trưởng 
 
-tốt 
+
+
 
 phân_biệt 
 tăng_trưởng bền_vững 
@@ -7733,7 +8012,8 @@ mức
 khả_năng tài_trợ 
 
 vốn nội_sinh trong 
-thời_gian 
+
+
 chứng_khoán việt_nam
 rung_lắc
 
@@ -7777,7 +8057,8 @@ phong_độ
 
 giúp
 
-chỉ_số chứng_khoán tăng tốt 
+chỉ_số chứng_khoán tăng 
+
 thế_giới trong quý
 
 mức tăng 
@@ -7786,7 +8067,8 @@ bứt_phá mạnh_mẽ
 thị_trường 
 
 kỳ_vọng 
-giới đầu_tư về tăng_trưởng 
+giới đầu_tư 
+tăng_trưởng 
 
 kinh_tế 
 gdp_quý
@@ -7804,7 +8086,8 @@ việt_nam
 khối ngoại mua ròng 
 tỷ trong quý
 
-như hàng_loạt doanh_nghiệp 
+
+hàng_loạt doanh_nghiệp 
 lên sàn 
 giúp thị_trường tăng_trưởng tích_cực
 
@@ -7821,7 +8104,7 @@ có nhịp điều_chỉnh
 
 
 
-về
+
 
 
 
@@ -7855,7 +8138,8 @@ lên
 
 
 có nhịp điều_chỉnh 
-nào xuất_hiện
+
+xuất_hiện
 
 phiên tăng giảm 
 trong 
@@ -7896,7 +8180,8 @@ thị_trường chứng_khoán
 nỗ_lực cơ_cấu kinh_tế mạnh_mẽ 
 chính_phủ 
 
-lại nhiều kết_quả khả_quan như_tỷ_giá
+
+nhiều kết_quả khả_quan như_tỷ_giá
 lãi_suất ổn_định
 tăng_trưởng gdp 
 
@@ -7948,7 +8233,8 @@ cổ_phiếu dược
 
 tới phiên giao_dịch
 hàng_loạt 
-cổ_phiếu ngành dược như dược hậu_giang
+cổ_phiếu ngành dược 
+dược hậu_giang
 
 imexpharm
 
@@ -7959,7 +8245,8 @@ tăng hàng chục phần_trăm
 
 dược hà_tây
 
-còn tăng
+
+tăng
 
 
 giá điều_chỉnh
@@ -7974,7 +8261,8 @@ việt nam trong
 khá sôi_động 
 
 bứt_phá 
-cả về 
+cả 
+
 
 lẫn 
 khoản
@@ -8006,7 +8294,8 @@ mức tăng_trưởng ấn_tượng
 
 cổ_phiếu ngành dược 
 
-lại khoản lợi_nhuận
+
+khoản lợi_nhuận
 trong mơ
 cho 
 
@@ -8026,7 +8315,8 @@ lên tới
 triệu đồng
 không 
 
-lại niềm vui 
+
+niềm vui 
 cho 
 đầu_tư nhỏ_lẻ
 
@@ -8037,10 +8327,12 @@ cho
 
 
 tiền 
-bỏ 
+
+
 cho_dù 
 không_thể tiến_hành chốt lãi 
-như 
+
+
 
 đầu_tư nhỏ_lẻ
 giữa 
@@ -8076,10 +8368,12 @@ khoản đầu_tư
 taisho pharmaceutical hiện có giá_trị lên tới
 tỷ đồng
 tăng gấp
-lần giá vốn bỏ 
+lần giá vốn 
 
-taisho pharmaceutical còn 
-về
+
+taisho pharmaceutical 
+
+
 tỷ đồng_tiền cổ_tức 
 dược hậu_giang
 
@@ -8094,7 +8388,8 @@ yếu_tố kết_quả kinh_doanh tăng_trưởng tích_cực
 
 
 
-doanh_nghiệp như dược hậu_giang
+doanh_nghiệp 
+dược hậu_giang
 domesco
 imexpharm
 dược hà tây 
@@ -8124,7 +8419,8 @@ mở
 kỳ_vọng cho 
 doanh_nghiệp 
 
-trong tình_trạng kín room như dược hậu_giang
+trong tình_trạng kín room 
+dược hậu_giang
 imexpharm
 traphaco
 trong 
@@ -8139,19 +8435,22 @@ doanh_nghiệp dược
 
 việt nam 
 có cơ_hội
-thời_gian 
+
+
 
 
 
 
 cả
-ngành lên sàn như sabeco
+ngành lên sàn 
+sabeco
 habeco
 vietjet
 vietnam airlines lên sàn 
 
 
-hiệu_ứng tốt 
+hiệu_ứng 
+
 
 cổ_phiếu bia
 hàng không 
@@ -8177,11 +8476,14 @@ nhóm ngành
 bứt_phá
 
 ngành dược_phẩm 
-nền_tảng cơ_bản tốt 
-như 
+nền_tảng cơ_bản 
+
+
+
 câu_chuyện m_a
 nới room 
-hút dòng tiền tốt 
+hút dòng tiền 
+
 tăng_trưởng vượt_trội 
 
 thị_trường 
@@ -8196,7 +8498,8 @@ công_ty kinh_doanh hiệu_quả
 việt nam 
 lọt
 công_ty niêm_yết 
-sàn chứng_khoán tốt 
+sàn chứng_khoán 
+
 việt nam 
 
 bảng xếp_hạng 
@@ -8208,7 +8511,8 @@ công_ty liên_tiếp trong ba
 dựa 
 
 chỉ_số tăng_trưởng 
-như doanh
+
+doanh
 lợi_nhuận 
 vốn chủ sở_hữu
 roe
@@ -8233,7 +8537,8 @@ công_ty trong danh_sách
 tỉ đồng
 tăng
 trong
-công_ty niêm_yết tốt 
+công_ty niêm_yết 
+
 việt_nam
 mb vinh_dự 
 
@@ -8266,7 +8571,8 @@ chỉ_số
 cổ_phiếu hàng_đầu thị_trường chứng_khoán việt_nam
 minh_bạch tài_chính
 bảo_đảm quyền_lợi cổ_đông 
-kiểm_soát tốt nợ xấu
+kiểm_soát 
+nợ xấu
 
 
 cổ_phiếu 
@@ -8278,7 +8584,8 @@ cổ_phiếu
 chứng_khoán trung_quốc 
 rơi 
 thị_trường gấu trong bối_cảnh 
-lo_ngại về khả_năng phục_hồi 
+lo_ngại 
+khả_năng phục_hồi 
 
 
 trong cuộc_chiến thương_mại 
@@ -8325,7 +8632,9 @@ tác_động xấu
 
 
 
-lo_ngại về tốc_độ phát_triển chậm lại 
+lo_ngại 
+tốc_độ phát_triển chậm 
+
 trung_quốc 
 tăng_trưởng 
 yếu 
@@ -8363,7 +8672,7 @@ lợi_suất
 
 giảm
 
-cơ_bản xuống còn
+cơ_bản xuống 
 
 chưa 
 
@@ -8447,14 +8756,15 @@ quanh mức
 usd 
 quyết_định tăng lãi_suất 
 fed dường_như 
-
+hết
 trong 
 
 nhiều đồng_tiền chủ_chốt 
 
 
 lên
-còn 
+
+
 hà_nội
 giá vàng
 
@@ -8478,8 +8788,11 @@ nguyên giá mua
 
 phục_hồi nhẹ 
 mở_cửa phiên đầu tuần
-giá vàng lại quay đầu giảm 
-về quanh mức giá đóng_cửa tuần 
+giá vàng 
+
+đầu giảm 
+
+quanh mức giá đóng_cửa tuần 
 
 chuyên_gia cho 
 
@@ -8519,7 +8832,8 @@ phân_tích kỳ_vọng giá vàng
 phục_hồi nhẹ 
 
 thông_tin có lợi
-như 
+
+
 trump bất_ngờ gia_hạn lệnh trừng_phạt triều tiên 
 
 
@@ -8531,7 +8845,8 @@ giá vàng
 
 
 hỗ_trợ
-loại chứng_khoán phái_sinh nào 
+loại chứng_khoán phái_sinh 
+
 
 triển_khai 
 thị_trường chứng_khoán phái_sinh việt_nam
@@ -8593,7 +8908,8 @@ hợp_đồng hoán_đổi
 
 thỏa_thuận giữa
 
-về 
+
+
 hoán_đổi 
 dòng tiền phát_sinh 
 
@@ -8665,11 +8981,13 @@ kỳ_vọng
 
 
 xu_hướng 
-chỉ_số có_thể đặt lệnh 
+chỉ_số có_thể 
+lệnh 
 khớp lệnh 
 tham_gia 
 hợp_đồng tương
-tương_tự như cổ_phiếu
+tương_tự 
+cổ_phiếu
 
 đầu_tư kỳ_vọng chỉ_số tăng 
 mua hợp_đồng tương
@@ -8738,7 +9056,8 @@ thanh_toán hàng
 ký_quỹ 
 
 
-ký_quỹ hoạt_động như thế_nào
+ký_quỹ hoạt_động 
+thế_nào
 ký_quỹ 
 
 trong 
@@ -8746,7 +9065,8 @@ trong
 khác_biệt 
 giao_dịch chứng_khoán phái_sinh 
 
-giao_dịch cổ_phiếu ký_quỹ trong giao_dịch chứng_khoán phái_sinh đóng vai_trò như 
+giao_dịch cổ_phiếu ký_quỹ trong giao_dịch chứng_khoán phái_sinh đóng vai_trò 
+
 khoản đặt_cọc 
 đảm_bảo 
 
@@ -8768,7 +9088,8 @@ tham_gia giao_dịch chứng_khoán phái_sinh
 
 đầu_tư không có 
 
-tiền ký_quỹ như yêu_cầu có_thể 
+tiền ký_quỹ 
+yêu_cầu có_thể 
 gọi ký_quỹ
 
 
@@ -8780,7 +9101,8 @@ hợp_đồng tương_lai
 
 thanh_toán hàng 
 diễn 
-như thế_nào
+
+thế_nào
 
 
 khác_biệt 
@@ -8853,9 +9175,11 @@ chỉ_số
 hợp_đồng tương
 
 quy_mô hợp_đồng 
-tính_toán như thế_nào
+tính_toán 
+thế_nào
 
-như giá 
+
+giá 
 
 cổ_phiếu
 quy_mô 
@@ -8902,18 +9226,19 @@ than_thở
 chỉ_tiêu tín_dụng 
 siết chặt
 
-điều_hành còn chủ_trương
+điều_hành 
+chủ_trương
 thắt
 
-lĩnh_vực nhạy_cảm như bất_động_sản
+lĩnh_vực nhạy_cảm 
+bất_động_sản
 cho vay tiêu_dùng
 phụ_trách 
 vốn 
 
 băng cho biết
 
-
-
+hết 
 
 chỉ_tiêu tín_dụng 
 ngân_hàng nhà_nước
@@ -8937,8 +9262,7 @@ không cho vay
 
 
 
-
-room
+hết room
 
 ban lãnh_đạo ngân_hàng đứng 
 không yên
@@ -8950,7 +9274,8 @@ băng
 
 
 nới
-chỉ_tiêu tín_dụng trong thời_gian tới 
+chỉ_tiêu tín_dụng trong 
+tới 
 hiện cả hệ_thống hàng ngàn con_người trông khá nhiều 
 
 
@@ -8987,7 +9312,8 @@ sửa_chữa
 
 
 
-còn 
+
+
 tín_dụng kinh_doanh bất_động_sản
 ngân_hàng nhà_nước 
 có chỉ_đạo 
@@ -9046,7 +9372,8 @@ nhập trung_bình
 tín_dụng tiêu_dùng 
 tín_dụng cho bất_động_sản 
 việt nam 
-còn 
+
+
 
 
 
@@ -9127,12 +9454,12 @@ lĩnh_vực doanh_nghiệp
 
 
 tăng
-hiện tỷ_trọng cho vay bất_động_sản giảm còn
+hiện tỷ_trọng cho vay bất_động_sản giảm 
 tổng dư_nợ vốn cho 
 dự_án bot
 bt giao_thông 
 tăng chậm 
-còn
+
 giảm 
 nửa 
 
@@ -9219,13 +9546,14 @@ kiểm_soát
 không_thể nửa_vời
 
 tốc_độ tăng_trưởng tín_dụng 
-chững lại
+chững 
 
 kỳ 
 
 hùng chia_sẻ
 
-tốc_độ tăng_trưởng tín_dụng chậm lại 
+tốc_độ tăng_trưởng tín_dụng chậm 
+
 
 điều_hành tín_dụng 
 phù_hợp 
@@ -9246,7 +9574,7 @@ tuỳ
 tình_hình 
 có_thể 
 mức
-còn
+
 tối_đa 
 
 
@@ -9304,9 +9632,11 @@ dấu_hiệu
 báo_giá trong tương
 
 tài_sản gốc
-chứng_khoán phái_sinh còn 
+chứng_khoán phái_sinh 
+
 công_cụ phòng_vệ rủi_ro 
-như đầu_tư
+
+đầu_tư
 đầu_cơ hiệu_quả
 
 
@@ -9327,17 +9657,20 @@ mức_độ tham_gia
 đầu_tư tổ_chức trong 
 
 
-còn khá khiêm_tốn
+
+khá khiêm_tốn
 
 vận_hành thị_trường chứng_khoán phái_sinh thành_công 
-còn nhiều thách_thức
+
+nhiều thách_thức
 vai_trò 
 chứng_khoán phái_sinh 
 thị_trường chứng_khoán
 
 ra_đời 
 thị_trường chứng_khoán phái_sinh 
-lại khá nhiều lợi_ích cho 
+
+khá nhiều lợi_ích cho 
 đầu_tư không 
 
 
@@ -9346,9 +9679,11 @@ dấu_hiệu
 báo_giá trong tương
 
 tài_sản gốc
-chứng_khoán phái_sinh còn 
+chứng_khoán phái_sinh 
+
 công_cụ phòng_vệ rủi_ro 
-như đầu_tư
+
+đầu_tư
 đầu_cơ hiệu_quả
 
 
@@ -9359,7 +9694,8 @@ như đầu_tư
 
 đầu_tư chuyên_nghiệp
 
-quỹ đầu_tư am_hiểu về thị_trường 
+quỹ đầu_tư am_hiểu 
+thị_trường 
 sử_dụng thành_thạo 
 công_cụ chứng_khoán phái_sinh 
 
@@ -9398,7 +9734,8 @@ công_cụ chứng_khoán phái_sinh
 đầu_tư có_thể 
 
 
-vị_trí tương_tự như bán khống_chứng_khoán không căn_cứ
+vị_trí tương_tự 
+bán khống_chứng_khoán không căn_cứ
 naked short selling
 chẳng_hạn
 
@@ -9421,7 +9758,8 @@ tham_gia thị_trường chứng_khoán phái_sinh
 
 
 
-bỏ 
+
+
 
 vốn ban_đầu 
 
@@ -9611,7 +9949,8 @@ giao_dịch
 thị_trường otc giữa 
 công_ty_chứng_khoán 
 khách_hàng
-mặc_dù không có số_liệu thống_kê về 
+mặc_dù không có số_liệu thống_kê 
+
 loại chứng_khoán phái_sinh phi chính_thức 
 
 xuất_hiện 
@@ -9632,7 +9971,8 @@ phát_triển
 thị_trường chứng_khoán
 quy_mô
 thị_trường chứng_khoán
-việt nam hiện còn khá khiêm_tốn 
+việt nam hiện 
+khá khiêm_tốn 
 
 
 
@@ -9660,7 +10000,8 @@ quan_tâm
 tham_gia 
 
 
-đầu_tư nước_ngoài còn khá hạn_chế 
+đầu_tư nước_ngoài 
+khá hạn_chế 
 thống_kê
 giá_trị giao_dịch 
 
@@ -9669,13 +10010,15 @@ tháng_qua chiếm khoảng
 tổng giá_trị giao_dịch toàn thị_trường
 
 
-thách_thức về 
+thách_thức 
+
 xây_dựng hành_lang pháp_lý 
 cơ_sở hạ_tầng cho tổ_chức 
 hoạt_động 
 thị_trường chứng_khoán
 phái_sinh
-vấn_đề về 
+vấn_đề 
+
 khoản 
 
 
@@ -9686,14 +10029,16 @@ vận_hành
 
 
 thị_trường chứng_khoán
-có quy_mô còn nhỏ_bé 
+có quy_mô 
+nhỏ_bé 
 mức_độ tham_gia 
 
 
 đầu_tư tổ_chức trong 
 
 
-còn khá khiêm_tốn
+
+khá khiêm_tốn
 
 hút 
 
@@ -9723,7 +10068,8 @@ phương_diện
 công_ty_chứng_khoán có_thể tham_gia giao_dịch 
 môi_giới chính_chứng_khoán phái_sinh cho khách_hàng 
 không 
-công_ty_chứng_khoán nào 
+công_ty_chứng_khoán 
+
 có_thể tham_gia 
 thị_trường 
 tiềm_năng 
@@ -9741,7 +10087,8 @@ trung_tâm lưu ký
 
 ubck chấp_thuận dựa 
 
-tiêu_chí về quy_mô vốn
+tiêu_chí 
+quy_mô vốn
 tỷ_lệ vốn khả_dụng
 cơ_sở vật_chất kỹ_thuật
 công_nghệ 
@@ -9770,7 +10117,8 @@ có khoảng
 công_ty_chứng_khoán đáp_ứng 
 
 
-về vốn 
+
+vốn 
 
 thị_trường chứng_khoán
 phái_sinh 
@@ -9818,7 +10166,8 @@ thị_trường chứng_khoán
 lộ_trình 
 vạch 
 chúng_ta 
-còn 
+
+
 
 chuẩn_bị 
 
@@ -9840,7 +10189,8 @@ thị_trường chứng_khoán
 cơ_sở
 ubck 
 
-công_ty_chứng_khoán còn 
+công_ty_chứng_khoán 
+
 nhiều 
 
 
@@ -9927,7 +10277,8 @@ hợp_đồng kỳ_hạn
 hợp_đồng tương
 hợp_đồng quyền 
 thị_trường chứng_khoán phái_sinh ra_đời 
-đáp_ứng nhu_cầu về quản_trị rủi_ro 
+đáp_ứng nhu_cầu 
+quản_trị rủi_ro 
 đầu_cơ bởi_vì 
 cho phép 
 ngại rủi_ro chuyển_giao rủi_ro cho 
@@ -9966,7 +10317,8 @@ tỷ
 thị_trường bắc mỹ
 tỷ 
 thị_trường mỹ latin
-về 
+
+
 hợp_đồng quyền 
 khu_vực bắc mỹ 
 giá_trị cao 
@@ -9984,7 +10336,8 @@ tỷ
 
 
 chuyên_gia_chứng_khoán
-thời_gian tới
+
+tới
 nhu_cầu 
 chứng_khoán phái_sinh có_thể tăng 
 
@@ -9997,7 +10350,8 @@ xuất_phát
 ngân_hàng trung_ương mua tài_sản
 fed tăng lãi_suất 
 
-đầu_tư lo_lắng về 
+đầu_tư lo_lắng 
+
 bất_ổn chính_trị 
 châu âu
 
@@ -10028,12 +10382,14 @@ thị_trường chứng_khoán phái_sinh đơn_thuần
 công_cụ 
 phòng_ngừa
 
-đầu_tư không đặt 
+đầu_tư không 
+
 
 sinh 
 
 tài_sản phái_sinh
-ví_dụ như 
+ví_dụ 
+
 quỹ đầu_tư muốn bảo_hiểm cho danh_mục đầu_tư hoặc phòng_ngừa rủi_ro cho khoản đầu_tư dự_định trong tương
 có_thể sử_dụng mua quyền 
 bán có bảo_đảm 
@@ -10071,7 +10427,8 @@ mua_bán hợp_đồng tương
 chỉ_số cổ_phiếu 
 chứng_chỉ quỹ etf 
 chỉ_số 
-có vẻ như hình_thức phát_hành trái_phiếu 
+có vẻ 
+hình_thức phát_hành trái_phiếu 
 tăng vốn 
 có 
 
@@ -10084,16 +10441,20 @@ ngân_hàng thương_mại ưu_tiên lựa_chọn
 
 năm_qua
 trái_phiếu 
-ngân_hàng phát_hành không còn sôi_động như giai_đoạn 
+ngân_hàng phát_hành không 
+sôi_động 
+giai_đoạn 
 
 
-thời_gian 
+
+
 
 trào_lưu 
 bắt_đầu tăng trở_lại 
 có nhiều ngân_hàng tăng_cường phát_hành trái_phiếu
 
-như 
+
+
 loại giấy_tờ có_giá 
 
 huy_động vốn
@@ -10123,7 +10484,8 @@ hồi đầu
 vietcombank
 hose
 
-công_bố thông_tin về báo_cáo kết_quả chào_bán trái_phiếu ra_công_chúng
+công_bố thông_tin 
+báo_cáo kết_quả chào_bán trái_phiếu ra_công_chúng
 
 
 vietcombank 
@@ -10160,7 +10522,8 @@ không bao_gồm
 
 
 
-ngân_hàng như ngân_hàng thương_mại cổ_phần quốc_dân
+ngân_hàng 
+ngân_hàng thương_mại cổ_phần quốc_dân
 ncb
 ngân_hàng 
 châu
@@ -10168,7 +10531,8 @@ châu
 
 
 phát_hành trái_phiếu
-trong bối_cảnh hoạt_động ngành ngân_hàng còn nhiều rủi_ro
+trong bối_cảnh hoạt_động ngành ngân_hàng 
+nhiều rủi_ro
 
 ngân_hàng 
 
@@ -10176,14 +10540,16 @@ vật_lộn
 nợ xấu nên
 hút 
 cổ_đông 
-bỏ vốn đầu_tư hoặc 
+
+vốn đầu_tư hoặc 
 cổ_đông hiện_hữu góp 
 vốn 
 
 
 
 
-ngân_hàng nhà_nước thời_gian 
+ngân_hàng nhà_nước 
+
 
 
 giám_sát 
@@ -10196,7 +10562,7 @@ ngân_hàng
 ngân_hàng có cổ_đông chiến_lược 
 giới_hạn room cho 
 cổ_đông nước_ngoài 
-không còn
+không 
 
 
 ngân_hàng có cổ_đông 
@@ -10204,7 +10570,8 @@ ngân_hàng có cổ_đông
 
 tập_đoàn
 tổng công_ty nhà_nước 
-còn 
+
+
 chịu áp_lực thoái vốn 
 
 tổ_chức 
@@ -10214,7 +10581,8 @@ trái_phiếu
 
 trong 
 loại giấy_tờ có_giá giúp 
-ngân_hàng có_thể gọi_vốn trong thời_gian ngắn
+ngân_hàng có_thể gọi_vốn trong 
+ngắn
 
 mức lãi_suất 
 xác_định 
@@ -10240,7 +10608,8 @@ sàn giao_dịch chứng_khoán
 
 
 phát_hành trái_phiếu có_thể
-về dòng tiền phục_vụ cho mục_đích tăng vốn 
+
+dòng tiền phục_vụ cho mục_đích tăng vốn 
 thuận_lợi
 
 không 
@@ -10261,7 +10630,8 @@ tình_trạng pha loãng cổ_phiếu
 
 áp_lực lên 
 chỉ_số sinh 
-như roa 
+
+roa 
 roe
 lợi_ích 
 
@@ -10315,13 +10685,16 @@ vốn dài_hạn
 chi_phí rẻ 
 
 
-ngân_hàng lại 
+ngân_hàng 
+
 hạn_chế 
-quy_định về 
+quy_định 
+
 vốn ngắn_hạn cho vay trung dài_hạn
 
 
-đặt 
+
+
 cho 
 ngân_hàng bài_toán 
 tìm_kiếm 
@@ -10334,7 +10707,8 @@ có phương_án phát_hành trái_phiếu doanh_nghiệp
 niêm_yết tập_trung không 
 
 quy_định 
-còn 
+
+
 cơ_hội 
 bản_thân 
 ngân_hàng 
@@ -10357,9 +10731,11 @@ bùng_nổ
 vấn_đề 
 bùng_nổ 
 
-nghiêng về trái_phiếu chính_phủ
+nghiêng 
+trái_phiếu chính_phủ
 trong 
-trái_phiếu doanh_nghiệp còn 
+trái_phiếu doanh_nghiệp 
+
 hẹp
 xem_xét 
 kế_hoạch phát_hành trái_phiếu doanh_nghiệp 
@@ -10370,7 +10746,8 @@ kế_hoạch phát_hành trái_phiếu doanh_nghiệp
 
 hầu_hết 
 
-về 
+
+
 doanh_nghiệp kinh_doanh trong lĩnh_vực bất_động_sản 
 ngân_hàng
 
@@ -10448,10 +10825,12 @@ cho
 cổ_đông hiện_hữu
 
 trị_giá chưa 
-tới nghìn_tỷ lại 
+tới nghìn_tỷ 
+
 nhiều 
 đầu_tư quan_tâm 
-muốn tìm_hiểu sâu về nguồn_lực 
+muốn tìm_hiểu sâu 
+nguồn_lực 
 
 
 đối_tác 
@@ -10527,7 +10906,8 @@ ngân_hàng
 
 
 
-lên kế_hoạch xin phép ngân_hàng nhà_nước phát_hành tới
+lên kế_hoạch 
+phép ngân_hàng nhà_nước phát_hành tới
 tỷ đồng trái_phiếu hoặc giấy_tờ có_giá
 
 theo_dõi thông_tin 
@@ -10535,14 +10915,17 @@ eximbank
 
 
 
-kế_hoạch xin phát_hành
+kế_hoạch 
+phát_hành
 tỷ đồng trái_phiếu 
 
 
 tới 
 không có 
 
-công_bố nào về kết_quả thực_thi
+công_bố 
+
+kết_quả thực_thi
 
 
 có khả_năng 
@@ -10562,7 +10945,8 @@ cạnh
 doanh_nghiệp địa_ốc
 ngân_hàng 
 lên kế_hoạch phát_hành trái_phiếu
-còn có khá nhiều doanh_nghiệp 
+
+có khá nhiều doanh_nghiệp 
 
 
 muốn lăm_le vay vốn 
@@ -10571,7 +10955,9 @@ kênh
 trị_giá 
 đợt phát_hành dự_kiến 
 
-doanh_nghiệp còn lại cơ_bản 
+doanh_nghiệp 
+
+cơ_bản 
 lẻ_tẻ
 rải_rác
 tập_trung 
@@ -10585,7 +10971,8 @@ xuất_hiện
 
 doanh_nghiệp 
 
-lĩnh_vực như khai_thác
+lĩnh_vực 
+khai_thác
 chế_biến nông_lâm_thủy hải_sản
 
 
@@ -10630,16 +11017,21 @@ nguyên_do
 ngân_hàng vốn không có nhà_máy
 tài_sản đất_đai
 tài_nguyên
-dự_án khai_thác như 
+dự_án khai_thác 
+
 doanh_nghiệp 
 
 không có dự_án
 sờ_sờ 
 
-như doanh_nghiệp địa_ốc
 
-lại có thế 
-về khả_năng liên_kết
+doanh_nghiệp địa_ốc
+
+
+có 
+
+
+khả_năng liên_kết
 tìm_kiếm 
 
 đầu_tư
@@ -10657,14 +11049,16 @@ tư_vấn
 bảo_lãnh phát_hành trái_phiếu chuyên_nghiệp cho 
 dn
 
-thế
+
 
 ngân_hàng việt nam hiện_tại 
 
-còn có tổ_chức chưa niêm_yết 
+
+có tổ_chức chưa niêm_yết 
 đại_chúng 
 
-chịu quy_định nghiêm_ngặt về thực
+chịu quy_định nghiêm_ngặt 
+thực
 báo_cáo tài_chính
 trừ tổ_chức 
 ngân_hàng nhà_nước cho phép trong quá_trình tái_cơ_cấu
@@ -10688,7 +11082,7 @@ nhà_nước
 lĩnh_vực hoạt_động kinh_doanh tiền_tệ ngân_hàng
 
 
-yếu_tố như
+yếu_tố 
 doanh_nghiệp 
 có dự_án
 có tài_sản đảm_bảo
@@ -10702,7 +11096,8 @@ muốn chen_chân huy_động vốn
 trái_phiếu
 
 
-yếu_tố như cơ_chế lợi_suất
+yếu_tố 
+cơ_chế lợi_suất
 phí phát_hành
 khả_năng
 lobby
@@ -10721,9 +11116,11 @@ thị_trường sơ lẫn
 
 
 quan_tâm
-thị_trường trái_phiếu doanh_nghiệp lại 
+thị_trường trái_phiếu doanh_nghiệp 
 
-tăng_trưởng như kỳ_vọng
+
+tăng_trưởng 
+kỳ_vọng
 
 
 
@@ -10741,7 +11138,7 @@ không_thể xoay_xở vốn tín_dụng
 ngân_hàng
 
 
-như
+
 chịu chết
 
 kênh huy_động vốn dài_hạn 
@@ -10798,8 +11195,7 @@ lực vốn đầu_tư
 tổ_chức ngân_hàng
 
 tăng_trưởng tín_dụng khá ì_ạch trong 
-
-
+hết 
 trừ
 
 
@@ -10808,7 +11204,8 @@ trừ
 
 ngân_hàng 
 tìm 
-kênh trái_phiếu như 
+kênh trái_phiếu 
+
 phân_tán rủi_ro
 bảo_toàn tài_sản 
 giảm 
@@ -10831,7 +11228,8 @@ dự_đoán kinh_tế khởi_sắc
 kỳ 
 
 
-có khả_năng hồi_phục tốt 
+có khả_năng hồi_phục 
+
 quí 
 
 
@@ -10845,23 +11243,27 @@ trái_phiếu dn
 
 
 
-kênh huy_động vốn tốt cho doanh_nghiệp 
+kênh huy_động vốn 
+cho doanh_nghiệp 
 hiện_tại
-phát_hành trái_phiếu lại 
+phát_hành trái_phiếu 
+
 
 kế_hoạch 
 hữu_dụng 
 
 phổ_biến cho đại đa_số doanh_nghiệp muốn
 chơi
-khả_năng giải_quyết nút thắt lại không hoàn_toàn nằm 
+khả_năng giải_quyết nút thắt 
+không hoàn_toàn nằm 
 bàn_tay doanh_nghiệp 
 phụ_thuộc 
 đa_dạng_hóa 
 đầu_tư trái_phiếu 
 thị_trường
 
-về cơ_quan quản_lí 
+
+cơ_quan quản_lí 
 
 
 tổ_chức thị_trường
@@ -10891,7 +11293,8 @@ tập_trung cơ_cấu đầu_tư
 
 
 cho miếng bánh vốn 
-hấp_dẫn về lợi_suất 
+hấp_dẫn 
+lợi_suất 
 
 đảm_bảo an_toàn 
 trái_phiếu chính_phủ
@@ -10900,9 +11303,11 @@ có
 
 ngân_hàng 
 
-phương_án đầu_tư trái_phiếu như 
+phương_án đầu_tư trái_phiếu 
+
 tăng_trưởng tín_dụng
-về mặt nguyên_tắc
+
+mặt nguyên_tắc
 
 hạch_toán đầu_tư trái_phiếu 
 tăng_trưởng 
@@ -10920,7 +11325,8 @@ xem_xét
 mục đầu_tư
 tùy 
 mục phát_hành trái_phiếu
-thời_gian phát_hành
+
+phát_hành
 
 cách_thức đầu_tư
 hạch_toán 
@@ -10944,7 +11350,8 @@ tăng_trưởng tín_dụng
 
 
 ngân_hàng 
-tối_ưu về nhu_cầu vốn 
+tối_ưu 
+nhu_cầu vốn 
 góc_độ dn
 song 
 ngân_hàng sử_dụng 
@@ -10968,7 +11375,8 @@ ngân_hàng
 
 gặp rủi_ro
 
-về 
+
+
 khoản
 trong 
 giá_trị 
@@ -10981,7 +11389,8 @@ lệ_thuộc
 tín_dụng nh
 
 
-cơ_hội cho nh phát_huy tốt 
+cơ_hội cho nh phát_huy 
+
 nghiệp_vụ hỗ_trợ tài_chính cho dn
 
 
@@ -11005,7 +11414,8 @@ khoản
 hỗ_trợ cho thị_trường 
 
 
-như 
+
+
 
 tập_trung cho cổ_phiếu
 trong 
@@ -11027,8 +11437,10 @@ tín_nhiệm
 đầu_tư 
 vay vốn đầu_tư 
 kênh trái_phiếu 
-tốt 
-còn vay nh nên tập_trung 
+
+
+
+vay nh nên tập_trung 
 vốn lưu_động
 
 
@@ -11075,7 +11487,8 @@ lãi
 
 
 vốn
-còn trái_phiếu 
+
+trái_phiếu 
 
 
 vốn 
@@ -11086,7 +11499,8 @@ vốn
 kỳ
 
 
-xét về giá_trị 
+xét 
+giá_trị 
 không 
 
 
@@ -11103,20 +11517,23 @@ khó_khăn
 lo 
 vốn 
 
-có_thể gặp khó_khăn về tài_chính
+có_thể gặp khó_khăn 
+tài_chính
 dự_án có_thể thất_bại
 tất_nhiên
 phát_hành trái_phiếu 
 có 
 cái bất_lợi 
 
-vay nhtm như 
+vay nhtm 
+
 
 ubck cho phép
 
 kiếm công_ty dịch_vụ phát_hành
 
-đặt biệt 
+
+biệt 
 
 
 phát_hành trái_phiếu doanh_nghiệp 
@@ -11167,7 +11584,8 @@ mức_độ tín_nhiệm
 nợ 
 
 
-như lãi_suất thị_trường 
+
+lãi_suất thị_trường 
 
 
 mức lãi_suất hợp_lý 
@@ -11184,7 +11602,8 @@ cân_nhắc
 
 
 
-vững_chắc về năng_lực tài_chính 
+vững_chắc 
+năng_lực tài_chính 
 hiệu_quả hoạt_động kinh_doanh hiện_tại 
 dn
 
@@ -11203,7 +11622,8 @@ trong giai_đoạn
 
 đầu_tư 
 lên quan_tâm tới 
-doanh_nghiệp hoạt_động tốt 
+doanh_nghiệp hoạt_động 
+
 sàn
 hoặc 
 doanh_nghiệp có bề dầy kinh_doanh
@@ -11242,7 +11662,8 @@ thông_qua hệ_thống internet banking
 
 nâng_cấp
 
-nhu_cầu về tài_chính 
+nhu_cầu 
+tài_chính 
 khách_hàng 
 
 đáp_ứng 
@@ -11251,7 +11672,7 @@ dễ_dàng
 
 giao_dịch 
 thanh_toán 
-hóa_đơn như
+hóa_đơn 
 tiền điện
 điện_thoại cho 
 
@@ -11261,7 +11682,8 @@ gửi tiết_kiệm online
 
 nhanh_chóng
 giúp tiết_kiệm chi_phí 
-thời_gian 
+
+
 khách_hàng
 
 ra_mắt phiên_bản internet banking 
@@ -11275,11 +11697,13 @@ seabank
 hoàn_toàn 
 miễn_phí sử_dụng dịch_vụ
 phí chuyển tiền
-phí thay_đổi thông_tin dịch_vụ trong
+phí 
+thông_tin dịch_vụ trong
 
 đầu trải nghiệm
 
-khoảng thời_gian 
+khoảng 
+
 seabank 
 ưu_đãi tới khách_hàng giảm
 phí chuyển tiền 
@@ -11339,7 +11763,7 @@ an_toàn cho
 khách_hàng
 dịch_vụ seanet đáp_ứng tối_đa 
 nhu_cầu giao_dịch 
-khách_hàng như
+khách_hàng 
 quản_lý giao_dịch 
 
 kê tài_khoản thanh_toán 
@@ -11356,7 +11780,8 @@ nâng_cấp hệ_thống hạ_tầng công_nghệ
 seabank mong_muốn đem 
 cho khách_hàng 
 trải nghiệm dịch_vụ 
-chất_lượng tốt 
+chất_lượng 
+
 nhanh_chóng 
 tiện_ích 
 khó_khăn 
@@ -11375,7 +11800,8 @@ nửa đầu
 toàn_cảnh ngân_hàng việt nam 
 nằm trong quá_trình củng_cố 
 ổn_định
-tập_trung cho quá_trình tái_cơ_cấu đặt trong toàn_cảnh tái_cơ_cấu 
+tập_trung cho quá_trình tái_cơ_cấu 
+trong toàn_cảnh tái_cơ_cấu 
 
 kinh_tế
 
@@ -11387,7 +11813,8 @@ ngân_hàng nhà_nước
 
 
 thành_công nhất_định
-trong thời_gian 
+trong 
+
 ngân_hàng nhà_nước 
 hấp_thụ 
 khá nhiều ngoại_tệ
@@ -11412,13 +11839,15 @@ ngân_hàng tập_trung
 
 tái_cơ_cấu nội_bộ
 
-thay_đổi trong bộ_máy quản_lý
+
+trong bộ_máy quản_lý
 hay 
 góc_độ 
 giám_sát ngân_hàng
 kết_quả mã_hóa dữ_liệu ngân_hàng 
 
-đầu báo có ảnh_hưởng trong khoảng thời_gian 
+đầu báo có ảnh_hưởng trong khoảng 
+
 
 
 
@@ -11431,8 +11860,10 @@ chế_độ nhân_sự
 chiến_lược kinh_doanh
 m_a
 
-thông_tin tập_trung tương_đối nhiều về 
-thay_đổi nhân_sự 
+thông_tin tập_trung tương_đối nhiều 
+
+
+nhân_sự 
 cao trong hệ_thống 
 ngân_hàng
 chiếm
@@ -11445,7 +11876,8 @@ sai_phạm
 
 cho 
 
-tăng_cường về mặt quản_lý
+tăng_cường 
+mặt quản_lý
 giám_sát 
 sai_phạm 
 điều_chỉnh cơ_cấu nội_bộ ngân_hàng
@@ -11482,7 +11914,8 @@ nợ xấu
 bán cho vamc
 
 ngân_hàng nằm trong
-như vietcombank
+
+vietcombank
 
 techcombank
 mb bank 
@@ -11513,8 +11946,10 @@ cho vay
 mức lý_tưởng
 cho 
 
-chuyển_đổi mạnh_mẽ về cơ_cấu tín_dụng thay_vì tập_trung 
-bán_buôn như trong giai_đoạn 
+chuyển_đổi mạnh_mẽ 
+cơ_cấu tín_dụng thay_vì tập_trung 
+bán_buôn 
+trong giai_đoạn 
 
 ngân_hàng hiện 
 chạy_đua 
@@ -11551,9 +11986,11 @@ hết_sức tích_cực trong
 có ngân_hàng dự_định 
 mức tăng_trưởng lên tới
 
-nhìn_nhận 
+
+
 khách_quan
-trong thời_gian tới
+trong 
+tới
 
 ngân_hàng 
 
@@ -11594,7 +12031,8 @@ giả_mạo thông_tin
 đi vay tiêu_dùng trở_nên phổ_biến trong 
 
 độ phủ thông_tin tín_dụng 
-việt nam còn 
+việt nam 
+
 
 
 
@@ -11623,11 +12061,12 @@ liệu có làm_khó ngành ngân_hàng
 ngành tài_chính 
 đối_mặt 
 
-thay_đổi 
+
+
 
 
 thành_tựu công_nghệ 
-lại
+
 trong tương
 
 
@@ -11654,18 +12093,21 @@ việt nam
 
 bước_đầu phát_triển dịch_vụ tài_chính 
 di_động 
-thị_trường còn 
+thị_trường 
+
 nhiều tiềm_năng 
 khai_thác 
 
 dịch_vụ ngân_hàng ứng_dụng công_nghệ_cao
-thời_gian 
+
+
 nắm_bắt 
 xu_thế
 nhiều nhtm 
 tập_trung đầu_tư 
 công_nghệ 
-thay_đổi hệ_thống quản_lý
+
+hệ_thống quản_lý
 dịch_vụ phục_vụ 
 hàng
 nâng cao khả_năng cạnh_tranh trong 
@@ -11702,9 +12144,11 @@ dịch_vụ thuận_tiện
 nhu_cầu khách_hàng 
 
 
-ví_dụ điển_hình về tác_động 
+ví_dụ điển_hình 
+tác_động 
 làn_sóng ứng_dụng công_nghệ lên tài_chính
-rủi_ro về 
+rủi_ro 
+
 cạnh_tranh 
 
 
@@ -11762,7 +12206,8 @@ dân
 
 
 thách_thức 
-về 
+
+
 khảo_sát 
 tiêu_dùng
 
@@ -11799,8 +12244,11 @@ phát_triển mạnh_mẽ
 cách_mạng công_nghiệp
 không 
 
-lại cơ_hội 
-còn đặt 
+
+cơ_hội 
+
+
+
 thách_thức 
 
 ngân_hàng việt_nam
@@ -11813,7 +12261,8 @@ phi_thường
 nhà_nước
 dựa 
 tình_hình thị_trường tài_chính
-ngân_hàng trong thời_gian 
+ngân_hàng trong 
+
 
 chính_sách tiền_tệ
 chính_sách tín_dụng 
@@ -11827,7 +12276,8 @@ chuyên_gia tham_gia khảo_sát
 khẳng_định chính_phủ nên 
 kiên_trì 
 đường_lối thận_trọng
-có kiểm_soát như hiện_nay
+có kiểm_soát 
+hiện_nay
 
 
 phát_triển chính_sách 
@@ -11836,7 +12286,8 @@ dài_hạn
 có 
 kỉ_luật 
 triệt_để 
-về 
+
+
 
 ngân_hàng
 vấn_đề tăng_cường quản_trị
@@ -11845,7 +12296,8 @@ quản_lí
 ưu_tiên hàng_đầu
 
 nhtm việt nam 
-đặt 
+
+
 
 giai_đoạn quản_trị cho quá_trình phát_triển 
 
@@ -11883,7 +12335,8 @@ không ngừng nâng cao chất_lượng
 lao_động 
 
 kịp 
-thay_đổi 
+
+
 phát_triển 
 công_nghệ
 ngành ngân_hàng 
@@ -11894,7 +12347,8 @@ bước_tiến mạnh_mẽ
 
 ngân_hàng trong ngành cải_tổ 
 vươn lên hiệu_quả không ngừng hoàn_thiện 
-đặt lợi_ích 
+
+lợi_ích 
 tiêu_dùng lên hàng_đầu 
 
 vững đạo_đức nghề_nghiệp 
@@ -11910,17 +12364,20 @@ tạo_dựng
 hệ_thống ngân_hàng việt nam uy_tín 
 vươn 
 
-thời_gian 
+
+
 
 có 
 ngân_hàng lợi_dụng kẽ hở mua trái_phiếu 
-cơ_cấu lại 
+cơ_cấu 
+
 khoản nợ 
 doanh_nghiệp 
 tình_trạng 
 
 
-chặn lại 
+chặn 
+
 quy_định 
 
 ngân_hàng nhà_nước
@@ -11937,7 +12394,8 @@ siết chặt
 tổ_chức tín_dụng
 tổ_chức tín_dụng
 chi_nhánh ngân_hàng nước_ngoài mua trái_phiếu 
-cơ_cấu lại 
+cơ_cấu 
+
 khoản nợ 
 doanh_nghiệp
 công_ty cổ_phần hoàng_anh gia
@@ -11987,7 +12445,8 @@ trong bối_cảnh hiện_nay
 
 doanh_nghiệp 
 hỗ_trợ vốn sản_xuất kinh_doanh
-còn ngân_hàng 
+
+ngân_hàng 
 giảm_thiểu nợ xấu
 
 
@@ -11996,7 +12455,8 @@ ngân_hàng
 đại_diện 
 doanh_nghiệp sản_xuất cho biết
 
-kinh_tế còn khó_khăn
+kinh_tế 
+khó_khăn
 hoạt_động_sản_xuất kinh_doanh không hiệu_quả
 lợi_nhuận không nhiều 
 doanh_nghiệp không_thể có tiền 
@@ -12011,13 +12471,15 @@ tăng
 kinh_tế khó_khăn
 nợ xấu chưa giảm 
 lãi_suất cho vay 
-còn cao
+
+cao
 
 
 
 đồng_nghĩa 
 
-báo_cáo về tình_trạng nợ xấu 
+báo_cáo 
+tình_trạng nợ xấu 
 
 ngân_hàng không 
 phản_ánh 
@@ -12031,7 +12493,8 @@ cần_thiết có_thể đảo_nợ
 
 thông_tư 
 
-nội_dung về mua trái_phiếu doanh_nghiệp 
+nội_dung 
+mua trái_phiếu doanh_nghiệp 
 tổ_chức tín_dụng
 chi_nhánh ngân_hàng nước_ngoài 
 sửa_đổi
@@ -12041,7 +12504,8 @@ quy_định hiện_hành
 
 pháp_luật liên_quan
 tình_hình 
-về hoạt_động mua trái_phiếu doanh_nghiệp 
+
+hoạt_động mua trái_phiếu doanh_nghiệp 
 
 tổ_chức tín_dụng
 chi_nhánh ngân_hàng nước_ngoài 
@@ -12080,13 +12544,14 @@ chi_nhánh ngân_hàng nước_ngoài không
 mua trái_phiếu doanh_nghiệp phát_hành
 trong 
 có mục_đích 
-cơ_cấu lại 
+cơ_cấu 
+
 khoản nợ 
 doanh_nghiệp
 lãnh_đạo 
 ngân_hàng cho 
 
-phát_hành trái_phiếu đảo_nợ như
+phát_hành trái_phiếu đảo_nợ 
 con dao
 lưỡi
 
@@ -12105,7 +12570,8 @@ sức_khỏe
 ngân_hàng 
 doanh_nghiệp 
 
-nhìn_nhận thực_chất 
+
+thực_chất 
 
 quyết_định 
 
@@ -12121,14 +12587,16 @@ nhiều doanh_nghiệp
 có khoản nợ 
 
 
-tổ_chức tín_dụng như 
+tổ_chức tín_dụng 
+
 
 đống lửa hoạt_động kinh_doanh 
 càng căng_thẳng 
 
 doanh_nghiệp không phát_hành trái_phiếu 
 
-đảo_nợ hoặc kéo_dài thời_gian cho 
+đảo_nợ hoặc kéo_dài 
+cho 
 khoản nợ cũ
 
 thông_tư 
@@ -12145,9 +12613,10 @@ không
 
 doanh_nghiệp
 
-doanh_nghiệp làm_ăn tốt
+doanh_nghiệp làm_ăn 
 
-gặp thuận_lợi về thị_trường
+gặp thuận_lợi 
+thị_trường
 khách_hàng
 
 cung_cấp hay môi_trường đầu_tư kinh_doanh
@@ -12155,7 +12624,8 @@ cung_cấp hay môi_trường đầu_tư kinh_doanh
 
 
 siết chặt 
-quy_định về phát_hành trái_phiếu đảo_nợ
+quy_định 
+phát_hành trái_phiếu đảo_nợ
 có_thể 
 
 doanh_nghiệp 
@@ -12224,7 +12694,8 @@ lĩnh_vực rủi_ro tiềm_ẩn
 mức tăng tín_dụng 
 
 
-đặt 
+
+
 nhiều vấn_đề 
 
 
@@ -12252,7 +12723,8 @@ tỷ_trọng
 công_ty tài_chính 
 
 trong 
-nhu_cầu vay mua sở_hữu phương_tiện giao_thông hoặc học_tập du_lịch chữa bệnh lại tăng lên 
+nhu_cầu vay mua sở_hữu phương_tiện giao_thông hoặc học_tập du_lịch chữa bệnh 
+tăng lên 
 trong
 
 đầu 
@@ -12265,7 +12737,8 @@ nhiều địa_bàn
 
 
 
-khu_vực có thông_tin chính_sách như đặc_khu kinh_tế
+khu_vực có thông_tin chính_sách 
+đặc_khu kinh_tế
 
 vùng_ven biển 
 
@@ -12322,7 +12795,8 @@ ngân_hàng liên_kết
 chủ đầu_tư 
 giải_ngân cho 
 mua
-như cách_thức 
+
+cách_thức 
 
 
 nhtm 
@@ -12341,10 +12815,12 @@ triển_khai
 nguồn_lực 
 
 khoản 
-thị_trường bất_động_sản thời_gian 
+thị_trường bất_động_sản 
+
 
 đẩy_mạnh
-còn 
+
+
 
 cục quản_lý 
 
@@ -12353,9 +12829,11 @@ thị_trường bất_động_sản
 xây_dựng 
 kiến_nghị 
 
-kiểm_soát tốt dòng vốn cho vay bất_động_sản
+kiểm_soát 
+dòng vốn cho vay bất_động_sản
 ngân_hàng nhà_nước 
-xác_định lại khái_niệm cho vay tiêu_dùng
+xác_định 
+khái_niệm cho vay tiêu_dùng
 không nên 
 khoản cho vay mua 
 
@@ -12377,7 +12855,7 @@ giải_pháp
 kiểm_soát tín_dụng tiêu_dùng
 trong 
 có kiểm_soát chặt lãi_suất 
-như
+
 hồi nợ
 
 
@@ -12390,7 +12868,7 @@ có_lẽ
 
 lần 
 nên 
-tính_toán lại
+tính_toán 
 
 
 khoản vay mua 
@@ -12468,16 +12946,19 @@ lãi_suất cho vay
 
 lĩnh_vực ưu_tiên 
 giảm
-ngân_hàng nhà_nước cho biết công_tác cơ_cấu lại 
+ngân_hàng nhà_nước cho biết công_tác cơ_cấu 
+
 tổ_chức tín_dụng 
 
 đẩy_mạnh
 
 
-về cơ_bản
+
+cơ_bản
 
 nhtm 
-xây_dựng xong phương_án cơ_cấu lại gắn 
+xây_dựng xong phương_án cơ_cấu 
+gắn 
 xử_lý nợ xấu
 trình ngân_hàng nhà_nước phê_duyệt
 trong 
@@ -12568,7 +13049,8 @@ doanh_nghiệp
 
 dân
 
-đẩy_mạnh cơ_cấu lại 
+đẩy_mạnh cơ_cấu 
+
 tổ_chức tín_dụng
 phối_hợp 
 
@@ -12606,8 +13088,7 @@ diễn_đàn công_nghệ tài_chính việt nam
 phạm tiến_dũng
 vụ_trưởng vụ thanh_toán ngân_hàng nhà_nước cho biết
 
-
-
+hết 
 thanh_toán di_động 
 việt nam 
 tăng_trưởng ấn_tượng 
@@ -12625,7 +13106,8 @@ mức tăng_trưởng
 
 lên thực_trạng 
 nhu_cầu 
-con_người về công_nghệ
+con_người 
+công_nghệ
 
 hóa trong xã_hội ngày_nay
 
@@ -12636,7 +13118,8 @@ hóa trong xã_hội ngày_nay
 
 thanh_toán 
 internet banking 
-còn 
+
+
 
 khái_niệm xa_lạ 
 hầu_như hiện_nay 
@@ -12713,7 +13196,8 @@ không
 có_thể trải nghiệm 
 tính_năng thanh_toán di_động 
 nền_tảng công_nghệ_số
-ví_dụ như 
+ví_dụ 
+
 khách_hàng 
 maritime bank dễ_dàng trải nghiệm tính_năng thanh_toán 
 qr
@@ -12766,7 +13250,8 @@ loại thẻ
 tiện_lợi
 giải_pháp thanh_toán 
 thẻ 
-ứng_dụng samsung pay còn 
+ứng_dụng samsung pay 
+
 an_toàn 
 
 thông_tin 
@@ -12844,7 +13329,8 @@ giúp khách_hàng kết_nối
 thanh_toán tiện_lợi 
 
 địa_điểm giao_dịch mua_sắm 
-như hàng trăm trang website bán hàng trực_tuyến 
+
+hàng trăm trang website bán hàng trực_tuyến 
 
 
 tính_chất 
@@ -12902,7 +13388,8 @@ nỗ_lực
 
 
 giải_pháp fintech 
-như bắt_tay 
+
+bắt_tay 
 
 đối_tác fintech
 phát_triển 
@@ -12911,7 +13398,8 @@ nền_tảng công_nghệ
 
 định_hướng chiến_lược 
 maritime bank 
-như 
+
+
 ngân_hàng 
 
 
@@ -12920,7 +13408,8 @@ hút
 nhiều khách_hàng tham_gia
 ban lãnh_đạo techcombank cho biết
 
-đặt mục_tiêu mở_rộng mảng ngân_hàng bán_lẻ 
+
+mục_tiêu mở_rộng mảng ngân_hàng bán_lẻ 
 khai_thác nhu_cầu 
 tăng vọt 
 hàng_loạt 
@@ -12932,8 +13421,10 @@ cho vay mua
 chiếm tỷ_trọng chủ_yếu
 techcombank 
 có 
-tăng_trưởng mạnh_mẽ về 
-loại_hình dịch_vụ như thẻ tín_dụng
+tăng_trưởng mạnh_mẽ 
+
+loại_hình dịch_vụ 
+thẻ tín_dụng
 cho vay mua ô_tô 
 sản_phẩm bảo_hiểm_liên_kết 
 ngân_hàng
@@ -12988,7 +13479,8 @@ thềm niêm_yết
 sức hút 
 techcombank bắt_nguồn 
 
-tăng vọt về 
+tăng vọt 
+
 dịch_vụ tài_chính 
 
 kinh_tế 
@@ -13006,7 +13498,8 @@ tăng_trưởng lợi_nhuận mạnh_mẽ
 
 ngân_hàng
 
-tăng vọt về sản_xuất 
+tăng vọt 
+sản_xuất 
 thúc_đẩy 
 kinh_tế phụ_thuộc 
 xuất_khẩu 
@@ -13034,7 +13527,8 @@ chiến_lược
 chúng_tôi 
 phù_hợp 
 hiện_trạng nhân_khẩu_học 
-thay_đổi 
+
+
 việt nam 
 mức
 nhập 
@@ -13057,25 +13551,28 @@ việt nam
 tăng lên
 
 
-gia_tăng về
+gia_tăng 
 nhập khả_dụng
 trong vòng 
 
 ba 
 tới
-chúng_tôi đặt ưu_tiên 
+chúng_tôi 
+ưu_tiên 
 
 
 dịch_chuyển 
 hướng bán_lẻ 
 cho vay mua 
 nguyên_nhân 
-xét về mặt dự_phòng rủi_ro
+xét 
+mặt dự_phòng rủi_ro
 cho vay mua 
 có 
 an_toàn 
 
-đem lại cho chúng_tôi lợi_nhuận cao 
+đem 
+cho chúng_tôi lợi_nhuận cao 
 
 tài_sản có rủi_ro
 techcombank kỳ_vọng tỷ_trọng 
@@ -13133,12 +13630,14 @@ nhiều
 
 mỹ chính_thức đánh thuế lên hàng trung_quốc trị_giá
 tỷ usd 
-trung_quốc trả_đũa lại 
+trung_quốc trả_đũa 
+
 gói thuế có quy_mô tương_đương
 
 phủ bóng đen lên thị_trường tài_chính toàn_cầu không 
 trung_quốc
-mỹ còn áp_thuế 
+mỹ 
+áp_thuế 
 cả 
 đồng 
 thân_cận 
@@ -13214,7 +13713,8 @@ mâu_thuẫn
 kinh_tế nằm 
 
 chia tách giữa 
-khu_vực như fdi 
+khu_vực 
+fdi 
 trong 
 kinh_tế phụ_thuộc nhiều 
 fdi
@@ -13222,7 +13722,8 @@ hay
 hội_nhập sâu_rộng 
 
 tận_dụng
-khai_thác còn kém
+khai_thác 
+kém
 
 chuyển_dịch 
 dòng tiền 
@@ -13270,7 +13771,8 @@ hoặc
 
 
 
-về độ mở 
+
+độ mở 
 
 
 kinh_tế 
@@ -13282,9 +13784,11 @@ thế_giới có không
 quốc_gia hoặc 
 kinh_tế 
 tổng kim_ngạch xuất_nhập_khẩu 
-gdp còn 
+gdp 
 
-cả việt nam như hong_khôngng
+
+cả việt nam 
+hong_khôngng
 gdp 
 luxembourg
 malta
@@ -13322,7 +13826,8 @@ vỡ
 kinh_tế
 
 chỉ_tiêu 
-còn phản_ánh 
+
+phản_ánh 
 
 
 
@@ -13342,9 +13847,11 @@ có hiện_tượng hàng_hóa nước_ngoài đội_lốt hàng việt nam xu�
 
 
 
-không có chuẩn_mực nào hay 
+không có chuẩn_mực 
+hay 
 trường_hợp 
-nào 
+
+
 
 
 
@@ -13359,7 +13866,8 @@ gdp
 
 kinh_tế việt nam 
 gặp nguy_khốn
-về lý_do nền_tảng 
+
+lý_do nền_tảng 
 nguồn_lực tăng_trưởng trong 
 có vấn_đề 
 
@@ -13373,7 +13881,8 @@ có_thể
 
 
 
-tương_tự như lập_luận 
+tương_tự 
+lập_luận 
 
 
 
@@ -13402,7 +13911,8 @@ không
 
 
 
-về nguyên_nhân bong_bóng tài_sản 
+
+nguyên_nhân bong_bóng tài_sản 
 
 khủng_hoảng kinh_tế
 
@@ -13446,7 +13956,8 @@ phân_khúc
 
 địa_phương
 
-còn 
+
+
 thị_trường chứng_khoán
 
 
@@ -13456,11 +13967,13 @@ thăng_hoa mấy
 không 
 tăng_trưởng kiểu tên_lửa
 
-nào 
+
+
 tăng 
 tăng kịch biên_độ
 chỉ_số chứng_khoán 
-quay trở_lại giai_đoạn lình_xình
+
+trở_lại giai_đoạn lình_xình
 điều_chỉnh 
 trong mấy tuần 
 
@@ -13475,13 +13988,15 @@ bùng_nổ
 tín_dụng ngân_hàng 
 
 
-siết lại 
+siết 
+
 
 
 
 tăng_trưởng tín_dụng 
 
-chậm lại 
+chậm 
+
 
 
 mấy 
@@ -13492,7 +14007,8 @@ căn_cứ
 nêu 
 
 
-xin bổ_sung 
+
+bổ_sung 
 
 căn_cứ khác_thường 
 
@@ -13526,7 +14042,8 @@ cao
 
 trong khu_vực 
 thế_giới
-như 
+
+
 minh_họa trong bảng 
 
 
@@ -13541,7 +14058,8 @@ thập_kỷ
 lạm_phát 
 việt nam trong giai_đoạn
 
-còn 
+
+
 hoặc 
 
 cả 
@@ -13561,7 +14079,8 @@ việt nam trong
 
 
 
-về tổng_thể
+
+tổng_thể
 lạm_phát 
 việt nam không 
 
@@ -13584,7 +14103,8 @@ tốc_độ tăng_trưởng đầu_tư ngược_lại
 khu_vực 
 thế_giới
 đầu_tư 
-tăng_trưởng chậm lại 
+tăng_trưởng chậm 
+
 việt nam trong thập_kỷ hiện_nay 
 
 
@@ -13597,7 +14117,8 @@ trong giai_đoạn
 
 
 thể_hiện 
-số_liệu về tổng mức đầu_tư trong 
+số_liệu 
+tổng mức đầu_tư trong 
 kinh_tế 
 
 gdp 
@@ -13666,7 +14187,8 @@ thập_kỷ
 
 có căn_cứ 
 loại thâm_hụt_vãng
-như 
+
+
 yếu_tố tiềm_tàng 
 
 khủng_hoảng kinh_tế 
@@ -13684,14 +14206,16 @@ cho
 
 kinh_tế việt nam 
 chứa_đựng nhiều bất_ổn 
-chưa có bằng_chứng xác_đáng nào 
+chưa có bằng_chứng xác_đáng 
+
 lo_ngại xảy 
 
 
 khủng_hoảng kinh_tế trong 
 
 quy_mô 
-cấp_độ như 
+cấp_độ 
+
 
 
 chứng_kiến trong
@@ -13712,7 +14236,8 @@ thể_hiện
 
 
 
-còn 
+
+
 mức 
 khoản 
 thị_trường sắc đỏ 
@@ -13731,13 +14256,13 @@ xuống
 
 hnxindex giảm
 
-xuống còn
+xuống 
 
 
 upcomindex 
 giảm nhẹ
 
-còn
+
 
 
 khoản 
@@ -13816,7 +14341,9 @@ có phiên trần
 liên_tiếp 
 
 
-quay lại thị_trường
+
+
+thị_trường
 chứng_khoán giảm sâu
 nhân_dân_tệ rớt_giá
 bất_ổn bao_trùm thị_trường tài_chính trung_quốc
@@ -13874,7 +14401,8 @@ thế_giới
 không may 
 
 
-lại xảy 
+
+xảy 
 trong 
 bất_lợi 
 
@@ -13949,7 +14477,8 @@ phiên
 
 shanghai composite chưa thể hồi_phục 
 giảm 
-chỉ_số thiên về công_nghệ shenzhen index 
+chỉ_số thiên 
+công_nghệ shenzhen index 
 
 
 thị_trường con gấu 
@@ -13966,13 +14495,16 @@ bán_tháo
 diễn 
 
 
-cảnh_tỉnh khắc_nghiệt về chuyện 
+cảnh_tỉnh khắc_nghiệt 
+chuyện 
 thị_trường trung_quốc 
 
 có_thể
-quay ngoắt
+
+ngoắt
 độ
-nhanh_chóng như thế_nào
+nhanh_chóng 
+thế_nào
 
 
 
@@ -14003,7 +14535,8 @@ tốc_độ
 
 nhiều 
 có cảm_giác kim_đồng_hồ 
-quay ngược trở_lại 
+
+ngược trở_lại 
 
 bong_bóng cổ_phiếu vỡ tung 
 động_thái bất_ngờ hạ giá nhân_dân_tệ 
@@ -14024,7 +14557,8 @@ mệnh_lệnh hành_chính
 đầu_tư 
 khó_chịu
 nhiều 
-đầu_tư còn thận_trọng lo_ngại chính_phủ trung_quốc 
+đầu_tư 
+thận_trọng lo_ngại chính_phủ trung_quốc 
 duy_trì 
 mục_tiêu dài_hạn 
 giảm đòn_bẩy 
@@ -14050,7 +14584,8 @@ thị_trường chứng_khoán
 
 thế_giới 
 đón 
-tốt 
+
+
 
 msci bổ_sung 
 nhóm 
@@ -14083,10 +14618,12 @@ trung quốc
 bắc kinh
 mặc_dù cố_vấn thương_mại cao_cấp peter navarro 
 lên tiếng trấn_an 
-đầu_tư về chính_sách thương_mại 
+đầu_tư 
+chính_sách thương_mại 
 mỹ
 
-còn 
+
+
 
 lo_ngại liệu 
 kinh_tế trung_quốc có_thể chịu_đựng
@@ -14095,7 +14632,8 @@ tấn_công lâu_dài
 
 trump hay không 
 
-trong nội_tại còn nhiều dấu_hiệu bất_ổn
+trong nội_tại 
+nhiều dấu_hiệu bất_ổn
 không 
 trung_quốc
 nỗi lo chiến_tranh thương_mại 
@@ -14145,7 +14683,8 @@ không có_lý
 
 nhắm 
 cổ_phiếu 
-lại 
+
+
 
 khối nội trong 
 
@@ -14159,7 +14698,8 @@ phiên
 áp_lực 
 
 
-đầu_tư lo_lắng về tình_hình 
+đầu_tư lo_lắng 
+tình_hình 
 
 bán 
 
@@ -14167,13 +14707,14 @@ bán
 có_thể 
 
 to
-lại 
+
+
 mua 
 
 
 lý_do tại_sao 
 thị_trường cơ_sở
-nhiều cổ_phiếu có khối_lượng giao_dịch tăng đột_biến như
+nhiều cổ_phiếu có khối_lượng giao_dịch tăng đột_biến 
 
 
 
@@ -14188,7 +14729,8 @@ muộn cho
 nhịp bán 
 hiện_tại
 áp_lực margin 
-không còn 
+không 
+
 
 trong 
 mùa báo_cáo kết_quả kinh_doanh bán_niên 
@@ -14196,7 +14738,8 @@ bắt_đầu
 
 
 có_thể 
-quay trở_lại 
+
+trở_lại 
 
 khó_khăn 
 xuất_hiện thị_trường có_thể 
@@ -14238,7 +14781,8 @@ thị_trường chứng_khoán
 thị_trường chứng_khoán
 việt nam 
 có 
-phiên hồi_phục tốt 
+phiên hồi_phục 
+
 
 
 tuần 
@@ -14255,7 +14799,8 @@ nhận_định lạc_quan
 xu_thế tăng 
 có_thể 
 
-thông_tin về mùa kinh_doanh quý ii 
+thông_tin 
+mùa kinh_doanh quý ii 
 bắt_đầu 
 
 quỹ 
@@ -14308,7 +14853,8 @@ thị_trường cơ_sở
 tỷ đồng
 thị_trường chứng_khoán
 phái_sinh 
-xem 
+
+
 có vai_trò phòng_vệ rủi_ro 
 có_thể giao_dịch
 chiều song 
@@ -14402,17 +14948,19 @@ chuyên_gia đầu_tư cho
 thị_trường chứng_khoán
 phái_sinh việt nam 
 tuổi_đời 
-sản_phẩm còn
+sản_phẩm 
 nghèo
 có vẻ chưa 
 
 hấp_dẫn khối ngoại 
 khối 
 có_thể 
-còn 
+
+
 
 vị_thế quan_sát hoặc giao_dịch thận_trọng trong 
-thời_gian kế_tiếp
+
+kế_tiếp
 xu_hướng thị_trường giảm kéo_dài 
 
 phiên phục_hồi kỹ_thuật xen_kẽ
@@ -14460,7 +15008,7 @@ lần
 
 đầu_tư chứng_khoán cơ_sở
 
-đầu_tư có_thể sử_dụng margin hoặc không còn
+đầu_tư có_thể sử_dụng margin hoặc không 
 thị_trường chứng_khoán
 phái_sinh 
 mặc_định có margin
@@ -14493,7 +15041,8 @@ khả_năng bán cắt lỗ
 
 thị_trường chứng_khoán
 phái_sinh 
-xem 
+
+
 có vai_trò phòng_vệ rủi_ro 
 có_thể giao_dịch
 chiều song 
@@ -14512,7 +15061,8 @@ có nhiều
 quy_định 
 đầu_tư muốn mở tài_khoản phái_sinh
 
-có bao_nhiêu thời_gian giao_dịch 
+có bao_nhiêu 
+giao_dịch 
 thị_trường cơ_sở trong 
 
 việt nam 
@@ -14532,7 +15082,8 @@ tham
 tham_gia
 thị_trường chứng_khoán
 phái_sinh
-xét về toàn thị_trường 
+xét 
+toàn thị_trường 
 không hẳn 
 rẻ
 
@@ -14541,7 +15092,8 @@ nhiều cổ_phiếu
 tương_đối 
 mức hấp_dẫn
 
-nỗi lo về cuộc_chiến thương_mại 
+nỗi lo 
+cuộc_chiến thương_mại 
 mỹ khơi_mào
 thị_trường chứng_khoán
 thị_trường chứng_khoán
@@ -14587,7 +15139,8 @@ tình_hình
 
 
 
-nghĩ 
+
+
 kịch_bản thị_trường có phiên giảm 
 
 
@@ -14596,8 +15149,10 @@ xét cho_cùng
 
 đầu_tư bán_tháo hầu_hết chấp_nhận lỗ 
 
-như chẳng có 
-đầu_tư nào có giá vốn 
+
+chẳng có 
+đầu_tư 
+có giá vốn 
 
 
 
@@ -14642,7 +15197,8 @@ cả
 giảm khá sâu
 
 khoản bắt_đầu giảm_mạnh
-xét trong bối_cảnh như hiện_tại 
+xét trong bối_cảnh 
+hiện_tại 
 
 
 tích_cực 
@@ -14661,14 +15217,18 @@ nhịp tăng
 diễn 
 trong giai_đoạn tới thị_trường 
 
-chinh_phục lại mốc
+chinh_phục 
+mốc
 
 
-tiến về 
+tiến 
+
 ngưỡng kháng_cự 
 
 
-đầu_tư nên quay lại thị_trường cơ_sở 
+đầu_tư nên 
+
+thị_trường cơ_sở 
 
 thị_trường_phái_sinh 
 
@@ -14683,7 +15243,8 @@ khoản thị_trường
 giảm 
 cho 
 
-bán không còn bán 
+bán không 
+bán 
 
 
 giai_đoạn 
@@ -14704,7 +15265,10 @@ dòng tiền chảy
 thứ_ba
 khối ngoại 
 không bán ròng 
-còn quay lại mua ròng trong 
+
+
+
+mua ròng trong 
 phiên 
 
 
@@ -14719,9 +15283,11 @@ giúp cho tâm_lý
 
 
 góp_phần ổn_định tỷ_giá vốn có mốt 
-biến_động thời_gian 
+biến_động 
+
 cuối_cùng
-xét về toàn thị_trường 
+xét 
+toàn thị_trường 
 không hẳn 
 rẻ
 
@@ -14732,7 +15298,8 @@ mức hấp_dẫn
 mua mã_chứng_khoán
 mua con
 bán con
-đặt lệnh mua
+
+lệnh mua
 
 muốn mua mã_chứng_khoán 
 khối_lượng 
@@ -14744,7 +15311,8 @@ mua
 gom 
 gom 
 bán mã_chứng_khoán
-đặt lệnh bán
+
+lệnh bán
 bán 
 thoát hàng
 xả 
@@ -14771,8 +15339,7 @@ mua khối_lượng
 mức giá 
 cổ_phiếu mua khối_lượng cổ_phiếu
 giá
-bán 
-cổ_phiếu
+bán hết cổ_phiếu
 
 giá
 bán cổ_phiếu
@@ -14782,10 +15349,12 @@ gom cổ_phiếu
 
 khối_lượng 
 giá
-đặt lệnh mua cổ_phiếu
+
+lệnh mua cổ_phiếu
 giá 
 khối_lượng
-đặt lệnh bán cổ_phiếu
+
+lệnh bán cổ_phiếu
 giá 
 khối_lượng
 đầu_tư 
@@ -14816,20 +15385,20 @@ giá
 bán khối_lượng mã_chứng_khoán
 
 giá
-bán 
-mã cổ_phiếu
+bán hết mã cổ_phiếu
 
 giá
-bán 
-mã_chứng_khoán
+bán hết mã_chứng_khoán
 
 giá
-lấy 
+
+
 cổ_phiếu
 
 khối_lượng 
 giá
-lấy 
+
+
 khối_lượng cổ_phiếu
 
 giá
@@ -14842,12 +15411,14 @@ mua
 khối_lượng cổ_phiếu
 
 giá
-lấy 
+
+
 mã cổ_phiếu
 
 khối_lượng 
 giá
-lấy 
+
+
 khối_lượng mã cổ_phiếu
 
 giá
@@ -15016,78 +15587,94 @@ muốn giao_dịch bán khối_lượng mã_chứng_khoán
 
 giá
 
-muốn đặt lệnh mua cổ_phiếu
+muốn 
+lệnh mua cổ_phiếu
 
 giá 
 khối_lượng
 
-muốn đặt lệnh mua cổ_phiếu
+muốn 
+lệnh mua cổ_phiếu
 
 khối_lượng 
 giá
 
-muốn đặt lệnh mua khối_lượng cổ_phiếu 
+muốn 
+lệnh mua khối_lượng cổ_phiếu 
 giá
 
-muốn đặt lệnh bán cổ_phiếu
+muốn 
+lệnh bán cổ_phiếu
 
 giá 
 khối_lượng
 
-muốn đặt lệnh bán cổ_phiếu
+muốn 
+lệnh bán cổ_phiếu
 
 khối_lượng 
 giá
 
-muốn đặt lệnh bán khối_lượng cổ_phiếu
+muốn 
+lệnh bán khối_lượng cổ_phiếu
 
 giá
 
-muốn đặt lệnh mua mã cổ_phiếu
+muốn 
+lệnh mua mã cổ_phiếu
 
 giá 
 khối_lượng
 
-muốn đặt lệnh mua mã cổ_phiếu
+muốn 
+lệnh mua mã cổ_phiếu
 
 khối_lượng 
 giá
 
-muốn đặt lệnh bán mã cổ_phiếu
+muốn 
+lệnh bán mã cổ_phiếu
 
 giá 
 khối_lượng
 
-muốn đặt lệnh bán mã cổ_phiếu
+muốn 
+lệnh bán mã cổ_phiếu
 
 khối_lượng 
 giá
 
-muốn đặt lệnh mua mã_chứng_khoán
+muốn 
+lệnh mua mã_chứng_khoán
 
 giá 
 khối_lượng
 
-muốn đặt lệnh mua mã_chứng_khoán
+muốn 
+lệnh mua mã_chứng_khoán
 
 khối_lượng 
 giá
 
-muốn đặt lệnh mua khối_lượng mã_chứng_khoán
+muốn 
+lệnh mua khối_lượng mã_chứng_khoán
 
 giá
 
-muốn đặt lệnh bán mã_chứng_khoán
+muốn 
+lệnh bán mã_chứng_khoán
 
 giá 
 khối_lượng
 
-muốn đặt lệnh bán mã_chứng_khoán
+muốn 
+lệnh bán mã_chứng_khoán
 
 khối_lượng 
 giá
 
-muốn đặt lệnh bán khối_lượng mã_chứng_khoán
+muốn 
+lệnh bán khối_lượng mã_chứng_khoán
 
 giá
 mua mã cổ_phiếu
@@ -15104,30 +15691,30 @@ giá
 khối_lượng
 bán khối_lượng mã_chứng_khoán
 giá
-bán 
-mã cổ_phiếu
+bán hết mã cổ_phiếu
 giá
-bán 
-mã_chứng_khoán
+bán hết mã_chứng_khoán
 giá
-lấy 
+
+
 khối_lượng cổ_phiếu
 giá
 mua 
 khối_lượng cổ_phiếu
 giá
-lấy 
+
+
 mã cổ_phiếu
 
 khối_lượng giá
-lấy 
+
+
 khối_lượng mã cổ_phiếu
 giá
 mua 
 khối_lượng mã cổ_phiếu
 giá
-bán 
-con
+bán hết con
 giá
 bán khối_lượng cổ_phiếu
 giá
@@ -15257,72 +15844,89 @@ khối_lượng giá
 muốn giao_dịch bán khối_lượng mã_chứng_khoán
 giá
 
-muốn đặt lệnh mua cổ_phiếu
+muốn 
+lệnh mua cổ_phiếu
 giá
 
 khối_lượng
 
-muốn đặt lệnh mua cổ_phiếu
+muốn 
+lệnh mua cổ_phiếu
 
 khối_lượng giá
 
-muốn đặt lệnh mua khối_lượng cổ_phiếu giá
+muốn 
+lệnh mua khối_lượng cổ_phiếu giá
 
-muốn đặt lệnh bán cổ_phiếu
+muốn 
+lệnh bán cổ_phiếu
 giá
 
 khối_lượng
 
-muốn đặt lệnh bán cổ_phiếu
+muốn 
+lệnh bán cổ_phiếu
 
 khối_lượng giá
 
-muốn đặt lệnh bán khối_lượng cổ_phiếu
+muốn 
+lệnh bán khối_lượng cổ_phiếu
 giá
 
-muốn đặt lệnh mua mã cổ_phiếu
+muốn 
+lệnh mua mã cổ_phiếu
 giá
 
 khối_lượng
 
-muốn đặt lệnh mua mã cổ_phiếu
+muốn 
+lệnh mua mã cổ_phiếu
 
 khối_lượng giá
 
-muốn đặt lệnh bán mã cổ_phiếu
+muốn 
+lệnh bán mã cổ_phiếu
 giá
 
 khối_lượng
 
-muốn đặt lệnh bán mã cổ_phiếu
+muốn 
+lệnh bán mã cổ_phiếu
 
 khối_lượng giá
 
-muốn đặt lệnh mua mã_chứng_khoán
+muốn 
+lệnh mua mã_chứng_khoán
 giá
 
 khối_lượng
 
-muốn đặt lệnh mua mã_chứng_khoán
+muốn 
+lệnh mua mã_chứng_khoán
 
 khối_lượng giá
 
-muốn đặt lệnh mua khối_lượng mã_chứng_khoán
+muốn 
+lệnh mua khối_lượng mã_chứng_khoán
 giá
 
-muốn đặt lệnh bán mã_chứng_khoán
+muốn 
+lệnh bán mã_chứng_khoán
 giá
 
 khối_lượng
 
-muốn đặt lệnh bán mã_chứng_khoán
+muốn 
+lệnh bán mã_chứng_khoán
 
 khối_lượng giá
 
-muốn đặt lệnh bán khối_lượng mã_chứng_khoán
+muốn 
+lệnh bán khối_lượng mã_chứng_khoán
 giá
 giá cổ_phiếu
-như thế_nào
+
+thế_nào
 mã
 hôm_nay có ổn không
 mã
@@ -15330,74 +15934,136 @@ hôm_nay có biến_động nhiều không
 thị_trường chứng_khoán hôm_nay thế_nào 
 thị_trường chứng_khoán việt nam hôm_nay thế_nào 
 thị_trường chứng_khoán việt nam hôm_nay thế_nào
-thị_trường việt nam hôm_nay tốt không
+thị_trường việt nam hôm_nay 
+không
 thị_trường việt nam hôm_nay thế_nào
 thị_trường việt nam hôm_nay thế_nào 
-xem thị_trường hôm_nay
-xem thị_trường hiện 
 
-xem thị_trường hôm_nay thế_nào
-xem thị_trường biến_động 
+thị_trường hôm_nay
 
-xem biến_động thị_trường
-xem biến_động thị_trường hôm_nay
-xem biến_động thị_trường 
+thị_trường hiện 
 
-xem hôm_nay thị_trường biến_động như thế_nào
-xem hôm_nay thị_trường biến_động 
 
-xem tình_hình thị_trường
-xem tình_hình thị_trường hôm_nay
-xem tình_hình biến_động
-xem tình_hình biến_động hôm_nay
-xem diễn_biến thị_trường
-xem diễn_biến hôm_nay 
+thị_trường hôm_nay thế_nào
+
+thị_trường biến_động 
+
+
+biến_động thị_trường
+
+biến_động thị_trường hôm_nay
+
+biến_động thị_trường 
+
+
+hôm_nay thị_trường biến_động 
+thế_nào
+
+hôm_nay thị_trường biến_động 
+
+
+tình_hình thị_trường
+
+tình_hình thị_trường hôm_nay
+
+tình_hình biến_động
+
+tình_hình biến_động hôm_nay
+
+diễn_biến thị_trường
+
+diễn_biến hôm_nay 
 thị_trường
-xem diễn_biến hôm_nay
-xem diễn_biến giao_dịch hôm_nay
-xem kết_quả giao_dịch
-xem kết_quả giao_dịch hiện_tại
-xem thông_tin cổ_phiếu
-xem thông_tin chứng_khoán
-xem thông_tin mã cổ_phiếu xem thông_tin giao_dịch
-xem thông_tin giao_dịch hôm_nay
-xem tổng_quan
+
+diễn_biến hôm_nay
+
+diễn_biến giao_dịch hôm_nay
+
+kết_quả giao_dịch
+
+kết_quả giao_dịch hiện_tại
+
+thông_tin cổ_phiếu
+
+thông_tin chứng_khoán
+
+thông_tin mã cổ_phiếu 
+thông_tin giao_dịch
+
+thông_tin giao_dịch hôm_nay
+
+tổng_quan
 hôm_nay
-xem khối_lượng giao_dịch hôm_nay
-xem giá mở_cửa hôm_nay 
-mã_chứng_khoán xem giá đóng_cửa hôm_qua
-xem giá hiện_tại 
-mã cổ_phiếu xem giá hiện_tại 
+
+khối_lượng giao_dịch hôm_nay
+
+giá mở_cửa hôm_nay 
+mã_chứng_khoán 
+giá đóng_cửa hôm_qua
+
+giá hiện_tại 
+mã cổ_phiếu 
+giá hiện_tại 
 mã_chứng_khoán
-xem lịch_sử giá
-xem biến_động lên xuống 
+
+lịch_sử giá
+
+biến_động lên xuống 
 thị_trường
-xem lịch_sử giao_dịch mã_chứng_khoán
-xem lịch_sử giao_dịch mã_cổ
-xem cập_nhật thị_trường
-xem cập_nhật tình_hình thị_trường
-xem cập_nhật thông_tin thị_trường
-xem cập_nhật thông_tin giao_dịch
-xem cập_nhật thị_trường hôm_nay
-xem cập_nhật tình_hình thị_trường hôm_nay
-xem cập_nhật thông_tin thị_trường hôm_nay
-xem cập_nhật thông_tin giao_dịch hôm_nay
-xem thông_tin 
-về thị_trường
-xem thông_tin thị_trường tổng_quan
-xem toàn_cảnh thị_trường
-xem toàn_cảnh thị_trường hôm_nay
-xem bao_quát thị_trường
-xem giá_trị thị_trường
-xem báo_cáo kết_quả thị_trường
-xem báo_cáo kết_quả
-xem nhận_định thị_trường
-xem nhận_định thị_trường hôm_nay
-xem nhận_định mã cổ_phiếu xem nhận_định_giá cổ_phiếu xem nhận_định mã_chứng_khoán xem nhận_định giá mã_chứng_khoán xem tin_tức thị_trường hôm_nay
-xem 
+
+lịch_sử giao_dịch mã_chứng_khoán
+
+lịch_sử giao_dịch mã_cổ
+
+cập_nhật thị_trường
+
+cập_nhật tình_hình thị_trường
+
+cập_nhật thông_tin thị_trường
+
+cập_nhật thông_tin giao_dịch
+
+cập_nhật thị_trường hôm_nay
+
+cập_nhật tình_hình thị_trường hôm_nay
+
+cập_nhật thông_tin thị_trường hôm_nay
+
+cập_nhật thông_tin giao_dịch hôm_nay
+
+thông_tin 
 
 thị_trường
-xem thông_tin giá khớp lệnh 
+
+thông_tin thị_trường tổng_quan
+
+toàn_cảnh thị_trường
+
+toàn_cảnh thị_trường hôm_nay
+
+bao_quát thị_trường
+
+giá_trị thị_trường
+
+báo_cáo kết_quả thị_trường
+
+báo_cáo kết_quả
+
+nhận_định thị_trường
+
+nhận_định thị_trường hôm_nay
+
+nhận_định mã cổ_phiếu 
+nhận_định_giá cổ_phiếu 
+nhận_định mã_chứng_khoán 
+nhận_định giá mã_chứng_khoán 
+tin_tức thị_trường hôm_nay
+
+
+
+thị_trường
+
+thông_tin giá khớp lệnh 
 chứng_khoán
 
 hiển_thị thị_trường hôm_nay
@@ -15440,7 +16106,8 @@ hiển_thị_cập_nhật tình_hình thị_trường hôm_nay
 hiển_thị_cập_nhật thông_tin thị_trường hôm_nay
 hiển_thị_cập_nhật thông_tin giao_dịch hôm_nay
 hiển_thị thông_tin 
-về thị_trường
+
+thị_trường
 hiển_thị thông_tin thị_trường tổng_quan
 hiển_thị toàn_cảnh thị_trường
 hiển_thị toàn_cảnh thị_trường hôm_nay
@@ -15454,8 +16121,10 @@ hiển_thị nhận_định mã cổ_phiếu hiển_thị nhận_định_giá c�
 hiển_thị 
 
 thị_trường
-hiển_thị xem giá khớp lệnh 
-cổ_phiếu hiển_thị xem giá khớp lệnh 
+hiển_thị 
+giá khớp lệnh 
+cổ_phiếu hiển_thị 
+giá khớp lệnh 
 mã_chứng_khoán hiển_thị thông_tin giá khớp lệnh 
 chứng_khoán
 
@@ -15486,7 +16155,8 @@ biến_động thị_trường
 biến_động thị_trường hôm_nay
 biến_động thị_trường 
 
-hôm_nay thị_trường biến_động như thế_nào
+hôm_nay thị_trường biến_động 
+thế_nào
 hôm_nay thị_trường biến_động 
 
 tình_hình thị_trường
@@ -15526,7 +16196,8 @@ cập_nhật tình_hình thị_trường hôm_nay
 cập_nhật thông_tin thị_trường hôm_nay
 cập_nhật thông_tin giao_dịch hôm_nay
 thông_tin 
-về thị_trường
+
+thị_trường
 thông_tin thị_trường tổng_quan
 toàn_cảnh thị_trường
 toàn_cảnh thị_trường hôm_nay
@@ -15540,8 +16211,10 @@ nhận_định mã cổ_phiếu nhận_định_giá cổ_phiếu nhận_định 
 
 
 thị_trường
-xem giá khớp lệnh 
-cổ_phiếu xem giá khớp lệnh 
+
+giá khớp lệnh 
+cổ_phiếu 
+giá khớp lệnh 
 mã_chứng_khoán thông_tin giá khớp lệnh 
 chứng_khoán
 
@@ -15551,7 +16224,7 @@ tăng
 
 
 fed nâng lãi_suất 
-chưa chịu dừng lại
+chưa chịu dừng 
 chứng_khoán 
 thị_trường ảm_đạm
 giá vàng hôm_nay
@@ -15648,9 +16321,12 @@ chứng_khoán
 xả mạnh_tay
 giảm_điểm
 
-còn bao_nhiêu cổ_phiếu 
 
-còn lại 
+bao_nhiêu cổ_phiếu 
+
+
+
+
 
 
 bao_nhiêu
@@ -15670,398 +16346,611 @@ trạng_thái_chứng_khoán
 trạng_thái danh_mục
 trạng_thái đầu_tư
 tài_khoản đuôi
-còn bao_nhiêu chứng_khoán
-xem tài_khoản đuôi
-còn bao_nhiêu chứng_khoán
+
+bao_nhiêu chứng_khoán
+
 tài_khoản đuôi
-còn bao_nhiêu chứng_khoán
-xem tài_khoản đuổi
-còn bao_nhiêu chứng_khoán
-xem tài_khoản đuôi
+
+bao_nhiêu chứng_khoán
+tài_khoản đuôi
+
+bao_nhiêu chứng_khoán
+
+tài_khoản đuổi
+
+bao_nhiêu chứng_khoán
+
+tài_khoản đuôi
 có bao_nhiêu chứng_khoán
-xem tài_khoản đuôi
+
+tài_khoản đuôi
 có bao_nhiêu chứng_khoán
 tài_khoản đuôi
 có bao_nhiêu cổ_phiếu
-xem tài_khoản đuôi
+
+tài_khoản đuôi
 có bao_nhiêu cổ_phiếu
 tài_khoản đuôi
-còn bao_nhiêu cổ_phiếu
-xem tài_khoản đuôi
-còn bao_nhiêu cổ_phiếu
+
+bao_nhiêu cổ_phiếu
+
 tài_khoản đuôi
-còn bao_nhiêu cổ_phiếu
-xem tài_khoản đuôi
-còn bao_nhiêu cổ_phiếu
-tình_trạng cổ_phiếu còn dư
-xem tình_trạng cổ_phiếu còn dư
-tình_trạng cổ_phiếu còn lại
-xem tình_trạng cổ_phiếu còn lại
-trạng_thái_cổ_phiếu còn dư
-xem trạng_thái_cổ_phiếu còn dư
-trạng_thái_cổ_phiếu còn lại
-xem trạng_thái_cổ_phiếu còn lại
+
+bao_nhiêu cổ_phiếu
+tài_khoản đuôi
+
+bao_nhiêu cổ_phiếu
+
+tài_khoản đuôi
+
+bao_nhiêu cổ_phiếu
+tình_trạng cổ_phiếu 
+dư
+
+tình_trạng cổ_phiếu 
+dư
+tình_trạng cổ_phiếu 
+
+
+tình_trạng cổ_phiếu 
+
+trạng_thái_cổ_phiếu 
+dư
+
+trạng_thái_cổ_phiếu 
+dư
+trạng_thái_cổ_phiếu 
+
+
+trạng_thái_cổ_phiếu 
+
 thông_tin chứng_khoán
-xem thông_tin chứng_khoán
+
+thông_tin chứng_khoán
 thông_tin cổ_phiếu
-xem thông_tin cổ_phiếu
+
+thông_tin cổ_phiếu
 thông_tin danh_mục
-xem thông_tin danh_mục
+
+thông_tin danh_mục
 thông_tin danh_mục hiện có
-xem thông_tin danh_mục hiện có
+
+thông_tin danh_mục hiện có
 thông_tin đầu_tư
-xem thông_tin đầu_tư
+
+thông_tin đầu_tư
 thông_tin đầu_tư hiện có
-xem thông_tin đầu_tư hiện có
-xem tình_trạng chứng_khoán
-xem tình_trạng danh_mục
-xem tình_trạng đầu_tư
-xem trạng_thái_chứng_khoán
-xem trạng_thái danh_mục
-xem trạng_thái đầu_tư
-thông_tin 
-chứng_khoán còn dư
-xem thông_tin 
-chứng_khoán còn dư
-thông_tin cổ_phiếu còn lại
-xem thông_tin cổ_phiếu còn lại
-thông_tin cổ_phiếu còn dư
-xem thông_tin cổ_phiếu còn dư
-thông_tin 
-chứng_khoán còn lại
-xem thông_tin 
-chứng_khoán còn lại
 
-chứng_khoán còn dư
-xem số_dư_chứng_khoán
-xem 
-chứng_khoán còn dư
+thông_tin đầu_tư hiện có
+
+tình_trạng chứng_khoán
+
+tình_trạng danh_mục
+
+tình_trạng đầu_tư
+
+trạng_thái_chứng_khoán
+
+trạng_thái danh_mục
+
+trạng_thái đầu_tư
+thông_tin 
+chứng_khoán 
+dư
+
+thông_tin 
+chứng_khoán 
+dư
+thông_tin cổ_phiếu 
+
+
+thông_tin cổ_phiếu 
+
+thông_tin cổ_phiếu 
+dư
+
+thông_tin cổ_phiếu 
+dư
+thông_tin 
+chứng_khoán 
+
+
+thông_tin 
+chứng_khoán 
+
+
+chứng_khoán 
+dư
+
+số_dư_chứng_khoán
+
+
+chứng_khoán 
+dư
 tổng_số chứng_khoán
-xem tổng_số chứng_khoán
 
-chứng_khoán còn lại
-xem 
-chứng_khoán còn lại
-tổng_số chứng_khoán còn lại
-xem tổng_số chứng_khoán còn lại
-tổng_số chứng_khoán còn dư
-xem tổng_số chứng_khoán còn dư
-danh_mục 
+tổng_số chứng_khoán
 
-xem danh_mục 
-
-danh_mục đầu_tư hiện_nay
-xem danh_mục đầu_tư hiện_nay
-danh_mục chứng_khoán
-xem danh_mục chứng_khoán
-danh_mục chứng_khoán 
-
-xem danh_mục chứng_khoán 
-
-danh_mục đầu_tư hiện có
-xem danh_mục đầu_tư hiện có
-xem danh_mục đầu_tư
-danh_mục đầu_tư 
-
-xem danh_mục đầu_tư 
-
-danh_mục cổ phiều
-xem danh_mục cổ_phiếu
-danh_mục cổ_phiếu 
-
-xem danh_mục cổ_phiếu 
-
-danh_mục cổ_phiếu hiện có
-xem danh_mục cổ_phiếu hiện có
-tài_khoản đuôi
-
-
-còn bao_nhiêu chứng_khoán
-xem tài_khoản đuôi
-
-
-còn bao_nhiêu chứng_khoán
-tài_khoản đuôi
-
-
-còn bao_nhiêu chứng_khoán
-xem tài_khoản đuổi
-
-
-còn bao_nhiêu chứng_khoán
-xem tài_khoản đuôi
-
-
-có bao_nhiêu chứng_khoán
-xem tài_khoản đuôi
-
-
-có bao_nhiêu chứng_khoán
-tài_khoản đuôi
-
-
-có bao_nhiêu cổ_phiếu
-xem tài_khoản đuôi
-
-
-có bao_nhiêu cổ_phiếu
-tài_khoản đuôi
-
-
-còn bao_nhiêu cổ_phiếu
-xem tài_khoản đuôi
-
-
-còn bao_nhiêu cổ_phiếu
-tài_khoản đuôi
-
-
-còn bao_nhiêu cổ_phiếu
-xem tài_khoản đuôi
-
-
-còn bao_nhiêu cổ_phiếu
-tình_trạng cổ_phiếu còn dư 
-
-xem tình_trạng cổ_phiếu còn dư 
-
-tình_trạng cổ_phiếu còn lại 
-
-xem tình_trạng cổ_phiếu còn lại 
-
-trạng_thái_cổ_phiếu còn dư 
-
-xem trạng_thái_cổ_phiếu còn dư 
-
-trạng_thái_cổ_phiếu còn lại 
-
-xem trạng_thái_cổ_phiếu còn lại 
-
-thông_tin chứng_khoán 
-
-xem thông_tin chứng_khoán 
-
-thông_tin cổ_phiếu 
-
-xem thông_tin cổ_phiếu 
-
-thông_tin danh_mục 
-
-xem thông_tin danh_mục 
-
-thông_tin danh_mục 
-
-hiện có
-xem thông_tin danh_mục 
-
-hiện có
-thông_tin đầu_tư 
-
-xem thông_tin đầu_tư 
-
-thông_tin đầu_tư 
-
-hiện có
-xem thông_tin đầu_tư 
-
-hiện có
-xem tình_trạng chứng_khoán 
-
-xem tình_trạng danh_mục 
-
-xem tình_trạng đầu_tư 
-
-xem trạng_thái_chứng_khoán 
-
-xem trạng_thái danh_mục 
-
-xem trạng_thái đầu_tư 
-
-thông_tin 
-chứng_khoán còn dư 
-
-xem thông_tin 
-chứng_khoán còn dư 
-
-thông_tin cổ_phiếu 
-
-còn lại
-xem thông_tin cổ_phiếu 
-
-còn lại
-thông_tin cổ_phiếu 
-
-còn dư
-xem thông_tin cổ_phiếu 
-
-còn dư
-thông_tin 
 chứng_khoán 
 
-còn lại
-xem thông_tin 
+
+
 chứng_khoán 
-
-còn lại
-
-chứng_khoán còn dư 
-
-xem số_dư_chứng_khoán 
-
-xem 
-chứng_khoán còn dư 
 
 tổng_số chứng_khoán 
 
-xem tổng_số chứng_khoán 
 
+tổng_số chứng_khoán 
 
-chứng_khoán còn lại 
+tổng_số chứng_khoán 
+dư
 
-xem 
-chứng_khoán còn lại 
-
-tổng_số chứng_khoán còn lại 
-
-xem tổng_số chứng_khoán còn lại 
-
-tổng_số chứng_khoán còn dư 
-
-xem tổng_số chứng_khoán còn dư 
-
+tổng_số chứng_khoán 
+dư
 danh_mục 
 
 
-
-xem danh_mục 
-
-
-
-danh_mục đầu_tư 
-
-hiện_nay
-xem danh_mục đầu_tư 
-
-hiện_nay
-danh_mục chứng_khoán 
-
-xem danh_mục chứng_khoán 
-
-danh_mục đầu_tư 
-
-hiện có
-xem danh_mục đầu_tư 
-
-hiện có
-danh_mục cổ_phiếu 
-
-hiện có
-xem danh_mục cổ_phiếu 
-
-hiện có
-xem cho 
-tài_khoản đuôi
-còn bao_nhiêu chứng_khoán
-xem cho 
-tài_khoản đuổi
-còn bao_nhiêu chứng_khoán
-xem cho 
-tài_khoản đuôi
-có bao_nhiêu chứng_khoán
-xem cho 
-tài_khoản đuôi
-có bao_nhiêu chứng_khoán
-xem cho 
-tài_khoản đuôi
-có bao_nhiêu cổ_phiếu
-xem cho 
-tài_khoản đuôi
-còn bao_nhiêu cổ_phiếu
-xem cho 
-tài_khoản đuôi
-còn bao_nhiêu cổ_phiếu
-xem cho 
-tình_trạng cổ_phiếu còn dư
-xem cho 
-tình_trạng cổ_phiếu còn lại
-xem cho 
-trạng_thái_cổ_phiếu còn dư
-xem cho 
-trạng_thái_cổ_phiếu còn lại
-xem cho 
-thông_tin chứng_khoán
-xem cho 
-thông_tin cổ_phiếu
-xem cho 
-thông_tin danh_mục
-xem cho 
-thông_tin danh_mục hiện có
-xem cho 
-thông_tin đầu_tư
-xem cho 
-thông_tin đầu_tư hiện có
-xem cho 
-tình_trạng chứng_khoán
-xem cho 
-tình_trạng danh_mục
-xem cho 
-tình_trạng đầu_tư
-xem cho 
-trạng_thái_chứng_khoán
-xem cho 
-trạng_thái danh_mục
-xem cho 
-trạng_thái đầu_tư
-xem cho 
-thông_tin 
-chứng_khoán còn dư
-xem cho 
-thông_tin cổ_phiếu còn lại
-xem cho 
-thông_tin cổ_phiếu còn dư
-xem cho 
-thông_tin 
-chứng_khoán còn lại
-xem cho 
-số_dư_chứng_khoán
-xem cho 
-
-chứng_khoán còn dư
-xem cho 
-tổng_số chứng_khoán
-xem cho 
-
-chứng_khoán còn lại
-xem cho 
-tổng_số chứng_khoán còn lại
-xem cho 
-tổng_số chứng_khoán còn dư
-xem cho 
 danh_mục 
 
-xem cho 
 danh_mục đầu_tư hiện_nay
-xem cho 
+
+danh_mục đầu_tư hiện_nay
 danh_mục chứng_khoán
-xem cho 
+
+danh_mục chứng_khoán
 danh_mục chứng_khoán 
 
-xem cho 
+
+danh_mục chứng_khoán 
+
 danh_mục đầu_tư hiện có
-xem cho 
+
+danh_mục đầu_tư hiện có
+
 danh_mục đầu_tư
-xem cho 
 danh_mục đầu_tư 
 
-xem cho 
+
+danh_mục đầu_tư 
+
+danh_mục cổ phiều
+
 danh_mục cổ_phiếu
-xem cho 
 danh_mục cổ_phiếu 
 
-xem cho 
+
+danh_mục cổ_phiếu 
+
 danh_mục cổ_phiếu hiện có
 
-còn bao_nhiêu tiền
+danh_mục cổ_phiếu hiện có
+tài_khoản đuôi
+
+
+
+bao_nhiêu chứng_khoán
+
+tài_khoản đuôi
+
+
+
+bao_nhiêu chứng_khoán
+tài_khoản đuôi
+
+
+
+bao_nhiêu chứng_khoán
+
+tài_khoản đuổi
+
+
+
+bao_nhiêu chứng_khoán
+
+tài_khoản đuôi
+
+
+có bao_nhiêu chứng_khoán
+
+tài_khoản đuôi
+
+
+có bao_nhiêu chứng_khoán
+tài_khoản đuôi
+
+
+có bao_nhiêu cổ_phiếu
+
+tài_khoản đuôi
+
+
+có bao_nhiêu cổ_phiếu
+tài_khoản đuôi
+
+
+
+bao_nhiêu cổ_phiếu
+
+tài_khoản đuôi
+
+
+
+bao_nhiêu cổ_phiếu
+tài_khoản đuôi
+
+
+
+bao_nhiêu cổ_phiếu
+
+tài_khoản đuôi
+
+
+
+bao_nhiêu cổ_phiếu
+tình_trạng cổ_phiếu 
+dư 
+
+
+tình_trạng cổ_phiếu 
+dư 
+
+tình_trạng cổ_phiếu 
+
+
+
+
+tình_trạng cổ_phiếu 
+
+
+
+trạng_thái_cổ_phiếu 
+dư 
+
+
+trạng_thái_cổ_phiếu 
+dư 
+
+trạng_thái_cổ_phiếu 
+
+
+
+
+trạng_thái_cổ_phiếu 
+
+
+
+thông_tin chứng_khoán 
+
+
+thông_tin chứng_khoán 
+
+thông_tin cổ_phiếu 
+
+
+thông_tin cổ_phiếu 
+
+thông_tin danh_mục 
+
+
+thông_tin danh_mục 
+
+thông_tin danh_mục 
+
+hiện có
+
+thông_tin danh_mục 
+
+hiện có
+thông_tin đầu_tư 
+
+
+thông_tin đầu_tư 
+
+thông_tin đầu_tư 
+
+hiện có
+
+thông_tin đầu_tư 
+
+hiện có
+
+tình_trạng chứng_khoán 
+
+
+tình_trạng danh_mục 
+
+
+tình_trạng đầu_tư 
+
+
+trạng_thái_chứng_khoán 
+
+
+trạng_thái danh_mục 
+
+
+trạng_thái đầu_tư 
+
+thông_tin 
+chứng_khoán 
+dư 
+
+
+thông_tin 
+chứng_khoán 
+dư 
+
+thông_tin cổ_phiếu 
+
+
+
+
+thông_tin cổ_phiếu 
+
+
+
+thông_tin cổ_phiếu 
+
+
+dư
+
+thông_tin cổ_phiếu 
+
+
+dư
+thông_tin 
+chứng_khoán 
+
+
+
+
+thông_tin 
+chứng_khoán 
+
+
+
+
+chứng_khoán 
+dư 
+
+
+số_dư_chứng_khoán 
+
+
+
+chứng_khoán 
+dư 
+
+tổng_số chứng_khoán 
+
+
+tổng_số chứng_khoán 
+
+
+chứng_khoán 
+
+
+
+
+
+chứng_khoán 
+
+
+
+tổng_số chứng_khoán 
+
+
+
+
+tổng_số chứng_khoán 
+
+
+
+tổng_số chứng_khoán 
+dư 
+
+
+tổng_số chứng_khoán 
+dư 
+
+danh_mục 
+
+
+
+
+danh_mục 
+
+
+
+danh_mục đầu_tư 
+
+hiện_nay
+
+danh_mục đầu_tư 
+
+hiện_nay
+danh_mục chứng_khoán 
+
+
+danh_mục chứng_khoán 
+
+danh_mục đầu_tư 
+
+hiện có
+
+danh_mục đầu_tư 
+
+hiện có
+danh_mục cổ_phiếu 
+
+hiện có
+
+danh_mục cổ_phiếu 
+
+hiện có
+
+cho 
+tài_khoản đuôi
+
+bao_nhiêu chứng_khoán
+
+cho 
+tài_khoản đuổi
+
+bao_nhiêu chứng_khoán
+
+cho 
+tài_khoản đuôi
+có bao_nhiêu chứng_khoán
+
+cho 
+tài_khoản đuôi
+có bao_nhiêu chứng_khoán
+
+cho 
+tài_khoản đuôi
+có bao_nhiêu cổ_phiếu
+
+cho 
+tài_khoản đuôi
+
+bao_nhiêu cổ_phiếu
+
+cho 
+tài_khoản đuôi
+
+bao_nhiêu cổ_phiếu
+
+cho 
+tình_trạng cổ_phiếu 
+dư
+
+cho 
+tình_trạng cổ_phiếu 
+
+
+cho 
+trạng_thái_cổ_phiếu 
+dư
+
+cho 
+trạng_thái_cổ_phiếu 
+
+
+cho 
+thông_tin chứng_khoán
+
+cho 
+thông_tin cổ_phiếu
+
+cho 
+thông_tin danh_mục
+
+cho 
+thông_tin danh_mục hiện có
+
+cho 
+thông_tin đầu_tư
+
+cho 
+thông_tin đầu_tư hiện có
+
+cho 
+tình_trạng chứng_khoán
+
+cho 
+tình_trạng danh_mục
+
+cho 
+tình_trạng đầu_tư
+
+cho 
+trạng_thái_chứng_khoán
+
+cho 
+trạng_thái danh_mục
+
+cho 
+trạng_thái đầu_tư
+
+cho 
+thông_tin 
+chứng_khoán 
+dư
+
+cho 
+thông_tin cổ_phiếu 
+
+
+cho 
+thông_tin cổ_phiếu 
+dư
+
+cho 
+thông_tin 
+chứng_khoán 
+
+
+cho 
+số_dư_chứng_khoán
+
+cho 
+
+chứng_khoán 
+dư
+
+cho 
+tổng_số chứng_khoán
+
+cho 
+
+chứng_khoán 
+
+
+cho 
+tổng_số chứng_khoán 
+
+
+cho 
+tổng_số chứng_khoán 
+dư
+
+cho 
+danh_mục 
+
+
+cho 
+danh_mục đầu_tư hiện_nay
+
+cho 
+danh_mục chứng_khoán
+
+cho 
+danh_mục chứng_khoán 
+
+
+cho 
+danh_mục đầu_tư hiện có
+
+cho 
+danh_mục đầu_tư
+
+cho 
+danh_mục đầu_tư 
+
+
+cho 
+danh_mục cổ_phiếu
+
+cho 
+danh_mục cổ_phiếu 
+
+
+cho 
+danh_mục cổ_phiếu hiện có
+
+
+bao_nhiêu tiền
 trạng_thái tiền
 tình_trạng tiền
 tiền
@@ -16084,17 +16973,24 @@ bao_nhiêu tiền
 
 tiền hiện_tại
 tiền thế_nào
-xem trạng_thái tiền
+
+trạng_thái tiền
 
 tiền dư
-xem số_dư tiền
-xem 
+
+số_dư tiền
+
+
 tiền dư
 
-tiền còn lại
-xem 
-tiền còn lại
-xem tiền trong tài_khoản
+tiền 
+
+
+
+tiền 
+
+
+tiền trong tài_khoản
 thông_tin tiền trong tài_khoản
 tình_trạng tiền trong tài_khoản
 trạng_thái tiền trong tài_khoản
@@ -16103,14 +16999,19 @@ thông_tin
 tiền dư
 trạng_thái tiền 
 tài_khoản
-tiền còn lại
-tài_khoản còn lại bao_nhiêu tiền
+tiền 
+
+tài_khoản 
+
+bao_nhiêu tiền
 
 tiền dư
-số_dư tiền còn lại
+số_dư tiền 
+
 dư tiền trong tài_khoản
 dư_nợ tiền_tài_khoản
-xem dư_nợ tiền_tài_khoản
+
+dư_nợ tiền_tài_khoản
 tiền dư bao_nhiêu
 số_dư tiền bao_nhiêu
 tài_khoản dư bao_nhiêu tiền
@@ -16133,65 +17034,104 @@ tiền hiện có
 số_dư hiện có
 dữ_liệu tiền 
 tài_khoản
-xem thông_tin tiền trong tài_khoản
-xem tình_trạng tiền trong tài_khoản
-xem trạng_thái tiền trong tài_khoản
-xem thông_tin số_dư tiền
-xem thông_tin 
+
+thông_tin tiền trong tài_khoản
+
+tình_trạng tiền trong tài_khoản
+
+trạng_thái tiền trong tài_khoản
+
+thông_tin số_dư tiền
+
+thông_tin 
 tiền dư
-xem trạng_thái tiền 
+
+trạng_thái tiền 
 tài_khoản
-xem tiền còn lại
-xem tài_khoản còn lại bao_nhiêu tiền
-xem 
+
+tiền 
+
+
+tài_khoản 
+
+bao_nhiêu tiền
+
+
 tiền dư
-xem số_dư tiền còn lại
-xem dư tiền_tài_khoản
-xem dư_nợ tài_khoản
-xem 
+
+số_dư tiền 
+
+
+dư tiền_tài_khoản
+
+dư_nợ tài_khoản
+
+
 tiền dư bao_nhiêu
-xem số_dư tiền bao_nhiêu
-xem tài_khoản dư bao_nhiêu tiền
-xem tài_khoản tiền dư bao_nhiêu
-xem thông_tin tiền 
+
+số_dư tiền bao_nhiêu
+
+tài_khoản dư bao_nhiêu tiền
+
+tài_khoản tiền dư bao_nhiêu
+
+thông_tin tiền 
 
 tài_khoản
-xem số_dư tiền 
+
+số_dư tiền 
 tài_khoản
-xem thông_tin tiền 
+
+thông_tin tiền 
 tài_khoản đuôi
-xem thông_tin tiền 
+
+thông_tin tiền 
 tài_khoản đuôi
-xem trạng_thái tiền 
+
+trạng_thái tiền 
 tài_khoản đuôi
-xem trạng_thái tiền 
+
+trạng_thái tiền 
 tài_khoản đuôi
-xem 
+
+
 tiền hiện có
-xem số_dư hiện có
-xem tiền 
+
+số_dư hiện có
+
+tiền 
 
 tài_khoản hiện có
-xem dữ_liệu tiền 
+
+dữ_liệu tiền 
 
 tài_khoản
-xem trạng_thái tiền 
+
+trạng_thái tiền 
 
 
 tiền dư 
 
-xem số_dư tiền 
 
-xem 
+số_dư tiền 
+
+
+
 tiền dư 
 
 
-tiền còn lại 
+tiền 
 
-xem 
-tiền còn lại 
 
-xem tiền trong tài_khoản 
+
+
+
+tiền 
+
+
+
+
+tiền trong tài_khoản 
 
 thông_tin tiền trong tài_khoản 
 
@@ -16207,20 +17147,27 @@ tiền dư
 trạng_thái tiền 
 tài_khoản 
 
-tiền còn lại 
+tiền 
 
-tài_khoản còn lại bao_nhiêu tiền 
+
+
+tài_khoản 
+
+bao_nhiêu tiền 
 
 
 tiền dư 
 
-số_dư tiền còn lại 
+số_dư tiền 
+
+
 
 dư tiền trong tài_khoản 
 
 dư_nợ tiền_tài_khoản 
 
-xem dư_nợ tiền_tài_khoản 
+
+dư_nợ tiền_tài_khoản 
 
 tiền dư 
 
@@ -16265,165 +17212,234 @@ số_dư hiện có
 dữ_liệu tiền 
 tài_khoản 
 
-xem thông_tin tiền trong tài_khoản 
 
-xem tình_trạng tiền trong tài_khoản 
+thông_tin tiền trong tài_khoản 
 
-xem trạng_thái tiền trong tài_khoản 
 
-xem thông_tin số_dư tiền 
+tình_trạng tiền trong tài_khoản 
 
-xem thông_tin 
+
+trạng_thái tiền trong tài_khoản 
+
+
+thông_tin số_dư tiền 
+
+
+thông_tin 
 tiền dư 
 
-xem trạng_thái tiền 
+
+trạng_thái tiền 
 tài_khoản 
 
-xem tiền còn lại 
 
-xem tài_khoản còn lại bao_nhiêu tiền 
+tiền 
 
-xem 
+
+
+
+tài_khoản 
+
+bao_nhiêu tiền 
+
+
+
 tiền dư 
 
-xem số_dư tiền còn lại 
 
-xem dư tiền_tài_khoản 
+số_dư tiền 
 
-xem dư_nợ tài_khoản 
 
-xem 
+
+
+dư tiền_tài_khoản 
+
+
+dư_nợ tài_khoản 
+
+
+
 tiền
 
 
 dư
 bao_nhiêu
-xem số_dư tiền 
+
+số_dư tiền 
 
 
 bao_nhiêu
-xem tài_khoản 
+
+tài_khoản 
 
 dư bao_nhiêu tiền
-xem tài_khoản tiền 
+
+tài_khoản tiền 
 
 dư bao_nhiêu
-xem thông_tin tiền 
+
+thông_tin tiền 
 
 tài_khoản 
 
-xem số_dư tiền 
+
+số_dư tiền 
 tài_khoản 
 
-xem thông_tin tiền 
+
+thông_tin tiền 
 tài_khoản đuôi
 
 
-xem thông_tin tiền 
+
+thông_tin tiền 
 tài_khoản đuôi
 
 
-xem trạng_thái tiền 
+
+trạng_thái tiền 
 tài_khoản đuôi
 
 
-xem trạng_thái tiền 
+
+trạng_thái tiền 
 tài_khoản đuôi
 
 
-xem 
+
+
 tiền hiện có 
 
-xem số_dư hiện có 
 
-xem tiền 
+số_dư hiện có 
+
+
+tiền 
 
 tài_khoản hiện có 
 
-xem dữ_liệu tiền 
+
+dữ_liệu tiền 
 
 tài_khoản 
 
 cho 
-xem trạng_thái tiền
+
+trạng_thái tiền
 cho 
-xem số_dư tiền
+
+số_dư tiền
 cho 
-xem 
+
+
 tiền dư
 cho 
-xem 
-tiền còn lại
+
+
+tiền 
+
 cho 
-xem tiền trong tài_khoản
+
+tiền trong tài_khoản
 cho 
-xem dư_nợ tiền_tài_khoản
+
+dư_nợ tiền_tài_khoản
 cho 
-xem thông_tin tiền trong tài_khoản
+
+thông_tin tiền trong tài_khoản
 cho 
-xem tình_trạng tiền trong tài_khoản
+
+tình_trạng tiền trong tài_khoản
 cho 
-xem trạng_thái tiền trong tài_khoản
+
+trạng_thái tiền trong tài_khoản
 cho 
-xem thông_tin số_dư tiền
+
+thông_tin số_dư tiền
 cho 
-xem thông_tin 
+
+thông_tin 
 tiền dư
 cho 
-xem trạng_thái tiền 
+
+trạng_thái tiền 
 tài_khoản
 cho 
-xem tiền còn lại
+
+tiền 
+
 cho 
-xem tài_khoản còn lại bao_nhiêu tiền
+
+tài_khoản 
+
+bao_nhiêu tiền
 cho 
-xem 
+
+
 tiền dư
 cho 
-xem số_dư tiền còn lại
+
+số_dư tiền 
+
 cho 
-xem dư tiền_tài_khoản
+
+dư tiền_tài_khoản
 cho 
-xem dư_nợ tài_khoản
+
+dư_nợ tài_khoản
 cho 
-xem 
+
+
 tiền dư bao_nhiêu
 cho 
-xem số_dư tiền bao_nhiêu
+
+số_dư tiền bao_nhiêu
 cho 
-xem tài_khoản dư bao_nhiêu tiền
+
+tài_khoản dư bao_nhiêu tiền
 cho 
-xem tài_khoản tiền dư bao_nhiêu
+
+tài_khoản tiền dư bao_nhiêu
 cho 
-xem thông_tin tiền 
+
+thông_tin tiền 
 
 tài_khoản
 cho 
-xem số_dư tiền 
+
+số_dư tiền 
 tài_khoản
 cho 
-xem thông_tin tiền 
+
+thông_tin tiền 
 tài_khoản đuôi
 cho 
-xem thông_tin tiền 
+
+thông_tin tiền 
 tài_khoản đuôi
 cho 
-xem trạng_thái tiền 
+
+trạng_thái tiền 
 tài_khoản đuôi
 cho 
-xem trạng_thái tiền 
+
+trạng_thái tiền 
 tài_khoản đuôi
 cho 
-xem 
+
+
 tiền hiện có
 cho 
-xem số_dư hiện có
+
+số_dư hiện có
 cho 
-xem tiền 
+
+tiền 
 
 tài_khoản hiện có
 cho 
-xem dữ_liệu tiền 
+
+dữ_liệu tiền 
 
 tài_khoản
 hiển_thị trạng_thái tiền
@@ -16431,7 +17447,8 @@ hiển_thị số_dư tiền
 hiển_thị 
 tiền dư
 hiển_thị 
-tiền còn lại
+tiền 
+
 hiển_thị tiền trong tài_khoản
 hiển_thị dư_nợ tiền_tài_khoản
 hiển_thị thông_tin tiền trong tài_khoản
@@ -16442,11 +17459,15 @@ hiển_thị thông_tin
 tiền dư
 hiển_thị trạng_thái tiền 
 tài_khoản
-hiển_thị tiền còn lại
-hiển_thị tài_khoản còn lại bao_nhiêu tiền
+hiển_thị tiền 
+
+hiển_thị tài_khoản 
+
+bao_nhiêu tiền
 hiển_thị 
 tiền dư
-hiển_thị số_dư tiền còn lại
+hiển_thị số_dư tiền 
+
 hiển_thị dư tiền_tài_khoản
 hiển_thị dư_nợ tài_khoản
 hiển_thị 
@@ -16490,7 +17511,8 @@ trở_lại
 
 đi_đây
 chào
-thế 
+
+
 stop
 tắt_app
 tạm_biệt 
@@ -16504,9 +17526,10 @@ chấm_dứt
 tạm_biệt
 bye bye
 kết_thúc
-gặp lại 
+gặp 
+
 mai nói_chuyện 
-mai gặp lại
+mai gặp 
 hẹn 
 
 
@@ -16522,7 +17545,9 @@ chương_trình
 bye
 đóng
 đóng đóng chương_trình
-quay lại 
+
+
+
 tắt
 tắt chương_trình
 chào 
@@ -16538,14 +17563,24 @@ cổ_phiếu
 giá
 không
 cho 
-xin ý_kiến về thị_trường hôm_nay
+
 ý_kiến 
-bạn về thị_trường hôm_nay
-bạn nghĩ thị_trường hôm_nay 
+thị_trường hôm_nay
+ý_kiến 
+
+
+thị_trường hôm_nay
+
+
+thị_trường hôm_nay 
 thế_nào
-bạn nghĩ mã
+
+
+mã
 hôm_nay thế_nào
-bạn nghĩ mã
+
+
+mã
 hôm_nay 
 tăng hay giảm
 mua
@@ -16587,15 +17622,21 @@ nên mua hay bán
 mua hay bán_đây
 nên mua 
 hay bán 
-đề_xuất như nào
-khuyến_nghị như nào
+đề_xuất 
+
+khuyến_nghị 
+
 đề_xuất_thế_nào
 nhận_định thế_nào
-nhận_định như nào
+nhận_định 
+
 mua_bán thế_nào
-xem đề_xuất
-xem khuyến_nghị
-xem nhận_định
+
+đề_xuất
+
+khuyến_nghị
+
+nhận_định
 khuyến_nghị 
 
 đề_xuất 
@@ -16641,11 +17682,20 @@ nên
 thị_trường hiện_nay
 thị_trường lên xuống thất_thường nên mua 
 hay bán 
-bạn nghĩ thị_trường hôm_nay thế_nào
+
+
+thị_trường hôm_nay thế_nào
 ý_kiến 
-bạn về thị_trường hôm_nay
-bạn nghĩ thế_nào về thị_trường hôm_nay
-bạn nghĩ thị_trường hôm_nay 
+
+
+thị_trường hôm_nay
+
+
+thế_nào 
+thị_trường hôm_nay
+
+
+thị_trường hôm_nay 
 thế_nào
 
 khớp lệnh chưa
@@ -16656,23 +17706,31 @@ khớp chưa
 tình_trạng lệnh
 lệnh 
 
-xem trạng_thái lệnh
+
+trạng_thái lệnh
 trạng_thái lệnh 
 
-xem trạng_thái lệnh 
 
-xem tình_trạng lệnh
+trạng_thái lệnh 
+
+
+tình_trạng lệnh
 thông_tin lệnh
-xem thông_tin lệnh
+
+thông_tin lệnh
 tình_trạng khớp lệnh
 trạng_thái khớp lệnh
 thông_tin khớp lệnh
-xem tình_trạng khớp lệnh
-xem thông_tin khớp lệnh
-xem trạng_thái khớp lệnh
+
+tình_trạng khớp lệnh
+
+thông_tin khớp lệnh
+
+trạng_thái khớp lệnh
 thông_tin lệnh 
 
-xem thông_tin lệnh 
+
+thông_tin lệnh 
 
 tình_trạng khớp lệnh 
 
@@ -16680,25 +17738,33 @@ trạng_thái khớp lệnh
 
 thông_tin khớp lệnh 
 
-xem tình_trạng khớp lệnh 
 
-xem thông_tin khớp lệnh 
+tình_trạng khớp lệnh 
 
-xem trạng_thái khớp lệnh 
+
+thông_tin khớp lệnh 
+
+
+trạng_thái khớp lệnh 
 
 lệnh 
 giao_dịch
-xem lệnh 
+
+lệnh 
 giao_dịch
 lệnh 
 chờ giao_dịch
-xem lệnh 
+
+lệnh 
 chờ giao_dịch
 lệnh bị_hủy
-xem lệnh bị_hủy
+
+lệnh bị_hủy
 lệnh không hợp_lệ
-xem lệnh không hợp_lệ
-xem lệnh 
+
+lệnh không hợp_lệ
+
+lệnh 
 chờ
 lệnh 
 chờ
@@ -16711,41 +17777,51 @@ lệnh
 chưa
 lệnh 
 giao_dịch
-xem lệnh 
+
+lệnh 
 giao_dịch
 tình_trạng giao_dịch 
 lệnh
-xem tình_trạng giao_dịch 
+
+tình_trạng giao_dịch 
 lệnh
 giao_dịch khớp lệnh
-xem giao_dịch khớp lệnh
+
+giao_dịch khớp lệnh
 kết_quả khớp lệnh
-xem kết_quả khớp lệnh
-xem kết_quả giao_dịch lệnh
+
+kết_quả khớp lệnh
+
+kết_quả giao_dịch lệnh
 kết_quả giao_dịch lệnh
 lệnh 
 giao_dịch 
 
-xem lệnh 
+
+lệnh 
 giao_dịch 
 
 lệnh 
 chờ giao_dịch 
 
-xem lệnh 
+
+lệnh 
 chờ giao_dịch 
 
 lệnh 
 hủy 
 
-xem lệnh 
+
+lệnh 
 hủy 
 
 lệnh không hợp_lệ 
 
-xem lệnh không hợp_lệ 
 
-xem lệnh 
+lệnh không hợp_lệ 
+
+
+lệnh 
 chờ 
 
 lệnh 
@@ -16763,84 +17839,112 @@ chưa
 lệnh 
 giao_dịch 
 
-xem lệnh 
+
+lệnh 
 giao_dịch 
 
 tình_trạng giao_dịch 
 lệnh 
 
-xem tình_trạng giao_dịch 
+
+tình_trạng giao_dịch 
 lệnh 
 
 giao_dịch khớp lệnh 
 
-xem giao_dịch khớp lệnh 
+
+giao_dịch khớp lệnh 
 
 kết_quả khớp lệnh 
 
-xem kết_quả khớp lệnh 
 
-xem kết_quả giao_dịch lệnh 
+kết_quả khớp lệnh 
+
 
 kết_quả giao_dịch lệnh 
 
-xem cho 
+kết_quả giao_dịch lệnh 
+
+
+cho 
 trạng_thái lệnh
-xem cho 
+
+cho 
 trạng_thái lệnh 
 
-xem cho 
+
+cho 
 tình_trạng lệnh
-xem cho 
+
+cho 
 thông_tin lệnh
-xem cho 
+
+cho 
 tình_trạng khớp lệnh
-xem cho 
+
+cho 
 thông_tin khớp lệnh
-xem cho 
+
+cho 
 trạng_thái khớp lệnh
-xem cho 
+
+cho 
 thông_tin lệnh 
 
-xem cho 
+
+cho 
 tình_trạng khớp lệnh 
 
-xem cho 
+
+cho 
 thông_tin khớp lệnh 
 
-xem cho 
+
+cho 
 trạng_thái khớp lệnh 
 
-xem cho 
+
+cho 
 lệnh 
 giao_dịch
-xem cho 
+
+cho 
 lệnh 
 chờ giao_dịch
-xem cho 
+
+cho 
 lệnh bị_hủy
-xem cho 
+
+cho 
 lệnh không hợp_lệ
-xem cho 
+
+cho 
 lệnh 
 chờ
-xem cho 
+
+cho 
 lệnh 
 giao_dịch
-xem cho 
+
+cho 
 tình_trạng giao_dịch 
 lệnh
-xem cho 
+
+cho 
 giao_dịch khớp lệnh
-xem cho 
+
+cho 
 kết_quả khớp lệnh
-xem cho 
+
+cho 
 kết_quả giao_dịch lệnh
 huỷ
-thôi
+
 bỏ_qua
-bỏ đi
-về lại
+
+đi
+
+
 chức_năng 
 chứng_năng hệ_thống
 trợ_giúp
@@ -16851,9 +17955,12 @@ help
 
 
 
-quay lại
-quay về
-không đặt 
+
+
+
+
+không 
+
 không 
 
 hủy_bỏ
@@ -16861,46 +17968,59 @@ loại_bỏ
 dừng
 hủy_lệnh
 dừng lệnh
-dừng lại
+dừng 
 tạm dừng
 dừng 
 hủy 
-bỏ lệnh
+
+lệnh
 bỏ_qua lệnh
-bỏ
-bỏ đi
+
+
+đi
 dừng đi
 hủy_bỏ 
 hủy_bỏ lệnh
 loại_bỏ lệnh
-ngưng lại
+ngưng 
 ngưng lệnh
 ngừng lệnh
-ngưng lại
-ngừng lại
+ngưng 
+ngừng 
 trang_chủ
-về
-về trang_chủ
-trở về trang_chủ
-quay lại trang_chủ
-quay về trang_chủ
+
+
+trang_chủ
+trở 
+trang_chủ
+
+
+trang_chủ
+
+
+trang_chủ
 trở_lại trang_chủ
 tới trang_chủ
-trở về
+trở 
 trở_lại
 
-lại
+
 hướng_dẫn
 hỏi_đáp
-dừng đặt lệnh
-bỏ đặt lệnh
+dừng 
+lệnh
+
+
+lệnh
 dừng 
 đừng 
-quay trở_lại
 
-lại
+trở_lại
+
+
 không khớp lệnh
-bỏ khớp lệnh
+
+khớp lệnh
 dừng khớp lệnh
 hủy_khớp lệnh
 may phú_thịnh
@@ -16957,7 +18077,8 @@ hnx
 
 chuyển sàn
 trần 
-xin ý_kiến bán_cổ_phần cho
+
+ý_kiến bán_cổ_phần cho
 
 hủy niêm_yết 
 hnx
@@ -16972,7 +18093,9 @@ hủy niêm_yết
 
 nâng sở_hữu lên
 chốt 
-lấy ý_kiến lại 
+
+ý_kiến 
+
 hủy niêm_yết 
 hose 
 
@@ -16999,19 +18122,25 @@ hose lưu_ý
 
 có_thể 
 hủy niêm_yết bắt_buộc
-về chức_năng 
-về chức_năng hệ_thống
+
+chức_năng 
+
+chức_năng hệ_thống
 tới chức_năng 
 tới chức_năng hệ_thống
-về chức_năng 
 
-về chức_năng hệ_thống 
+chức_năng 
+
+
+chức_năng hệ_thống 
 tới chức_năng 
 
 tới chức_năng hệ_thống 
-về chức_năng 
+
+chức_năng 
 đi
-về chức_năng hệ_thống đi
+
+chức_năng hệ_thống đi
 tới chức_năng 
 đi
 tới chức_năng hệ_thống đi
@@ -17037,44 +18166,63 @@ chức_năng hệ_thống
 đi tới chức_năng 
 đi
 đi tới chức_năng hệ_thống đi
-hủy bỏ đi
+hủy 
+đi
 loại_bỏ đi
 hủy lệnh đi
 dừng lệnh đi
-dừng lại đi
+dừng 
+đi
 tạm dừng đi
 dừng 
 đi
 hủy 
 đi
-bỏ lệnh đi
+
+lệnh đi
 bỏ_qua lệnh đi
 hủy_bỏ 
 đi
 hủy_bỏ lệnh đi
 loại_bỏ lệnh đi
-ngưng lại đi
+ngưng 
+đi
 ngưng lệnh đi
 ngừng lệnh đi
-ngừng lại đi
-về trang_chủ đi
-trở về trang_chủ đi
-quay lại trang_chủ đi
-quay về trang_chủ đi
+ngừng 
+đi
+
+trang_chủ đi
+trở 
+trang_chủ đi
+
+
+trang_chủ đi
+
+
+trang_chủ đi
 trở_lại trang_chủ đi
 tới trang_chủ đi
-trở về đi
+trở 
+đi
 trở_lại đi
 
-lại đi
-dừng đặt lệnh đi
-bỏ đặt lệnh đi
+
+đi
+dừng 
+lệnh đi
+
+
+lệnh đi
 dừng 
 đi
-quay trở_lại đi
 
-lại đi
-bỏ khớp lệnh đi
+trở_lại đi
+
+
+đi
+
+khớp lệnh đi
 dừng khớp lệnh đi
 hủy_khớp lệnh đi
 hủy_bỏ 
@@ -17082,42 +18230,65 @@ loại_bỏ
 dừng 
 hủy lệnh 
 dừng lệnh 
-dừng lại 
+dừng 
+
 tạm dừng 
-bỏ lệnh 
+
+lệnh 
 bỏ_qua lệnh 
-bỏ 
-bỏ đi 
+
+
+
+đi 
 dừng đi 
 hủy_bỏ lệnh 
 loại_bỏ lệnh 
-ngưng lại 
+ngưng 
+
 ngưng lệnh 
 ngừng lệnh 
-ngưng lại 
-ngừng lại 
-về lại 
-về trang_chủ 
-trở về trang_chủ 
-quay lại trang_chủ 
-quay về trang_chủ 
+ngưng 
+
+ngừng 
+
+
+
+
+
+trang_chủ 
+trở 
+trang_chủ 
+
+
+trang_chủ 
+
+
+trang_chủ 
 trở_lại trang_chủ 
 tới trang_chủ 
-trở về 
+trở 
+
 trở_lại 
 
-lại 
+
+
 đi tới trang_chủ
-dừng đặt lệnh 
-bỏ đặt lệnh 
+dừng 
+lệnh 
+
+
+lệnh 
 dừng 
 
 đừng 
 
-quay trở_lại 
 
-lại 
-bỏ khớp lệnh 
+trở_lại 
+
+
+
+
+khớp lệnh 
 dừng khớp lệnh 
 hủy_khớp lệnh 
 stop 
@@ -17175,7 +18346,8 @@ hnx
 
 chuyển sàn
 trần 
-xin ý_kiến bán_cổ_phần cho
+
+ý_kiến bán_cổ_phần cho
 
 hủy niêm_yết 
 hnx
@@ -17190,7 +18362,9 @@ hủy niêm_yết
 
 nâng sở_hữu lên
 chốt 
-lấy ý_kiến lại 
+
+ý_kiến 
+
 hủy niêm_yết 
 hose 
 
@@ -17217,19 +18391,25 @@ hose lưu_ý
 
 có_thể 
 hủy niêm_yết bắt_buộc
-về chức_năng 
-về chức_năng hệ_thống
+
+chức_năng 
+
+chức_năng hệ_thống
 tới chức_năng 
 tới chức_năng hệ_thống
-về chức_năng 
 
-về chức_năng hệ_thống 
+chức_năng 
+
+
+chức_năng hệ_thống 
 tới chức_năng 
 
 tới chức_năng hệ_thống 
-về chức_năng 
+
+chức_năng 
 đi
-về chức_năng hệ_thống đi
+
+chức_năng hệ_thống đi
 tới chức_năng 
 đi
 tới chức_năng hệ_thống đi
@@ -17255,44 +18435,63 @@ chức_năng hệ_thống
 đi tới chức_năng 
 đi
 đi tới chức_năng hệ_thống đi
-hủy bỏ đi
+hủy 
+đi
 loại_bỏ đi
 hủy lệnh đi
 dừng lệnh đi
-dừng lại đi
+dừng 
+đi
 tạm dừng đi
 dừng 
 đi
 hủy 
 đi
-bỏ lệnh đi
+
+lệnh đi
 bỏ_qua lệnh đi
 hủy_bỏ 
 đi
 hủy_bỏ lệnh đi
 loại_bỏ lệnh đi
-ngưng lại đi
+ngưng 
+đi
 ngưng lệnh đi
 ngừng lệnh đi
-ngừng lại đi
-về trang_chủ đi
-trở về trang_chủ đi
-quay lại trang_chủ đi
-quay về trang_chủ đi
+ngừng 
+đi
+
+trang_chủ đi
+trở 
+trang_chủ đi
+
+
+trang_chủ đi
+
+
+trang_chủ đi
 trở_lại trang_chủ đi
 tới trang_chủ đi
-trở về đi
+trở 
+đi
 trở_lại đi
 
-lại đi
-dừng đặt lệnh đi
-bỏ đặt lệnh đi
+
+đi
+dừng 
+lệnh đi
+
+
+lệnh đi
 dừng 
 đi
-quay trở_lại đi
 
-lại đi
-bỏ khớp lệnh đi
+trở_lại đi
+
+
+đi
+
+khớp lệnh đi
 dừng khớp lệnh đi
 hủy_khớp lệnh đi
 hủy_bỏ 
@@ -17300,42 +18499,65 @@ loại_bỏ
 dừng 
 hủy lệnh 
 dừng lệnh 
-dừng lại 
+dừng 
+
 tạm dừng 
-bỏ lệnh 
+
+lệnh 
 bỏ_qua lệnh 
-bỏ 
-bỏ đi 
+
+
+
+đi 
 dừng đi 
 hủy_bỏ lệnh 
 loại_bỏ lệnh 
-ngưng lại 
+ngưng 
+
 ngưng lệnh 
 ngừng lệnh 
-ngưng lại 
-ngừng lại 
-về lại 
-về trang_chủ 
-trở về trang_chủ 
-quay lại trang_chủ 
-quay về trang_chủ 
+ngưng 
+
+ngừng 
+
+
+
+
+
+trang_chủ 
+trở 
+trang_chủ 
+
+
+trang_chủ 
+
+
+trang_chủ 
 trở_lại trang_chủ 
 tới trang_chủ 
-trở về 
+trở 
+
 trở_lại 
 
-lại 
+
+
 đi tới trang_chủ
-dừng đặt lệnh 
-bỏ đặt lệnh 
+dừng 
+lệnh 
+
+
+lệnh 
 dừng 
 
 đừng 
 
-quay trở_lại 
 
-lại 
-bỏ khớp lệnh 
+trở_lại 
+
+
+
+
+khớp lệnh 
 dừng khớp lệnh 
 hủy_khớp lệnh 
 stop 
@@ -17366,7 +18588,7 @@ tuyên_truyền
 càng 
 đẩy_mạnh 
 
-
+hết
 
 
 chia_sẻ 
@@ -17378,7 +18600,8 @@ phóng_viên
 thời báo tài_chính việt_nam
 nhân 
 báo_chí cách_mạng việt_nam
-trong thời_gian 
+trong 
+
 
 
 chỉ_đạo 
@@ -17399,7 +18622,8 @@ hội_nhập kinh_tế
 
 có 
 
-thành_công như 
+thành_công 
+
 hôm_nay
 
 
@@ -17424,7 +18648,8 @@ truyền_hình
 phóng_viên theo_dõi mảng chứng_khoán 
 
 hỗ_trợ đồng_hành 
-cơ_quan quản_lý tuyên_truyền về cơ_chế chính_sách
+cơ_quan quản_lý tuyên_truyền 
+cơ_chế chính_sách
 công_tác chỉ_đạo điều_hành phát_triển thị_trường
 báo_chí 
 phát_huy 
@@ -17458,7 +18683,8 @@ nhà_báo
 phóng_viên cho 
 phát_triển 
 thị_trường chứng_khoán
-trong suốt thời_gian 
+trong suốt 
+
 pv
 thị_trường chứng_khoán 
 
@@ -17513,7 +18739,8 @@ hoạt_động
 
 thành_viên thị_trường 
 
-tốt 
+
+
 
 sở giao_dịch chứng_khoán
 sở giao_dịch chứng_khoán
@@ -17561,14 +18788,14 @@ phát_triển thị_trường trong giai_đoạn
 ủy_ban chứng_khoán nhà_nước
 
 coi_trọng công_tác thông_tin
-tuyên_truyền về chứng_khoán
+tuyên_truyền 
+chứng_khoán
 thị_trường chứng_khoán
 
 càng 
 đẩy_mạnh 
 
-
-chất_lượng thông_tin tuyên_truyền 
+hết chất_lượng thông_tin tuyên_truyền 
 
 đổi_mới
 
@@ -17608,7 +18835,8 @@ khá phức_tạp
 có định_hướng 
 giải_pháp 
 
-tăng_cường công_tác tuyên_truyền về thị_trường 
+tăng_cường công_tác tuyên_truyền 
+thị_trường 
 thưa 
 
 phạm hồng_sơn
@@ -17627,7 +18855,7 @@ công_chúng đầu_tư
 
 chú_trọng
 
-mục_tiêu truyền_đạt kiến_thức về
+mục_tiêu truyền_đạt kiến_thức 
 thị_trường chứng_khoán
 phái_sinh 
 tổng_quát
@@ -17708,7 +18936,8 @@ lớp_học cho
 
 trang_bị cho 
 
-kiến_thức cơ_bản về thị_trường
+kiến_thức cơ_bản 
+thị_trường
 ủy_ban chứng_khoán nhà_nước
 
 
@@ -17726,7 +18955,8 @@ trong giai_đoạn đầu chuẩn_bị
 cho thị_trường
 hnx 
 xây_dựng hệ_thống thông_tin 
-cơ_sở dữ_liệu đào_tạo về chứng_khoán phái_sinh 
+cơ_sở dữ_liệu đào_tạo 
+chứng_khoán phái_sinh 
 website
 thiết_kế
 triển_khai xây_dựng tờ_rơi sản_phẩm
@@ -17739,7 +18969,8 @@ thành_viên giao_dịch
 
 nói_chuyện 
 sếp 
-doanh_nghiệp về hóa_chất
+doanh_nghiệp 
+hóa_chất
 
 
 
@@ -17769,10 +19000,12 @@ chứng_chỉ có giá tri chuyển_đổi thành tiền chứng_chỉ có_thể
 giấy chứng_nhận phát_hành cổ_phiếu
 trái_phiếu công_ty hoặc dữ_liệu điện_tử trong máy_tính 
 trung_tâm lưu ký chứng_khoán
-xác_nhận bạn 
+xác_nhận 
+
 mua cổ_phiếu 
 
-công_ty nào 
+công_ty 
+
 chơi chứng_khoán 
 đơn_giản 
 
@@ -17782,9 +19015,11 @@ bán
 thanh_toán 
 công_ty môi_giới chứng_khoán 
 công_việc 
-bạn 
 
-đặt lệnh cho công_ty_chứng_khoán 
+
+
+
+lệnh cho công_ty_chứng_khoán 
 nên 
 
 công_ty_chứng_khoán uy_tín 
@@ -17803,7 +19038,8 @@ thành_viên
 sở giao_dịch 
 
 mở tài_khoản
-bạn có_thể 
+
+có_thể 
 nhà_đặt lệnh mua_bán 
 điện_thoại hặc interrnet
 thông_qua 
@@ -17812,7 +19048,8 @@ môi_giới
 
 
 nhân_viên môi_giới 
-giúp bạn 
+giúp 
+
 thủ_tục 
 mở tài_khoản chứng_khoán nộp 
 tiền nhất_định
@@ -17826,8 +19063,10 @@ thị_trường chứng_khoán
 
 nộp 
 tiền 
-bạn có 
-tài_khoản chứng_khoán bạn 
+
+có 
+tài_khoản chứng_khoán 
+
 có quyền mua chứng_khoán 
 
 tiền trong tài_khoản chứng_khoán 
@@ -17837,20 +19076,28 @@ lệnh mua
 
 trừ đi phí giao_dịch 
 công_ty_chứng_khoán 
-có_thể quyết_định mua loại cổ_phiếu nào có 
+có_thể quyết_định mua loại cổ_phiếu 
+có 
 nhiều 
 nhân_viên môi_giới 
-hổ trợ bạn về 
-thông_số kỹ_thuật bạn tìm_hiểu về công_ty 
-bạn 
+hổ trợ 
+
+
+thông_số kỹ_thuật 
+tìm_hiểu 
+công_ty 
+
+
 quan_tâm 
 tất_cả 
 kênh
 kiến_thức 
-bạn có 
+
+có 
 phán_đoán 
 quyết_định 
-website hổ_trợ về chứng_khoán
+website hổ_trợ 
+chứng_khoán
 cafef
 vietstock
 chungkhoanaz
@@ -17859,7 +19106,8 @@ chungkhoanaz
 phát_triển 
 
 kinh_tế
-nhu_cầu về tích vốn trong xã_hội tăng lên 
+nhu_cầu 
+tích vốn trong xã_hội tăng lên 
 trở_nên đa_dạng
 phong_phú
 
@@ -17904,7 +19152,8 @@ tiêu_dùng
 đầu_tư
 
 đòn_bẩy cho phát_triển kinh_tế căn_cứ 
-thời_gian luân_chuyển vốn
+
+luân_chuyển vốn
 thị_trường tài_chính bao_gồm
 thị_trường tiền_tệ
 mua_bán
@@ -17918,13 +19167,16 @@ trao_đổi
 công_cụ tài_chính trung 
 dài_hạn
 ban_đầu nhu_cầu vốn 
-như tiết_kiệm trong dân chưa cao 
-nhu_cầu về vốn chủ_yếu 
+
+tiết_kiệm trong dân chưa cao 
+nhu_cầu 
+vốn chủ_yếu 
 vốn ngắn_hạn 
-thời_gian
+
 
 phát_triển kinh_tế
-nhu_cầu về vốn dài_hạn cho đầu_tư phát_triển 
+nhu_cầu 
+vốn dài_hạn cho đầu_tư phát_triển 
 cao
 
 
@@ -17939,7 +19191,8 @@ vốn dài_hạn
 cạnh 
 đi vay ngân_hàng thông_qua hình_thức tài_chính gián_tiếp
 chính_phủ 
-doanh_nghiệp còn huy_động vốn thông_qua hình_thức phát_hành chứng_khoán
+doanh_nghiệp 
+huy_động vốn thông_qua hình_thức phát_hành chứng_khoán
 
 
 bộ_phận 
@@ -17987,7 +19240,8 @@ thị_trường chứng_khoán
 
 
 kết_quả 
-về khung pháp_lý
+
+khung pháp_lý
 thể_chế chính_sách 
 
 
@@ -18012,7 +19266,8 @@ xung_đột
 
 văn_bản pháp_luật 
 có liên_quan
-về cơ_bản thống_nhất 
+
+cơ_bản thống_nhất 
 luat doanh nghiep va luat dau tu
 phù_hợp 
 
@@ -18035,7 +19290,9 @@ cạnh kết_quả
 
 
 luật_chứng_khoán 
-còn hẹp về phạm_vi điều_chỉnh
+
+hẹp 
+phạm_vi điều_chỉnh
 
 
 bao_hàm 
@@ -18047,7 +19304,8 @@ thị_trường chứng_khoán
 thông_lệ quốc_tế
 
 quy_định 
-văn_bản hướng_dẫn luật_chứng_khoán còn chồng_chéo
+văn_bản hướng_dẫn luật_chứng_khoán 
+chồng_chéo
 chưa thống_nhất 
 
 văn_bản pháp_luật 
@@ -18100,7 +19358,7 @@ sụt_giảm liên_tục trong
 
 
 mức vốn_hóa thị_trường giảm 
-xuống còn
+xuống 
 
 
 
@@ -18182,7 +19440,8 @@ sở giao_dịch chứng_khoán không nhiều
 hoạt_động phát_hành 
 
 công_ty đại_chúng 
-còn 
+
+
 
 tự_phát
 không hoàn_toàn dựa 
@@ -18224,7 +19483,8 @@ cạnh
 tuân_thủ chào_bán ra_công_chúng 
 đăng_ký 
 ủy_ban chứng_khoán nhà_nước
-còn hạn_chế
+
+hạn_chế
 
 
 thời_kỳ 
@@ -18238,15 +19498,18 @@ nên
 rủi_ro tiềm_ẩn cho
 thị_trường chứng_khoán
 
-hoạt_động phát_hành trái_phiếu chính_phủ còn nhiều bất_cập
-công_tác kế_hoạch_hoá phát_hành trái_phiếu chưa tốt
-cơ_chế phát_hành trái_phiếu còn nhiều bất_cập
+hoạt_động phát_hành trái_phiếu chính_phủ 
+nhiều bất_cập
+công_tác kế_hoạch_hoá phát_hành trái_phiếu chưa 
+cơ_chế phát_hành trái_phiếu 
+nhiều bất_cập
 chưa có 
 tổ_chức tạo_lập thị_trường trái_phiếu chính_phủ 
 nghĩa 
 đảm_bảo thành_công cho 
 đợt phát_hành 
-như 
+
+
 
 
 khoản cho thị_trường 
@@ -18263,7 +19526,8 @@ hoạt_động
 thị_trường chứng_khoán
 
 có mức tăng_trưởng 
-về giá 
+
+giá 
 
 cung hàng_hóa khan_hiếm
 chỉ_số việt nam index liên_tục tăng 
@@ -18320,7 +19584,8 @@ hastcindex
 
 trong 
 
-xét về khối_lượng giao_dịch
+xét 
+khối_lượng giao_dịch
 
 
 
@@ -18350,7 +19615,8 @@ tổ_chức đăng_ký niêm_yết
 hẹp 
 thị_trường tự_do
 thị_trường otc
-mặc_dù còn nhiều loại cổ_phiếu giao_dịch 
+mặc_dù 
+nhiều loại cổ_phiếu giao_dịch 
 thị_trường otc
 chủ_yếu 
 
@@ -18432,7 +19698,8 @@ hệ_thống giao_dịch trái_phiếu
 hệ_thống 
 tổ_chức kinh_doanh
 dịch_vụ chứng_khoán phát_triển 
-về quy_mô 
+
+quy_mô 
 năng_lực nghiệp_vụ
 
 hệ_thống mạng_lưới chi_nhánh
@@ -18455,7 +19722,8 @@ cho
 tận 
 
 chưa có 
-công_ty quản_lý quỹ nào 
+công_ty quản_lý quỹ 
+
 
 hoạt_động
 
@@ -18479,7 +19747,8 @@ có
 ngân_hàng lưu ký 
 tổ_chức mở tài_khoản 
 hiếm có 
-thị_trường chứng_khoán nào 
+thị_trường chứng_khoán 
+
 
 
 trải 
@@ -18506,7 +19775,8 @@ không có
 ghê_gớm
 chủ_tịch ủy_ban chứng_khoán nhà_nước vũ 
 
-lại 
+
+
 thăng_trầm 
 ngành chứng_khoán việt nam trong
 năm_qua
@@ -18514,7 +19784,8 @@ năm_qua
 thị_trường
 chúng_ta hình_dung 
 
-tranh cơ_sở ban_đầu về thị_trường cổ_phiếu
+tranh cơ_sở ban_đầu 
+thị_trường cổ_phiếu
 thị_trường trái_phiếu chính_phủ
 thị_trường trái_phiếu doanh_nghiệp
 thị_trường_phái_sinh
@@ -18523,7 +19794,8 @@ phát_triển
 
 thị_trường_phái_sinh 
 đa_dạng 
-như sản_phẩm phái_sinh 
+
+sản_phẩm phái_sinh 
 vàng
 hàng_hóa
 lãi_suất … 
@@ -18590,7 +19862,8 @@ lạm_phát tăng cao
 có 
 giáo_sư 
 đức
-lần nào gặp 
+lần 
+gặp 
 
 
 
@@ -18606,7 +19879,8 @@ mặt
 
 chọc cho 
 vỡ 
-còn 
+
+
 
 
 vỡ 
@@ -18624,7 +19898,9 @@ chúng_tôi
 
 kiến_nghị 
 thị_trường 
-nóng như thế 
+nóng 
+
+
 thắt dòng vốn 
 
 đổ_vỡ kinh_nghiệm thái lan cho 
@@ -18635,7 +19911,8 @@ biện_pháp
 
 
 đầu_tư nước_ngoài rút vốn ồ_ạt 
-thị_trường sụp_đổ còn 
+thị_trường sụp_đổ 
+
 
 
 mức bộ_trưởng tài_chính thái lan 
@@ -18659,7 +19936,8 @@ quyết_định
 chưa cần_thiết 
 áp_dụng 
 biện_pháp kiểm_soát vốn nước_ngoài
-ví_dụ như trong sự_kiện brexit
+ví_dụ 
+trong sự_kiện brexit
 cử_tri 
 
 rời liên_minh châu âu
@@ -18688,7 +19966,8 @@ thị_trường asean
 tạo_lập diễn_đàn thị_trường_vốn asean 
 hướng tới 
 thị_trường_vốn asean 
-tầm_cỡ về quy_mô 
+tầm_cỡ 
+quy_mô 
 hút 
 
 đầu_tư 
@@ -18704,7 +19983,8 @@ thị_trường tài_chính lên mức cao
 có_thể khẳng_định
 thị_trường chứng_khoán
 phái_sinh 
-lại nhiều cơ_hội cho 
+
+nhiều cơ_hội cho 
 doanh_nghiệp 
 
 đầu_tư
@@ -18713,7 +19993,8 @@ doanh_nghiệp
 
 
 doanh_nghiệp 
-có nhiều cơ_hội tốt 
+có nhiều cơ_hội 
+
 
 huy_động vốn cho hoạt_động_sản_xuất kinh_doanh 
 
@@ -18755,7 +20036,8 @@ vận_hành
 quý
 quy_mô thị_trường trái_phiếu chính_phủ hiện_nay ước 
 khoảng
-gdp tốc_độ tăng_trưởng bình_quân về quy_mô trong
+gdp tốc_độ tăng_trưởng bình_quân 
+quy_mô trong
 
 
 lên 
@@ -18820,7 +20102,8 @@ tới
 quỹ hưu_trí
 mặc_dù 
 ngành quản_lý quỹ 
-còn 
+
+
 ngành non_trẻ 
 
 
@@ -18839,7 +20122,7 @@ nhiều sự_biến_động
 hàng_loạt 
 doanh_nghiệp quy_mô vốn 
 hàng trăm
-hàng nghìn_tỷ đồng như
+hàng nghìn_tỷ đồng 
 
 
 
@@ -18878,7 +20161,8 @@ thị_trường chứng_khoán
 cầu_nối cho 
 doanh_nghiệp thoái 
 khoản vốn 
-như 
+
+
 thị_trường chứng_khoán
 việt nam khởi_đầu 
 
@@ -18902,10 +20186,13 @@ trong môi_trường cạnh_tranh
 cho 
 
 
-công_ty_chứng_khoán có nền_tảng về con_người
-về vốn
+công_ty_chứng_khoán có nền_tảng 
+con_người
+
+vốn
 công_nghệ
-quản_trị tốt 
+quản_trị 
+
 chiến_lược rõ_ràng
 
 
@@ -18925,7 +20212,8 @@ quyết_định tăng lãi_suất đồng usd lần
 trong 
 
 dự_kiến 
-còn tăng 
+
+tăng 
 lần 
 trong 
 
@@ -18987,10 +20275,12 @@ tăng_giá
 
 đồng_tiền 
 
-không tốt 
+không 
+
 giảm 
 
-không tốt nên 
+không 
+nên 
 ngân_hàng nhà_nước điều_chỉnh tăng chậm 
 phù_hợp 
 xu_hướng quốc_tế 
@@ -19052,7 +20342,8 @@ chưa
 tăng_giá 
 
 đồng_tiền 
-ví_dụ như euro hay yên nhật
+ví_dụ 
+euro hay yên nhật
 
 
 quốc_gia đầu_tư khá nhiều 
@@ -19121,7 +20412,8 @@ dự_kiến nâng lãi_suất tới
 lần trong 
 
 cao 
-lần như dự_báo 
+lần 
+dự_báo 
 
 hồi 
 động_thái 
@@ -19140,9 +20432,12 @@ giá
 
 đồng
 
-khá ổn_định như trong thời_gian 
+khá ổn_định 
+trong 
 
-có nhiều lý_do như 
+
+có nhiều lý_do 
+
 khoản usd dồi_dào
 dự_trữ ngoại_hối 
 lên tới 
@@ -19190,7 +20485,8 @@ vượt
 ngưỡng
 
 
-hướng về mức
+hướng 
+mức
 phiên giao_dịch 
 tuần
 
@@ -19225,14 +20521,16 @@ có phiên giao_dịch tăng
 
 khoản chưa 
 cải_thiện
-còn trong bối_cảnh hiện_nay
+
+trong bối_cảnh hiện_nay
 thị_trường đan_xen hồi_phục 
 có_thể xuất_hiện cơ_hội đầu_tư trong ngắn_hạn 
 đầu_tư 
 
 nên lựa_chọn cổ_phiếu large
 hoặc 
-cổ_phiếu có kết_quả kinh_doanh tốt trong quý
+cổ_phiếu có kết_quả kinh_doanh 
+trong quý
 
 hạn_chế rủi_ro cho danh_mục đầu_tư
 
@@ -19286,7 +20584,7 @@ khoản đồng_đều
 cả
 sàn
 toàn_bộ cổ_phiếu ngành ngân_hàng 
-chứng_khoán như
+chứng_khoán 
 
 
 
@@ -19309,7 +20607,8 @@ lan_tỏa rộng
 cả 
 nhóm midcap dường_như tâm_lý hoảng_loạn trong 
 phiên đầu tuần 
-còn dư_âm khá 
+
+dư_âm khá 
 
 thị_trường chứng_khoán phái_sinh
 tuần 
@@ -19415,7 +20714,8 @@ doanh_nghiệp xuất_khẩu
 
 
 xung_đột thương_mại trở_nên căng_thẳng
-chỉ_số nasdaq composite không thay_đổi 
+chỉ_số nasdaq composite không 
+
 
 tuần 
 
@@ -19462,7 +20762,8 @@ sản_xuất ô_tô châu âu
 
 cảnh_báo 
 mỹ 
-đặt mức thuế
+
+mức thuế
 
 nhập_khẩu ô_tô 
 liên_minh châu âu 
@@ -19529,7 +20830,8 @@ tuần
 châu âu 
 đón_nhận 
 
-tốt 
+
+
 hy lạp 
 
 chủ_nợ khu_vực đồng euro 
@@ -19586,7 +20888,8 @@ cổ_phiếu phản_ánh
 kỳ_vọng 
 
 
-đầu_tư về hiệu_suất hoạt_động 
+đầu_tư 
+hiệu_suất hoạt_động 
 
 công_ty trong tương
 
@@ -19668,7 +20971,8 @@ phiên
 
 trong phiên chiều 
 
-quay đầu 
+
+đầu 
 
 cổ_phiếu vốn_hóa_lớn
 chỉ_số
@@ -19694,8 +20998,7 @@ tương_ứng tăng
 
 
 
-
-
+hết 
 tổng giá_trị giao_dịch chứng_khoán phái_sinh 
 
 nghìn_tỷ đồng tương_ứng 
@@ -19703,7 +21006,8 @@ nghìn_tỷ đồng tương_ứng
 triệu hợp_đồng 
 giao_dịch 
 
-còn tới
+
+tới
 phiên giao_dịch 
 khả_năng 
 cao 
@@ -19717,14 +21021,16 @@ cổ_phiếu
 lựa_chọn phổ_biến trong lĩnh_vực đầu_tư 
 kênh đầu_tư 
 có nhiều 
-khác_biệt về tính_chất
+khác_biệt 
+tính_chất
 rủi_ro
 nhập 
 
 
 xu_hướng giá 
 
-kinh_tế thay_đổi 
+kinh_tế 
+
 
 
 trái_phiếu 
@@ -19732,16 +21038,19 @@ trái_phiếu
 khoản nợ 
 
 đầu_tư cho chính_phủ hoặc 
-doanh_nghiệp vay lãi_suất duy_trì cố_định trong suốt thời_gian hiệu_lực 
+doanh_nghiệp vay lãi_suất duy_trì cố_định trong suốt 
+hiệu_lực 
 khoản vay 
 đầu_tư 
 
-lại vốn gốc 
+
+vốn gốc 
 đáo_hạn 
 tổ_chức phát_hành trái_phiếu không phá_sản
 
 
-bán lại trái_phiếu 
+bán 
+trái_phiếu 
 thị_trường 
 
 
@@ -19758,7 +21067,8 @@ trái_phiếu
 đầu_tư muốn bán 
 
 trái_phiếu 
-trái_phiếu nào lãi_suất 
+trái_phiếu 
+lãi_suất 
 
 hoặc có xếp_hạng tín_nhiệm 
 
@@ -19767,18 +21077,22 @@ hoặc có xếp_hạng tín_nhiệm
 định_giá 
 
 
-trái_phiếu còn lại
+trái_phiếu 
+
 thông_thường 
 công_ty 
 công_bố báo_cáo
 nhập 
 
-giá cổ_phiếu thay_đổi hàng 
+giá cổ_phiếu 
+hàng 
 phụ_thuộc 
-nhiều yếu_tố ví_dụ như dự_đoán 
+nhiều yếu_tố ví_dụ 
+dự_đoán 
 
 
-đầu_tư về lợi_nhuận tương
+đầu_tư 
+lợi_nhuận tương
 
 công_ty 
 
@@ -19786,8 +21100,10 @@ công_ty
 công_ty đối_thủ
 
 đầu_tư 
-trái_phiếu tốt 
-hay cổ_phiếu tốt 
+trái_phiếu 
+
+hay cổ_phiếu 
+
 phụ_thuộc 
 yếu_tố
 đầu_tiên
@@ -19803,10 +21119,12 @@ mong_muốn có
 
 khoản
 nhập đều_đặn 
-không lo_lắng về lạm_phát 
+không lo_lắng 
+lạm_phát 
 trái_phiếu 
 
-lựa_chọn tốt cho 
+lựa_chọn 
+cho 
 đầu_tư
 
 
@@ -19820,7 +21138,8 @@ lạm_phát
 cổ_phiếu 
 lựa_chọn thích_hợp 
 có khả_năng 
-lại nhiều lợi_ích 
+
+nhiều lợi_ích 
 yếu_tố 
 
 cân_nhắc 
@@ -19833,7 +21152,8 @@ chúng_ta
 xem_xét 
 kinh_tế 
 
-giai_đoạn nào 
+giai_đoạn 
+
 chu_kỳ kinh_doanh
 
 
@@ -19841,7 +21161,8 @@ chu_kỳ kinh_doanh
 giai_đoạn mở_rộng 
 cổ_phiếu 
 
-lại nhiều lợi_ích 
+
+nhiều lợi_ích 
 bởi_vì giá cổ_phiếu có xu_hướng tăng 
 nhập tăng
 
@@ -19861,7 +21182,8 @@ hầu_hết
 
 hoạch_định kế_hoạch tài_chính 
 khuyên chúng_ta nên đa_dạng_hóa danh_mục đầu_tư 
-chiến_lược tốt 
+chiến_lược 
+
 
 
 đồng_nghĩa 
@@ -19872,20 +21194,23 @@ nắm
 
 trái_phiếu 
 cổ_phiếu trong danh_mục đầu_tư 
-tỷ_lệ nào 
+tỷ_lệ 
+
 
 kết_quả 
 
 nghiên_cứu 
 cho 
 đa_dạng_hóa 
-lại lợi_nhuận cao 
+
+lợi_nhuận cao 
 
 mức rủi_ro 
 hạn_chế 
 
 
-đầu_tư có_thể thay_đổi tỷ_trọng_tài_sản nắm 
+đầu_tư có_thể 
+tỷ_trọng_tài_sản nắm 
 
 tỷ_lệ phần_trăm đầu_tư 
 trái_phiếu 
@@ -19895,7 +21220,8 @@ giai_đoạn
 chu_kỳ kinh_tế 
 mục_tiêu tài_chính 
 
-cổ_phiếu ipo hay còn gọi 
+cổ_phiếu ipo hay 
+gọi 
 cổ_phiếu lần đầu 
 phát_hành ra_công_chúng 
 công_cụ 
@@ -19929,13 +21255,15 @@ huy_động vốn
 
 vốn 
 công_ty
-về 
+
+
 
 phát_hành cổ_phiếu ipo có_thể 
 đầu_tư 
 thị_trường 
 hoặc phát_triển sản_phẩm 
-phát_hành cổ_phiếu ipo có nghĩa_là bạn 
+phát_hành cổ_phiếu ipo có nghĩa_là 
+
 trao quyền sở_hữu cho 
 cổ_đông 
 cổ_phiếu cho phép chủ_nhân 
@@ -19949,7 +21277,7 @@ bỏ_phiếu bầu_chọn thành_viên hội_đồng quản_trị
 quy_trình chuẩn_bị phát_hành cổ_phiếu ipo 
 tốn_kém 
 
-thời_gian
+
 
 
 
@@ -19965,7 +21293,8 @@ nộp báo_cáo tài_chính
 
 có 
 quy_định 
-về 
+
+
 phát_hành 
 giao_dịch cổ_phiếu
 
@@ -19984,11 +21313,13 @@ phát_hành cổ_phiếu ipo không
 duy_nhất 
 
 công_ty huy_động vốn 
-bạn không muốn 
+
+không muốn 
 quyền sở_hữu công_ty 
 
 quy_trình phát_hành ipo tốn_kém
-bạn có_thể chuyển 
+
+có_thể chuyển 
 
 khoản vay vốn
 
@@ -20012,7 +21343,8 @@ vấn_đề
 nhiều 
 đầu_tư e_ngại khối ngoại có phiên mua ròng 
 ba liên_tiếp
-càng về 
+càng 
+
 phiên
 dòng tiền càng có 
 luân_chuyển giữa 
@@ -20023,7 +21355,8 @@ cho
 trong 
 
 ép 
-về mức tham_chiếu
+
+mức tham_chiếu
 kết_thúc phiên giao_dịch
 tăng
 
@@ -20033,7 +21366,8 @@ upcomindex tăng
 
 lên
 
-còn hnxindex 
+
+hnxindex 
 
 đổi 
 
@@ -20045,7 +21379,7 @@ tăng
 
 
 
-ngành ngân_hàng như
+ngành ngân_hàng 
 
 
 
@@ -20056,7 +21390,7 @@ nhiều
 
 cổ_phiếu 
 khối ngoại mua 
-trong phiên hôm_nay như
+trong phiên hôm_nay 
 
 
 
@@ -20089,7 +21423,8 @@ cổ_phiếu
 giảm 
 
 
-còn có_thể 
+
+có_thể 
 
 nhóm thủy_sản 
 
@@ -20122,7 +21457,8 @@ dòng tiền
 
 mức giá cao 
 
-ngành như dầu_khí
+ngành 
+dầu_khí
 ngân_hàng
 xây_dựng
 kết_thúc phiên_ato
@@ -20187,8 +21523,7 @@ doanh_nghiệp đăng_ký giao_dịch
 đầu khai_trương
 
 
-
-
+hết 
 upcom có
 doanh_nghiệp đăng_ký giao_dịch
 vốn_hóa thị_trường 
@@ -20238,12 +21573,14 @@ giảm
 
 
 giảm
-tương_tự như 
+tương_tự 
+
 phiên 
 
 khoản 
 
-yếu tốt 
+yếu 
+
 lo_ngại 
 thị_trường
 kết_thúc phiên giao_dịch
@@ -20266,7 +21603,8 @@ khoảng
 tỷ đồng phiên trong tuần 
 tuần 
 thị_trường_phái_sinh 
-giao_dịch chậm lại 
+giao_dịch chậm 
+
 khoảng
 nghìn hợp_đồng 
 giao_dịch trong phiên hôm_nay
@@ -20287,11 +21625,13 @@ xảy
 trong phiên atc 
 hợp_đồng 
 giảm 
-về sát giá_sàn
+
+sát giá_sàn
 
 lực bán trong phiên atc 
 ép
-về mức
+
+mức
 
 mức sàn 
 
@@ -20299,7 +21639,8 @@ mức sàn
 khối_lượng khớp lệnh 
 hợp_đồng
 không loại_trừ khả_năng 
-đầu_tư nào 
+đầu_tư 
+
 
 bấm nhầm lệnh bán atc cho hợp_đồng
 hoặc 
@@ -20357,7 +21698,8 @@ bổ_sung tiền ký_quỹ
 sáng_mai
 
 
-đầu_tư nào mua 
+đầu_tư 
+mua 
 trong phiên atc 
 có_thể 
 
@@ -20507,7 +21849,8 @@ hoàn_tất chạy thử_nghiệm
 sạch hệ_thống
 xóa_bỏ hoàn_toàn 
 tài_khoản thử_nghiệm 
-như 
+
+
 số_liệu giao_dịch trong quá_trình thử_nghiệm hệ_thống 
 sẵn_sàng cho 
 mở_cửa thị_trường sản_phẩm đầu_tiên 
@@ -20532,7 +21875,8 @@ tỷ_lệ ký_quỹ
 
 thuế 
 không 
-như 
+
+
 giao_dịch cổ_phiếu
 
 
@@ -20580,7 +21924,7 @@ chức_năng
 sở cho 
 kết_quả 
 yêu_cầu vận_hành ổn_định
-hệ_thống đồng_bộ tốt
+hệ_thống đồng_bộ 
 chức_năng khai_thác thông_tin
 hiển_thị thông_tin 
 hệ_thống giao_dịch chính_xác
@@ -20621,12 +21965,14 @@ trái_phiếu chính_phủ
 tài_chính 
 giao vụ tài_chính ngân_hàng nghiên_cứu 
 
-có văn_bản chấp_thuận về thiết_kế sản_phẩm
+có văn_bản chấp_thuận 
+thiết_kế sản_phẩm
 
 
 thông 
 hnx
-dự_kiến thời_gian đầu mở_cửa
+dự_kiến 
+đầu mở_cửa
 thị_trường_phái_sinh 
 hút chủ_yếu 
 tổ_chức đầu_tư
@@ -20640,7 +21986,8 @@ nhật
 tỏ 
 quan_tâm 
 
-tiếp_xúc tìm_hiểu về 
+tiếp_xúc tìm_hiểu 
+
 quy_định pháp_lý 
 thị_trường_phái_sinh
 hợp_đồng tương
@@ -20648,7 +21995,7 @@ hợp_đồng tương
 chỉ_số
 
 
-sản_phẩm tốt
+sản_phẩm 
 
 xây_dựng xuất_phát 
 tham_khảo nhu_cầu 
@@ -20746,12 +22093,14 @@ tiếng pháp
 bourse
 tức_là
 mậu_dịch thị_trường
-hay còn gọi_là
+hay 
+gọi_là
 sở giao_dịch
 
 phát_triển 
 thị_trường 
-phát_triển cả về 
+phát_triển cả 
+
 
 chất 
 
@@ -20761,11 +22110,12 @@ nhiều nội_dung
 
 
 tính_chất tự_nhiên 
-lại 
+
+
 phân 
 thành nhiều thị_trường 
 
-như
+
 thị_trường giao_dịch hàng_hoá
 thị_trường hối_đoái
 thị_trường giao_dịch 
@@ -20831,7 +22181,8 @@ sở giao_dịch chứng_khoán
 cải_tiến dần 
 tốc_độ 
 khối_lượng yêu_cầu 
-đem lại hiệu_quả 
+đem 
+hiệu_quả 
 chất_lượng cho giao_dịch
 
 sở giao_dịch 
@@ -20904,7 +22255,8 @@ mất_lòng
 phản_ứng dây_chuyền 
 hậu_quả 
 
-còn 
+
+
 
 
 khủng_hoảng 
@@ -20914,7 +22266,8 @@ quy_luật tự_nhiên
 
 
 mất_lòng 
-thị_trường chứng_khoán thế_giới lại đi 
+thị_trường chứng_khoán thế_giới 
+đi 
 giai_đoạn ổn_định 
 phát_triển 
 ngày_nay
@@ -20963,13 +22316,15 @@ phát_triển
 
 
 
-đông âu như balan
+đông âu 
+balan
 hunggari
 séc
 nga
 
 châu 
-như trung quốc 
+
+trung quốc 
 
 
 
@@ -20978,7 +22333,8 @@ lịch_sử hình_thành
 phát_triển 
 thị_trường chứng_khoán 
 thế_giới cho 
-thời_gian đầu
+
+đầu
 thị_trường hình_thành 
 tự_phát
 đối_tượng tham_gia chủ_yếu 
@@ -20986,7 +22342,8 @@ tự_phát
 
 đầu_cơ
 
-về 
+
+
 
 có 
 tham_gia 
@@ -21012,7 +22369,8 @@ ban_hành
 kinh_nghiệm 
 
 thị_trường 
-hình_thành về 
+hình_thành 
+
 cho 
 thị_trường 
 
@@ -21021,8 +22379,10 @@ có_thể hoạt_động có hiệu_quả
 ổn_định 
 nhanh_chóng 
 có 
-chuẩn_bị chu_đáo về 
-mặt về hàng_hoá
+chuẩn_bị chu_đáo 
+
+mặt 
+hàng_hoá
 luật_pháp
 con_người
 bộ_máy quản_lý 
@@ -21068,7 +22428,8 @@ vốn
 tổ_chức
 
 trong 
-còn khá nhiều
+
+khá nhiều
 thay_vì huy_động vốn 
 nước_ngoài 
 tận_dụng 
@@ -21124,7 +22485,8 @@ nước_ngoài
 tỷ usd
 
 
-tiền còn lại
+tiền 
+
 
 tỷ usd 
 
@@ -21176,7 +22538,8 @@ tiếp_cận
 
 vốn 
 
-còn khắc_phục 
+
+khắc_phục 
 
 hạn_chế 
 
@@ -21187,7 +22550,8 @@ thị_trường vốn quốc_tế
 chính_phủ quy_định khá 
 
 nghị_định
-về 
+
+
 phát_hành trái_phiếu quốc_tế
 
 
@@ -21196,8 +22560,10 @@ phát_hành trái_phiếu quốc_tế
 
 nghị_quyết 
 quốc_hội 
-như chính_phủ 
-bàn về 
+
+chính_phủ 
+bàn 
+
 đa_dạng_hóa 
 
 vốn huy_động trong 
@@ -21271,7 +22637,8 @@ hnxindex
 
 đáy cũ 
 hỗ_trợ 
-tốt 
+
+
 
 đường trendline dài_hạn 
 thủng
@@ -21281,7 +22648,8 @@ khối_lượng giao_dịch
 số_lượng cổ_phần
 hay hợp_đồng
 giao_dịch trong 
-khung thời_gian 
+khung 
+
 
 
 tuần
@@ -21472,7 +22840,8 @@ tỉ_lệ đòn_bẩy
 lựa_chọn short chỉ_số
 
 có_thể
-về mức lợi_nhuận 
+
+mức lợi_nhuận 
 
 trong 
 
@@ -21500,7 +22869,8 @@ doanh_nghiệp
 hiện_tại
 
 
-như 
+
+
 nhận_định trong báo_cáo chiến_lược 
 phát_hành
 
@@ -21537,7 +22907,8 @@ tỉ_lệ đòn_bẩy
 lựa_chọn short chỉ_số
 
 có_thể
-về mức lợi_nhuận 
+
+mức lợi_nhuận 
 
 trong 
 
@@ -21574,9 +22945,11 @@ khả_năng
 
 
 đầu_tư 
-tĩnh_tâm lại 
+tĩnh_tâm 
+
 lực bán 
-không còn 
+không 
+
 
 
 
@@ -21661,7 +23034,8 @@ biết
 
 thị_trường chứng_khoán phát_triển 
 
-về quy_mô 
+
+quy_mô 
 
 
 khoản trong khu_vực asean 
@@ -21686,7 +23060,8 @@ yếu_tố hấp_dẫn
 đầu_tư
 
 
-lợi_thế về mặt nhân_khẩu_học 
+lợi_thế 
+mặt nhân_khẩu_học 
 dân_số đông 
 tăng 
 
@@ -21700,7 +23075,8 @@ thái_lan
 môi_trường kinh_doanh mở_cửa 
 thuận_lợi
 
-tương_đồng về văn_hóa 
+tương_đồng 
+văn_hóa 
 
 dân nhật_bản
 kinh_tế xã_hội ổn_định
@@ -21740,7 +23116,8 @@ tập_đoàn
 nhà_nước 
 
 
-thoái vốn như công_ty cổ_phần sữa việt_nam
+thoái vốn 
+công_ty cổ_phần sữa việt_nam
 vinamilk
 tổng công_ty cổ_phần bia
 rượu
@@ -21766,7 +23143,9 @@ cơ_hội cho
 thị_trường chứng_khoán phát_triển 
 
 khối doanh_nghiệp tự_chủ huy_động nguồn_lực 
-không còn con đường nào 
+không 
+con đường 
+
 
 huy_động 
 
@@ -21824,7 +23203,8 @@ tốc_độ phát_triển
 
 
 thị_trường chứng_khoán việt nam 
-như 
+
+
 tham_gia 
 
 đầu_tư nước_ngoài
@@ -21834,13 +23214,15 @@ mặc_dù quy_mô khiêm_tốn
 tỷ usd 
 xếp_hạng thị_trường cận biên
 
-sức tăng_trưởng trong thời_gian 
+sức tăng_trưởng trong 
+
 
 minh_chứng 
 
 
 hấp_dẫn
-phát_triển tốt 
+phát_triển 
+
 thị_trường chứng_khoán việt_nam
 dần 
 kênh huy_động vốn trung 
@@ -21861,11 +23243,13 @@ vững đà tăng_trưởng
 sâu 
 thị_trường chứng_khoán không
 mặc_dù 
-kinh_tế việt nam còn nhiều khó_khăn
+kinh_tế việt nam 
+nhiều khó_khăn
 có 
 
 lạc_quan 
-chúng_ta trong thời_gian tới
+chúng_ta trong 
+tới
 hiện_tại
 gdp việt nam tăng
 kiểm_soát lạm_phát
@@ -21900,7 +23284,8 @@ nâng cao
 chất_lượng công_bố thông_tin 
 minh_bạch thị_trường
 
-thời_gian tới 
+
+tới 
 tăng 
 kỷ_luật 
 thị_trường 
@@ -21913,7 +23298,8 @@ thị_trường hoạt_động minh_bạch
 hiệu_quả
 
 thị_trường chứng_khoán lao dốc 
-trong thời_gian 
+trong 
+
 
 
 không 
@@ -21926,7 +23312,7 @@ kinh_tế vĩ_mô
 diễn_biến tích_cực 
 không có thông_tin xấu
 đột_biến
-nào
+
 
 
 
@@ -21942,7 +23328,7 @@ ngưỡng
 
 
 tuần 
-xuống còn
+xuống 
 
 trong phiên thứ_sáu
 đánh 
@@ -22037,7 +23423,8 @@ bằng_chứng
 nhiều cổ_phiếu trụ_cột 
 giảm tới
 
-hoạt_động bán còn nhắm 
+hoạt_động bán 
+nhắm 
 cả 
 mã cổ_phiếu 
 cho 
@@ -22079,7 +23466,8 @@ im_lặng
 
 phiên làm_việc 
 
-lãnh_đạo ngành về triển_vọng kinh_tế vĩ_mô
+lãnh_đạo ngành 
+triển_vọng kinh_tế vĩ_mô
 
 diễn_biến không ổn_định
 mật_độ tăng giảm dày 
@@ -22092,7 +23480,8 @@ yếu_tố chi_phối
 
 giao_dịch nội_gián
 giới phân_tích cho 
-trong bối_cảnh thị_trường cơ_sở khó_khăn như hiện_tại
+trong bối_cảnh thị_trường cơ_sở khó_khăn 
+hiện_tại
 
 đầu_tư có_thể cân_nhắc tham_gia 
 thị_trường chứng_khoán phái_sinh
@@ -22140,7 +23529,8 @@ vdsc
 
 đầu_tư không 
 
-rời bỏ thị_trường 
+rời 
+thị_trường 
 
 
 
@@ -22165,9 +23555,11 @@ vdsc
 
 thị_trường việt_nam
 
-thay_đổi trong 
+
+trong 
 chính_sách 
-như 
+
+
 yếu_tố 
 vĩ_mô 
 có tác_động khá 
@@ -22211,7 +23603,8 @@ báo_hiệu
 tăng_trưởng kém bền_vững
 trong 
 thị_trường chứng_khoán
-như chiếc nhiệt_kế đo sức_khỏe 
+
+chiếc nhiệt_kế đo sức_khỏe 
 kinh_tế
 
 lạm_phát tăng cao
@@ -22244,13 +23637,15 @@ doanh_nghiệp
 cả 
 kinh_tế 
 
-chậm lại
+chậm 
 
 
 
-đầu_tư chứng_khoán không còn 
+đầu_tư chứng_khoán không 
+
 kênh sinh_lợi
-lạm_phát tăng cao còn ảnh_hưởng 
+lạm_phát tăng cao 
+ảnh_hưởng 
 tới 
 doanh_nghiệp
 
@@ -22281,7 +23676,8 @@ cung tiền mở_rộng
 
 
 gia_tăng trong tiêu_dùng hàng_hóa 
-như 
+
+
 gia_tăng 
 sử_dụng 
 tài_sản tài_chính mà_chứng_khoán 
@@ -22367,7 +23763,8 @@ nghiên_cứu
 không thống_nhất 
 chiều ảnh_hưởng 
 tỷ_giá lên giá chứng_khoán
-về mặt lý_thuyết có
+
+mặt lý_thuyết có
 
 tiếp_cận 
 quan_hệ giữa tỷ_giá hối_đoái 
@@ -22434,7 +23831,8 @@ giảm
 
 tiếp_cận 
 
-mô_hình cân_bằng danh_mục đầu_tư về tỷ_giá
+mô_hình cân_bằng danh_mục đầu_tư 
+tỷ_giá
 branson
 
 chứng_minh 
@@ -22508,7 +23906,8 @@ giá chứng_khoán
 tỷ_giá 
 ngược chiều
 
-tăng lên về giá 
+tăng lên 
+giá 
 
 tài_sản trong 
 
@@ -22516,10 +23915,12 @@ cho
 
 đầu_tư gia_tăng nhu_cầu 
 
-về tiền_tệ
+
+tiền_tệ
 
 
-lại 
+
+
 cho lãi_suất gia_tăng
 
 hoạt_động 
@@ -22536,7 +23937,8 @@ tài_sản trong
 
 gia_tăng_giá chứng_khoán
 
-tiếp_cận tỷ_giá như 
+tiếp_cận tỷ_giá 
+
 tài_sản
 giá 
 
@@ -22548,14 +23950,16 @@ khẳng_định tỷ_giá
 giá cổ_phiếu có 
 quan_hệ yếu hoặc hoàn_toàn không có quan_hệ
 
-như giá 
+
+giá 
 
 tài_sản 
 tỷ_giá 
 
 xác_định 
 tỷ_giá tương
-kỳ_vọng bất_kỳ yếu_tố nào ảnh_hưởng 
+kỳ_vọng bất_kỳ yếu_tố 
+ảnh_hưởng 
 giá_trị tương
 
 tỷ_giá 
@@ -22566,11 +23970,13 @@ hiện_tại
 
 yếu_tố 
 nên 
-thay_đổi trong tỷ_giá có_thể khác_biệt 
+
+trong tỷ_giá có_thể khác_biệt 
 
 yếu_tố 
 nên 
-thay_đổi trong giá cổ_phiếu
+
+trong giá cổ_phiếu
 trong 
 trường_hợp 
 
@@ -22616,7 +24022,8 @@ sản_phẩm
 
 quốc_gia 
 
-lại nhập_khẩu nguyên_liệu thô có_thể giá cổ_phiếu 
+
+nhập_khẩu nguyên_liệu thô có_thể giá cổ_phiếu 
 
 
 giảm 
@@ -22649,7 +24056,8 @@ quan_hệ
 chiều
 ngược chiều hay 
 không có 
-liên_hệ ràng_buộc nào giữa
+liên_hệ ràng_buộc 
+giữa
 thị_trường chứng_khoán
 
 tỷ_giá
@@ -22665,7 +24073,8 @@ khoản cao
 
 phản_ứng 
 
-thay_đổi giá
+
+giá
 sự_biến_động 
 giá vàng ảnh_hưởng 
 
@@ -22727,7 +24136,8 @@ có_thể
 
 giá vàng trong lịch_sử 
 
-xem 
+
+
 
 
 bão
@@ -22742,7 +24152,9 @@ thời_kỳ
 giá cổ_phiếu luôn_luôn sụt_giảm
 trong 
 
-khủng_hoảng như thế 
+khủng_hoảng 
+
+
 giá vàng tăng 
 
 giá chứng_khoán sụt_giảm
@@ -22760,7 +24172,8 @@ cơ_sở lý_thuyết
 
 nghiên_cứu 
 
-về 
+
+
 quan_hệ 
 bốn yếu_tố kinh_tế vĩ_mô bao_gồm
 chỉ_số giá tiêu_dùng
@@ -22792,7 +24205,8 @@ quốc_tế
 ảnh_hưởng không 
 tới thị_trường việt_nam
 
-về 
+
+
 phiên 
 chuyện 
 trở_nên tích_cực 
@@ -22804,7 +24218,8 @@ hẹp đà_giảm
 đóng_cửa phiên giao_dịch
 chỉ_số
 
-còn giảm
+
+giảm
 
 xuống
 
@@ -22839,7 +24254,8 @@ xuống
 cổ_phiếu 
 trong
 mua ròng 
-khối ngoại còn có
+khối ngoại 
+có
 tỷ đồng
 
 tỷ đồng
@@ -22862,7 +24278,8 @@ tỷ đồng
 tỷ đồng
 
 tỷ đồng
-khối ngoại không mua ròng cổ_phiếu nào 
+khối ngoại không mua ròng cổ_phiếu 
+
 hnx 
 tỷ đồng trong phiên hôm_nay
 
@@ -22900,7 +24317,7 @@ cổ_phiếu
 trong
 mua ròng 
 tăng 
-khá tốt
+khá 
 
 chiều ngược_lại
 áp_lực bán ròng 
@@ -22918,7 +24335,8 @@ có_thể vượt
 thị_giá 
 hàng_loạt 
 
-như sabeco
+
+sabeco
 vinamilk
 vietjet
 sở giao_dịch chứng_khoán thành_phố hồ chí_minh
@@ -22953,7 +24371,8 @@ mức giá
 vốn_hóa thị_trường 
 
 tỉ đồng
-lý_giải về 
+lý_giải 
+
 
 
 mức giá 
@@ -22981,7 +24400,8 @@ quan_trọng
 
 đầu_tư 
 
-lạc_quan về triển_vọng tăng_trưởng mạnh_mẽ 
+lạc_quan 
+triển_vọng tăng_trưởng mạnh_mẽ 
 ngành truyền_thông
 quảng_cáo 
 thế_giới
@@ -22996,7 +24416,8 @@ triệu cổ_phiếu cho
 
 đầu_tư chiến_lược 
 kỳ_vọng
-về 
+
+
 triệu usd
 tương_ứng 
 cổ_phiếu có giá khoảng
@@ -23021,7 +24442,8 @@ doanh_nghiệp
 
 xây_dựng hệ sinh_thái truyền_thông 
 quảng_cáo khép_kín 
-nhiều nền_tảng kỹ_thuật_số như website
+nhiều nền_tảng kỹ_thuật_số 
+website
 youtube
 facebook
 
@@ -23043,7 +24465,8 @@ thị_trường tiền_tệ trong
 tuần 
 
 kỳ_hạn 
-lại tăng 
+
+tăng 
 lợi_suất kỳ_hạn
 
 giảm
@@ -23051,14 +24474,14 @@ trong tuần
 
 giảm
 trong
-tuần xuống còn
+tuần xuống 
 lợi_suất kỳ_hạn
 
 giảm
 
 giảm
 trong
-tuần xuống còn
+tuần xuống 
 trong 
 
 lợi_suất kỳ_hạn
@@ -23089,7 +24512,8 @@ hsc cho
 cho 
 
 đầu_tư 
-lo_ngại một_chút về lạm_phát trong 
+lo_ngại một_chút 
+lạm_phát trong 
 lợi_suất kỳ_hạn ngắn chịu ảnh_hưởng nhiều 
 
 lãi_suất trồi_sụt 
@@ -23105,7 +24529,8 @@ trong kịch_bản khả_dĩ
 
 lợi_suất trái_phiếu 
 tăng khoảng
-về giá_trị giao_dịch
+
+giá_trị giao_dịch
 giá_trị giao_dịch
 
 thị_trường trái_phiếu trong tuần 
@@ -23168,8 +24593,10 @@ quá_khứ
 
 đầu_tư có_thể tìm 
 
-dấu_hiệu về 
-cơ_hội kiếm tiền như thế_nào
+dấu_hiệu 
+
+cơ_hội kiếm tiền 
+thế_nào
 xét 
 góc_độ 
 đầu_tư chứng_khoán 
@@ -23217,7 +24644,8 @@ trình_bày
 nét cơ_bản 
 
 phổ_biến 
-về 
+
+
 tìm_kiếm cơ_hội 
 báo_cáo tài_chính 
 áp_dụng không 
@@ -23234,9 +24662,10 @@ thúc_đẩy tăng_giá cổ_phiếu
 trường_hợp điển_hình 
 diễn 
 
-thị_trường chứng_khoán như
+thị_trường chứng_khoán 
 bán mảng bánh_kẹo 
-lại lợi_nhuận hàng nghìn_tỷ 
+
+lợi_nhuận hàng nghìn_tỷ 
 
 cổ_tức kỷ_lục lên 
 
@@ -23244,8 +24673,7 @@ cổ_tức kỷ_lục lên
 
 cổ_phiếu tăng_giá
 
-
-khấu_hao hay bán tài_sản thông_thường 
+hết khấu_hao hay bán tài_sản thông_thường 
 
 cho lợi_nhuận 
 doanh_nghiệp tăng_trưởng đột_biến
@@ -23263,14 +24691,16 @@ giá_trị sổ_sách
 giá thị_trường
 khoản mục khấu_hao 
 
-doanh_nghiệp đầu_tư nhiều tài_sản dài_hạn như máy_móc thiết_bị
+doanh_nghiệp đầu_tư nhiều tài_sản dài_hạn 
+máy_móc thiết_bị
 tàu chở hàng
 cảng biển
 bất_động_sản 
 trụ_sở 
 cạnh 
 nghe_ngóng 
-thị_trường về 
+thị_trường 
+
 bán 
 tài_sản
 
@@ -23279,7 +24709,7 @@ có_thể xem_xét áp_dụng
 
 cổ_phiếu 
 thị_trường chứng_khoán
-như
+
 sở_hữu 
 lô đất vàng có giá_trị 
 
@@ -23301,7 +24731,7 @@ giá cổ_phiếu
 
 trường_hợp điển_hình 
 thị_trường chứng_khoán
-như
+
 
 tích 
 nhiều nguyên_liệu cao_su tự_nhiên giá 
@@ -23340,7 +24770,7 @@ lợi_nhuận tăng_trưởng
 trong 
 
 
-giá cổ_phiếu tăng tốt
+giá cổ_phiếu tăng 
 
 
 
@@ -23350,7 +24780,8 @@ giá nguyên vật_liệu hàng hóa_cơ_bản
 khoản mục hàng tồn_kho 
 
 doanh_nghiệp tích_trữ hàng tồn_kho nhiều cho sản_xuất 
-tính_toán xem lợi bao_nhiêu 
+tính_toán 
+lợi bao_nhiêu 
 
 giá thị_trường
 
@@ -23431,8 +24862,10 @@ tiền
 tăng lên đột_biến 
 
 tìm_hiểu tăng lên 
-dụ_án nào hay 
-sản_phẩm nào 
+dụ_án 
+hay 
+sản_phẩm 
+
 
 chuyển_giao sản_phẩm
 
@@ -23453,7 +24886,8 @@ giảm_giá hoặc
 đòi
 hoặc 
 
-lý_do nào 
+lý_do 
+
 doanh_nghiệp 
 ghi_nhận giảm 
 
@@ -23463,18 +24897,22 @@ cho doanh_nghiệp
 khoản lỗ bất_thường 
 
 khoản 
-không còn 
+không 
+
 trích 
 trong tương
 lợi_nhuận 
 doanh_nghiệp 
-quay về bình_thường
+
+
+bình_thường
 hoặc 
 
 tài_sản
 khoản 
 
-lại 
+
+
 
 doanh_nghiệp 
 
@@ -23489,14 +24927,17 @@ chủ_yếu
 
 khoản đầu_tư 
 doanh_nghiệp 
-báo_cáo xem doanh_nghiệp sở_hữu cổ_phiếu nào
+báo_cáo 
+doanh_nghiệp sở_hữu cổ_phiếu 
 
 
 công_ty_chứng_khoán
 công_ty tài_chính
-hoặc xem có 
+hoặc 
+có 
 khoản dự_phòng 
-nào bất_thường ghi_nhận 
+
+bất_thường ghi_nhận 
 báo_cáo tài_chính 
 doanh_nghiệp 
 
@@ -23504,7 +24945,8 @@ phân_tích
 khoản 
 
 
-dự_phòng như thế_nào
+dự_phòng 
+thế_nào
 doanh_nghiệp gặp khó_khăn
 kết_quả kinh_doanh đi xuống 
 giá cổ_phiếu giảm_mạnh
@@ -23514,7 +24956,8 @@ tình_hình kinh_doanh
 phục_hồi trở_lại 
 
 
-yếu_tố nào 
+yếu_tố 
+
 cổ_phiếu 
 lãng_quên nên giá 
 giảm
@@ -23637,10 +25080,12 @@ tâm_lý trở_nên bất_ổn
 chỉ_số
 có lức giảm 
 
-về sát mốc
+
+sát mốc
 
 trong phiên_sáng
-mặc_dù giao_dịch về 
+mặc_dù giao_dịch 
+
 phiên chiều khá tích_cực 
 
 chỉ_số thị_trường 
@@ -23668,8 +25113,11 @@ nhịp rung lắc trong phiên
 dòng tiền 
 thận_trọng đứng 
 quan_sát
-về kỹ_thuật
-thị_trường lại về 
+
+kỹ_thuật
+thị_trường 
+
+
 ngưỡng đường trung_bình
 
 
@@ -23715,7 +25163,8 @@ phiên tăng
 
 nến 
 giảm 
-phiên hôm_nay lại ngược_lại
+phiên hôm_nay 
+ngược_lại
 
 phiên giảm 
 
@@ -23770,7 +25219,8 @@ trong giai_đoạn tích_lũy
 khoản cạn_kiệt
 
 phân_vân 
-như chán_nản 
+
+chán_nản 
 
 đầu_tư có xu_hướng tăng dần
 dự_báo
@@ -23789,7 +25239,8 @@ có quyết_định hợp_lý
 đầu_tư dài_hạn nắm 
 
 cổ_phiếu 
-có vị_thế tốt trong danh_mục 
+có vị_thế 
+trong danh_mục 
 triển_vọng tăng_trưởng tích_cực trong
 
 
@@ -23807,7 +25258,8 @@ mức cao
 
 cạnh 
 ảnh_hưởng tiêu_cực 
-còn 
+
+
 
 thông_tin 
 chúng_tôi 
@@ -23874,7 +25326,8 @@ câu hỏi quan_trọng
 
 đầu_tư chứng_khoán 
 
-đọc báo_cáo tài_chính có đem lại giá_trị hay không
+đọc báo_cáo tài_chính có đem 
+giá_trị hay không
 
 
 
@@ -23884,7 +25337,8 @@ trường_phái thị_trường hiệu_quả hoặc phân_tích kỹ_thuật
 
 
 
-thông_tin về công_ty 
+thông_tin 
+công_ty 
 lượng_hóa 
 giá cổ_phiếu 
 
@@ -23894,7 +25348,9 @@ phản_ánh
 thông_tin tài_chính 
 
 
-báo tốt về giá_trị doanh_nghiệp
+báo 
+
+giá_trị doanh_nghiệp
 
 trong nhiều trường_hợp 
 thị_trường không hoàn_toàn 
@@ -23977,7 +25433,8 @@ do_vậy
 trong 
 tài_liệu đọc đầu_tiên 
 ý_kiến 
-kiểm_toán_viên về báo_cáo tài_chính
+kiểm_toán_viên 
+báo_cáo tài_chính
 
 
 
@@ -24006,7 +25463,8 @@ công_ty chưa trích_lập dự_phòng nợ
 tỷ 
 
 đầu_tư 
-điều_chỉnh lại số_liệu 
+điều_chỉnh 
+số_liệu 
 
 ghi giảm lợi_nhuận tiếp 
 
@@ -24100,7 +25558,7 @@ công_ty không_thể dựa nhiều
 
 vốn nội_sinh
 lợi_nhuận 
-lại
+
 
 phục_vụ nhu_cầu đầu_tư
 
@@ -24114,7 +25572,8 @@ phụ_thuộc
 vay nợ
 
 cạnh 
-hệ_số nợ cao còn có_thể 
+hệ_số nợ cao 
+có_thể 
 hệ_quả 
 
 tích_hợp dọc tràn_lan hoặc đa_dạng_hóa 
@@ -24139,7 +25598,8 @@ khâu
 
 tài_sản cố_định 
 vốn lưu_động
-ví_dụ như khâu
+ví_dụ 
+khâu
 sản_xuất linh_kiện hay lắp_ráp
 trong 
 
@@ -24194,7 +25654,8 @@ muộn
 tiềm_ẩn rủi_ro 
 
 đem 
-áp_lực về khả_năng thanh_toán cho doanh_nghiệp
+áp_lực 
+khả_năng thanh_toán cho doanh_nghiệp
 
 
 
@@ -24244,14 +25705,17 @@ công_ty
 
 đầu_tiên 
 
-phù_hợp về mặt chiến_lược
+phù_hợp 
+mặt chiến_lược
 
 khoản đầu_tư không có 
 chiến_lược rõ_ràng 
 
 
 
-lại hiệu_quả tài_chính về mặt dài_hạn
+
+hiệu_quả tài_chính 
+mặt dài_hạn
 chẳng_hạn
 
 công_ty trong ngành thép đi mở siêu_thị hoặc thâu_tóm 
@@ -24273,13 +25737,15 @@ hoạt_động ủy_thác đầu_tư
 
 ủy_thác đầu_tư có thiết_thực hay không 
 
-công_ty chuyên về sản_xuất kinh_doanh 
+công_ty chuyên 
+sản_xuất kinh_doanh 
 
 vốn 
 
 đi vay 
 kinh_doanh 
-lãi_suất cao lại 
+lãi_suất cao 
+
 tiền đi ủy_thác đầu_tư
 liệu 
 có 
@@ -24291,9 +25757,11 @@ khoản đầu_tư khôn_ngoan hay không
 thực_chất 
 hoạt_động tăng vốn 
 phát_hành cổ_phiếu
-bạn 
+
+
 phân_tích 
-nhận_định thế_nào về 
+nhận_định thế_nào 
+
 thực_chất 
 
 hoạt_động phát_hành riêng_lẻ cho
@@ -24354,13 +25822,15 @@ công_ty có chi_trả cổ_tức tiền_mặt
 dấu_hiệu 
 quan_trọng 
 chứng_tỏ 
-lành_mạnh về dòng tiền_của doanh_nghiệp 
+lành_mạnh 
+dòng tiền_của doanh_nghiệp 
 lợi_nhuận doanh_nghiệp công_bố 
 lợi_nhuận thực
 thứ_tư
 tăng_trưởng 
 
-tốt 
+
+
 
 phân_biệt 
 tăng_trưởng bền_vững 
@@ -24378,7 +25848,8 @@ mức
 khả_năng tài_trợ 
 
 vốn nội_sinh trong 
-thời_gian 
+
+
 chứng_khoán việt_nam
 rung_lắc
 
@@ -24422,7 +25893,8 @@ phong_độ
 
 giúp
 
-chỉ_số chứng_khoán tăng tốt 
+chỉ_số chứng_khoán tăng 
+
 thế_giới trong quý
 
 mức tăng 
@@ -24431,7 +25903,8 @@ bứt_phá mạnh_mẽ
 thị_trường 
 
 kỳ_vọng 
-giới đầu_tư về tăng_trưởng 
+giới đầu_tư 
+tăng_trưởng 
 
 kinh_tế 
 gdp_quý
@@ -24449,7 +25922,8 @@ việt_nam
 khối ngoại mua ròng 
 tỷ trong quý
 
-như hàng_loạt doanh_nghiệp 
+
+hàng_loạt doanh_nghiệp 
 lên sàn 
 giúp thị_trường tăng_trưởng tích_cực
 
@@ -24466,7 +25940,7 @@ có nhịp điều_chỉnh
 
 
 
-về
+
 
 
 
@@ -24500,7 +25974,8 @@ lên
 
 
 có nhịp điều_chỉnh 
-nào xuất_hiện
+
+xuất_hiện
 
 phiên tăng giảm 
 trong 
@@ -24541,7 +26016,8 @@ thị_trường chứng_khoán
 nỗ_lực cơ_cấu kinh_tế mạnh_mẽ 
 chính_phủ 
 
-lại nhiều kết_quả khả_quan như_tỷ_giá
+
+nhiều kết_quả khả_quan như_tỷ_giá
 lãi_suất ổn_định
 tăng_trưởng gdp 
 
@@ -24593,7 +26069,8 @@ cổ_phiếu dược
 
 tới phiên giao_dịch
 hàng_loạt 
-cổ_phiếu ngành dược như dược hậu_giang
+cổ_phiếu ngành dược 
+dược hậu_giang
 
 imexpharm
 
@@ -24604,7 +26081,8 @@ tăng hàng chục phần_trăm
 
 dược hà_tây
 
-còn tăng
+
+tăng
 
 
 giá điều_chỉnh
@@ -24619,7 +26097,8 @@ việt nam trong
 khá sôi_động 
 
 bứt_phá 
-cả về 
+cả 
+
 
 lẫn 
 khoản
@@ -24651,7 +26130,8 @@ mức tăng_trưởng ấn_tượng
 
 cổ_phiếu ngành dược 
 
-lại khoản lợi_nhuận
+
+khoản lợi_nhuận
 trong mơ
 cho 
 
@@ -24671,7 +26151,8 @@ lên tới
 triệu đồng
 không 
 
-lại niềm vui 
+
+niềm vui 
 cho 
 đầu_tư nhỏ_lẻ
 
@@ -24682,10 +26163,12 @@ cho
 
 
 tiền 
-bỏ 
+
+
 cho_dù 
 không_thể tiến_hành chốt lãi 
-như 
+
+
 
 đầu_tư nhỏ_lẻ
 giữa 
@@ -24721,10 +26204,12 @@ khoản đầu_tư
 taisho pharmaceutical hiện có giá_trị lên tới
 tỷ đồng
 tăng gấp
-lần giá vốn bỏ 
+lần giá vốn 
 
-taisho pharmaceutical còn 
-về
+
+taisho pharmaceutical 
+
+
 tỷ đồng_tiền cổ_tức 
 dược hậu_giang
 
@@ -24739,7 +26224,8 @@ yếu_tố kết_quả kinh_doanh tăng_trưởng tích_cực
 
 
 
-doanh_nghiệp như dược hậu_giang
+doanh_nghiệp 
+dược hậu_giang
 domesco
 imexpharm
 dược hà tây 
@@ -24769,7 +26255,8 @@ mở
 kỳ_vọng cho 
 doanh_nghiệp 
 
-trong tình_trạng kín room như dược hậu_giang
+trong tình_trạng kín room 
+dược hậu_giang
 imexpharm
 traphaco
 trong 
@@ -24784,19 +26271,22 @@ doanh_nghiệp dược
 
 việt nam 
 có cơ_hội
-thời_gian 
+
+
 
 
 
 
 cả
-ngành lên sàn như sabeco
+ngành lên sàn 
+sabeco
 habeco
 vietjet
 vietnam airlines lên sàn 
 
 
-hiệu_ứng tốt 
+hiệu_ứng 
+
 
 cổ_phiếu bia
 hàng không 
@@ -24822,11 +26312,14 @@ nhóm ngành
 bứt_phá
 
 ngành dược_phẩm 
-nền_tảng cơ_bản tốt 
-như 
+nền_tảng cơ_bản 
+
+
+
 câu_chuyện m_a
 nới room 
-hút dòng tiền tốt 
+hút dòng tiền 
+
 tăng_trưởng vượt_trội 
 
 thị_trường 
@@ -24841,7 +26334,8 @@ công_ty kinh_doanh hiệu_quả
 việt nam 
 lọt
 công_ty niêm_yết 
-sàn chứng_khoán tốt 
+sàn chứng_khoán 
+
 việt nam 
 
 bảng xếp_hạng 
@@ -24853,7 +26347,8 @@ công_ty liên_tiếp trong ba
 dựa 
 
 chỉ_số tăng_trưởng 
-như doanh
+
+doanh
 lợi_nhuận 
 vốn chủ sở_hữu
 roe
@@ -24878,7 +26373,8 @@ công_ty trong danh_sách
 tỉ đồng
 tăng
 trong
-công_ty niêm_yết tốt 
+công_ty niêm_yết 
+
 việt_nam
 mb vinh_dự 
 
@@ -24911,7 +26407,8 @@ chỉ_số
 cổ_phiếu hàng_đầu thị_trường chứng_khoán việt_nam
 minh_bạch tài_chính
 bảo_đảm quyền_lợi cổ_đông 
-kiểm_soát tốt nợ xấu
+kiểm_soát 
+nợ xấu
 
 
 cổ_phiếu 
@@ -24923,7 +26420,8 @@ cổ_phiếu
 chứng_khoán trung_quốc 
 rơi 
 thị_trường gấu trong bối_cảnh 
-lo_ngại về khả_năng phục_hồi 
+lo_ngại 
+khả_năng phục_hồi 
 
 
 trong cuộc_chiến thương_mại 
@@ -24970,7 +26468,9 @@ tác_động xấu
 
 
 
-lo_ngại về tốc_độ phát_triển chậm lại 
+lo_ngại 
+tốc_độ phát_triển chậm 
+
 trung_quốc 
 tăng_trưởng 
 yếu 
@@ -25008,7 +26508,7 @@ lợi_suất
 
 giảm
 
-cơ_bản xuống còn
+cơ_bản xuống 
 
 chưa 
 
@@ -25092,14 +26592,15 @@ quanh mức
 usd 
 quyết_định tăng lãi_suất 
 fed dường_như 
-
+hết
 trong 
 
 nhiều đồng_tiền chủ_chốt 
 
 
 lên
-còn 
+
+
 hà_nội
 giá vàng
 
@@ -25123,8 +26624,11 @@ nguyên giá mua
 
 phục_hồi nhẹ 
 mở_cửa phiên đầu tuần
-giá vàng lại quay đầu giảm 
-về quanh mức giá đóng_cửa tuần 
+giá vàng 
+
+đầu giảm 
+
+quanh mức giá đóng_cửa tuần 
 
 chuyên_gia cho 
 
@@ -25164,7 +26668,8 @@ phân_tích kỳ_vọng giá vàng
 phục_hồi nhẹ 
 
 thông_tin có lợi
-như 
+
+
 trump bất_ngờ gia_hạn lệnh trừng_phạt triều tiên 
 
 
@@ -25176,7 +26681,8 @@ giá vàng
 
 
 hỗ_trợ
-loại chứng_khoán phái_sinh nào 
+loại chứng_khoán phái_sinh 
+
 
 triển_khai 
 thị_trường chứng_khoán phái_sinh việt_nam
@@ -25238,7 +26744,8 @@ hợp_đồng hoán_đổi
 
 thỏa_thuận giữa
 
-về 
+
+
 hoán_đổi 
 dòng tiền phát_sinh 
 
@@ -25310,11 +26817,13 @@ kỳ_vọng
 
 
 xu_hướng 
-chỉ_số có_thể đặt lệnh 
+chỉ_số có_thể 
+lệnh 
 khớp lệnh 
 tham_gia 
 hợp_đồng tương
-tương_tự như cổ_phiếu
+tương_tự 
+cổ_phiếu
 
 đầu_tư kỳ_vọng chỉ_số tăng 
 mua hợp_đồng tương
@@ -25383,7 +26892,8 @@ thanh_toán hàng
 ký_quỹ 
 
 
-ký_quỹ hoạt_động như thế_nào
+ký_quỹ hoạt_động 
+thế_nào
 ký_quỹ 
 
 trong 
@@ -25391,7 +26901,8 @@ trong
 khác_biệt 
 giao_dịch chứng_khoán phái_sinh 
 
-giao_dịch cổ_phiếu ký_quỹ trong giao_dịch chứng_khoán phái_sinh đóng vai_trò như 
+giao_dịch cổ_phiếu ký_quỹ trong giao_dịch chứng_khoán phái_sinh đóng vai_trò 
+
 khoản đặt_cọc 
 đảm_bảo 
 
@@ -25413,7 +26924,8 @@ tham_gia giao_dịch chứng_khoán phái_sinh
 
 đầu_tư không có 
 
-tiền ký_quỹ như yêu_cầu có_thể 
+tiền ký_quỹ 
+yêu_cầu có_thể 
 gọi ký_quỹ
 
 
@@ -25425,7 +26937,8 @@ hợp_đồng tương_lai
 
 thanh_toán hàng 
 diễn 
-như thế_nào
+
+thế_nào
 
 
 khác_biệt 
@@ -25498,9 +27011,11 @@ chỉ_số
 hợp_đồng tương
 
 quy_mô hợp_đồng 
-tính_toán như thế_nào
+tính_toán 
+thế_nào
 
-như giá 
+
+giá 
 
 cổ_phiếu
 quy_mô 
@@ -25547,18 +27062,19 @@ than_thở
 chỉ_tiêu tín_dụng 
 siết chặt
 
-điều_hành còn chủ_trương
+điều_hành 
+chủ_trương
 thắt
 
-lĩnh_vực nhạy_cảm như bất_động_sản
+lĩnh_vực nhạy_cảm 
+bất_động_sản
 cho vay tiêu_dùng
 phụ_trách 
 vốn 
 
 băng cho biết
 
-
-
+hết 
 
 chỉ_tiêu tín_dụng 
 ngân_hàng nhà_nước
@@ -25582,8 +27098,7 @@ không cho vay
 
 
 
-
-room
+hết room
 
 ban lãnh_đạo ngân_hàng đứng 
 không yên
@@ -25595,7 +27110,8 @@ băng
 
 
 nới
-chỉ_tiêu tín_dụng trong thời_gian tới 
+chỉ_tiêu tín_dụng trong 
+tới 
 hiện cả hệ_thống hàng ngàn con_người trông khá nhiều 
 
 
@@ -25632,7 +27148,8 @@ sửa_chữa
 
 
 
-còn 
+
+
 tín_dụng kinh_doanh bất_động_sản
 ngân_hàng nhà_nước 
 có chỉ_đạo 
@@ -25691,7 +27208,8 @@ nhập trung_bình
 tín_dụng tiêu_dùng 
 tín_dụng cho bất_động_sản 
 việt nam 
-còn 
+
+
 
 
 
@@ -25772,12 +27290,12 @@ lĩnh_vực doanh_nghiệp
 
 
 tăng
-hiện tỷ_trọng cho vay bất_động_sản giảm còn
+hiện tỷ_trọng cho vay bất_động_sản giảm 
 tổng dư_nợ vốn cho 
 dự_án bot
 bt giao_thông 
 tăng chậm 
-còn
+
 giảm 
 nửa 
 
@@ -25864,13 +27382,14 @@ kiểm_soát
 không_thể nửa_vời
 
 tốc_độ tăng_trưởng tín_dụng 
-chững lại
+chững 
 
 kỳ 
 
 hùng chia_sẻ
 
-tốc_độ tăng_trưởng tín_dụng chậm lại 
+tốc_độ tăng_trưởng tín_dụng chậm 
+
 
 điều_hành tín_dụng 
 phù_hợp 
@@ -25891,7 +27410,7 @@ tuỳ
 tình_hình 
 có_thể 
 mức
-còn
+
 tối_đa 
 
 
@@ -25949,9 +27468,11 @@ dấu_hiệu
 báo_giá trong tương
 
 tài_sản gốc
-chứng_khoán phái_sinh còn 
+chứng_khoán phái_sinh 
+
 công_cụ phòng_vệ rủi_ro 
-như đầu_tư
+
+đầu_tư
 đầu_cơ hiệu_quả
 
 
@@ -25972,17 +27493,20 @@ mức_độ tham_gia
 đầu_tư tổ_chức trong 
 
 
-còn khá khiêm_tốn
+
+khá khiêm_tốn
 
 vận_hành thị_trường chứng_khoán phái_sinh thành_công 
-còn nhiều thách_thức
+
+nhiều thách_thức
 vai_trò 
 chứng_khoán phái_sinh 
 thị_trường chứng_khoán
 
 ra_đời 
 thị_trường chứng_khoán phái_sinh 
-lại khá nhiều lợi_ích cho 
+
+khá nhiều lợi_ích cho 
 đầu_tư không 
 
 
@@ -25991,9 +27515,11 @@ dấu_hiệu
 báo_giá trong tương
 
 tài_sản gốc
-chứng_khoán phái_sinh còn 
+chứng_khoán phái_sinh 
+
 công_cụ phòng_vệ rủi_ro 
-như đầu_tư
+
+đầu_tư
 đầu_cơ hiệu_quả
 
 
@@ -26004,7 +27530,8 @@ như đầu_tư
 
 đầu_tư chuyên_nghiệp
 
-quỹ đầu_tư am_hiểu về thị_trường 
+quỹ đầu_tư am_hiểu 
+thị_trường 
 sử_dụng thành_thạo 
 công_cụ chứng_khoán phái_sinh 
 
@@ -26043,7 +27570,8 @@ công_cụ chứng_khoán phái_sinh
 đầu_tư có_thể 
 
 
-vị_trí tương_tự như bán khống_chứng_khoán không căn_cứ
+vị_trí tương_tự 
+bán khống_chứng_khoán không căn_cứ
 naked short selling
 chẳng_hạn
 
@@ -26066,7 +27594,8 @@ tham_gia thị_trường chứng_khoán phái_sinh
 
 
 
-bỏ 
+
+
 
 vốn ban_đầu 
 
@@ -26256,7 +27785,8 @@ giao_dịch
 thị_trường otc giữa 
 công_ty_chứng_khoán 
 khách_hàng
-mặc_dù không có số_liệu thống_kê về 
+mặc_dù không có số_liệu thống_kê 
+
 loại chứng_khoán phái_sinh phi chính_thức 
 
 xuất_hiện 
@@ -26277,7 +27807,8 @@ phát_triển
 thị_trường chứng_khoán
 quy_mô
 thị_trường chứng_khoán
-việt nam hiện còn khá khiêm_tốn 
+việt nam hiện 
+khá khiêm_tốn 
 
 
 
@@ -26305,7 +27836,8 @@ quan_tâm
 tham_gia 
 
 
-đầu_tư nước_ngoài còn khá hạn_chế 
+đầu_tư nước_ngoài 
+khá hạn_chế 
 thống_kê
 giá_trị giao_dịch 
 
@@ -26314,13 +27846,15 @@ tháng_qua chiếm khoảng
 tổng giá_trị giao_dịch toàn thị_trường
 
 
-thách_thức về 
+thách_thức 
+
 xây_dựng hành_lang pháp_lý 
 cơ_sở hạ_tầng cho tổ_chức 
 hoạt_động 
 thị_trường chứng_khoán
 phái_sinh
-vấn_đề về 
+vấn_đề 
+
 khoản 
 
 
@@ -26331,14 +27865,16 @@ vận_hành
 
 
 thị_trường chứng_khoán
-có quy_mô còn nhỏ_bé 
+có quy_mô 
+nhỏ_bé 
 mức_độ tham_gia 
 
 
 đầu_tư tổ_chức trong 
 
 
-còn khá khiêm_tốn
+
+khá khiêm_tốn
 
 hút 
 
@@ -26368,7 +27904,8 @@ phương_diện
 công_ty_chứng_khoán có_thể tham_gia giao_dịch 
 môi_giới chính_chứng_khoán phái_sinh cho khách_hàng 
 không 
-công_ty_chứng_khoán nào 
+công_ty_chứng_khoán 
+
 có_thể tham_gia 
 thị_trường 
 tiềm_năng 
@@ -26386,7 +27923,8 @@ trung_tâm lưu ký
 
 ubck chấp_thuận dựa 
 
-tiêu_chí về quy_mô vốn
+tiêu_chí 
+quy_mô vốn
 tỷ_lệ vốn khả_dụng
 cơ_sở vật_chất kỹ_thuật
 công_nghệ 
@@ -26415,7 +27953,8 @@ có khoảng
 công_ty_chứng_khoán đáp_ứng 
 
 
-về vốn 
+
+vốn 
 
 thị_trường chứng_khoán
 phái_sinh 
@@ -26463,7 +28002,8 @@ thị_trường chứng_khoán
 lộ_trình 
 vạch 
 chúng_ta 
-còn 
+
+
 
 chuẩn_bị 
 
@@ -26485,7 +28025,8 @@ thị_trường chứng_khoán
 cơ_sở
 ubck 
 
-công_ty_chứng_khoán còn 
+công_ty_chứng_khoán 
+
 nhiều 
 
 
@@ -26572,7 +28113,8 @@ hợp_đồng kỳ_hạn
 hợp_đồng tương
 hợp_đồng quyền 
 thị_trường chứng_khoán phái_sinh ra_đời 
-đáp_ứng nhu_cầu về quản_trị rủi_ro 
+đáp_ứng nhu_cầu 
+quản_trị rủi_ro 
 đầu_cơ bởi_vì 
 cho phép 
 ngại rủi_ro chuyển_giao rủi_ro cho 
@@ -26611,7 +28153,8 @@ tỷ
 thị_trường bắc mỹ
 tỷ 
 thị_trường mỹ latin
-về 
+
+
 hợp_đồng quyền 
 khu_vực bắc mỹ 
 giá_trị cao 
@@ -26629,7 +28172,8 @@ tỷ
 
 
 chuyên_gia_chứng_khoán
-thời_gian tới
+
+tới
 nhu_cầu 
 chứng_khoán phái_sinh có_thể tăng 
 
@@ -26642,7 +28186,8 @@ xuất_phát
 ngân_hàng trung_ương mua tài_sản
 fed tăng lãi_suất 
 
-đầu_tư lo_lắng về 
+đầu_tư lo_lắng 
+
 bất_ổn chính_trị 
 châu âu
 
@@ -26673,12 +28218,14 @@ thị_trường chứng_khoán phái_sinh đơn_thuần
 công_cụ 
 phòng_ngừa
 
-đầu_tư không đặt 
+đầu_tư không 
+
 
 sinh 
 
 tài_sản phái_sinh
-ví_dụ như 
+ví_dụ 
+
 quỹ đầu_tư muốn bảo_hiểm cho danh_mục đầu_tư hoặc phòng_ngừa rủi_ro cho khoản đầu_tư dự_định trong tương
 có_thể sử_dụng mua quyền 
 bán có bảo_đảm 
@@ -26716,7 +28263,8 @@ mua_bán hợp_đồng tương
 chỉ_số cổ_phiếu 
 chứng_chỉ quỹ etf 
 chỉ_số 
-có vẻ như hình_thức phát_hành trái_phiếu 
+có vẻ 
+hình_thức phát_hành trái_phiếu 
 tăng vốn 
 có 
 
@@ -26729,16 +28277,20 @@ ngân_hàng thương_mại ưu_tiên lựa_chọn
 
 năm_qua
 trái_phiếu 
-ngân_hàng phát_hành không còn sôi_động như giai_đoạn 
+ngân_hàng phát_hành không 
+sôi_động 
+giai_đoạn 
 
 
-thời_gian 
+
+
 
 trào_lưu 
 bắt_đầu tăng trở_lại 
 có nhiều ngân_hàng tăng_cường phát_hành trái_phiếu
 
-như 
+
+
 loại giấy_tờ có_giá 
 
 huy_động vốn
@@ -26768,7 +28320,8 @@ hồi đầu
 vietcombank
 hose
 
-công_bố thông_tin về báo_cáo kết_quả chào_bán trái_phiếu ra_công_chúng
+công_bố thông_tin 
+báo_cáo kết_quả chào_bán trái_phiếu ra_công_chúng
 
 
 vietcombank 
@@ -26805,7 +28358,8 @@ không bao_gồm
 
 
 
-ngân_hàng như ngân_hàng thương_mại cổ_phần quốc_dân
+ngân_hàng 
+ngân_hàng thương_mại cổ_phần quốc_dân
 ncb
 ngân_hàng 
 châu
@@ -26813,7 +28367,8 @@ châu
 
 
 phát_hành trái_phiếu
-trong bối_cảnh hoạt_động ngành ngân_hàng còn nhiều rủi_ro
+trong bối_cảnh hoạt_động ngành ngân_hàng 
+nhiều rủi_ro
 
 ngân_hàng 
 
@@ -26821,14 +28376,16 @@ vật_lộn
 nợ xấu nên
 hút 
 cổ_đông 
-bỏ vốn đầu_tư hoặc 
+
+vốn đầu_tư hoặc 
 cổ_đông hiện_hữu góp 
 vốn 
 
 
 
 
-ngân_hàng nhà_nước thời_gian 
+ngân_hàng nhà_nước 
+
 
 
 giám_sát 
@@ -26841,7 +28398,7 @@ ngân_hàng
 ngân_hàng có cổ_đông chiến_lược 
 giới_hạn room cho 
 cổ_đông nước_ngoài 
-không còn
+không 
 
 
 ngân_hàng có cổ_đông 
@@ -26849,7 +28406,8 @@ ngân_hàng có cổ_đông
 
 tập_đoàn
 tổng công_ty nhà_nước 
-còn 
+
+
 chịu áp_lực thoái vốn 
 
 tổ_chức 
@@ -26859,7 +28417,8 @@ trái_phiếu
 
 trong 
 loại giấy_tờ có_giá giúp 
-ngân_hàng có_thể gọi_vốn trong thời_gian ngắn
+ngân_hàng có_thể gọi_vốn trong 
+ngắn
 
 mức lãi_suất 
 xác_định 
@@ -26885,7 +28444,8 @@ sàn giao_dịch chứng_khoán
 
 
 phát_hành trái_phiếu có_thể
-về dòng tiền phục_vụ cho mục_đích tăng vốn 
+
+dòng tiền phục_vụ cho mục_đích tăng vốn 
 thuận_lợi
 
 không 
@@ -26906,7 +28466,8 @@ tình_trạng pha loãng cổ_phiếu
 
 áp_lực lên 
 chỉ_số sinh 
-như roa 
+
+roa 
 roe
 lợi_ích 
 
@@ -26960,13 +28521,16 @@ vốn dài_hạn
 chi_phí rẻ 
 
 
-ngân_hàng lại 
+ngân_hàng 
+
 hạn_chế 
-quy_định về 
+quy_định 
+
 vốn ngắn_hạn cho vay trung dài_hạn
 
 
-đặt 
+
+
 cho 
 ngân_hàng bài_toán 
 tìm_kiếm 
@@ -26979,7 +28543,8 @@ có phương_án phát_hành trái_phiếu doanh_nghiệp
 niêm_yết tập_trung không 
 
 quy_định 
-còn 
+
+
 cơ_hội 
 bản_thân 
 ngân_hàng 
@@ -27002,9 +28567,11 @@ bùng_nổ
 vấn_đề 
 bùng_nổ 
 
-nghiêng về trái_phiếu chính_phủ
+nghiêng 
+trái_phiếu chính_phủ
 trong 
-trái_phiếu doanh_nghiệp còn 
+trái_phiếu doanh_nghiệp 
+
 hẹp
 xem_xét 
 kế_hoạch phát_hành trái_phiếu doanh_nghiệp 
@@ -27015,7 +28582,8 @@ kế_hoạch phát_hành trái_phiếu doanh_nghiệp
 
 hầu_hết 
 
-về 
+
+
 doanh_nghiệp kinh_doanh trong lĩnh_vực bất_động_sản 
 ngân_hàng
 
@@ -27093,10 +28661,12 @@ cho
 cổ_đông hiện_hữu
 
 trị_giá chưa 
-tới nghìn_tỷ lại 
+tới nghìn_tỷ 
+
 nhiều 
 đầu_tư quan_tâm 
-muốn tìm_hiểu sâu về nguồn_lực 
+muốn tìm_hiểu sâu 
+nguồn_lực 
 
 
 đối_tác 
@@ -27172,7 +28742,8 @@ ngân_hàng
 
 
 
-lên kế_hoạch xin phép ngân_hàng nhà_nước phát_hành tới
+lên kế_hoạch 
+phép ngân_hàng nhà_nước phát_hành tới
 tỷ đồng trái_phiếu hoặc giấy_tờ có_giá
 
 theo_dõi thông_tin 
@@ -27180,14 +28751,17 @@ eximbank
 
 
 
-kế_hoạch xin phát_hành
+kế_hoạch 
+phát_hành
 tỷ đồng trái_phiếu 
 
 
 tới 
 không có 
 
-công_bố nào về kết_quả thực_thi
+công_bố 
+
+kết_quả thực_thi
 
 
 có khả_năng 
@@ -27207,7 +28781,8 @@ cạnh
 doanh_nghiệp địa_ốc
 ngân_hàng 
 lên kế_hoạch phát_hành trái_phiếu
-còn có khá nhiều doanh_nghiệp 
+
+có khá nhiều doanh_nghiệp 
 
 
 muốn lăm_le vay vốn 
@@ -27216,7 +28791,9 @@ kênh
 trị_giá 
 đợt phát_hành dự_kiến 
 
-doanh_nghiệp còn lại cơ_bản 
+doanh_nghiệp 
+
+cơ_bản 
 lẻ_tẻ
 rải_rác
 tập_trung 
@@ -27230,7 +28807,8 @@ xuất_hiện
 
 doanh_nghiệp 
 
-lĩnh_vực như khai_thác
+lĩnh_vực 
+khai_thác
 chế_biến nông_lâm_thủy hải_sản
 
 
@@ -27275,16 +28853,21 @@ nguyên_do
 ngân_hàng vốn không có nhà_máy
 tài_sản đất_đai
 tài_nguyên
-dự_án khai_thác như 
+dự_án khai_thác 
+
 doanh_nghiệp 
 
 không có dự_án
 sờ_sờ 
 
-như doanh_nghiệp địa_ốc
 
-lại có thế 
-về khả_năng liên_kết
+doanh_nghiệp địa_ốc
+
+
+có 
+
+
+khả_năng liên_kết
 tìm_kiếm 
 
 đầu_tư
@@ -27302,14 +28885,16 @@ tư_vấn
 bảo_lãnh phát_hành trái_phiếu chuyên_nghiệp cho 
 dn
 
-thế
+
 
 ngân_hàng việt nam hiện_tại 
 
-còn có tổ_chức chưa niêm_yết 
+
+có tổ_chức chưa niêm_yết 
 đại_chúng 
 
-chịu quy_định nghiêm_ngặt về thực
+chịu quy_định nghiêm_ngặt 
+thực
 báo_cáo tài_chính
 trừ tổ_chức 
 ngân_hàng nhà_nước cho phép trong quá_trình tái_cơ_cấu
@@ -27333,7 +28918,7 @@ nhà_nước
 lĩnh_vực hoạt_động kinh_doanh tiền_tệ ngân_hàng
 
 
-yếu_tố như
+yếu_tố 
 doanh_nghiệp 
 có dự_án
 có tài_sản đảm_bảo
@@ -27347,7 +28932,8 @@ muốn chen_chân huy_động vốn
 trái_phiếu
 
 
-yếu_tố như cơ_chế lợi_suất
+yếu_tố 
+cơ_chế lợi_suất
 phí phát_hành
 khả_năng
 lobby
@@ -27366,9 +28952,11 @@ thị_trường sơ lẫn
 
 
 quan_tâm
-thị_trường trái_phiếu doanh_nghiệp lại 
+thị_trường trái_phiếu doanh_nghiệp 
 
-tăng_trưởng như kỳ_vọng
+
+tăng_trưởng 
+kỳ_vọng
 
 
 
@@ -27386,7 +28974,7 @@ không_thể xoay_xở vốn tín_dụng
 ngân_hàng
 
 
-như
+
 chịu chết
 
 kênh huy_động vốn dài_hạn 
@@ -27443,8 +29031,7 @@ lực vốn đầu_tư
 tổ_chức ngân_hàng
 
 tăng_trưởng tín_dụng khá ì_ạch trong 
-
-
+hết 
 trừ
 
 
@@ -27453,7 +29040,8 @@ trừ
 
 ngân_hàng 
 tìm 
-kênh trái_phiếu như 
+kênh trái_phiếu 
+
 phân_tán rủi_ro
 bảo_toàn tài_sản 
 giảm 
@@ -27476,7 +29064,8 @@ dự_đoán kinh_tế khởi_sắc
 kỳ 
 
 
-có khả_năng hồi_phục tốt 
+có khả_năng hồi_phục 
+
 quí 
 
 
@@ -27490,23 +29079,27 @@ trái_phiếu dn
 
 
 
-kênh huy_động vốn tốt cho doanh_nghiệp 
+kênh huy_động vốn 
+cho doanh_nghiệp 
 hiện_tại
-phát_hành trái_phiếu lại 
+phát_hành trái_phiếu 
+
 
 kế_hoạch 
 hữu_dụng 
 
 phổ_biến cho đại đa_số doanh_nghiệp muốn
 chơi
-khả_năng giải_quyết nút thắt lại không hoàn_toàn nằm 
+khả_năng giải_quyết nút thắt 
+không hoàn_toàn nằm 
 bàn_tay doanh_nghiệp 
 phụ_thuộc 
 đa_dạng_hóa 
 đầu_tư trái_phiếu 
 thị_trường
 
-về cơ_quan quản_lí 
+
+cơ_quan quản_lí 
 
 
 tổ_chức thị_trường
@@ -27536,7 +29129,8 @@ tập_trung cơ_cấu đầu_tư
 
 
 cho miếng bánh vốn 
-hấp_dẫn về lợi_suất 
+hấp_dẫn 
+lợi_suất 
 
 đảm_bảo an_toàn 
 trái_phiếu chính_phủ
@@ -27545,9 +29139,11 @@ có
 
 ngân_hàng 
 
-phương_án đầu_tư trái_phiếu như 
+phương_án đầu_tư trái_phiếu 
+
 tăng_trưởng tín_dụng
-về mặt nguyên_tắc
+
+mặt nguyên_tắc
 
 hạch_toán đầu_tư trái_phiếu 
 tăng_trưởng 
@@ -27565,7 +29161,8 @@ xem_xét
 mục đầu_tư
 tùy 
 mục phát_hành trái_phiếu
-thời_gian phát_hành
+
+phát_hành
 
 cách_thức đầu_tư
 hạch_toán 
@@ -27589,7 +29186,8 @@ tăng_trưởng tín_dụng
 
 
 ngân_hàng 
-tối_ưu về nhu_cầu vốn 
+tối_ưu 
+nhu_cầu vốn 
 góc_độ dn
 song 
 ngân_hàng sử_dụng 
@@ -27613,7 +29211,8 @@ ngân_hàng
 
 gặp rủi_ro
 
-về 
+
+
 khoản
 trong 
 giá_trị 
@@ -27626,7 +29225,8 @@ lệ_thuộc
 tín_dụng nh
 
 
-cơ_hội cho nh phát_huy tốt 
+cơ_hội cho nh phát_huy 
+
 nghiệp_vụ hỗ_trợ tài_chính cho dn
 
 
@@ -27650,7 +29250,8 @@ khoản
 hỗ_trợ cho thị_trường 
 
 
-như 
+
+
 
 tập_trung cho cổ_phiếu
 trong 
@@ -27672,8 +29273,10 @@ tín_nhiệm
 đầu_tư 
 vay vốn đầu_tư 
 kênh trái_phiếu 
-tốt 
-còn vay nh nên tập_trung 
+
+
+
+vay nh nên tập_trung 
 vốn lưu_động
 
 
@@ -27720,7 +29323,8 @@ lãi
 
 
 vốn
-còn trái_phiếu 
+
+trái_phiếu 
 
 
 vốn 
@@ -27731,7 +29335,8 @@ vốn
 kỳ
 
 
-xét về giá_trị 
+xét 
+giá_trị 
 không 
 
 
@@ -27748,20 +29353,23 @@ khó_khăn
 lo 
 vốn 
 
-có_thể gặp khó_khăn về tài_chính
+có_thể gặp khó_khăn 
+tài_chính
 dự_án có_thể thất_bại
 tất_nhiên
 phát_hành trái_phiếu 
 có 
 cái bất_lợi 
 
-vay nhtm như 
+vay nhtm 
+
 
 ubck cho phép
 
 kiếm công_ty dịch_vụ phát_hành
 
-đặt biệt 
+
+biệt 
 
 
 phát_hành trái_phiếu doanh_nghiệp 
@@ -27812,7 +29420,8 @@ mức_độ tín_nhiệm
 nợ 
 
 
-như lãi_suất thị_trường 
+
+lãi_suất thị_trường 
 
 
 mức lãi_suất hợp_lý 
@@ -27829,7 +29438,8 @@ cân_nhắc
 
 
 
-vững_chắc về năng_lực tài_chính 
+vững_chắc 
+năng_lực tài_chính 
 hiệu_quả hoạt_động kinh_doanh hiện_tại 
 dn
 
@@ -27848,7 +29458,8 @@ trong giai_đoạn
 
 đầu_tư 
 lên quan_tâm tới 
-doanh_nghiệp hoạt_động tốt 
+doanh_nghiệp hoạt_động 
+
 sàn
 hoặc 
 doanh_nghiệp có bề dầy kinh_doanh
@@ -27887,7 +29498,8 @@ thông_qua hệ_thống internet banking
 
 nâng_cấp
 
-nhu_cầu về tài_chính 
+nhu_cầu 
+tài_chính 
 khách_hàng 
 
 đáp_ứng 
@@ -27896,7 +29508,7 @@ dễ_dàng
 
 giao_dịch 
 thanh_toán 
-hóa_đơn như
+hóa_đơn 
 tiền điện
 điện_thoại cho 
 
@@ -27906,7 +29518,8 @@ gửi tiết_kiệm online
 
 nhanh_chóng
 giúp tiết_kiệm chi_phí 
-thời_gian 
+
+
 khách_hàng
 
 ra_mắt phiên_bản internet banking 
@@ -27920,11 +29533,13 @@ seabank
 hoàn_toàn 
 miễn_phí sử_dụng dịch_vụ
 phí chuyển tiền
-phí thay_đổi thông_tin dịch_vụ trong
+phí 
+thông_tin dịch_vụ trong
 
 đầu trải nghiệm
 
-khoảng thời_gian 
+khoảng 
+
 seabank 
 ưu_đãi tới khách_hàng giảm
 phí chuyển tiền 
@@ -27984,7 +29599,7 @@ an_toàn cho
 khách_hàng
 dịch_vụ seanet đáp_ứng tối_đa 
 nhu_cầu giao_dịch 
-khách_hàng như
+khách_hàng 
 quản_lý giao_dịch 
 
 kê tài_khoản thanh_toán 
@@ -28001,7 +29616,8 @@ nâng_cấp hệ_thống hạ_tầng công_nghệ
 seabank mong_muốn đem 
 cho khách_hàng 
 trải nghiệm dịch_vụ 
-chất_lượng tốt 
+chất_lượng 
+
 nhanh_chóng 
 tiện_ích 
 khó_khăn 
@@ -28020,7 +29636,8 @@ nửa đầu
 toàn_cảnh ngân_hàng việt nam 
 nằm trong quá_trình củng_cố 
 ổn_định
-tập_trung cho quá_trình tái_cơ_cấu đặt trong toàn_cảnh tái_cơ_cấu 
+tập_trung cho quá_trình tái_cơ_cấu 
+trong toàn_cảnh tái_cơ_cấu 
 
 kinh_tế
 
@@ -28032,7 +29649,8 @@ ngân_hàng nhà_nước
 
 
 thành_công nhất_định
-trong thời_gian 
+trong 
+
 ngân_hàng nhà_nước 
 hấp_thụ 
 khá nhiều ngoại_tệ
@@ -28057,13 +29675,15 @@ ngân_hàng tập_trung
 
 tái_cơ_cấu nội_bộ
 
-thay_đổi trong bộ_máy quản_lý
+
+trong bộ_máy quản_lý
 hay 
 góc_độ 
 giám_sát ngân_hàng
 kết_quả mã_hóa dữ_liệu ngân_hàng 
 
-đầu báo có ảnh_hưởng trong khoảng thời_gian 
+đầu báo có ảnh_hưởng trong khoảng 
+
 
 
 
@@ -28076,8 +29696,10 @@ chế_độ nhân_sự
 chiến_lược kinh_doanh
 m_a
 
-thông_tin tập_trung tương_đối nhiều về 
-thay_đổi nhân_sự 
+thông_tin tập_trung tương_đối nhiều 
+
+
+nhân_sự 
 cao trong hệ_thống 
 ngân_hàng
 chiếm
@@ -28090,7 +29712,8 @@ sai_phạm
 
 cho 
 
-tăng_cường về mặt quản_lý
+tăng_cường 
+mặt quản_lý
 giám_sát 
 sai_phạm 
 điều_chỉnh cơ_cấu nội_bộ ngân_hàng
@@ -28127,7 +29750,8 @@ nợ xấu
 bán cho vamc
 
 ngân_hàng nằm trong
-như vietcombank
+
+vietcombank
 
 techcombank
 mb bank 
@@ -28158,8 +29782,10 @@ cho vay
 mức lý_tưởng
 cho 
 
-chuyển_đổi mạnh_mẽ về cơ_cấu tín_dụng thay_vì tập_trung 
-bán_buôn như trong giai_đoạn 
+chuyển_đổi mạnh_mẽ 
+cơ_cấu tín_dụng thay_vì tập_trung 
+bán_buôn 
+trong giai_đoạn 
 
 ngân_hàng hiện 
 chạy_đua 
@@ -28196,9 +29822,11 @@ hết_sức tích_cực trong
 có ngân_hàng dự_định 
 mức tăng_trưởng lên tới
 
-nhìn_nhận 
+
+
 khách_quan
-trong thời_gian tới
+trong 
+tới
 
 ngân_hàng 
 
@@ -28239,7 +29867,8 @@ giả_mạo thông_tin
 đi vay tiêu_dùng trở_nên phổ_biến trong 
 
 độ phủ thông_tin tín_dụng 
-việt nam còn 
+việt nam 
+
 
 
 
@@ -28268,11 +29897,12 @@ liệu có làm_khó ngành ngân_hàng
 ngành tài_chính 
 đối_mặt 
 
-thay_đổi 
+
+
 
 
 thành_tựu công_nghệ 
-lại
+
 trong tương
 
 
@@ -28299,18 +29929,21 @@ việt nam
 
 bước_đầu phát_triển dịch_vụ tài_chính 
 di_động 
-thị_trường còn 
+thị_trường 
+
 nhiều tiềm_năng 
 khai_thác 
 
 dịch_vụ ngân_hàng ứng_dụng công_nghệ_cao
-thời_gian 
+
+
 nắm_bắt 
 xu_thế
 nhiều nhtm 
 tập_trung đầu_tư 
 công_nghệ 
-thay_đổi hệ_thống quản_lý
+
+hệ_thống quản_lý
 dịch_vụ phục_vụ 
 hàng
 nâng cao khả_năng cạnh_tranh trong 
@@ -28347,9 +29980,11 @@ dịch_vụ thuận_tiện
 nhu_cầu khách_hàng 
 
 
-ví_dụ điển_hình về tác_động 
+ví_dụ điển_hình 
+tác_động 
 làn_sóng ứng_dụng công_nghệ lên tài_chính
-rủi_ro về 
+rủi_ro 
+
 cạnh_tranh 
 
 
@@ -28407,7 +30042,8 @@ dân
 
 
 thách_thức 
-về 
+
+
 khảo_sát 
 tiêu_dùng
 
@@ -28444,8 +30080,11 @@ phát_triển mạnh_mẽ
 cách_mạng công_nghiệp
 không 
 
-lại cơ_hội 
-còn đặt 
+
+cơ_hội 
+
+
+
 thách_thức 
 
 ngân_hàng việt_nam
@@ -28458,7 +30097,8 @@ phi_thường
 nhà_nước
 dựa 
 tình_hình thị_trường tài_chính
-ngân_hàng trong thời_gian 
+ngân_hàng trong 
+
 
 chính_sách tiền_tệ
 chính_sách tín_dụng 
@@ -28472,7 +30112,8 @@ chuyên_gia tham_gia khảo_sát
 khẳng_định chính_phủ nên 
 kiên_trì 
 đường_lối thận_trọng
-có kiểm_soát như hiện_nay
+có kiểm_soát 
+hiện_nay
 
 
 phát_triển chính_sách 
@@ -28481,7 +30122,8 @@ dài_hạn
 có 
 kỉ_luật 
 triệt_để 
-về 
+
+
 
 ngân_hàng
 vấn_đề tăng_cường quản_trị
@@ -28490,7 +30132,8 @@ quản_lí
 ưu_tiên hàng_đầu
 
 nhtm việt nam 
-đặt 
+
+
 
 giai_đoạn quản_trị cho quá_trình phát_triển 
 
@@ -28528,7 +30171,8 @@ không ngừng nâng cao chất_lượng
 lao_động 
 
 kịp 
-thay_đổi 
+
+
 phát_triển 
 công_nghệ
 ngành ngân_hàng 
@@ -28539,7 +30183,8 @@ bước_tiến mạnh_mẽ
 
 ngân_hàng trong ngành cải_tổ 
 vươn lên hiệu_quả không ngừng hoàn_thiện 
-đặt lợi_ích 
+
+lợi_ích 
 tiêu_dùng lên hàng_đầu 
 
 vững đạo_đức nghề_nghiệp 
@@ -28555,17 +30200,20 @@ tạo_dựng
 hệ_thống ngân_hàng việt nam uy_tín 
 vươn 
 
-thời_gian 
+
+
 
 có 
 ngân_hàng lợi_dụng kẽ hở mua trái_phiếu 
-cơ_cấu lại 
+cơ_cấu 
+
 khoản nợ 
 doanh_nghiệp 
 tình_trạng 
 
 
-chặn lại 
+chặn 
+
 quy_định 
 
 ngân_hàng nhà_nước
@@ -28582,7 +30230,8 @@ siết chặt
 tổ_chức tín_dụng
 tổ_chức tín_dụng
 chi_nhánh ngân_hàng nước_ngoài mua trái_phiếu 
-cơ_cấu lại 
+cơ_cấu 
+
 khoản nợ 
 doanh_nghiệp
 công_ty cổ_phần hoàng_anh gia
@@ -28632,7 +30281,8 @@ trong bối_cảnh hiện_nay
 
 doanh_nghiệp 
 hỗ_trợ vốn sản_xuất kinh_doanh
-còn ngân_hàng 
+
+ngân_hàng 
 giảm_thiểu nợ xấu
 
 
@@ -28641,7 +30291,8 @@ ngân_hàng
 đại_diện 
 doanh_nghiệp sản_xuất cho biết
 
-kinh_tế còn khó_khăn
+kinh_tế 
+khó_khăn
 hoạt_động_sản_xuất kinh_doanh không hiệu_quả
 lợi_nhuận không nhiều 
 doanh_nghiệp không_thể có tiền 
@@ -28656,13 +30307,15 @@ tăng
 kinh_tế khó_khăn
 nợ xấu chưa giảm 
 lãi_suất cho vay 
-còn cao
+
+cao
 
 
 
 đồng_nghĩa 
 
-báo_cáo về tình_trạng nợ xấu 
+báo_cáo 
+tình_trạng nợ xấu 
 
 ngân_hàng không 
 phản_ánh 
@@ -28676,7 +30329,8 @@ cần_thiết có_thể đảo_nợ
 
 thông_tư 
 
-nội_dung về mua trái_phiếu doanh_nghiệp 
+nội_dung 
+mua trái_phiếu doanh_nghiệp 
 tổ_chức tín_dụng
 chi_nhánh ngân_hàng nước_ngoài 
 sửa_đổi
@@ -28686,7 +30340,8 @@ quy_định hiện_hành
 
 pháp_luật liên_quan
 tình_hình 
-về hoạt_động mua trái_phiếu doanh_nghiệp 
+
+hoạt_động mua trái_phiếu doanh_nghiệp 
 
 tổ_chức tín_dụng
 chi_nhánh ngân_hàng nước_ngoài 
@@ -28725,13 +30380,14 @@ chi_nhánh ngân_hàng nước_ngoài không
 mua trái_phiếu doanh_nghiệp phát_hành
 trong 
 có mục_đích 
-cơ_cấu lại 
+cơ_cấu 
+
 khoản nợ 
 doanh_nghiệp
 lãnh_đạo 
 ngân_hàng cho 
 
-phát_hành trái_phiếu đảo_nợ như
+phát_hành trái_phiếu đảo_nợ 
 con dao
 lưỡi
 
@@ -28750,7 +30406,8 @@ sức_khỏe
 ngân_hàng 
 doanh_nghiệp 
 
-nhìn_nhận thực_chất 
+
+thực_chất 
 
 quyết_định 
 
@@ -28766,14 +30423,16 @@ nhiều doanh_nghiệp
 có khoản nợ 
 
 
-tổ_chức tín_dụng như 
+tổ_chức tín_dụng 
+
 
 đống lửa hoạt_động kinh_doanh 
 càng căng_thẳng 
 
 doanh_nghiệp không phát_hành trái_phiếu 
 
-đảo_nợ hoặc kéo_dài thời_gian cho 
+đảo_nợ hoặc kéo_dài 
+cho 
 khoản nợ cũ
 
 thông_tư 
@@ -28790,9 +30449,10 @@ không
 
 doanh_nghiệp
 
-doanh_nghiệp làm_ăn tốt
+doanh_nghiệp làm_ăn 
 
-gặp thuận_lợi về thị_trường
+gặp thuận_lợi 
+thị_trường
 khách_hàng
 
 cung_cấp hay môi_trường đầu_tư kinh_doanh
@@ -28800,7 +30460,8 @@ cung_cấp hay môi_trường đầu_tư kinh_doanh
 
 
 siết chặt 
-quy_định về phát_hành trái_phiếu đảo_nợ
+quy_định 
+phát_hành trái_phiếu đảo_nợ
 có_thể 
 
 doanh_nghiệp 
@@ -28869,7 +30530,8 @@ lĩnh_vực rủi_ro tiềm_ẩn
 mức tăng tín_dụng 
 
 
-đặt 
+
+
 nhiều vấn_đề 
 
 
@@ -28897,7 +30559,8 @@ tỷ_trọng
 công_ty tài_chính 
 
 trong 
-nhu_cầu vay mua sở_hữu phương_tiện giao_thông hoặc học_tập du_lịch chữa bệnh lại tăng lên 
+nhu_cầu vay mua sở_hữu phương_tiện giao_thông hoặc học_tập du_lịch chữa bệnh 
+tăng lên 
 trong
 
 đầu 
@@ -28910,7 +30573,8 @@ nhiều địa_bàn
 
 
 
-khu_vực có thông_tin chính_sách như đặc_khu kinh_tế
+khu_vực có thông_tin chính_sách 
+đặc_khu kinh_tế
 
 vùng_ven biển 
 
@@ -28967,7 +30631,8 @@ ngân_hàng liên_kết
 chủ đầu_tư 
 giải_ngân cho 
 mua
-như cách_thức 
+
+cách_thức 
 
 
 nhtm 
@@ -28986,10 +30651,12 @@ triển_khai
 nguồn_lực 
 
 khoản 
-thị_trường bất_động_sản thời_gian 
+thị_trường bất_động_sản 
+
 
 đẩy_mạnh
-còn 
+
+
 
 cục quản_lý 
 
@@ -28998,9 +30665,11 @@ thị_trường bất_động_sản
 xây_dựng 
 kiến_nghị 
 
-kiểm_soát tốt dòng vốn cho vay bất_động_sản
+kiểm_soát 
+dòng vốn cho vay bất_động_sản
 ngân_hàng nhà_nước 
-xác_định lại khái_niệm cho vay tiêu_dùng
+xác_định 
+khái_niệm cho vay tiêu_dùng
 không nên 
 khoản cho vay mua 
 
@@ -29022,7 +30691,7 @@ giải_pháp
 kiểm_soát tín_dụng tiêu_dùng
 trong 
 có kiểm_soát chặt lãi_suất 
-như
+
 hồi nợ
 
 
@@ -29035,7 +30704,7 @@ có_lẽ
 
 lần 
 nên 
-tính_toán lại
+tính_toán 
 
 
 khoản vay mua 
@@ -29113,16 +30782,19 @@ lãi_suất cho vay
 
 lĩnh_vực ưu_tiên 
 giảm
-ngân_hàng nhà_nước cho biết công_tác cơ_cấu lại 
+ngân_hàng nhà_nước cho biết công_tác cơ_cấu 
+
 tổ_chức tín_dụng 
 
 đẩy_mạnh
 
 
-về cơ_bản
+
+cơ_bản
 
 nhtm 
-xây_dựng xong phương_án cơ_cấu lại gắn 
+xây_dựng xong phương_án cơ_cấu 
+gắn 
 xử_lý nợ xấu
 trình ngân_hàng nhà_nước phê_duyệt
 trong 
@@ -29213,7 +30885,8 @@ doanh_nghiệp
 
 dân
 
-đẩy_mạnh cơ_cấu lại 
+đẩy_mạnh cơ_cấu 
+
 tổ_chức tín_dụng
 phối_hợp 
 
@@ -29251,8 +30924,7 @@ diễn_đàn công_nghệ tài_chính việt nam
 phạm tiến_dũng
 vụ_trưởng vụ thanh_toán ngân_hàng nhà_nước cho biết
 
-
-
+hết 
 thanh_toán di_động 
 việt nam 
 tăng_trưởng ấn_tượng 
@@ -29270,7 +30942,8 @@ mức tăng_trưởng
 
 lên thực_trạng 
 nhu_cầu 
-con_người về công_nghệ
+con_người 
+công_nghệ
 
 hóa trong xã_hội ngày_nay
 
@@ -29281,7 +30954,8 @@ hóa trong xã_hội ngày_nay
 
 thanh_toán 
 internet banking 
-còn 
+
+
 
 khái_niệm xa_lạ 
 hầu_như hiện_nay 
@@ -29358,7 +31032,8 @@ không
 có_thể trải nghiệm 
 tính_năng thanh_toán di_động 
 nền_tảng công_nghệ_số
-ví_dụ như 
+ví_dụ 
+
 khách_hàng 
 maritime bank dễ_dàng trải nghiệm tính_năng thanh_toán 
 qr
@@ -29411,7 +31086,8 @@ loại thẻ
 tiện_lợi
 giải_pháp thanh_toán 
 thẻ 
-ứng_dụng samsung pay còn 
+ứng_dụng samsung pay 
+
 an_toàn 
 
 thông_tin 
@@ -29489,7 +31165,8 @@ giúp khách_hàng kết_nối
 thanh_toán tiện_lợi 
 
 địa_điểm giao_dịch mua_sắm 
-như hàng trăm trang website bán hàng trực_tuyến 
+
+hàng trăm trang website bán hàng trực_tuyến 
 
 
 tính_chất 
@@ -29547,7 +31224,8 @@ nỗ_lực
 
 
 giải_pháp fintech 
-như bắt_tay 
+
+bắt_tay 
 
 đối_tác fintech
 phát_triển 
@@ -29556,7 +31234,8 @@ nền_tảng công_nghệ
 
 định_hướng chiến_lược 
 maritime bank 
-như 
+
+
 ngân_hàng 
 
 
@@ -29565,7 +31244,8 @@ hút
 nhiều khách_hàng tham_gia
 ban lãnh_đạo techcombank cho biết
 
-đặt mục_tiêu mở_rộng mảng ngân_hàng bán_lẻ 
+
+mục_tiêu mở_rộng mảng ngân_hàng bán_lẻ 
 khai_thác nhu_cầu 
 tăng vọt 
 hàng_loạt 
@@ -29577,8 +31257,10 @@ cho vay mua
 chiếm tỷ_trọng chủ_yếu
 techcombank 
 có 
-tăng_trưởng mạnh_mẽ về 
-loại_hình dịch_vụ như thẻ tín_dụng
+tăng_trưởng mạnh_mẽ 
+
+loại_hình dịch_vụ 
+thẻ tín_dụng
 cho vay mua ô_tô 
 sản_phẩm bảo_hiểm_liên_kết 
 ngân_hàng
@@ -29633,7 +31315,8 @@ thềm niêm_yết
 sức hút 
 techcombank bắt_nguồn 
 
-tăng vọt về 
+tăng vọt 
+
 dịch_vụ tài_chính 
 
 kinh_tế 
@@ -29651,7 +31334,8 @@ tăng_trưởng lợi_nhuận mạnh_mẽ
 
 ngân_hàng
 
-tăng vọt về sản_xuất 
+tăng vọt 
+sản_xuất 
 thúc_đẩy 
 kinh_tế phụ_thuộc 
 xuất_khẩu 
@@ -29679,7 +31363,8 @@ chiến_lược
 chúng_tôi 
 phù_hợp 
 hiện_trạng nhân_khẩu_học 
-thay_đổi 
+
+
 việt nam 
 mức
 nhập 
@@ -29702,25 +31387,28 @@ việt nam
 tăng lên
 
 
-gia_tăng về
+gia_tăng 
 nhập khả_dụng
 trong vòng 
 
 ba 
 tới
-chúng_tôi đặt ưu_tiên 
+chúng_tôi 
+ưu_tiên 
 
 
 dịch_chuyển 
 hướng bán_lẻ 
 cho vay mua 
 nguyên_nhân 
-xét về mặt dự_phòng rủi_ro
+xét 
+mặt dự_phòng rủi_ro
 cho vay mua 
 có 
 an_toàn 
 
-đem lại cho chúng_tôi lợi_nhuận cao 
+đem 
+cho chúng_tôi lợi_nhuận cao 
 
 tài_sản có rủi_ro
 techcombank kỳ_vọng tỷ_trọng 
@@ -29778,12 +31466,14 @@ nhiều
 
 mỹ chính_thức đánh thuế lên hàng trung_quốc trị_giá
 tỷ usd 
-trung_quốc trả_đũa lại 
+trung_quốc trả_đũa 
+
 gói thuế có quy_mô tương_đương
 
 phủ bóng đen lên thị_trường tài_chính toàn_cầu không 
 trung_quốc
-mỹ còn áp_thuế 
+mỹ 
+áp_thuế 
 cả 
 đồng 
 thân_cận 
@@ -29859,7 +31549,8 @@ mâu_thuẫn
 kinh_tế nằm 
 
 chia tách giữa 
-khu_vực như fdi 
+khu_vực 
+fdi 
 trong 
 kinh_tế phụ_thuộc nhiều 
 fdi
@@ -29867,7 +31558,8 @@ hay
 hội_nhập sâu_rộng 
 
 tận_dụng
-khai_thác còn kém
+khai_thác 
+kém
 
 chuyển_dịch 
 dòng tiền 
@@ -29915,7 +31607,8 @@ hoặc
 
 
 
-về độ mở 
+
+độ mở 
 
 
 kinh_tế 
@@ -29927,9 +31620,11 @@ thế_giới có không
 quốc_gia hoặc 
 kinh_tế 
 tổng kim_ngạch xuất_nhập_khẩu 
-gdp còn 
+gdp 
 
-cả việt nam như hong_khôngng
+
+cả việt nam 
+hong_khôngng
 gdp 
 luxembourg
 malta
@@ -29967,7 +31662,8 @@ vỡ
 kinh_tế
 
 chỉ_tiêu 
-còn phản_ánh 
+
+phản_ánh 
 
 
 
@@ -29987,9 +31683,11 @@ có hiện_tượng hàng_hóa nước_ngoài đội_lốt hàng việt nam xu�
 
 
 
-không có chuẩn_mực nào hay 
+không có chuẩn_mực 
+hay 
 trường_hợp 
-nào 
+
+
 
 
 
@@ -30004,7 +31702,8 @@ gdp
 
 kinh_tế việt nam 
 gặp nguy_khốn
-về lý_do nền_tảng 
+
+lý_do nền_tảng 
 nguồn_lực tăng_trưởng trong 
 có vấn_đề 
 
@@ -30018,7 +31717,8 @@ có_thể
 
 
 
-tương_tự như lập_luận 
+tương_tự 
+lập_luận 
 
 
 
@@ -30047,7 +31747,8 @@ không
 
 
 
-về nguyên_nhân bong_bóng tài_sản 
+
+nguyên_nhân bong_bóng tài_sản 
 
 khủng_hoảng kinh_tế
 
@@ -30091,7 +31792,8 @@ phân_khúc
 
 địa_phương
 
-còn 
+
+
 thị_trường chứng_khoán
 
 
@@ -30101,11 +31803,13 @@ thăng_hoa mấy
 không 
 tăng_trưởng kiểu tên_lửa
 
-nào 
+
+
 tăng 
 tăng kịch biên_độ
 chỉ_số chứng_khoán 
-quay trở_lại giai_đoạn lình_xình
+
+trở_lại giai_đoạn lình_xình
 điều_chỉnh 
 trong mấy tuần 
 
@@ -30120,13 +31824,15 @@ bùng_nổ
 tín_dụng ngân_hàng 
 
 
-siết lại 
+siết 
+
 
 
 
 tăng_trưởng tín_dụng 
 
-chậm lại 
+chậm 
+
 
 
 mấy 
@@ -30137,7 +31843,8 @@ căn_cứ
 nêu 
 
 
-xin bổ_sung 
+
+bổ_sung 
 
 căn_cứ khác_thường 
 
@@ -30171,7 +31878,8 @@ cao
 
 trong khu_vực 
 thế_giới
-như 
+
+
 minh_họa trong bảng 
 
 
@@ -30186,7 +31894,8 @@ thập_kỷ
 lạm_phát 
 việt nam trong giai_đoạn
 
-còn 
+
+
 hoặc 
 
 cả 
@@ -30206,7 +31915,8 @@ việt nam trong
 
 
 
-về tổng_thể
+
+tổng_thể
 lạm_phát 
 việt nam không 
 
@@ -30229,7 +31939,8 @@ tốc_độ tăng_trưởng đầu_tư ngược_lại
 khu_vực 
 thế_giới
 đầu_tư 
-tăng_trưởng chậm lại 
+tăng_trưởng chậm 
+
 việt nam trong thập_kỷ hiện_nay 
 
 
@@ -30242,7 +31953,8 @@ trong giai_đoạn
 
 
 thể_hiện 
-số_liệu về tổng mức đầu_tư trong 
+số_liệu 
+tổng mức đầu_tư trong 
 kinh_tế 
 
 gdp 
@@ -30311,7 +32023,8 @@ thập_kỷ
 
 có căn_cứ 
 loại thâm_hụt_vãng
-như 
+
+
 yếu_tố tiềm_tàng 
 
 khủng_hoảng kinh_tế 
@@ -30329,14 +32042,16 @@ cho
 
 kinh_tế việt nam 
 chứa_đựng nhiều bất_ổn 
-chưa có bằng_chứng xác_đáng nào 
+chưa có bằng_chứng xác_đáng 
+
 lo_ngại xảy 
 
 
 khủng_hoảng kinh_tế trong 
 
 quy_mô 
-cấp_độ như 
+cấp_độ 
+
 
 
 chứng_kiến trong
@@ -30357,7 +32072,8 @@ thể_hiện
 
 
 
-còn 
+
+
 mức 
 khoản 
 thị_trường sắc đỏ 
@@ -30376,13 +32092,13 @@ xuống
 
 hnxindex giảm
 
-xuống còn
+xuống 
 
 
 upcomindex 
 giảm nhẹ
 
-còn
+
 
 
 khoản 
@@ -30461,7 +32177,9 @@ có phiên trần
 liên_tiếp 
 
 
-quay lại thị_trường
+
+
+thị_trường
 chứng_khoán giảm sâu
 nhân_dân_tệ rớt_giá
 bất_ổn bao_trùm thị_trường tài_chính trung_quốc
@@ -30519,7 +32237,8 @@ thế_giới
 không may 
 
 
-lại xảy 
+
+xảy 
 trong 
 bất_lợi 
 
@@ -30594,7 +32313,8 @@ phiên
 
 shanghai composite chưa thể hồi_phục 
 giảm 
-chỉ_số thiên về công_nghệ shenzhen index 
+chỉ_số thiên 
+công_nghệ shenzhen index 
 
 
 thị_trường con gấu 
@@ -30611,13 +32331,16 @@ bán_tháo
 diễn 
 
 
-cảnh_tỉnh khắc_nghiệt về chuyện 
+cảnh_tỉnh khắc_nghiệt 
+chuyện 
 thị_trường trung_quốc 
 
 có_thể
-quay ngoắt
+
+ngoắt
 độ
-nhanh_chóng như thế_nào
+nhanh_chóng 
+thế_nào
 
 
 
@@ -30648,7 +32371,8 @@ tốc_độ
 
 nhiều 
 có cảm_giác kim_đồng_hồ 
-quay ngược trở_lại 
+
+ngược trở_lại 
 
 bong_bóng cổ_phiếu vỡ tung 
 động_thái bất_ngờ hạ giá nhân_dân_tệ 
@@ -30669,7 +32393,8 @@ mệnh_lệnh hành_chính
 đầu_tư 
 khó_chịu
 nhiều 
-đầu_tư còn thận_trọng lo_ngại chính_phủ trung_quốc 
+đầu_tư 
+thận_trọng lo_ngại chính_phủ trung_quốc 
 duy_trì 
 mục_tiêu dài_hạn 
 giảm đòn_bẩy 
@@ -30695,7 +32420,8 @@ thị_trường chứng_khoán
 
 thế_giới 
 đón 
-tốt 
+
+
 
 msci bổ_sung 
 nhóm 
@@ -30728,10 +32454,12 @@ trung quốc
 bắc kinh
 mặc_dù cố_vấn thương_mại cao_cấp peter navarro 
 lên tiếng trấn_an 
-đầu_tư về chính_sách thương_mại 
+đầu_tư 
+chính_sách thương_mại 
 mỹ
 
-còn 
+
+
 
 lo_ngại liệu 
 kinh_tế trung_quốc có_thể chịu_đựng
@@ -30740,7 +32468,8 @@ tấn_công lâu_dài
 
 trump hay không 
 
-trong nội_tại còn nhiều dấu_hiệu bất_ổn
+trong nội_tại 
+nhiều dấu_hiệu bất_ổn
 không 
 trung_quốc
 nỗi lo chiến_tranh thương_mại 
@@ -30790,7 +32519,8 @@ không có_lý
 
 nhắm 
 cổ_phiếu 
-lại 
+
+
 
 khối nội trong 
 
@@ -30804,7 +32534,8 @@ phiên
 áp_lực 
 
 
-đầu_tư lo_lắng về tình_hình 
+đầu_tư lo_lắng 
+tình_hình 
 
 bán 
 
@@ -30812,13 +32543,14 @@ bán
 có_thể 
 
 to
-lại 
+
+
 mua 
 
 
 lý_do tại_sao 
 thị_trường cơ_sở
-nhiều cổ_phiếu có khối_lượng giao_dịch tăng đột_biến như
+nhiều cổ_phiếu có khối_lượng giao_dịch tăng đột_biến 
 
 
 
@@ -30833,7 +32565,8 @@ muộn cho
 nhịp bán 
 hiện_tại
 áp_lực margin 
-không còn 
+không 
+
 
 trong 
 mùa báo_cáo kết_quả kinh_doanh bán_niên 
@@ -30841,7 +32574,8 @@ bắt_đầu
 
 
 có_thể 
-quay trở_lại 
+
+trở_lại 
 
 khó_khăn 
 xuất_hiện thị_trường có_thể 
@@ -30883,7 +32617,8 @@ thị_trường chứng_khoán
 thị_trường chứng_khoán
 việt nam 
 có 
-phiên hồi_phục tốt 
+phiên hồi_phục 
+
 
 
 tuần 
@@ -30900,7 +32635,8 @@ nhận_định lạc_quan
 xu_thế tăng 
 có_thể 
 
-thông_tin về mùa kinh_doanh quý ii 
+thông_tin 
+mùa kinh_doanh quý ii 
 bắt_đầu 
 
 quỹ 
@@ -30953,7 +32689,8 @@ thị_trường cơ_sở
 tỷ đồng
 thị_trường chứng_khoán
 phái_sinh 
-xem 
+
+
 có vai_trò phòng_vệ rủi_ro 
 có_thể giao_dịch
 chiều song 
@@ -31047,17 +32784,19 @@ chuyên_gia đầu_tư cho
 thị_trường chứng_khoán
 phái_sinh việt nam 
 tuổi_đời 
-sản_phẩm còn
+sản_phẩm 
 nghèo
 có vẻ chưa 
 
 hấp_dẫn khối ngoại 
 khối 
 có_thể 
-còn 
+
+
 
 vị_thế quan_sát hoặc giao_dịch thận_trọng trong 
-thời_gian kế_tiếp
+
+kế_tiếp
 xu_hướng thị_trường giảm kéo_dài 
 
 phiên phục_hồi kỹ_thuật xen_kẽ
@@ -31105,7 +32844,7 @@ lần
 
 đầu_tư chứng_khoán cơ_sở
 
-đầu_tư có_thể sử_dụng margin hoặc không còn
+đầu_tư có_thể sử_dụng margin hoặc không 
 thị_trường chứng_khoán
 phái_sinh 
 mặc_định có margin
@@ -31138,7 +32877,8 @@ khả_năng bán cắt lỗ
 
 thị_trường chứng_khoán
 phái_sinh 
-xem 
+
+
 có vai_trò phòng_vệ rủi_ro 
 có_thể giao_dịch
 chiều song 
@@ -31157,7 +32897,8 @@ có nhiều
 quy_định 
 đầu_tư muốn mở tài_khoản phái_sinh
 
-có bao_nhiêu thời_gian giao_dịch 
+có bao_nhiêu 
+giao_dịch 
 thị_trường cơ_sở trong 
 
 việt nam 
@@ -31177,7 +32918,8 @@ tham
 tham_gia
 thị_trường chứng_khoán
 phái_sinh
-xét về toàn thị_trường 
+xét 
+toàn thị_trường 
 không hẳn 
 rẻ
 
@@ -31186,7 +32928,8 @@ nhiều cổ_phiếu
 tương_đối 
 mức hấp_dẫn
 
-nỗi lo về cuộc_chiến thương_mại 
+nỗi lo 
+cuộc_chiến thương_mại 
 mỹ khơi_mào
 thị_trường chứng_khoán
 thị_trường chứng_khoán
@@ -31232,7 +32975,8 @@ tình_hình
 
 
 
-nghĩ 
+
+
 kịch_bản thị_trường có phiên giảm 
 
 
@@ -31241,8 +32985,10 @@ xét cho_cùng
 
 đầu_tư bán_tháo hầu_hết chấp_nhận lỗ 
 
-như chẳng có 
-đầu_tư nào có giá vốn 
+
+chẳng có 
+đầu_tư 
+có giá vốn 
 
 
 
@@ -31287,7 +33033,8 @@ cả
 giảm khá sâu
 
 khoản bắt_đầu giảm_mạnh
-xét trong bối_cảnh như hiện_tại 
+xét trong bối_cảnh 
+hiện_tại 
 
 
 tích_cực 
@@ -31306,14 +33053,18 @@ nhịp tăng
 diễn 
 trong giai_đoạn tới thị_trường 
 
-chinh_phục lại mốc
+chinh_phục 
+mốc
 
 
-tiến về 
+tiến 
+
 ngưỡng kháng_cự 
 
 
-đầu_tư nên quay lại thị_trường cơ_sở 
+đầu_tư nên 
+
+thị_trường cơ_sở 
 
 thị_trường_phái_sinh 
 
@@ -31328,7 +33079,8 @@ khoản thị_trường
 giảm 
 cho 
 
-bán không còn bán 
+bán không 
+bán 
 
 
 giai_đoạn 
@@ -31349,7 +33101,10 @@ dòng tiền chảy
 thứ_ba
 khối ngoại 
 không bán ròng 
-còn quay lại mua ròng trong 
+
+
+
+mua ròng trong 
 phiên 
 
 
@@ -31364,9 +33119,11 @@ giúp cho tâm_lý
 
 
 góp_phần ổn_định tỷ_giá vốn có mốt 
-biến_động thời_gian 
+biến_động 
+
 cuối_cùng
-xét về toàn thị_trường 
+xét 
+toàn thị_trường 
 không hẳn 
 rẻ
 
