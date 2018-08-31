@@ -21,8 +21,6 @@ def read_trained_data(file_trained_data):
     return vectors, word2int, int2word
 def train_model(batch_size_classifier):
     # batch_size_classifier = item["batch_size_classifier"]
-    summary = open("../../results/text_classification/ANN_ver5.csv",'a+')
-    summary.write("window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy\n")
     
     for window_size in window_sizes:
         for embedding_dim in embedding_dims:
