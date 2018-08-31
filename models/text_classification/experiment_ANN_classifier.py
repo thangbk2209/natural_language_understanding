@@ -31,7 +31,7 @@ def train_model(batch_size_classifier):
                 
                 vectors, word2int, int2word = read_trained_data(file_to_save_word2vec_data)
 
-                file_to_save_classified_data = '../../results/text_classification/ANN_ver5/ws-' + str(window_size) + '-embed-' + str(embedding_dim) + 'batch_size_w2c-' + str(batch_size_word2vec) + 'batch_size_cl' + str(batch_size_classifier)
+                file_to_save_classified_data = '../../results/text_classification/ANN_ver6/ws-' + str(window_size) + '-embed-' + str(embedding_dim) + 'batch_size_w2c-' + str(batch_size_word2vec) + 'batch_size_cl' + str(batch_size_classifier)
                 
                 classifier = Classifier(vectors, word2int, int2word, input_size, num_classes, window_size, 
                         epoch_classifier ,embedding_dim,batch_size_classifier, optimizer_method,
