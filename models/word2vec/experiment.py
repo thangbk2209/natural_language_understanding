@@ -10,9 +10,9 @@ def train_model(window_size, embedding_dim, batch_size_word2vec):
                         batch_size_word2vec = batch_size_word2vec, file_to_save_trained_data = file_to_save_trained_data)
     vectors, word2int, int2word = word2vec.train()
 window_size = 2
-epoch_word2vec = 500
+epoch_word2vec = 200
 embedding_dims = [50]
-batch_size_word2vecs = [4]
+batch_size_word2vecs = [16]
 # file_to_save_trained_datas = []
 # for window_size in window_sizes:
 #     for embedding_dim in embedding_dims:
