@@ -109,4 +109,4 @@ class PreprocessingDataClassifier:
        # test_x = x_train[i for i not in train_index]
        # test_y = y_train[i for i not in train_index ]
         
-        return train_x, train_y, test_x, test_y, int2intent,test_label, all_sentences
+        return train_x, train_y, test_x, test_y, int2intent,test_label, all_sentences, texts

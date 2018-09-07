@@ -1898,37 +1898,41 @@ xệp
                 elif(self.is_stop_word(word) == True):
                     # print (word)
                     file.write('\n')
-            # print (all_words)
-                    # print("word oc cho:",word,"word encode:",word.encode("utf-8"))
+            
             all_sentences_split.append(sentencei)
-            # all_words, all_sentences_split = self.replace_acronym(all_words, all_sentences_split, sentence)
-        # print ('all_words')
-        # print (all_words[:20])
-        # print ('all_sentences_split')
-        # print (all_sentences_split[:20])
-        # lol
+            
         all_words = set(all_words)
         all_words_final = []
         
-        # for word in all_words:
-        #     # if word not in symbol_arr:
-        #     all_words_final.append(word)
-            
-        # print (len(all_words))
         return all_words, all_sentences_split
     def separate_sentence (self):
+         # this file include financial symbols
+        symbol_arr = []
+        with open ('../../data/stockslist.txt',encoding = 'utf-8') as acro_file:
+            lines = acro_file.readlines()
+            for line in lines:
+                symboli = line.rstrip('\n').split(',')
+                symbol_arr.append(symboli[0].lower())
         self.data = self.execute_special_character(self.data)
+        sentences = self.data.split('\n')
+        new_sentences = []
         for sentence in sentences:
             part_of_sentence = sentence.split('  ')
+            
             for part in part_of_sentence:
+                # file.write(part + '\n')
                 new_sentences.append(part)
         all_words = []
         for sentence in new_sentences:
-            words = ViPosTagger.postagging(ViTokenizer.tokenize(sentence))[0]
+            words = ViPosTagger.postagging(ViTokenizer.tokenize(sentence))
+            words = self.tokenizer_tunning(words,1)
+            ssi = 'ssi'
             for i , word in enumerate(words):
                 if(self.is_stop_word(word) == False):
                     if word not in symbol_arr:
                         all_words.append(word)
+                    else:
+                        all_words.append(ssi)
         return all_words
     def tokenizer_tunning(self,tokens,type):
         if (type == 1):

@@ -47,7 +47,7 @@ class Classifier:
         preprocessing_data = PreprocessingDataClassifier(self.vectors, self.embedding_dim, self.input_size, self.word2int, self.int2word, file_data_classifier)
         # preprocessing_data = PreprocessingDataClassifier(self.vectors, self.embedding_dim, self.input_size,file_data_classifier)
         print ('----------------------start training -----------------------')
-        self.x_train, self.y_train, self.x_test, self.y_test, self.int2intent, self.test_label, self.all_sentences = preprocessing_data.preprocessing_data()
+        self.x_train, self.y_train, self.x_test, self.y_test, self.int2intent, self.test_label, self.all_sentences, self.texts = preprocessing_data.preprocessing_data()
         # Create graph
         tf.reset_default_graph()
         x = tf.placeholder(tf.float32, name="x", shape=(None, self.input_size, self.embedding_dim))
@@ -55,13 +55,13 @@ class Classifier:
         hidden_value1 = tf.layers.dense(input_classifier, 256, activation = tf.nn.relu, name="hidden1")
         # hidden_value2 = tf.layers.dense(hidden_value1, 64, activation = tf.nn.relu)
         prediction = tf.layers.dense(hidden_value1,self.num_classes, activation = tf.nn.softmax, name="prediction")
-        y_label = tf.placeholder(tf.float32, shape=(None, self.num_classes))
+        y_label = tf.placeholder(tf.float32, name="y_label", shape=(None, self.num_classes))
         # define the loss function:
         cross_entropy_loss = tf.reduce_mean(-tf.reduce_sum(y_label * tf.log(prediction), reduction_indices=[1]))
         
         #select optimizer method 
         if self.optimizer_method == self.OPTIMIZER_BY_GRADIENT:
-            optimizer = tf.train.GradientDescentOptimizer(0.1).minimize(cross_entropy_loss)
+            optimizer = tf.train.GradientDescentOptimizer(0.05).minimize(cross_entropy_loss,name='training_step')
         elif self.optimizer_method == self.OPTIMIZER_BY_SGD:
             a = 0
         elif self.optimizer_method == self.OPTIMIZER_BY_ADAM:
@@ -116,8 +116,11 @@ class Classifier:
             
             if(predict[i] == self.test_label[i]):
                 correct +=1
-            # print (y[i]+1,',',self.all_sentences[y[i]],',',self.test_label[i],',',predict[i])
-            fail_file.write(str(y[i]+1)+" ")
+            else:
+                print (y[i]+1,',',self.all_sentences[y[i]],',',self.test_label[i],',',predict[i])
+                fail_file.write(self.test_label[i] + ',' + self.texts[y[i]])
         accuracy = correct/len(self.test_label)
+        print ('correct: ',correct)
+        print ('test_label: ',len(self.test_label))
         print ("accuracy: ", accuracy)
         return accuracy, self.int2intent
