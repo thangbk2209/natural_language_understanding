@@ -1,3 +1,5 @@
+removed-------------
+nên
 rồi
 được
 bây_giờ
@@ -19,3 +21,7 @@ lại
 lúc
 này 
 sau
+add-----------------
+cho
+giúp
+hộ
