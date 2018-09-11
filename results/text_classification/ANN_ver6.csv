@@ -1,0 +1,185 @@
+
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,8,4,0.9317269076305221
+2,32,16,4,0.9397590361445783
+2,32,32,4,0.9437751004016064
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,8,8,0.9397590361445783
+2,32,16,8,0.9317269076305221
+2,32,32,8,0.9437751004016064
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,8,16,0.9357429718875502
+2,32,16,16,0.9317269076305221
+2,32,32,16,0.9477911646586346
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,8,32,0.9397590361445783
+2,32,16,32,0.9397590361445783
+2,32,32,32,0.9397590361445783
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,8,4,0.9357429718875502
+2,32,16,4,0.9397590361445783
+2,32,32,4,0.9477911646586346
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,8,8,0.927710843373494
+2,32,16,8,0.9317269076305221
+2,32,32,8,0.9357429718875502
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,8,16,0.9397590361445783
+2,32,16,16,0.927710843373494
+2,32,32,16,0.9397590361445783
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,8,32,0.9317269076305221
+2,32,16,32,0.9156626506024096
+2,32,32,32,0.9397590361445783
+==============================
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,8,4,0.927710843373494
+2,32,16,4,0.9357429718875502
+2,32,32,4,0.9317269076305221
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,8,8,0.927710843373494
+2,32,16,8,0.9357429718875502
+2,32,32,8,0.9357429718875502
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,8,16,0.9236947791164659
+2,32,16,16,0.9196787148594378
+2,32,32,16,0.9357429718875502
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,8,32,0.9357429718875502
+2,32,16,32,0.9236947791164659
+2,32,32,32,0.9357429718875502
+=============================
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,8,4,0.927710843373494
+2,32,16,4,0.9357429718875502
+2,32,32,4,0.9477911646586346
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,8,8,0.9437751004016064
+2,32,16,8,0.9196787148594378
+2,32,32,8,0.9357429718875502
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,8,16,0.9317269076305221
+2,32,16,16,0.9317269076305221
+2,32,32,16,0.9437751004016064
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,8,32,0.9357429718875502
+2,32,16,32,0.9317269076305221
+2,32,32,32,0.9357429718875502
+=====================window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,32,4,0.9477911646586346
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,32,4,0.9598393574297188
+=======================
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,32,4,0.948
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,32,4,0.932
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,32,4,0.9282868525896414
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,32,4,0.9282868525896414
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,32,4,0.9561752988047809
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,32,4,0.9442231075697212
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,32,4,0.9043824701195219
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,32,4,0.9163346613545816
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,32,4,0.9561752988047809
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,32,4,0.9482071713147411
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,32,4,0.9442231075697212
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,32,4,0.952191235059761
+===========================
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,4,4,0.944
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,4,4,0.9243027888446215
+2,32,8,4,0.9482071713147411
+2,32,16,4,0.9282868525896414
+2,32,32,4,0.9482071713147411
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,4,8,0.9243027888446215
+2,32,8,8,0.9402390438247012
+2,32,16,8,0.9442231075697212
+2,32,32,8,0.9362549800796812
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,32,4,16,0.9083665338645418
+2,32,8,16,0.9482071713147411
+2,32,16,16,0.9203187250996016
+2,32,32,16,0.9282868525896414
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,50,4,4,0.9442231075697212
+2,50,8,4,0.9482071713147411
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,50,4,8,0.9482071713147411
+2,50,8,8,0.9561752988047809
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,50,4,16,0.952191235059761
+2,50,8,16,0.9442231075697212
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,50,8,8,0.9442231075697212
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,50,8,8,0.9482071713147411
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,50,8,8,0.9402390438247012
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,50,8,8,0.952191235059761
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,50,8,8,0.9601593625498008
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,50,8,8,0.9442231075697212
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,50,8,8,0.952191235059761
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,50,8,8,0.952191235059761
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,50,8,8,0.952191235059761
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,50,8,8,0.896414342629482
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,50,8,8,0.9561752988047809
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,50,8,8,0.9442231075697212
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,50,8,8,0.9482071713147411
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,50,8,8,0.9482071713147411
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,50,8,8,0.9561752988047809
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,50,8,8,0.9561752988047809
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,50,8,8,0.952191235059761
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,50,8,8,0.9482071713147411
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,50,8,8,0.9442231075697212
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,50,8,8,0.9442231075697212
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,50,8,8,0.9561752988047809
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,50,8,8,0.9482071713147411
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,50,8,8,0.9482071713147411
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,50,8,8,0.952191235059761
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,50,8,8,1.0
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,50,8,8,0.952755905511811
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+2,50,8,8,1.0

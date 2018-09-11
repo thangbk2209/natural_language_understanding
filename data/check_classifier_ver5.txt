@@ -251,14 +251,6 @@ trade,tôi muốn thực hiện giao dịch bán SSI giá 11
 trade,tôi muốn thực hiện giao dịch mua 100 SSI giá 11
 trade,tôi muốn thực hiện giao dịch bán 1000 SSI giá 10.5
 trade,tôi muốn thực hiện giao dịch mua bán SSI
-trade,thực hiện mua 600 cổ ssi giá 25.9
-trade,thực hiện bán 600 cổ ssi
-trade,thực hiện giao dịch mua 600 cổ ssi giá 13.2
-trade,thực hiện giao dịch bán 600 cổ ssi
-trade,thực hiện mua 600 ssi
-trade,thực hiện bán 600 ssi giá 12.4
-trade,thực hiện giao dịch mua 600 ssi giá 12.5
-trade,thực hiện giao dịch bán 600 cổ ssi giá 12.6
 trade,tôi muốn tiến hành giao dịch SSI
 trade,tôi muốn tiến hành giao dịch mã SSI
 trade,tôi muốn tiến hành giao dịch cổ phiếu SSI
@@ -310,7 +302,7 @@ market,thanh khoản có đột biến không?
 market,thanh khoản hiện đang thế nào?
 market,thanh khoản ssi hiện đang thế nào?
 market,thị trường hiện đang ra sao
-market,mã ssi hiện đang ra sao
+market,mã acb hiện đang ra sao
 market,mã ssi hiện đang thế nào
 market,giá cổ phiếu SSI như thế nào?
 market,mã SSI hôm nay có ổn không?
@@ -495,11 +487,8 @@ market,tin tức cổ phiếu SSI hôm nay
 market,tin nhanh về mã SSI
 market,xem giá khớp lệnh của cổ phiếu SSI
 market,xem giá khớp lệnh của mã chứng khoán SSI
-market,xem giá khớp lệnh của cổ phiếu SSI
-market,xem giá khớp lệnh của mã chứng khoán SSI
 market,xem giá mở cửa mã acb
 market,hiển thị giá mở cửa ssi
-market,sáng nay giá mở cửa SSI bao nhiêu nhỉ
 market,sáng nay giá mở cửa SSI bao nhiêu nhỉ
 market,cho tôi xem thông tin về SSI
 market,SSI lên xuống thế nào
@@ -845,7 +834,6 @@ cash_balance,xem dư tiền tài khoản
 cash_balance,xem dư nợ tài khoản
 cash_balance,xem số tiền dư bao nhiêu
 cash_balance,xem số dư tiền bao nhiêu
-cash_balance,tài khoản còn bao nhiêu tiền
 cash_balance,tài khoản còn bao nhiêu tiền
 cash_balance,xem tài khoản dư bao nhiêu tiền
 cash_balance,xem tài khoản tiền dư bao nhiêu
@@ -1284,7 +1272,6 @@ end,chào nhé
 end,chào bạn nhé
 end,kết thúc
 cancel,huỷ
-cancel,huỷ
 cancel,bỏ qua
 cancel,bỏ đi
 cancel,về lại chức năng chính
@@ -1425,8 +1412,6 @@ cancel,làm lại ngay
 cancel,đi tới trang chủ
 cancel,dừng đặt lệnh ngay
 cancel,tôi muốn dừng đặt lệnh
-cancel,tôi muốn dừng đặt lệnh
-cancel,tôi muốn dừng khớp lệnh
 cancel,tôi muốn dừng khớp lệnh
 cancel,hủy đặt lệnh cho tôi
 cancel,hủy đặt lệnh giúp tôi với

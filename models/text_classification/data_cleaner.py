@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/in/env python
 # coding: utf8
 from __future__ import unicode_literals
 from pandas import read_csv
@@ -74,7 +74,6 @@ bán_dạ
 bán_thế
 bây_bẩy
 bây_chừ
-bây_giờ
 bây_nhiêu
 bèn
 béng
@@ -567,7 +566,6 @@ là_phải
 là_thế_nào
 là_vì
 là_ít
-làm
 làm_bằng
 làm_cho
 làm_dần_dần
@@ -601,22 +599,18 @@ lên_số
 lên_đến
 lòng
 lòng_không
-lúc
 lúc_khác
 lúc_lâu
 lúc_nào
-lúc_này
 lúc_sáng
 lúc_trước
 lúc_đi
 lúc_đó
 lúc_đến
 lúc_ấy
-lượng
 lượng_cả
 lượng_số
 lượng_từ
-lại
 lại_bộ
 lại_cái
 lại_còn
@@ -731,7 +725,6 @@ nghe_đâu_như
 nghe_được
 nghen
 nghiễm_nhiên
-nghĩ
 nghĩ_lại
 nghĩ_ra
 nghĩ_tới
@@ -876,14 +869,12 @@ những_là
 những_lúc
 những_muốn
 những_như
-nào
 nào_cũng
 nào_hay
 nào_là
 nào_phải
 nào_đâu
 nào_đó
-này
 này_nọ
 nên_chi
 nên_chăng
@@ -1007,9 +998,7 @@ qua_tay
 qua_thì
 qua_đi
 quan_trọng_vấn_đề
-quay
 quay_bước
-quay_lại
 quay_số
 quay_đi
 quá
@@ -1069,7 +1058,6 @@ rằng
 rằng_là
 rốt_cuộc
 rốt_cục
-rồi
 rồi_nữa
 rồi_ra
 rồi_sao
@@ -1090,7 +1078,6 @@ sao_bằng
 sao_cho
 sao_vậy
 sao_đang
-sau
 sau_chót
 sau_cuối
 sau_cùng
@@ -1182,7 +1169,6 @@ thêm
 thêm_chuyện
 thêm_giờ
 thêm_vào
-thì
 thì_giờ
 thì_là
 thì_phải
@@ -1258,10 +1244,8 @@ thốt_nhiên
 thốt_nói
 thốt_thôi
 thộc
-thời_gian
 thời_gian_sử_dụng
 thời_gian_tính
-thời_điểm
 thục_mạng
 thứ
 thứ_bản
@@ -1505,7 +1489,6 @@ vậy_nên
 vậy_ra
 vậy_thì
 vậy_ư
-về
 về_không
 về_nước
 về_phần
@@ -1674,7 +1657,6 @@ xệp
 đưa_về
 đưa_xuống
 đưa_đến
-được
 được_cái
 được_lời
 được_nước
@@ -1695,7 +1677,6 @@ xệp
 đặt_ra
 đặt_trước
 đặt_để
-đến
 đến_bao_giờ
 đến_cùng
 đến_cùng_cực
@@ -1800,10 +1781,6 @@ xệp
     output: document was replaced special characters
     """
     def execute_special_character(self, text):
-        text = regex.sub(' vn-index ', ' vnindex ', text)
-        text = regex.sub('vn-index ', 'vnindex ', text)
-        text = regex.sub(' vn-index', ' vnindex', text)
-        text = regex.sub(' cp ', ' cổ phiếu ', text)
         # use regular expression to replace special characer and acronym
         text = regex.sub("(?s)<ref>.+?</ref>", "", text) # remove reference links
         text = regex.sub("(?s)<[^>]+>", "", text) # remove html tags
@@ -1829,20 +1806,28 @@ xệp
             lines = acro_file.readlines()
             for line in lines:
                 symboli = line.rstrip('\n').split(',')
-                symbol_arr.append( ' ' +symboli[0].lower() + ' ')
-                # symbol_arr.append(' '+ symboli[0].lower())
-                # symbol_arr.append(symboli[0].lower() +' ')
+                symbol_arr.append(symboli[0].lower())
         # this file include acronym words
         acronym_arr = []
-        with open ('../../data/acronym.txt',encoding = 'utf-8') as acro_file:
+        acronym2_arr = []
+        with open ('../../data/acronym_3characters.txt',encoding = 'utf-8') as acro_file:
             lines = acro_file.readlines()
             for line in lines:
                 acroi = line.rstrip('\n').split(',')
                 acronym_arr.append(acroi)
+        # with open ('../../data/acronym_2characters.txt',encoding = 'utf-8') as acro_file:
+        #     lines = acro_file.readlines()
+        #     for line in lines:
+        #         acroi = line.rstrip('\n').split(',')
+        #         acronym2_arr.append(acroi)
+        # replace all acronym with 3 characters
         for i in range(len(acronym_arr)):
-            text = regex.sub(r'%s' % acronym_arr[i][0], r'%s' % acronym_arr[i][1], text)
-        for i in range(len(symbol_arr)):
-            text = regex.sub(r'%s' % symbol_arr[i], '  ', text)
+            text = re.sub(r'\A%s\s' % acronym_arr[i][0], r' %s ' % acronym_arr[i][1], text)
+            text = re.sub(r'\s%s\Z' % acronym_arr[i][0], r' %s ' % acronym_arr[i][1], text)
+            text = re.sub(r'\s%s\s' % acronym_arr[i][0], r' %s ' % acronym_arr[i][1], text)
+            text = re.sub(r'\s%s\W' % acronym_arr[i][0], r' %s ' % acronym_arr[i][1], text)
+        # for i in range(len(symbol_arr)):
+        #     text = regex.sub(r'%s' % symbol_arr[i], 'ssi', text)
         return text
     
     """
@@ -1852,8 +1837,25 @@ xệp
     output: corpus and sentence was cleaned
     """
     def clean_content(self):
+        # this file include financial symbols
+        symbol_arr = []
+        acronym2_arr = []
+        with open ('../../data/stockslist.txt',encoding = 'utf-8') as acro_file:
+            lines = acro_file.readlines()
+            for line in lines:
+                symboli = line.rstrip('\n').split(',')
+                symbol_arr.append(symboli[0].lower())
+        with open ('../../data/acronym_2characters.txt',encoding = 'utf-8') as acro_file:
+            lines = acro_file.readlines()
+            for line in lines:
+                acroi = line.rstrip('\n').split(',')
+                acronym2_arr.append(acroi)
         # acronym word
+        print("----------------------before-----")
+        print("before data",self.data)
+        print("---------------------after")
         self.data = self.execute_special_character(self.data)
+        # print("after data",self.data)
         sentences = self.data.split('\n')
         new_sentences = []
         for sentence in sentences:
@@ -1866,41 +1868,43 @@ xệp
         all_words = []
         all_sentences_split = []
         for sentence in new_sentences:
-            words = ViPosTagger.postagging(ViTokenizer.tokenize(sentence))[0]
+            words = ViPosTagger.postagging(ViTokenizer.tokenize(sentence))
             # file.write('\n')
+            words = self.tokenizer_tunning(words,1)
+            # print (words)
+            # lol1875
+            ssi = 'ssi'
             sentencei = []
             for i , word in enumerate(words):
                 if(self.is_stop_word(word) == False):
-                    all_words.append(word)
-                    sentencei.append(word)
-                    
-                    # print (i)
-                    if (i == len(words)-1):
-                        file.write(word + '\n')
+                    if word not in symbol_arr:
+                        # print (word)
+                        all_words.append(word)
+                        sentencei.append(word)
+                        # print (type(word))
+                        # print (i)
+                        if (i == len(words)-1):
+                            file.write(word + '\n')
+                        else:
+                            file.write(word + ' ')
                     else:
-                        file.write(word + ' ')
+                        # print (word)
+                        all_words.append(ssi)
+                        sentencei.append(ssi)
+                        if (i == len(words)-1):
+                            file.write(ssi + '\n')
+                        else:
+                            file.write(ssi + ' ')
+                elif(self.is_stop_word(word) == True):
+                    # print (word)
+                    file.write('\n')
+            
             all_sentences_split.append(sentencei)
-            # all_words, all_sentences_split = self.replace_acronym(all_words, all_sentences_split, sentence)
-        # print ('all_words')
-        # print (all_words[:20])
-        # print ('all_sentences_split')
-        # print (all_sentences_split[:20])
-        # lol
+            
         all_words = set(all_words)
         all_words_final = []
-        # this file include financial symbols
-        symbol_arr = []
-        with open ('../../data/stockslist.txt',encoding = 'utf-8') as acro_file:
-            lines = acro_file.readlines()
-            for line in lines:
-                symboli = line.rstrip('\n').split(',')
-                symbol_arr.append(symboli[0].lower())
-        for word in all_words:
-            if word not in symbol_arr:
-                all_words_final.append(word)
-            
-        # print (len(all_words))
-        return all_words_final, all_sentences_split
+        
+        return all_words, all_sentences_split
     def separate_sentence (self):
          # this file include financial symbols
         symbol_arr = []
@@ -1920,9 +1924,70 @@ xệp
                 new_sentences.append(part)
         all_words = []
         for sentence in new_sentences:
-            words = ViPosTagger.postagging(ViTokenizer.tokenize(sentence))[0]
+            words = ViPosTagger.postagging(ViTokenizer.tokenize(sentence))
+            words = self.tokenizer_tunning(words,1)
+            ssi = 'ssi'
             for i , word in enumerate(words):
                 if(self.is_stop_word(word) == False):
                     if word not in symbol_arr:
                         all_words.append(word)
+                    else:
+                        all_words.append(ssi)
         return all_words
+    def tokenizer_tunning(self,tokens,type):
+        if (type == 1):
+            symbol_arr = []
+            with open ('../../data/stockslist.txt',encoding = 'utf-8') as acro_file:
+                lines = acro_file.readlines()
+                for line in lines:
+                    symboli = line.rstrip('\n').split(',')
+                    symbol_arr.append(symboli[0].lower())
+            # print (symbol_arr[0])
+            new_tokens = []
+            for i in range(len(tokens[0])):
+                if re.search("_dư",tokens[0][i]):
+                    # print (tokens[0][i])
+                    sym,word = tokens[0][i].split("_",1) 
+                    # nếu trước _dư là symbol thì tách, không thì ko làm gì cả
+                    if sym in symbol_arr:
+                        # print ('true')số_dư_chứng_khoán
+                        new_tokens.append('ssi')
+                        new_tokens.append(word)
+                    else:
+                        new_tokens.append(tokens[0][i])
+                elif re.search("mã_",tokens[0][i]):
+                    word,sym = tokens[0][i].split("_",1)
+                    if sym == "cổ_phiếu" or sym == "chứng_khoán":
+                        new_tokens.append(word) #them chu 'ma' vao 
+                        new_tokens.append(sym) #them chu 'co_phieu' vao
+                    else:#sau ma la ma co phieu : ma_ssi
+                        new_tokens.append(word) #them chu 'ma' vao 
+                        # print (sym)
+                        if sym in symbol_arr:
+                            # print ('true')
+                            new_tokens.append('ssi') #them chu 'ssi' vao
+                        # new_tokens.append(sym) 
+                        
+                else:
+                    new_tokens.append(tokens[0][i])
+        else:
+            new_tokens = []
+            for i in range(len(tokens[0])):
+                if re.search("_dư",tokens[0][i]):
+                    sym,word = tokens[0][i].split("_") 
+                    new_tokens.append(sym)
+                    new_tokens.append(word)
+                    
+                elif re.search("mã_",tokens[0][i]):
+                    word,sym = tokens[0][i].split("_",1)
+                    if sym == "cổ_phiếu" or sym == "chứng_khoán":
+                        new_tokens.append(word) #them chu 'ma' vao 
+                        new_tokens.append(sym) #them chu 'co_phieu' vao
+                        
+                    else:#sau ma la ma co phieu : ma_ssi
+                        new_tokens.append(word) #them chu 'ma' vao 
+                        new_tokens.append(sym) #them chu 'ssi' vao
+                        
+                else:
+                    new_tokens.append(tokens[0][i])      
+        return new_tokens

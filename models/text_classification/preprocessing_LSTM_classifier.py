@@ -53,7 +53,6 @@ class PreprocessingDataClassifier:
         for index,intent in enumerate(intents_filter):
             intent2int[intent] = index
             int2intent[index] = intent 
-        # print (int2intent)
         for i, sentence in enumerate(texts):
             # print (i)
             data_cleaner = DataCleaner(sentence)
@@ -87,11 +86,12 @@ class PreprocessingDataClassifier:
         # train_x = x_train
         # train_y = y_train 
         for i in train_index:
+            # print (i)
             train_x.append(x_train[i])
             train_y.append(y_train[i])
             
         for i in range(data_classifier_size):
-            # print (i)
+            
             if i not in train_index:
                 test_label.append(intents[i])
                 test_x.append(x_train[i])

@@ -1,0 +1,11 @@
+trade,giao dịch mua SSI
+trade,giao dịch mua SSI giá 10.5
+trade,giao dịch bán SSI
+trade,giao dịch mua SSI
+trade,tôi muốn giao dịch mua SSI
+trade,tôi muốn giao dịch mua SSI giá 12
+trade,tôi muốn giao dịch bán SSI
+trade,tôi muốn giao dịch bán SSI giá 11
+trade,mua 100 SSI giá 10.5
+trade,mua 1000 SSI giá 12
+trade,giao dịch m
