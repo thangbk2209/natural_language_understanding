@@ -48,10 +48,15 @@ class Classifier:
         # preprocessing_data = PreprocessingDataClassifier(self.vectors, self.embedding_dim, self.input_size,file_data_classifier)
         print ('----------------------start training -----------------------')
         self.x_train, self.y_train, self.x_test, self.y_test, self.int2intent, self.test_label, self.all_sentences, self.texts = preprocessing_data.preprocessing_data()
+        print("x_train",self.x_train[0])
+        print("int2intent",self.int2intent[0])
+       # print("intent2int",self.int2intent[0])
         # Create graph
         tf.reset_default_graph()
         x = tf.placeholder(tf.float32, name="x", shape=(None, self.input_size, self.embedding_dim))
+        
         input_classifier = tf.reshape(x,[tf.shape(x)[0], self.input_size * self.embedding_dim])
+        print("input classifier",input_classifier)
         hidden_value1 = tf.layers.dense(input_classifier, 256, activation = tf.nn.relu, name="hidden1")
         # hidden_value2 = tf.layers.dense(hidden_value1, 64, activation = tf.nn.relu)
         prediction = tf.layers.dense(hidden_value1,self.num_classes, activation = tf.nn.softmax, name="prediction")

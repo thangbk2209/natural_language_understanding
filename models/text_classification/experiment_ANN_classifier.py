@@ -47,7 +47,7 @@ input_size = 16
 num_classes = 8
 epoch_classifier = 200
 
-file_data_classifier = '../../data/text_classifier_ver4.txt'
+file_data_classifier = '../../data/text_classifier_ver5.txt'
 # file_to_save_classified_data = "test.pkl"
 optimizer_method = OPTIMIZER_BY_GRADIENT
 batch_size_classifiers = [8]

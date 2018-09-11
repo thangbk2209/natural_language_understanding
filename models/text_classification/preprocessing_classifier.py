@@ -90,6 +90,7 @@ class PreprocessingDataClassifier:
         # train_x = x_train
         # train_y = y_train 
         for i in train_index:
+            print (i)
             train_x.append(x_train[i])
             train_y.append(y_train[i])
             

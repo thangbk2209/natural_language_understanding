@@ -192,6 +192,29 @@ trade,tôi muốn đặt mua cổ ssi số lượng 20 giá 21
 trade,tôi cần đặt mua 120 cổ ssi giá 12.5
 trade,tôi cần bán 120 cổ ssi giá 12.4
 trade,tôi cần bán 120 cổ phiếu ssi giá 11.2
+trade,giao dịch mua SSI
+trade,giao dịch mua SSI giá 10.5
+trade,giao dịch bán SSI
+trade,giao dịch mua SSI
+trade,tôi muốn giao dịch mua SSI
+trade,tôi muốn giao dịch mua SSI giá 12
+trade,tôi muốn giao dịch bán SSI
+trade,tôi muốn giao dịch bán SSI giá 11
+trade,mua 100 SSI giá 10.5
+trade,mua 1000 SSI giá 12
+trade,bán 120 SSI giá 11
+trade,bán 200 SSI giá 12
+trade,giao dịch mua SSI giá 12.5
+trade,giao dịch bán SSI giá 11
+trade,tôi muốn mua SSI giá 12
+trade,tôi muốn bán SSI giá 20
+trade,tôi muốn mua 100 SSI giá 10
+trade,tôi muốn bán 100 SSI giá 12
+trade,múc 100 SSI giá 11
+trade,múc 120 mã SSI giá 21
+trade,múc 1000 cổ phiếu SSI giá 10
+trade,múc 120 cổ SSI giá 10.1
+trade,múc SSI giá 12
 market,thị trường hôm nay thế nào rồi
 market,thị trường thế nào
 market,thị trường hiện đang thế nào
@@ -656,6 +679,22 @@ stock_balance,xem cho tôi trạng thái cổ phiếu SSI còn dư
 stock_balance,xem cho tôi trạng thái cổ phiếu SSI còn lại
 stock_balance,xem cho tôi trạng thái chứng khoán SSI
 stock_balance,xem cho tôi trạng thái đầu tư cổ phiếu SSI
+stock_balance,tài khoản còn nhiều cổ chứ
+stock_balance,tài khoản của tôi còn nhiều cổ chứ
+stock_balance,tôi đang sở hữu bao nhiêu cổ
+stock_balance,tài khoản của tôi đang sở hữu bao nhiêu cổ
+stock_balance,số cổ tôi có trong tài khoản
+stock_balance,có còn nhiều cổ trong tài khoản của tôi chứ
+stock_balance,tôi còn bao nhiêu cổ trong tài khoản
+stock_balance,tôi đang nắm giữ bao nhiêu cổ
+stock_balance,trong tài khoản còn bao nhiêu cổ
+stock_balance,số cổ trong tài khoản
+stock_balance,số cổ còn lại trong tài khoản của tôi
+stock_balance,có bao nhiêu cổ trong tài khoản
+stock_balance,số cổ tôi đang nắm giữ
+stock_balance,tôi sở hữu bao nhiêu cổ
+stock_balance,tôi nắm giữ bao nhiêu cổ
+stock_balance,còn bao nhiêu cổ trong tài khoản của tôi
 cash_balance,kiểm tra số tiền còn lại
 cash_balance,tôi còn nhiều tiền không?
 cash_balance,tài khoản đuôi 1 của tôi còn bao nhiêu tiền?
@@ -955,6 +994,35 @@ advice,bạn nghĩ cổ phiếu SSI hôm nay thế nào?
 advice,ý kiến của bạn về cổ phiếu SSI hôm nay?
 advice,bạn nghĩ thế nào về mã SSI hôm nay?
 advice,bạn nghĩ mã SSI hôm nay sẽ thế nào?
+advice,rủi ro khi đầu tư vào SSI
+advice,nếu thị trường đang xuống, có đáng mua vào SSI
+advice,tôi có nên nắm giữ SSI không
+advice,tôi có nên nắm giữ mã SSI không
+advice,tôi có nên nắm giữ cổ phiếu SSI không
+advice,có nhiều rủi ro khi đầu tư vào SSI không
+advice,có rủi ro không khi đầu tư vào SSI không
+advice,rủi ro nào khi đầu tư vào SSI
+advice,đầu tư vào SSI có rủi ro không
+advice,nếu đầu tư vào SSI sẽ có rủi ro chứ
+advice,có đáng đầu tư SSI lúc này
+advice,với biến động của thị trường, có đáng đầu tư vào SSI
+advice,có đáng sở hữu SSI lúc này không
+advice,có đáng để nắm giữ SSI không
+advice,có đáng để nắm giữ cổ phiếu SSI không
+advice,có đáng để nắm giữ mã SSI không
+advice,có nên nắm giữ SSI lúc này không
+advice,tôi nên nắm giữ SSI không
+advice,tôi nên nắm giữ mã SSI không
+advice,tôi nên nắm giữ cổ phiếu SSI không
+advice,nên nắm giữ cp SSI chứ
+advice,có nên nắm giữ mã SSI lúc này
+advice,có nên nắm giữ cổ phiếu SSI lúc này
+advice,nên múc SSI lúc này không
+advice,có nên múc SSI vào lúc này không
+advice,có nên múc SSI giá 10 không
+advice,tôi có nên múc SSI giá 11 không
+advice,tôi nên múc mã SSI giá 10 không
+advice,nên múc cổ phiếu SSI lúc này chứ
 order_status,đã khớp lệnh mã SSI chưa
 order_status,trạng thái lệnh cổ phiếu SSI
 order_status,tình trạng chờ xử lý giao dịch của tôi
