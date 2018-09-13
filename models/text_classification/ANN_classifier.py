@@ -48,6 +48,7 @@ class Classifier:
         # preprocessing_data = PreprocessingDataClassifier(self.vectors, self.embedding_dim, self.input_size,file_data_classifier)
         print ('----------------------start training -----------------------')
         self.x_train, self.y_train, self.x_test, self.y_test, self.int2intent, self.test_label, self.all_sentences, self.texts = preprocessing_data.preprocessing_data()
+        print("x_train--------------------",self.y_train[0])
         # Create graph
         tf.reset_default_graph()
         x = tf.placeholder(tf.float32, name="x", shape=(None, self.input_size, self.embedding_dim))
@@ -78,10 +79,11 @@ class Classifier:
             avg_loss = 0
             for j in range(total_batch):
                 batch_x_train, batch_y_train = self.x_train[j*self.batch_size_classifier:(j+1)*self.batch_size_classifier], self.y_train[j*self.batch_size_classifier:(j+1)*self.batch_size_classifier]
-                # print (batch_x_train)
-                # print (batch_y_train)
+                # print ("X_TRAIN",batch_x_train[0])
+                # print ("y_TRAIN",batch_y_train[0])
                 sess.run(optimizer, feed_dict={x: batch_x_train, y_label: batch_y_train})
                 loss = sess.run(cross_entropy_loss, feed_dict={x: batch_x_train, y_label: batch_y_train})/total_batch
+
                 avg_loss += loss
             loss_set.append(avg_loss)
             print ('epoch: ', _ + 1)
@@ -96,7 +98,7 @@ class Classifier:
     def train(self, file_data_classifier):
         print ('-------------------file_data_classifier----------------')
         # print (file_data_classifier)
-        prediction = self.classify(file_data_classifier)
+        prediction = self.classify_only_softmax(file_data_classifier)
         predict = []
         for i in range(len(prediction)):
             predict.append(self.int2intent[np.argmax(prediction[i])])
@@ -108,7 +110,7 @@ class Classifier:
             temp = line.split(" ")
             train_index = [int(i) for i in temp]
             y = []
-        for i in range(1430):
+        for i in range(1519):
             # print (i)
             if i not in train_index:
                 y.append(i)
@@ -124,3 +126,54 @@ class Classifier:
         print ('test_label: ',len(self.test_label))
         print ("accuracy: ", accuracy)
         return accuracy, self.int2intent
+    def classify_only_softmax(self, file_data_classifier):
+        # Preprocessing data
+        print ('------------------start preprocessing data ------------------')
+        preprocessing_data = PreprocessingDataClassifier(self.vectors, self.embedding_dim, self.input_size, self.word2int, self.int2word, file_data_classifier)
+        # preprocessing_data = PreprocessingDataClassifier(self.vectors, self.embedding_dim, self.input_size,file_data_classifier)
+        print ('----------------------start training -----------------------')
+        self.x_train, self.y_train, self.x_test, self.y_test, self.int2intent, self.test_label, self.all_sentences, self.texts = preprocessing_data.preprocessing_data()
+        print("x_train--------------------",self.y_train[0])
+        # Create graph
+        tf.reset_default_graph()
+        x = tf.placeholder(tf.float32, name="x", shape=(None, self.input_size, self.embedding_dim))
+        input_classifier = tf.reshape(x,[tf.shape(x)[0], self.input_size * self.embedding_dim])
+       # hidden_value1 = tf.layers.dense(input_classifier, 1024, activation = tf.nn.relu, name="hidden1")
+        # hidden_value2 = tf.layers.dense(hidden_value1, 64, activation = tf.nn.sigmoid)
+        prediction = tf.layers.dense(input_classifier,self.num_classes, activation = tf.nn.softmax, name="prediction")
+        y_label = tf.placeholder(tf.float32, name="y_label", shape=(None, self.num_classes))
+        # define the loss function:
+        cross_entropy_loss = tf.reduce_mean(-tf.reduce_sum(y_label * tf.log(prediction), reduction_indices=[1]))
+        
+        #select optimizer method 
+        if self.optimizer_method == self.OPTIMIZER_BY_GRADIENT:
+            optimizer = tf.train.GradientDescentOptimizer(0.05).minimize(cross_entropy_loss,name='training_step')
+        elif self.optimizer_method == self.OPTIMIZER_BY_SGD:
+            a = 0
+        elif self.optimizer_method == self.OPTIMIZER_BY_ADAM:
+            optimizer = tf.train.AdamOptimizer(0.05).minimize(cross_entropy_loss)
+        sess = tf.Session()
+        init = tf.global_variables_initializer()
+        # Add ops to save and restore all the variables.
+        saver = tf.train.Saver()
+        sess.run(init) #make sure you do this!
+        # train for n_iter iterations
+        total_batch = int(len(self.x_train)/ self.batch_size_classifier)
+        loss_set = []
+        for _ in range(self.epoch_classifier):
+            avg_loss = 0
+            for j in range(total_batch):
+                batch_x_train, batch_y_train = self.x_train[j*self.batch_size_classifier:(j+1)*self.batch_size_classifier], self.y_train[j*self.batch_size_classifier:(j+1)*self.batch_size_classifier]
+                # print ("X_TRAIN",batch_x_train[0])
+                # print ("y_TRAIN",batch_y_train[0])
+                sess.run(optimizer, feed_dict={x: batch_x_train, y_label: batch_y_train})
+                loss = sess.run(cross_entropy_loss, feed_dict={x: batch_x_train, y_label: batch_y_train})/total_batch
+
+                avg_loss += loss
+            loss_set.append(avg_loss)
+            print ('epoch: ', _ + 1)
+            print('loss is : ',avg_loss)
+            print("finished training classification phrase!!!")
+        prediction = sess.run(prediction, feed_dict={x: self.x_test})
+        save_path = saver.save(sess, self.file_to_save_classified_data)
+        return prediction

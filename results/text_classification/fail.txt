@@ -1,1 +1,293 @@
-1 4 5 19 23 24 27 28 38 39 40 44 48 51 54 57 58 61 63 67 72 75 77 81 99 100 101 108 110 111 115 118 119 120 124 135 142 152 154 159 162 164 166 175 179 186 193 196 200 209 210 213 219 223 232 243 252 254 262 263 266 271 272 275 280 281 291 292 309 336 338 341 358 361 366 368 370 373 385 402 413 415 416 425 443 452 462 464 469 472 474 482 484 488 492 495 496 499 515 516 517 540 545 548 551 556 571 580 581 584 589 593 594 597 599 605 614 625 631 632 633 637 640 642 651 652 660 665 667 673 675 679 683 685 690 691 696 697 699 704 706 715 729 731 739 740 743 748 759 773 776 788 789 790 792 794 796 797 802 808 809 813 815 817 821 827 835 836 847 848 852 872 874 878 879 880 882 883 884 886 891 892 895 899 901 912 919 921 932 937 938 940 943 944 945 946 958 961 968 969 976 982 986 987 1000 1015 1026 1033 1037 1053 1057 1065 1070 1071 1078 1083 1088 1094 1102 1113 1117 1129 1139 1144 1147 1156 1170 1171 1175 1190 1191 1194 1196 1212 1213 1214 1217 1223 1224 1225 1227 1238 1243 1245 1252 1253 1254 1258 1265 1277 1281 1284 1285 1299 1302 1304 1310 1311 1313 1325 1328 1331 1333 1337 1340 1342 1352 1360 1364 1365 1366 1376 1377 1378 1379 1390 1391 1394 1396 1397 1399 1400 1404 1414 1420 1425 1426 
+trade,mua mã chứng khoán ssi
+trade,bán ra mã ssi
+trade,mua vào ssi
+trade,mua thêm 100 ssi giá 10
+trade,mua thêm 100 mã cổ phiếu ssi với giá 21
+trade,mua thêm 100 ssi giá 10
+trade,mua cho tôi mã cổ phiếu ssi với giá 32.5 và khối lượng 150
+trade,mua cho tôi mã cổ phiếu ssi với khối lượng 200 và giá 25.5
+trade,mua cho tôi 800 mã cổ phiếu ssi với giá 34,1
+trade,mua mã cổ phiếu ssi giá 26
+trade,mua thêm 660 cổ phiếu ssi giá 45.7
+trade,mua cho tôi mã cổ phiếu ssi với khối lượng 750 giá 65.5
+trade,mua mã cổ phiếu ssi giá 14.8 với khối lượng 760
+trade,mua mã chứng khoán ssi với khối lượng 460 giá 34
+trade,mua cho tôi mã chứng khoán ssi giá 45
+trade,bán 100 cổ giá 21 mã ssi
+trade,bán 100 cổ ssi giá 21.4
+trade,bán hết cổ phiếu ssi với giá 13.3
+trade,bán mã cổ phiếu ssi với giá 25.5 và khối lượng 70 cổ phiếu
+trade,bán mã chứng khoán ssi với giá 27 và khối lượng 130
+trade,bán hết mã chứng khoán ssi với giá 23.6
+trade,bán cho tôi mã chứng khoán ssi với giá 23.5 và khối lượng 1000
+trade,bán cho tôi mã cổ phiếu ssi với khối lượng 160 và giá 23
+trade,bán 550 mã cổ phiếu ssi giá 150
+trade,thoát hàng mã ssi
+trade,thoát hàng ssi
+trade,thoát toàn bộ hàng mã ssi
+trade,xả ra mã cổ phiếu ssi
+trade,xả ra toàn bộ ssi
+trade,xả ra toàn bộ mã ssi
+trade,tôi muốn giao dịch mua cổ phiếu ssi với giá 15.5 và khối lượng 210 cổ phiếu
+trade,tôi muốn giao dịch bán 100 ssi giá 10
+trade,tôi muốn giao dịch ssi với khối lượng 100 và giá 12
+trade,tôi muốn giao dịch mua 900 cổ phiếu ssi với giá 15.5
+trade,tôi muốn giao dịch mua mã cổ phiếu ssi với giá 13.9 và khối lượng 200
+trade,tôi muốn giao dịch mua cổ phiếu ssi với khối lượng 450 giá 25
+trade,tôi muốn giao dịch bán mã cổ phiếu ssi giá 34 với khối lượng 2000
+trade,đầu tư 10 triệu vào mã ssi
+trade,đầu tư 100 ssi giá 12
+trade,tôi muốn đầu tư 12 triệu vào mã acb với giá 12.6
+trade,lấy thêm cổ phiếu ssi với khối lượng 50 cổ phiếu và giá 23.5
+trade,lấy thêm mã cổ phiếu ssi với khối lượng 130 và giá 23.4
+trade,lấy thêm 320 cổ phiếu ssi giá 32.1
+trade,tôi muốn đặt lệnh bán 900 cổ phiếu ssi với giá 25.7
+trade,tôi muốn đặt lệnh mua mã cổ phiếu ssi với khối lượng 150 và giá 41
+trade,tôi muốn đặt lệnh bán mã chứng khoán ssi với khối lượng 450 và giá 26.8
+trade,tôi muốn đặt lệnh bán 1300 cổ phiếu ssi giá 50.8
+trade,tôi muốn đặt lệnh bán mã cổ phiếu ssi giá 100 với khối lượng 3000 cổ phiếu
+trade,tôi muốn đặt lệnh mua 1400 mã chứng khoán ssi giá 80.5
+trade,đặt mua 50 cổ ssi giá 20
+trade,đặt mua cổ ssi số lượng 50 giá 21
+trade,tôi muốn đặt mua cổ ssi số lượng 20 giá 21
+trade,giao dịch bán ssi
+trade,tôi muốn giao dịch bán ssi
+trade,tôi muốn bán ssi giá 20
+trade,tôi muốn thực hiện giao dịch 100 ssi giá 10
+trade,tôi muốn thực hiện giao dịch bán 1000 ssi giá 10.5
+trade,thực hiện mua 600 cổ ssi giá 25.9
+trade,tôi muốn tiến hành giao dịch ssi
+trade,tôi muốn tiến hành giao dịch mã ssi
+trade,tôi muốn tiến hành giao dịch ssi giá 11
+trade,tôi muốn tiến hành giao dịch mua ssi giá 10
+trade,tôi muốn tiến hành giao dịch bán ssi giá 11
+trade,tôi muốn tiến hành giao dịch mua bán ssi
+market,lên xuống thế nào
+market,thị trường lên xuống thế nào
+market,thông tin giao dịch
+market,thị trường đang giao dịch như thế nào
+market,thanh khoản có đột biến không?
+market,xem tình hình biến động mã ssi
+market,xem diễn biến mã ssi
+market,xem diễn biến mã ssi hôm nay
+market,xem lịch sử giao dịch mã cổ phiếu ssi
+market,xem cập nhật thông tin mã ssi
+market,xem cập nhật thông tin giao dịch mã chứng khoán ssi hôm nay
+market,xem thông tin cổ phiếu ssi tổng quan
+market,xem toàn cảnh mã chứng khoán ssi hôm nay
+market,xem báo cáo kết quả mã cổ phiếu ssi
+market,hiển thị mã ssi hôm nay
+market,hiển thị thông tin giao dịch của cổ phiếu ssi hôm nay
+market,hiển thị cập nhật cổ phiếu ssi
+market,hiển thị cập nhật thông tin mã cổ phiếu ssi
+market,hiển thị cập nhật thông tin giao dịch mã ssi
+market,hiển thị bao quát về cổ phiếu ssi
+market,tổng quan mã chứng khoán ssi thị trường
+market,biến động mã ssi
+market,diễn biến hôm nay của cổ phiếu ssi
+market,diễn biến giao dịch mã ssi hôm nay
+market,thông tin cổ phiếu ssi
+market,thông tin giao dịch của cổ phiếu ssi
+market,tổng quan về cổ phiếu ssi hôm nay
+market,lịch sử giao dịch mã chứng khoán ssi
+market,cập nhật mã cổ phiếu ssi
+market,cập nhật mã ssi hôm nay
+market,thông tin chung về cổ phiếu ssi
+market,tin nhanh về mã ssi
+market,xem giá khớp lệnh của cổ phiếu ssi
+market,xem giá khớp lệnh của mã chứng khoán ssi
+market,hiển thị tình trạng ssi
+stock_balance,tôi còn những loại cổ phiếu nào
+stock_balance,tôi có những loại cổ nào
+stock_balance,tài khoản của tôi còn bao nhiêu cổ phiếu
+stock_balance,tổng cp ssi tôi sở hữu
+stock_balance,kiểm tra số lượng cp ssi
+stock_balance,kiểm tra cổ phiếu ssi trong tài khoản
+stock_balance,mã ssi còn bao nhiêu?
+stock_balance,có bao nhiêu chứng khoán
+stock_balance,thông tin cổ phiếu ssi còn dư
+stock_balance,xem thông tin cổ phiếu ssi còn dư
+stock_balance,số chứng khoán ssi còn dư
+stock_balance,số chứng khoán ssi còn lại
+stock_balance,tổng số cổ phiếu ssi còn dư
+stock_balance,xem tổng số cổ phiếu ssi còn dư
+stock_balance,tài khoản đuôi 6 của tôi còn bao nhiêu chứng khoán ssi
+stock_balance,xem tài khoản đuôi 1 của tôi có bao nhiêu chứng khoán ssi
+stock_balance,tài khoản đuôi 6 của tôi còn bao nhiêu cổ phiếu ssi
+stock_balance,thông tin cổ phiếu ssi của tôi còn lại
+stock_balance,số chứng khoán ssi còn lại của tôi
+stock_balance,thông tin chứng khoán ssi của tôi
+stock_balance,xem thông tin chứng khoán ssi của tôi
+stock_balance,thông tin cổ phiếu ssi của tôi
+stock_balance,thông tin đầu tư của tôi hiện có bao nhiêu cổ phiếu ssi
+stock_balance,xem cho tôi thông tin cổ phiếu ssi
+stock_balance,xem cho tôi thông tin danh mục mã ssi hiện có
+stock_balance,xem cho tôi tổng số chứng khoán ssi
+stock_balance,xem cho tôi số chứng khoán ssi còn lại
+stock_balance,danh mục đầu tư
+stock_balance,xem thông tin danh mục cổ phiếu ssi hiện có
+stock_balance,xem danh mục cổ phiếu ssi của tôi
+stock_balance,xem danh mục chứng khoán ssi của tôi
+stock_balance,xem danh mục đầu tư cổ phiếu ssi hiện có
+stock_balance,danh mục cổ phiếu ssi
+stock_balance,danh mục cổ phiếu ssi hiện có
+stock_balance,thông tin danh mục mã ssi của tôi
+stock_balance,xem danh mục đầu tư mã ssi của tôi hiện nay
+stock_balance,danh mục chứng khoán ssi của tôi
+stock_balance,xem danh mục cổ phiếu ssi của tôi hiện có
+stock_balance,xem cho tôi danh mục đầu tư mã ssi hiện nay
+stock_balance,xem cho tôi danh mục chứng khoán ssi của tôi
+stock_balance,xem cho tôi danh mục cổ phiếu ssi của tôi
+stock_balance,tình trạng chứng khoán
+stock_balance,xem tình trạng cổ phiếu ssi còn dư
+stock_balance,trạng thái chứng khoán
+stock_balance,trạng thái đầu tư
+stock_balance,xem trạng thái danh mục mã ssi
+stock_balance,xem trạng thái đầu tư cổ phiếu ssi
+stock_balance,xem trạng thái đầu tư mã chứng khoán ssi của tôi
+stock_balance,trạng thái cổ phiếu ssi còn dư
+stock_balance,tôi còn bao nhiêu cổ trong tài khoản
+stock_balance,tôi còn bao nhiêu ssi
+stock_balance,tổng số ssi tôi nắm giữ
+cash_balance,tiền
+cash_balance,tiền nong
+cash_balance,số dư tiền
+cash_balance,tài khoản đuôi 1 có bao tiền
+cash_balance,số dư tài khoản đuôi 1 ra sao
+cash_balance,số dư tiền tài khoản đuôi 1 là bao nhiêu
+cash_balance,số dư tiền tài khoản đuôi 1 ra sao
+cash_balance,số tiền dư
+cash_balance,thông tin tiền trong tài khoản
+cash_balance,tình trạng tiền trong tài khoản
+cash_balance,trạng thái tiền của tài khoản
+cash_balance,tài khoản còn lại bao nhiêu tiền
+cash_balance,số dư tiền còn lại
+cash_balance,tiền dư bao nhiêu
+cash_balance,thông tin tiền của tài khoản đuôi 1
+cash_balance,xem tình trạng tiền trong tài khoản
+cash_balance,xem trạng thái tiền trong tài khoản
+cash_balance,xem số dư tiền bao nhiêu
+cash_balance,tài khoản còn bao nhiêu tiền
+cash_balance,xem thông tin tiền của các tài khoản
+cash_balance,thông tin số dư tiền của tôi
+cash_balance,trạng thái tiền của tài khoản của tôi
+cash_balance,số dư tiền còn lại của tôi
+cash_balance,dư tiền trong tài khoản của tôi
+cash_balance,dư nợ tiền tài khoản của tôi
+cash_balance,tiền dư của tôi bao nhiêu
+cash_balance,số dư tiền của tôi bao nhiêu
+cash_balance,tài khoản của tôi dư bao nhiêu tiền
+cash_balance,thông tin tiền của các tài khoản của tôi
+cash_balance,trạng thái tiền của tài khoản đuôi 6 của tôi
+cash_balance,số tiền hiện có của tôi
+cash_balance,xem thông tin tiền trong tài khoản của tôi
+cash_balance,xem thông tin số tiền dư của tôi
+cash_balance,xem tiền còn lại của tôi
+cash_balance,xem số dư tiền các tài khoản của tôi
+cash_balance,xem tiền của các tài khoản hiện có của tôi
+cash_balance,cho tôi xem trạng thái tiền
+cash_balance,cho tôi xem trạng thái tiền của tài khoản
+cash_balance,cho tôi xem dư tiền tài khoản
+cash_balance,cho tôi xem dư nợ tài khoản
+cash_balance,cho tôi xem số dư tiền bao nhiêu
+cash_balance,cho tôi xem thông tin tiền của các tài khoản
+cash_balance,cho tôi xem số dư tiền các tài khoản
+cash_balance,cho tôi xem thông tin tiền của tài khoản đuôi 1
+cash_balance,cho tôi xem thông tin tiền của tài khoản đuôi 6
+cash_balance,hiển thị dư nợ tiền tài khoản
+cash_balance,hiển thị trạng thái tiền trong tài khoản
+cash_balance,hiển thị số dư tiền còn lại
+cash_balance,hiển thị dư tiền tài khoản
+cash_balance,hiển thị số dư tiền các tài khoản
+cash_balance,hiển thị số dư hiện có
+advice,nhận định giá cổ phiếu ssi
+advice,nhận định mã chứng khoán ssi
+advice,với giá nào thì nên bán ssi
+advice,có nên bán ssi không
+advice,tiềm năng đầu tư của ssi
+advice,có nên bán ssi không
+advice,nên giữ ssi hay acb nhỉ?
+advice,xem nhận định cổ phiếu ssi
+advice,nên giữ lại hay bán ra cổ phiếu ssi
+advice,nên hay không nên mua ssi
+advice,nên mua giá bao nhiêu với cổ phiếu ssi
+advice,nên bán giá bao nhiêu với mã chứng khoán ssi
+advice,bạn nghĩ cổ phiếu ssi hôm nay thế nào?
+advice,nếu thị trường đang xuống, có đáng mua vào ssi
+advice,có rủi ro không khi đầu tư vào ssi không
+advice,có đáng để nắm giữ ssi không
+advice,có nên nắm giữ mã ssi lúc này
+advice,nên bán ssi vào thời điểm này không
+advice,với tình hình thị trường như này nên làm gì với ssi
+advice,đầu tư ssi có tiềm năng không
+order_status,tình trạng lệnh cổ phiếu ssi
+order_status,xem tình trạng lệnh cổ phiếu ssi
+order_status,tình trạng khớp lệnh mã ssi
+order_status,trạng thái khớp lệnh cổ phiếu ssi của tôi
+order_status,xem lệnh về cổ phiếu ssi không hợp lệ
+order_status,xem lệnh về mã ssi đang chờ
+order_status,lệnh về cổ phiếu ssi đã giao dịch
+order_status,xem lệnh mã ssi bị hủy của tôi
+order_status,lệnh cổ phiếu ssi không hợp lệ của tôi
+order_status,lệnh mã ssi đang chờ của tôi
+order_status,lệnh cổ phiếu ssi đã được thực hiện chưa của tôi
+order_status,xem cho tôi thông tin khớp lệnh mã ssi
+order_status,xem cho tôi trạng thái khớp lệnh cổ phiếu ssi
+order_status,xem cho tôi thông tin lệnh mã cổ phiếu ssi của tôi
+order_status,xem cho tôi trạng thái khớp lệnh mã ssi của tôi
+order_status,xem cho tôi lệnh cổ phiếu ssi đã giao dịch
+order_status,xem cho tôi tình trạng giao dịch của lệnh cổ phiếu ssi
+order_status,xem cho tôi giao dịch khớp lệnh mã ssi
+order_status,xem cho tôi kết quả giao dịch lệnh cổ phiếu ssi
+end,chấm dứt app
+end,thế nhé
+end,tắt app nhé
+end,tôi đi đây
+end,dừng chương trình
+end,dừng chương trình đi
+end,dừng ứng dụng
+end,kết thúc
+end,đóng
+end,tắt
+end,chào bạn nhé
+end,kết thúc
+cancel,hủy lệnh
+cancel,tạm dừng
+cancel,hủy ngay
+cancel,dừng khớp lệnh đi
+cancel,hủy bỏ ngay
+cancel,loại bỏ lệnh
+cancel,trở về
+cancel,dừng đặt lệnh
+cancel,đừng làm
+cancel,làm lại
+cancel,hủy khớp lệnh
+cancel,tới chức năng chính
+cancel,về chức năng chính ngay
+cancel,đến chức năng chính đi
+cancel,đi tới chức năng chính đi
+cancel,hủy lệnh đi
+cancel,dừng lệnh đi
+cancel,dừng lại đi
+cancel,ngưng lệnh đi
+cancel,ngừng lệnh đi
+cancel,ngừng lại đi
+cancel,về trang chủ đi
+cancel,dừng làm đi
+cancel,quay trở lại đi
+cancel,dừng khớp lệnh đi
+cancel,hủy bỏ ngay
+cancel,loại bỏ ngay
+cancel,hủy lệnh ngay
+cancel,dừng lệnh ngay
+cancel,bỏ qua lệnh ngay
+cancel,ngừng lại ngay
+cancel,trở lại trang chủ ngay
+cancel,đi tới trang chủ
+cancel,dừng đặt lệnh ngay
+cancel,đừng làm nữa
+cancel,dừng khớp lệnh ngay
+cancel,hủy khớp lệnh ngay
+cancel,hủy khớp lệnh
+cancel,hủy khớp lệnh mua ssi
+cancel,hủy bỏ khớp lệnh mua ssi
