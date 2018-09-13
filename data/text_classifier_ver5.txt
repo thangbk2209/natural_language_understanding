@@ -1240,7 +1240,7 @@ end,trở lại sau
 end,trở lại sau nhé
 end,đi đây
 end,chào
-end,thế nhé
+end,chào nhé
 end,tắt app
 end,tắt app nhé
 end,tắt ứng dụng

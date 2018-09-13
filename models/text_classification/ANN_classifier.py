@@ -50,9 +50,9 @@ class Classifier:
         self.x_train, self.y_train, self.x_test, self.y_test, self.int2intent, self.test_label, self.all_sentences, self.texts = preprocessing_data.preprocessing_data()
         # Create graph
         tf.reset_default_graph()
-        x = tf.placeholder(tf.float32, name="x", shape=(None, self.input_size, self.embedding_dim))
-        input_classifier = tf.reshape(x,[tf.shape(x)[0], self.input_size * self.embedding_dim])
-        hidden_value1 = tf.layers.dense(input_classifier, 1024, activation = tf.nn.relu, name="hidden1")
+        x = tf.placeholder(tf.float32, name="x", shape=(None, self.embedding_dim))
+        input_classifier = tf.reshape(x,[tf.shape(x)[0], self.embedding_dim])
+        hidden_value1 = tf.layers.dense(input_classifier, 64, activation = tf.nn.relu, name="hidden1")
         # hidden_value2 = tf.layers.dense(hidden_value1, 64, activation = tf.nn.sigmoid)
         prediction = tf.layers.dense(hidden_value1,self.num_classes, activation = tf.nn.softmax, name="prediction")
         y_label = tf.placeholder(tf.float32, name="y_label", shape=(None, self.num_classes))
@@ -61,7 +61,7 @@ class Classifier:
         
         #select optimizer method 
         if self.optimizer_method == self.OPTIMIZER_BY_GRADIENT:
-            optimizer = tf.train.GradientDescentOptimizer(0.05).minimize(cross_entropy_loss,name='training_step')
+            optimizer = tf.train.GradientDescentOptimizer(0.02).minimize(cross_entropy_loss,name='training_step')
         elif self.optimizer_method == self.OPTIMIZER_BY_SGD:
             a = 0
         elif self.optimizer_method == self.OPTIMIZER_BY_ADAM:
@@ -108,7 +108,7 @@ class Classifier:
             temp = line.split(" ")
             train_index = [int(i) for i in temp]
             y = []
-        for i in range(1430):
+        for i in range(1445):
             # print (i)
             if i not in train_index:
                 y.append(i)
