@@ -4,6 +4,7 @@ import tensorflow as tf
 import pandas as pd 
 import numpy as np
 import pickle as pk
+import math
 """
 This class have function for training word2vec model
 initial_function:
@@ -25,6 +26,7 @@ class Word2Vec:
     def train(self):
         print ('-------------------preprocessing data -----------------------')
         self.preprocessing_data()
+        print (self.x_train)
         print ('-------------------- start training word2vec --------------------')
         # print ('---------------check-----------------')
         # print (self.x_train)
@@ -33,13 +35,22 @@ class Word2Vec:
         y_label = tf.placeholder(tf.float32, shape=(None, self.vocab_size))
 
         # EMBEDDING_DIM = 16 # you can choose your own number
-        W1 = tf.Variable(tf.random_normal([self.vocab_size, self.embedding_dim]))
-        b1 = tf.Variable(tf.random_normal([self.embedding_dim])) #bias
-        hidden_representation = tf.add(tf.matmul(x,W1), b1)
-
-        W2 = tf.Variable(tf.random_normal([self.embedding_dim, self.vocab_size]))
-        b2 = tf.Variable(tf.random_normal([self.vocab_size]))
-        prediction = tf.nn.softmax(tf.add( tf.matmul(hidden_representation, W2), b2))
+        # W1 = tf.Variable(tf.random_normal([self.vocab_size, self.embedding_dim]))
+        # b1 = tf.Variable(tf.random_normal([self.embedding_dim])) #bias
+        # hidden_representation = tf.add(tf.matmul(x,W1), b1)
+        hidden_representation = tf.layers.dense(x, self.embedding_dim)
+        # W2 = tf.Variable(tf.random_normal([self.embedding_dim, self.vocab_size]))
+        # b2 = tf.Variable(tf.random_normal([self.vocab_size]))
+        # prediction = tf.nn.softmax(tf.add( tf.matmul(hidden_representation, W2), b2))
+        pred = tf.layers.dense(hidden_representation, self.vocab_size, activation=tf.nn.softmax)
+        prediction = tf.layers.dropout(
+                            pred,
+                            rate=0.995,
+                            noise_shape=None,
+                            seed=None,
+                            training=False,
+                            name=None
+                        )
         # define the loss function:
         cross_entropy_loss = tf.reduce_mean(-tf.reduce_sum(y_label * tf.log(prediction), reduction_indices=[1]))
         # define the training step:
@@ -59,16 +70,27 @@ class Word2Vec:
                 # print ('batch_y_train')
                 # print (batch_y_train)
                 sess.run(optimizer, feed_dict={x: batch_x_train, y_label: batch_y_train})
-                # prediction = sess.run(prediction, feed_dict={x: batch_x_train, y_label: batch_y_train})
+                # prediction = sess.run([prediction], feed_dict={x: batch_x_train})
+                # print ('prediction')
+                # print (prediction)
                 loss = sess.run(cross_entropy_loss, feed_dict={x: batch_x_train, y_label: batch_y_train})/total_batch
                 # print ("loss: ", loss)
                 # print ('prediction: ', prediction)
                 avg_loss += loss
             print('epoch_word2vec : ', _+1)
+            total_epoch = _ + 1
             print("loss: ", avg_loss)
+            if math.isnan(avg_loss):
+                break
         print("finished training word2vec phrase!!!")
-        self.vectors = sess.run(W1 + b1)
-        self.save_trained_data()
+        vocab = []
+        for i in range(self.vocab_size):
+            temp = np.zeros(self.vocab_size)
+            temp[i] = 1
+            vocab.append(temp)
+        self.vectors = sess.run(hidden_representation,feed_dict={x: vocab})
+        if(total_epoch == self.epoch_word2vec):
+            self.save_trained_data()
         # print (self.word2int['hụt_hơi'])
         return self.vectors, self.word2int, self.int2word
     # save data to file

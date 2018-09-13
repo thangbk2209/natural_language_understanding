@@ -27,7 +27,7 @@ def train_model(batch_size_classifier):
     for window_size in window_sizes:
         for embedding_dim in embedding_dims:
             for batch_size_word2vec in batch_size_word2vecs:
-                file_to_save_word2vec_data = '../../results/word2vec/ver6/ws-' + str(window_size) + '-embed-' + str(embedding_dim) + 'batch_size-' + str(batch_size_word2vec) + '.pkl'
+                file_to_save_word2vec_data = '../../results/word2vec/ver7/ws-' + str(window_size) + '-embed-' + str(embedding_dim) + 'batch_size-' + str(batch_size_word2vec) + '.pkl'
                 
                 vectors, word2int, int2word = read_trained_data(file_to_save_word2vec_data)
 
