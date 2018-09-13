@@ -24,7 +24,7 @@ class Preprocess_W2v:
             for line in lines:
                 vocab_raw.append(line.rstrip())
         vocab_size = len(vocab_raw)
-        # print (vocab_size)
+        print (vocab_size)
         vocab = []
         for i in range(vocab_size):
             vocab.append(vocab_raw[i])

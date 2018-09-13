@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 trade,mua mã chứng khoán ssi
 trade,bán ra mã ssi
 trade,mua vào ssi
@@ -289,5 +290,24 @@ cancel,đừng làm nữa
 cancel,dừng khớp lệnh ngay
 cancel,hủy khớp lệnh ngay
 cancel,hủy khớp lệnh
+=======
+trade,đặt mua cổ ssi số lượng 50 giá 21
+trade,tôi muốn đặt mua cổ ssi số lượng 20 giá 21
+market,thông tin giao dịch
+market,thanh khoản có đột biến không?
+market,hiển thị cập nhật cổ phiếu ssi
+market,hiển thị cập nhật thông tin mã cổ phiếu ssi
+market,thông tin cổ phiếu ssi
+market,thông tin giao dịch của cổ phiếu ssi
+market,thông tin chung về cổ phiếu ssi
+market,tin nhanh về mã ssi
+market,xem giá khớp lệnh của cổ phiếu ssi
+market,hiển thị tình trạng ssi
+cash_balance,tiền nong
+advice,nhận định giá cổ phiếu ssi
+end,dừng chương trình
+end,dừng chương trình đi
+cancel,hủy lệnh
+>>>>>>> 5da812b6fe3b2d1f6915680c1f35cd4d179464fc
 cancel,hủy khớp lệnh mua ssi
 cancel,hủy bỏ khớp lệnh mua ssi
