@@ -53,15 +53,11 @@ class PreprocessingDataClassifier:
         for index,intent in enumerate(intents_filter):
             intent2int[intent] = index
             int2intent[index] = intent 
-        # print (int2intent)
-        # lol
         for i, sentence in enumerate(texts):
             # print (i)
             data_cleaner = DataCleaner(sentence)
             all_words = data_cleaner.separate_sentence()
             data_x_raw = []
-            # print (i)
-            # print (all_words)
             for word in all_words:
                 # print (word)
                 data_x_raw.append(self.vectors[self.word2int[word]])
@@ -69,10 +65,6 @@ class PreprocessingDataClassifier:
                 padding = np.zeros(self.embedding_dim)
                 data_x_raw.append(padding)
             data_x_original = data_x_raw
-            # print(data_x_original)
-            # data_x_original = np.sum(data_x_raw,axis = 0)
-            # print (data_x_original)
-            # lol
             label = to_one_hot(intent2int[intents[i]], intents_size)
 
             x_train.append(data_x_original)
@@ -94,27 +86,14 @@ class PreprocessingDataClassifier:
         # train_x = x_train
         # train_y = y_train 
         for i in train_index:
-            print (i)
+            # print (i)
             train_x.append(x_train[i])
             train_y.append(y_train[i])
             
         for i in range(data_classifier_size):
-            # print (i)
+            
             if i not in train_index:
                 test_label.append(intents[i])
-                print (i)
-                print (np.shape(x_train[i]))
                 test_x.append(x_train[i])
                 test_y.append(y_train[i])
-        # for i in range(data_classifier_size):
-        #     test_label.append(intents[i])
-        #     test_x.append(x_train[i])
-        #     test_y.append(y_train[i])
-                # print (i)
-       #  train_x = x_train[i for i in train_index]
-       # train_y = y_train[i for i in train_index]
-       # test_x = x_train[i for i not in train_index]
-       # test_y = y_train[i for i not in train_index ]
-        print (np.shape(test_x))
-        print (np.shape(train_x))
-        return train_x, train_y, test_x, test_y, int2intent,test_label, all_sentences, texts
+        return train_x, train_y, test_x, test_y, int2intent,test_label, all_sentences

@@ -12,7 +12,7 @@ def read_trained_data(file_trained_data):
 
 input_size = 16
 window_size = 2
-embedding_dim = 50
+embedding_dim = 32
 
 batch_size_word2vec = 8
 file_to_save_word2vec_data = '../../results/word2vec/ver6/ws-' + str(window_size) + '-embed-' + str(embedding_dim) + 'batch_size-' + str(batch_size_word2vec) + '.pkl'
@@ -24,7 +24,7 @@ texts = []
 intents_data = []
 intents_official = ['end', 'trade', 'cash_balance', 'advice', 'order_status', 'stock_balance', 'market', 'cancel']
 sentences = {}
-with open('../../results/text_classification/fail.txt', encoding="utf8") as input:
+with open('../../data/text_classifier_ver4.txt', encoding="utf8") as input:
     for line in input :
         # print (line)
         temp = line.split(",",1)
@@ -79,29 +79,38 @@ total_batch = int(len(x_train)/ batch_size_classifier)
 with tf.Session() as sess:
     
     #First let's load meta graph and restore weights
-    saver = tf.train.import_meta_graph('../../results/text_classification/ANN_ver6/ws-2-embed-50batch_size_w2c-8batch_size_cl8.meta')
-    saver.restore(sess,tf.train.latest_checkpoint('../../results/text_classification/ANN_ver6/'))
+    saver = tf.train.import_meta_graph('../../results/text_classification/LSTM_ver1/ws-2-embed-32batch_size_w2c-8batch_size_cl16.meta')
+    saver.restore(sess,tf.train.latest_checkpoint('../../results/text_classification/LSTM_ver1/'))
     # Access and create placeholders variables and
     graph = tf.get_default_graph()
+    # print ([n.name for n in tf.get_default_graph().as_graph_def().node])
     x = graph.get_tensor_by_name("x:0")
     y_label = graph.get_tensor_by_name("y_label:0")
     # Access the op that you want to run. 
-    prediction = graph.get_tensor_by_name("prediction/Softmax:0")
-    for i in range(epochs):
-        for j in range(total_batch):
-            batch_x_train, batch_y_train = x_train[j*batch_size_classifier:(j+1)*batch_size_classifier], y_train[j*batch_size_classifier:(j+1)*batch_size_classifier]
-            # pred = (sess.run(prediction,{x:data_x}))
-            # corr_pred = tf.reduce_max(pred)
-            # index = tf.argmax(pred, axis=1, name=None)
-            print (batch_x_train[0])
-            print (batch_y_train[0])
-            train_op = sess.graph.get_operation_by_name('training_step')
-            sess.run(train_op,{x:batch_x_train,y_label: batch_y_train})
+    prediction = graph.get_tensor_by_name("prediction:0")
+    # for i in range(epochs):
+        # for j in range(total_batch):
+            # batch_x_train, batch_y_train = x_train[j*batch_size_classifier:(j+1)*batch_size_classifier], y_train[j*batch_size_classifier:(j+1)*batch_size_classifier]
+    pred = (sess.run(prediction,{x:x_train}))
+    print (pred)
+    corr_pred = tf.reduce_max(pred)
+    index = tf.argmax(pred, axis=1, name=None)
+    corr = sess.run(corr_pred)
+    print (corr)
+    ind = sess.run(index)
+            # print (batch_x_train[0])
+            # print (batch_y_train[0])
+            # train_op = sess.graph.get_operation_by_name('training_step')
+            # sess.run(train_op,{x:batch_x_train,y_label: batch_y_train})
             # print sess.run(pred)
             # print (sess.run(corr_pred))
-            # print (sess.run(index))
-            # print (int2intent[sess.run(index)[0]])
-            print ('epoch: ',i,'Done')
-    save_path = saver.save(sess, '../../results/text_classification/ANN_ver6/ws-' + str(window_size) + '-embed-' + str(embedding_dim) + 'batch_size_w2c-' + str(batch_size_word2vec) + 'batch_size_cl8')
+    # print (sess.run(corr_pred))
+    # print (sess.run(index))
+    for i in range(len(ind)):
+        print (pred[i][ind[i]])
+        # print (sess.run(corr_pred)[i])
+        # print (int2intent[ind[i]])
+            # print ('epoch: ',i,'Done')
+    # save_path = saver.save(sess, '../../results/text_classification/ANN_ver6/ws-' + str(window_size) + '-embed-' + str(embedding_dim) + 'batch_size_w2c-' + str(batch_size_word2vec) + 'batch_size_cl8')
         # a = tf.maximum(pred)
         # print (sess.run(a))

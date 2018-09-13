@@ -1,2 +1,2 @@
-model_checkpoint_path: "ws-2-embed-50batch_size_w2c-8batch_size_cl8"
-all_model_checkpoint_paths: "ws-2-embed-50batch_size_w2c-8batch_size_cl8"
+model_checkpoint_path: "ws-2-embed-50batch_size_w2c-8batch_size_cl4"
+all_model_checkpoint_paths: "ws-2-embed-50batch_size_w2c-8batch_size_cl4"

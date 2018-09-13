@@ -251,14 +251,7 @@ trade,tôi muốn thực hiện giao dịch bán SSI giá 11
 trade,tôi muốn thực hiện giao dịch mua 100 SSI giá 11
 trade,tôi muốn thực hiện giao dịch bán 1000 SSI giá 10.5
 trade,tôi muốn thực hiện giao dịch mua bán SSI
-trade,thực hiện mua 600 cổ ssi giá 25.9
-trade,thực hiện bán 600 cổ ssi
-trade,thực hiện giao dịch mua 600 cổ ssi giá 13.2
-trade,thực hiện giao dịch bán 600 cổ ssi
-trade,thực hiện mua 600 ssi
-trade,thực hiện bán 600 ssi giá 12.4
-trade,thực hiện giao dịch mua 600 ssi giá 12.5
-trade,thực hiện giao dịch bán 600 cổ ssi giá 12.6
+
 trade,tôi muốn tiến hành giao dịch SSI
 trade,tôi muốn tiến hành giao dịch mã SSI
 trade,tôi muốn tiến hành giao dịch cổ phiếu SSI
@@ -309,7 +302,7 @@ market,thanh khoản ssi có cao không?
 market,thanh khoản có đột biến không?
 market,thanh khoản hiện đang thế nào?
 market,thanh khoản ssi hiện đang thế nào?
-market,thị trường hiện đang ra sao
+market,hiện đang ra sao
 market,mã ssi hiện đang ra sao
 market,mã ssi hiện đang thế nào
 market,giá cổ phiếu SSI như thế nào?
@@ -495,11 +488,8 @@ market,tin tức cổ phiếu SSI hôm nay
 market,tin nhanh về mã SSI
 market,xem giá khớp lệnh của cổ phiếu SSI
 market,xem giá khớp lệnh của mã chứng khoán SSI
-market,xem giá khớp lệnh của cổ phiếu SSI
-market,xem giá khớp lệnh của mã chứng khoán SSI
 market,xem giá mở cửa mã acb
 market,hiển thị giá mở cửa ssi
-market,sáng nay giá mở cửa SSI bao nhiêu nhỉ
 market,sáng nay giá mở cửa SSI bao nhiêu nhỉ
 market,cho tôi xem thông tin về SSI
 market,SSI lên xuống thế nào
@@ -513,6 +503,7 @@ market,thông tin SSI
 market,biến động SSI
 market,hiển thị thông tin SSI
 market,hiển thị tình trạng SSI
+market,hiển thị SSI
 stock_balance,tôi còn những loại cổ phiếu nào
 stock_balance,tôi có những loại cổ nào
 stock_balance,tôi còn những loại cổ nào
@@ -779,6 +770,48 @@ stock_balance,tôi nắm giữ bao nhiêu SSI
 stock_balance,tôi sở hữu bao nhiêu SSI
 stock_balance,tài khoản đuôi 1 có bao nhiêu SSI
 stock_balance,tài khoản đuôi 1 còn bao nhiêu SSI
+stock_balance,check số cổ phiếu trong tài khoản của tôi
+stock_balance,check số cổ phiếu tôi có
+stock_balance,check số cổ phiếu tôi còn
+stock_balance,check xem tôi có bao nhiêu mã SSI
+stock_balance,check xem tôi có bao nhiêu cổ phiếu SSI
+stock_balance,check xem tôi có bao nhiếu cp SSI
+stock_balance,check xem tôi còn bao nhiêu mã SSI
+stock_balance,check xem tôi còn bao nhiêu cổ phiếu SSI
+stock_balance,check xem tôi còn bao nhiêu cp SSI
+stock_balance,check số SSI tôi có
+stock_balance,check số SSI tôi còn
+stock_balance,check SSI tôi có
+stock_balance,check SSI trong tài khoản của tôi
+stock_balance,check SSI của tôi
+stock_balance,check mã SSI của tôi
+stock_balance,check mã SSI của tôi trong tài khoản
+stock_balance,check mã SSI tôi có trong tài khoản
+stock_balance,check mã SSI tôi còn
+stock_balance,check tổng số cổ phiếu của tôi
+stock_balance,check tổng số mã chứng khoán tôi có
+stock_balance,check tổng chứng khoán tôi sở hữu
+stock_balance,check tổng mã tôi nắm giữ
+stock_balance,check số SSI tôi sở hữu
+stock_balance,check SSI tôi sở hữu
+stock_balance,check số SSI tôi nắm giữ
+stock_balance,check SSI tôi nắm giữ
+stock_balance,check tổng số SSI tôi sở hữu
+stock_balance,check tổng số SSI tôi nắm giữ
+stock_balance,check xem số SSI tôi sở hữu trong tài khoản của tôi
+stock_balance,check xem số SSI tôi nắm giữ trong tài khoản
+stock_balance,check xem tài khoản của tôi có bao nhiêu SSI
+stock_balance,check xem tài khoản của tôi còn bao nhiêu SSI
+stock_balance,check xem tài khoản của tôi sở hữu bao nhiêu SSI
+stock_balance,check xem tài khoản của tôi nắm giữ bao nhiêu SSI
+stock_balance,check xem tài khoản của tôi có bao nhiêu mã SSI
+stock_balance,check xem tài khoản của tôi còn bao nhiêu mã SSI
+stock_balance,check xem tài khoản của tôi sở hữu bao nhiêu mã SSI
+stock_balance,check xem tài khoản của tôi nắm giữ bao nhiêu mã SSI
+stock_balance,check xem tài khoản của tôi có bao nhiêu cổ phiếu SSI
+stock_balance,check xem tài khoản của tôi còn bao nhiêu cp SSI
+stock_balance,check xem tài khoản của tôi sở hữu bao nhiêu cp SSI
+stock_balance,check xem tài khoản của tôi nắm giữ bao nhiêu cổ phiếu SSI
 cash_balance,kiểm tra số tiền còn lại
 cash_balance,tôi còn nhiều tiền không?
 cash_balance,tài khoản đuôi 1 của tôi còn bao nhiêu tiền?
@@ -845,7 +878,6 @@ cash_balance,xem dư tiền tài khoản
 cash_balance,xem dư nợ tài khoản
 cash_balance,xem số tiền dư bao nhiêu
 cash_balance,xem số dư tiền bao nhiêu
-cash_balance,tài khoản còn bao nhiêu tiền
 cash_balance,tài khoản còn bao nhiêu tiền
 cash_balance,xem tài khoản dư bao nhiêu tiền
 cash_balance,xem tài khoản tiền dư bao nhiêu
@@ -982,6 +1014,46 @@ cash_balance,hiển thị số tiền hiện có
 cash_balance,hiển thị số dư hiện có
 cash_balance,hiển thị tiền của các tài khoản hiện có
 cash_balance,hiển thị dữ liệu tiền của các tài khoản
+cash_balance,check số dư tiền trong tài khoản của tôi
+cash_balance,check số dư tiền tôi có
+cash_balance,check số tiền tôi còn
+cash_balance,check xem tôi có bao nhiêu tiền
+cash_balance,check xem tôi tôi dư bao nhiêu tiền
+cash_balance,check xem tôi có dư tiền không
+cash_balance,check xem tôi còn bao nhiêu tiền
+cash_balance,check xem tôi còn dư bao nhiêu tiền
+cash_balance,check xem tôi còn bao nhiêu tiền dư
+cash_balance,check số tiền tôi có
+cash_balance,check số dư tiền tôi còn
+cash_balance,check tiền dư tôi có
+cash_balance,check số dư tiền trong tài khoản của tôi
+cash_balance,check số dư tiền của tôi
+cash_balance,check dư tiền của tôi
+cash_balance,check số tiền dư của tôi trong tài khoản
+cash_balance,check số tiền tôi có trong tài khoản
+cash_balance,check số tiền tôi còn
+cash_balance,check tổng số tiền của tôi
+cash_balance,check tổng số tiền dư tôi có
+cash_balance,check tổng số tiền tôi sở hữu
+cash_balance,check tổng tiền dư tôi nắm giữ
+cash_balance,check số tiền tôi sở hữu
+cash_balance,check dư tiền tôi sở hữu
+cash_balance,check số tiền tôi nắm giữ
+cash_balance,check số dư tiền tôi nắm giữ
+cash_balance,check tổng số tiền tôi sở hữu
+cash_balance,check tổng số tiền dư tôi nắm giữ
+cash_balance,check xem số dư tiền tôi sở hữu trong tài khoản của tôi
+cash_balance,check xem số tiền dư tôi nắm giữ trong tài khoản
+cash_balance,check xem tài khoản của tôi có bao nhiêu tiền
+cash_balance,check xem tài khoản của tôi còn bao nhiêu tiền còn dư
+cash_balance,check xem tài khoản của tôi sở hữu bao nhiêu tiền còn dư
+cash_balance,check xem tài khoản của tôi nắm giữ bao nhiêu tiền
+cash_balance,check xem tài khoản của tôi có bao nhiêu số dư tiền
+cash_balance,check xem tài khoản của tôi còn bao nhiêu tiền còn dư
+cash_balance,check xem tài khoản của tôi sở hữu bao nhiêu số dư tiền
+cash_balance,check xem tài khoản của tôi còn bao nhiêu số tiền còn dư
+cash_balance,check xem tài khoản của tôi sở hữu bao nhiêu tiền 
+cash_balance,check xem tài khoản của tôi nắm giữ bao nhiêu tiền dư
 advice,nhận định mã cổ phiếu SSI
 advice,nhận định giá cổ phiếu SSI
 advice,nhận định mã chứng khoán SSI
@@ -1091,6 +1163,7 @@ advice,đầu tư vào SSI có rủi ro không
 advice,nếu đầu tư vào SSI sẽ có rủi ro chứ
 advice,có đáng đầu tư SSI lúc này
 advice,với biến động của thị trường, có đáng đầu tư vào SSI
+advice,có đáng sở hữu SSI lúc này không
 advice,có đáng để nắm giữ SSI không
 advice,có đáng để nắm giữ cổ phiếu SSI không
 advice,có đáng để nắm giữ mã SSI không
@@ -1109,11 +1182,14 @@ advice,tôi nên múc mã SSI giá 10 không
 advice,nên múc cổ phiếu SSI lúc này chứ
 advice,nên múc SSI
 advice,nên nắm giữ SSI không
+advice,nên sở hữu SSI không
 advice,nên mua vào SSI không
 advice,nên bán SSI vào thời điểm này không
 advice,tôi có nên năm giữ SSI
 advice,tôi có nên mua vào SSI
+advice,tôi có nên sở hữu SSI
 advice,nên mua bán SSI lúc này không
+advice,nên sở hữu SSI không nhỉ
 advice,với tình hình thị trường như này nên làm gì với SSI
 advice,nên mua hay bán SSI như nào
 advice,có đáng để mua SSI không
@@ -1124,6 +1200,7 @@ advice,tiềm năng của SSI
 advice,SSI có tiềm năng để mua bán không
 advice,SSI có tiềm năng để sở hữu không
 advice,SSI có tiềm năng để giao dịch không
+advice,nên hay không sở hữu SSI
 advice,có đáng để đầu tư vào SSI
 advice,đầu tư SSI vào lúc này có đáng không
 advice,đầu tư SSI có tiềm năng không
@@ -1240,7 +1317,7 @@ end,trở lại sau
 end,trở lại sau nhé
 end,đi đây
 end,chào
-end,chào nhé
+end,thế nhé
 end,tắt app
 end,tắt app nhé
 end,tắt ứng dụng
@@ -1283,7 +1360,6 @@ end,tắt chương trình
 end,chào nhé
 end,chào bạn nhé
 end,kết thúc
-cancel,huỷ
 cancel,huỷ
 cancel,bỏ qua
 cancel,bỏ đi
@@ -1425,8 +1501,6 @@ cancel,làm lại ngay
 cancel,đi tới trang chủ
 cancel,dừng đặt lệnh ngay
 cancel,tôi muốn dừng đặt lệnh
-cancel,tôi muốn dừng đặt lệnh
-cancel,tôi muốn dừng khớp lệnh
 cancel,tôi muốn dừng khớp lệnh
 cancel,hủy đặt lệnh cho tôi
 cancel,hủy đặt lệnh giúp tôi với

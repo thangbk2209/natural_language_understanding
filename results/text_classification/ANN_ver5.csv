@@ -8,3 +8,5 @@ window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
 window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
 2,32,8,16,0.9369369369369369
 =========================
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy
+window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy

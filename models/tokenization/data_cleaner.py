@@ -171,6 +171,7 @@ cao_xa
 cha
 cha_chả
 chao_ôi
+cho
 cho_biết
 cho_nhau
 cho_rằng
@@ -386,7 +387,6 @@ cổ_lai
 cụ_thể
 cụ_thể_là
 cụ_thể_như
-của
 của_ngọt
 của_tin
 cứ
@@ -458,6 +458,7 @@ giờ_lâu
 giờ_đi
 giờ_đây
 giờ_đến
+giúp
 giữ_lấy
 giữ_ý
 giữa_lúc
@@ -490,6 +491,7 @@ hiểu
 hoặc_là
 hãy
 hãy_còn
+hộ
 hơn
 hơn_cả
 hơn_hết
@@ -694,6 +696,7 @@ mở_mang
 mở_nước
 mở_ra
 mợ
+muốn
 nay
 ngay
 ngay_bây_giờ
@@ -701,7 +704,6 @@ ngay_cả
 ngay_khi
 ngay_khi_đến
 ngay_lúc
-ngay_lúc_này
 ngay_lập_tức
 ngay_thật
 ngay_tức_khắc
