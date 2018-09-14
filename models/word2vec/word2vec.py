@@ -27,6 +27,9 @@ class Word2Vec:
         print ('-------------------preprocessing data -----------------------')
         self.preprocessing_data()
         print (self.x_train)
+        print (type(self.x_train))
+        print (self.x_train.shape)
+        # lol
         print ('-------------------- start training word2vec --------------------')
         # print ('---------------check-----------------')
         # print (self.x_train)

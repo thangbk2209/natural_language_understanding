@@ -81,5 +81,7 @@ class Preprocess_W2v:
         # convert them to numpy arrays
         x_train = np.asarray(x_train)
         y_train = np.asarray(y_train)
-
+        print (x_train)
+        print (type(x_train))
+        # lol
         return x_train, y_train, vocab_size, word2int, int2word

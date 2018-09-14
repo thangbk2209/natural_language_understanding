@@ -1,31 +1,4 @@
-mã acb dư bao nhiêu
-tôi muốn mua mã acb
-mua mã chứng khoán SSI
-mua mã SSI giá 20 khối lượng 100 cổ phiếu
-mua vào mã SSI
-mua thêm mã SSI
-tôi muốn mua mã chứng khoán SSI với 100 cổ phiếu và giá 15.6
-mua cho tôi mã chứng khoán SSI với giá 10.5 và khối lượng 100
-mua cổ phiếu SSI với giá 10.6 và khối lượng 50
-mua 100 cổ phiếu SSI với giá 15.5
-mua 50 cổ phiếu SSI với mức giá 17.5
-mua 70 cổ phiếu với mức giá 20 của cổ phiếu SSI
-mua 80 cổ phiếu SSI giá 15.9
-mua mã cổ phiếu SSI với giá 29
-mua thêm cổ phiếu SSI với khối lượng 200 cổ phiếu và giá 19.5
-mua thêm 200 cổ phiếu SSI với giá 25.5
-mua thêm mã cổ phiếu SSI với khối lượng 130 và giá 21.1
-mua thêm 100 mã cổ phiếu SSI với giá 21
-mua cho tôi mã chứng khoán SSI với khối lượng 500 và giá 24.4
-mua cho tôi mã cổ phiếu SSI với giá 32.5 và khối lượng 150
-mua cho tôi mã cổ phiếu SSI với khối lượng 200 và giá 25.5
-mua cổ phiếu SSI với khối lượng 1000 và giá 13.9
-mua mã cổ phiếu SSI với khối lượng 500 và giá 24.5
-mua mã cổ phiếu SSI với giá 14 và khối lượng 500
-mua 900 mã cổ phiếu SSI với giá 20
-mua mã chứng khoán SSI với giá 25.5 và khối lượng 210 cổ phiếu
-mua mã chứng khoán SSI với khối lượng 650 và giá 29.5
-mua 800 mã chứng khoán SSI với giá 29.9
+
 mua cho tôi 80 cổ phiếu SSI với giá 29.9
 mua cho tôi mã chứng khoán SSI với giá 21.1
 mua cho tôi 800 mã cổ phiếu SSI với giá 34,1
