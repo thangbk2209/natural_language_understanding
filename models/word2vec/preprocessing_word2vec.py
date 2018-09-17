@@ -72,12 +72,15 @@ class Preprocess_W2v:
             return temp
         # print (to_one_hot(word2int[ data[0][0] ], vocab_size))
         # print (to_one_hot(word2int[ data[0][1] ], vocab_size))
+        one_hot_vector = {}
+        for i in range(len(vocab)):
+            one_hot_vector[word2int[ vocab[i] ]] = to_one_hot(word2int[ vocab[i] ], vocab_size)
         x_train = [] # input word
         y_train = [] # output word
         for i in range(len(data)):
             # print (data[i][0], data[i][1] )
-            x_train.append(to_one_hot(word2int[ data[i][0] ], vocab_size))
-            y_train.append(to_one_hot(word2int[ data[i][1] ], vocab_size))
+            x_train.append(one_hot_vector[word2int[ data[i][0] ]])
+            y_train.append(one_hot_vector[word2int[ data[i][1] ]])
         # convert them to numpy arrays
         x_train = np.asarray(x_train)
         y_train = np.asarray(y_train)
