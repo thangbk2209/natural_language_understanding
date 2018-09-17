@@ -5,7 +5,7 @@ class Preprocess:
         self.input_size = input_size
         self.data = data
     def to_one_hot(self,data_point_index,vocab_size):
-        temp = np.zeros(vocab_size)
+        temp = np.zeros(vocab_size, dtype = np.int8)
         temp[data_point_index] = 1
         return temp
     def preprocessing_data(self):
@@ -35,31 +35,48 @@ class Preprocess:
         word2int = {}   # Word and coresponding number
         int2word = {}   # integer number and coresponding word
         number_words = len(all_single_word) # gives the total number of unique words
-        # print (words)
+        # print (number_words)
         for i,word in enumerate(all_single_word):
-            word2int[word] = i
-            int2word[i] = word
+            word2int[word] = np.int16(i)
+            int2word[np.int16(i)] = word
         labels = ['B_W','I_W','O']
         number_labels = len(labels)
         label2int = {}   # label and coresponding number
         int2label = {}   # integer number and coresponding label
         for i,label in enumerate(labels):
-            label2int[label] = i
-            int2label[i] = label
+            label2int[label] = np.int16(i)
+            int2label[np.int16(i)] = label
         x_train = []
         y_train = []
+        dem = 0
+        x_one_hot_vector = {}
+        y_one_hot_vector = {}
+        for i in range(len(all_single_word)):
+            x_one_hot_vector[word2int[all_single_word[i]]] = self.to_one_hot(word2int[all_single_word[i]], number_words)
+        for i in range(len(labels)):
+            y_one_hot_vector[label2int[labels[i]]] = self.to_one_hot(label2int[labels[i]], number_labels)
+        # print (y_one_hot_vector)
+        dem = 0
         for i in range(len(x_train_raw)):
             x_traini = []
             y_traini = []
             for j in range(len(x_train_raw[i])):
-                x_traini.append(self.to_one_hot(word2int[x_train_raw[i][j]],number_words))
-                y_traini.append(self.to_one_hot(label2int[y_train_raw[i][j]],number_labels))
+                dem+=1
+                print (dem)
+                x_traini.append(x_one_hot_vector[word2int[x_train_raw[i][j]]] )
+                # print (label2int[y_train_raw[i][j]])
+                y_traini.append(y_one_hot_vector[label2int[y_train_raw[i][j]]])
+                # print (y_one_hot_vector[label2int[y_train_raw[i][j]]])
             if(len(x_train_raw[i]) < self.input_size):
-                for t in range(len(x_train_raw[i]),self.input_size,1):
-                    temp = np.zeros(number_words)
-                    label = np.array([1/3,1/3,1/3])
-                    x_traini.append(temp)
-                    y_traini.append(label)
+                temp = np.zeros((self.input_size - len(x_train_raw[i]),number_words),dtype = np.int8)
+                # for t in range(len(x_train_raw[i]),self.input_size,1):
+                #     label = np.array([1/3,1/3,1/3])
+                label = np.full((self.input_size - len(x_train_raw[i]),len(labels)), 1/3)
+            #     # label 
+            for k in range(self.input_size - len(x_train_raw[i])):
+                    y_traini.append(label[k])
+                    x_traini.append(temp[k])
+                
             x_train.append(x_traini)
             y_train.append(y_traini)
         

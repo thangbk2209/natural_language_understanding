@@ -1,0 +1,10002 @@
+mua	B_W
+cho	B_W
+tôi	B_W
+80	O
+cổ	B_W
+phiếu	I_W
+
+mua	B-W
+cho	B_W
+tôi	B_W
+80	O
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+29.9	O
+
+mua	B_W
+cho	B_W
+tôi	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+21.1	O
+
+mua	B_W
+cho	B_W
+tôi	B_W
+800	O
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+34,1	O
+
+mua	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+giá	B_W
+26	O
+
+mua	B_W
+thêm	B_W
+660	O
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+giá	B_W
+45.7	O
+
+mua	B_W
+thêm	B_W
+700	O
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+giá	B_W
+50	O
+
+mua	B_W
+cho	B_W
+tôi	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+760	O
+giá	B_W
+65.5	O
+
+mua	B_W
+cho	B_W
+tôi	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+giá	B_W
+45.7	O
+với	B_W
+khối	B_W
+lượng	I_W
+350	O
+cổ	B_W
+phiếu	I_W
+
+mua	B_W
+cho	B_W
+tôi	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+750	O
+giá	B_W
+65.5	O
+
+mua	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+430	O
+giá	B_W
+13.9	O
+
+mua	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+330	O
+giá	B_W
+cổ	B_W
+phiếu	I_W
+20.8	O
+
+mua	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+giá	B_W
+14.8	O
+với	B_W
+khối	B_W
+lượng	I_W
+760	O
+
+mua	B_W
+400	O
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+giá	B_W
+43.5	O
+
+mua	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+giá	B_W
+19.9	O
+với	B_W
+khối	B_W
+lượng	I_W
+2000	O
+cổ	B_W
+phiếu	I_W
+
+mua	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+460	O
+giá	B_W
+34	O
+
+mua	B_W
+460	O
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+giá	B_W
+34	O
+
+mua	B_W
+cho	B_W
+tôi	B_W
+450	O
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+giá	B_W
+14.8	O
+
+mua	B_W
+cho	B_W
+tôi	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+giá	B_W
+45	O
+
+mua	B_W
+cho	B_W
+tôi	B_W
+600	O
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+giá	B_W
+34	O
+
+mua	B_W
+100	O
+cổ	B_W
+SSI	B_W
+giá	B_W
+21.5	O
+
+bán	B_W
+100	O
+cổ	B_W
+giá	B_W
+21	O
+mã	B_W
+SSI	B_W
+
+bán	B_W
+100	O
+cổ	B_W
+ssi	B_W
+giá	B_W
+21.4	O
+
+bán	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W	
+SSI	B_W
+
+tôi	B_W
+muốn	B_W
+bán	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+khối	B_W
+lương	I_W
+1000	O
+và	B_W
+giá	B_W
+15.5	O
+
+bán	B_W
+hết	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+13.3	O
+
+bán	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+25.5	O
+và	B_W
+khối	B_W
+lượng	I_W
+70	O
+cổ	B_W
+phiếu	I_W
+
+bán	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+40	O
+cổ	B_W
+phiếu	I_W
+và	B_W
+giá	B_W
+20	O
+
+bán	B_W
+100	O
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+25	O
+
+bán	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+27	O
+và	B_W
+khối	B_W
+lượng	I_W
+130	O
+
+bán	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+150	O
+cổ	B_W
+phiếu	I_W
+và	B_W
+giá	B_W
+23	O
+
+bán	B_W
+110	O
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+24.5	O
+
+bán	B_W
+hết	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+22.4	O
+
+bán	B_W
+hết	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+23.6	O
+
+bán	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+20.5	O
+
+bán	B_W
+130	O
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+24	O
+
+bán	B_W
+cho	B_W
+tôi	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+23.5	O
+và	B_W
+khối	B_W
+lượng	I_W
+1000	O
+
+bán	B_W
+cho	B_W
+tôi	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+23.5	O
+và	B_W
+khối	B_W
+lượng	I_W
+150	O
+
+bán	B_W
+cho	B_W
+tôi	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+160	O
+và	B_W
+giá	B_W
+23	O
+
+bán	B_W
+cho	B_W
+tôi	B_W
+800	O
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+15.5	O
+
+bán	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+giá	B_W
+20	O
+với	B_W
+khối	B_W
+lượng	I_W
+330	O
+cổ	B_W
+phiếu	I_W
+
+bán	B_W
+550	O
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+giá	B_W
+150	O
+
+bán	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+giá	B_W
+50	O
+với	B_W
+khối	B_W
+lượng	I_W
+1000	O
+
+bán	B_W
+580	O
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+giá	B_W
+45.5	O
+
+bán	B_W
+hết	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+giá	B_W
+23.6	O
+
+bán	B_W
+hết	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+giá	B_W
+24	O
+
+bán	B_W
+hết	B_W
+con	B_W
+SSI	B_W
+giá	B_W
+34.8	O
+
+bán	B_W
+800	O
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+giá	B_W
+56.5	O
+
+bán	B_W
+cho	B_W
+tôi	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+giá	B_W
+45.5	O
+với	B_W
+khối	B_W
+lượng	I_W
+550	O
+cổ	B_W
+phiếu	I_W
+
+bán	B_W
+cho	B_W
+tôi	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+giá	B_W
+52.5	O
+với	B_W
+khối	B_W
+lượng	I_W
+500	O
+
+bán	B_W
+cho	B_W
+tôi	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+560	O
+giá	B_W
+34.7	O
+
+bán	B_W
+cho	B_W
+tôi	B_W
+700	O
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+giá	B_W
+25	O
+
+bán	B_W
+ra	B_W
+SSI	B_W
+
+gom	B_W
+vào	B_W
+mã	B_W
+SSI	B_W
+
+gom	B_W
+thêm	B_W
+mã	B_W
+SSI	B_W
+
+gom	B_W
+cổ	B_W
+phiếu	I_W	
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+100	O
+cổ	B_W
+phiếu
+và	B_W
+giá	B_W
+15.5	O
+
+thoát	B_W
+hàng	B_W
+mã	B_W
+SSI	B_W
+
+thoát	B_W
+hàng	B_W
+SSI	B_W
+
+thoát	B_W
+toàn	B_W
+bộ	I_W
+hàng	B_W
+mã	B_W
+SSI	B_W
+
+thoát	B_W
+hàng	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+thoát	B_W
+hàng	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+thoát	B_W
+toàn	B_W
+bộ	I_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+thoát	B_W
+toàn	B_W
+bộ	I_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+xả	B_W
+ra	B_W
+SSI	B_W
+
+xả	B_W
+ra	B_W	
+mã	B_W
+SSI	B_W
+
+xả	B_W
+ra	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xả	B_W
+ra	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+xả	B_W
+ra	B_W
+toàn	B_W
+bộ	I_W
+SSI	B_W
+
+xả	B_W
+ra	B_W
+toàn	B_W
+bộ	I_W
+mã	B_W
+SSI	B_W
+
+xả	B_W
+ra	B_W
+toàn	B_W
+bộ	I_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+xả	B_W
+ra	B_W
+toàn	B_W
+bộ	I_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+mã	B_W
+SSI	B_W
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+mua	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+15.5	O
+và	B_W
+khối	B_W
+lượng	I_W
+210	O
+cổ	B_W
+phiếu	I_W
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+mua	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+210	O
+và	B_W
+giá	B_W
+19.8	O
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+mua	B_W
+900	O
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+15.5	O
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+bán	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+13.5	O
+và	B_W
+khối	B_W
+lượng	I_W
+200	O
+cổ	B_W
+phiếu	I_W
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+bán	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+150	O
+và	B_W
+giá	B_W
+21.5	O
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+bán	B_W
+500	O
+cổ	B_W
+phiếu
+SSI	B_W
+với	B_W
+giá	B_W
+15.5	O
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+mua	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+13.9	O
+và	B_W
+khối	B_W
+lượng	I_W
+200	O
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+mua	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+240	O
+và	B_W
+giá	B_W
+24.5	O
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+bán	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+25.8	O
+và	B_W
+khối	B_W
+lượng	I_W
+250	O
+cổ	B_W
+phiếu	I_W
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+bán	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+400	O
+và	B_W
+giá	B_W
+23.5	O
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+mua	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+25.7	O
+và	B_W
+khối	B_W
+lượng	I_W
+290	O
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+mua	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+250	O
+và	B_W
+giá	B_W
+40	O
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+mua	B_W
+1000	O
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+24.7	O
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+bán	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+34.6	O
+và	B_W
+khối	B_W
+lượng	I_W
+270	O
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+bán	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+150	O
+và	B_W
+giá	B_W
+34	O
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+bán	B_W
+2000	O
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+34.5	O
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+mua	B_W
+cổ	B_W
+phiếu	
+SSI	B_W
+giá	B_W
+43	O
+với	B_W
+khối	B_W
+lượng	I_W
+1000	O
+cổ	B_W
+phiếu	I_W
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+mua	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+450	O
+giá	B_W
+25	O
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+mua	B_W
+580	O
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+giá	B_W
+43	O
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+bán	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+giá	B_W
+29	O
+với	B_W
+khối	B_W
+lượng	I_W
+550	O
+cổ	B_W
+phiếu	I_W
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+bán	B_W
+cổ	B_W
+phiếu
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+600	O
+giá	B_W
+34	O
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+bán	B_W
+590	O
+cổ	B_W
+phiếu
+SSI	B_W
+giá	B_W
+23.8	O
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+mua	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+giá	B_W
+54	O
+với	B_W
+khối	B_W
+lượng	I_W
+1000	O
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+mua	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+460	O
+giá	B_W
+23.7	O
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+bán	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+giá	B_W
+34	O
+với	B_W
+khối	B_W
+lượng	I_W
+2000	O
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+bán	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+550	O
+giá	B_W
+25.8	O
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+mua	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+giá	B_W
+43	O
+với	B_W
+khối	B_W
+lượng	I_W
+600	O
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+mua	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+780	O
+giá	B_W
+35.6	O
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+mua	B_W
+760	O
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+giá	B_W
+23.8	O
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+bán	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+giá	B_W
+43	O
+với	B_W
+khối	B_W
+lượng	I_W
+2300	O
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+bán	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+1500	O
+giá	B_W
+65.5	O
+
+tôi	B_W
+muốn	B_W
+giao	B_W
+dịch	I_W
+bán	B_W
+1300	O
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+giá	B_W
+81.5	O
+
+đầu	B_W
+tư	I_W
+thêm	B_W
+100	O
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+giá	B_W
+30	O
+
+đầu	B_W
+tư	I_W
+vào	B_W
+mã	B_W
+SSI	B_W
+
+đầu	B_W
+tư	I_W
+10	O
+triệu	B_W
+vào	B_W
+mã	B_W
+ssi	B_W
+
+đầu	B_W
+tư	I_W
+12	O
+triệu	B_W
+vào	B_W
+mã	B_W
+ssi	B_W
+và	B_W
+10	O
+triệu	B_W
+vào	B_W
+mã	B_W
+acb	B_W
+
+tôi	B_W
+muốn	B_W
+chi	B_W
+12	O
+triệu	B_W
+vào	B_W
+100	O
+cổ	B_W
+phiếu	I_W
+ssi	B_W
+
+tôi	B_W
+muốn	B_W
+chi	B_W
+12	O
+triệu	B_W
+cho	B_W
+cp	B_W
+ssi	B_W
+
+tôi	B_W
+muốn	B_W
+đầu	B_W
+tư	I_W
+12	O
+triệu	B_W
+vào	B_W
+mã	B_W
+ssi	B_W
+
+tôi	B_W
+muốn	B_W
+đầu	B_W
+tư	I_W
+12	O
+triệu	B_W
+vào	B_W
+mã	B_W
+acb	B_W
+với	B_W
+giá	B_W
+12.6	O
+
+tôi	B_W
+muốn	B_W	
+đầu	B_W
+tư	I_W
+12	O
+triệu	B_W
+cho	B_W
+1000	O
+cổ	B_W
+phiếu	I_W
+acb	B_W
+
+tôi	B_W
+muốn	B_W
+đầu	B_W
+tư	I_W
+12	O
+triệu	B_W
+cho	B_W
+1000	O
+cổ	B_W
+ssi	B_W
+
+lấy	B_W
+thêm	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+50	O
+cổ	B_W
+phiếu	I_W
+và	B_W
+giá	B_W
+23.5	O
+
+lấy	B_W
+thêm	B_W
+150	O
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+30	O
+
+lấy	B_W
+thêm	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+130	O
+và	B_W
+giá	B_W
+23.4	O
+
+lấy	B_W
+thêm	B_W
+50	O
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+23.4	O
+
+lấy	B_W
+thêm	B_W
+320	O
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+giá	B_W
+32.1	O
+
+lấy	B_W
+thêm	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+32	O
+giá	B_W
+50	O
+
+lấy	B_W
+thêm	B_W
+300	O
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+giá	B_W
+100	O
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+lệnh	B_W
+mua	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+23.9	O
+và	B_W
+khối	B_W
+lượng	I_W
+500	O
+cổ	B_W
+phiếu	I_W
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+lệnh	B_W
+mua	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+340	O
+và	B_W
+giá	B_W
+23.3	O
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+lệnh	B_W
+mua	B_W
+550	O
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+23.4	O
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+lệnh	B_W
+bán	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+32.1	O
+và	B_W
+khối	B_W
+lượng	I_W
+1200	O
+cổ	B_W
+phiếu	I_W
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+lệnh	B_W
+bán	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+430	O
+và	B_W
+giá	B_W
+24.5	O
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+lệnh	B_W
+bán	B_W
+900	O
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+25.7	O
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+lệnh	B_W
+mua	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+32.1	O
+và	B_W
+khối	B_W
+lượng	I_W
+430	O
+cổ	B_W
+phiếu	I_W
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+lệnh	B_W
+mua		B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+150	O
+và	B_W
+giá	B_W
+41	O
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+lệnh	B_W
+bán	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+24.4	O
+và	B_W
+khối	B_W
+lượng	I_W
+160	O
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+lệnh	B_W
+bán	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+450	O
+và	B_W
+giá	B_W
+29.1	O
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+lệnh	B_W
+mua	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+32	O
+và	B_W
+khối	B_W
+lượng	I_W
+300	O
+cổ	B_W
+phiếu	I_W
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+lệnh	B_W
+mua	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+450	O
+và	B_W
+giá	B_W
+32.5	O
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+lệnh	B_W
+mua	B_W
+600	O
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+30.5	O
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+lệnh	B_W
+bán	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+25.6	O
+và	B_W
+khối	B_W
+lượng	I_W
+2000	O
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+lệnh	B_W	
+bán	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+450	O
+và	B_W
+giá	B_W
+26.8	O
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+lệnh	B_W
+bán	B_W
+350	O
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+với	B_W
+giá	B_W
+23.3	O
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+lệnh	B_W
+mua	B_W
+cổ	B_W
+phiếu	I_W	
+SSI	B_W
+giá	B_W
+50	O
+với	B_W
+khối	B_W
+lượng	I_W
+1200	O
+cổ	B_W
+phiếu	I_W
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+lệnh	B_W
+mua	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+1000	O
+giá	B_W
+100
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+lệnh	B_W
+mua	B_W
+1400	O
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+giá	B_W
+57.5	O
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+lệnh	B_W
+bán	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+giá	B_W
+100	O
+với	B_W
+khối	B_W
+lượng	I_W
+2000	O
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+lệnh	B_W
+bán	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+2300	O
+giá	B_W
+90	O
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+lệnh	B_W
+bán	B_W
+1300	O
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+giá	B_W
+50.8	O
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+lệnh	B_W
+mua	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+giá	B_W
+40.3	O
+với	B_W
+khối	B_W
+lượng	I_W
+1300	O
+cổ	B_W
+phiếu	I_W
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+lệnh	B_W
+mua	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+2300	O
+giá	B_W
+100	O
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+lệnh	B_W
+bán	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+giá	B_W
+100	O
+với	B_W
+khối	B_W
+lượng	I_W
+3000	O
+cổ	B_W
+phiếu	I_W
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+lệnh	B_W
+bán	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+1400	O
+giá	B_W
+56.5	O
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+lệnh	B_W
+mua	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+giá	B_W
+45.5	O
+với	B_W
+khối	B_W
+lượng	I_W
+2300	O
+cổ	B_W
+phiếu	I_W
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+lệnh	B_W
+mua	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+2400	O
+giá	B_W
+150	O
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+lệnh	B_W
+mua	B_W
+1400	O
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+giá	B_W
+80.5	O
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+lệnh	B_W
+bán	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+giá	B_W
+150	O
+với	B_W
+khối	B_W
+lượng	I_W
+2000	O
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+lệnh	B_W
+bán	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+với	B_W
+khối	B_W
+lượng	I_W
+1500	O
+giá	B_W
+89.5	O
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+lệnh	B_W
+bán	B_W
+1400	O
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+giá	B_W
+59.5	O
+
+đặt	B_W
+lệnh	B_W
+bán	B_W
+SSI	B_W
+
+đặt	B_W
+lệnh	B_W
+mua	B_W
+SSI	B_W
+
+đặt	B_W
+lệnh	B_W
+mua	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+giá	B_W
+23	O
+và	B_W
+khối	B_W
+lượng	I_W
+120	O
+cổ	B_W
+phiếu	I_W
+
+đặt	B_W
+lệnh	B_W
+bán	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+giá	B_W
+21.2	O
+và	B_W
+khối	B_W
+lượng	I_W
+100	O
+cổ	B_W
+phiếu	I_W
+
+đặt	B_W
+bán	B_W
+100	O
+SSI	B_W
+giá	B_W
+19.5	O
+
+đặt	B_W
+mua	B_W
+50	O
+cổ	B_W
+SSI	B_W	
+giá	B_W
+20	O
+
+đặt	B_W
+mua	B_W
+cổ	B_W
+SSI	B_W
+số	B_W
+lượng
+50	O
+giá	B_W
+21	O
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+bán	B_W
+100	O
+ssi	B_W
+giá	B_W
+18.4	O
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+bán	B_W
+50	O
+cổ	B_W
+ssi	B_W
+giá	B_W
+20	O
+
+tôi	B_W
+muốn	B_W
+đặt	B_W
+mua	B_W
+cổ	B_W
+ssi	B_W
+số	B_W
+lượng	I_W
+20	O
+giá	B_W
+21	O
+
+tôi	B_W
+cần	B_W
+đặt	B_W
+mua	B_W
+120	O
+cổ	B_W
+ssi	B_W
+giá	B_W
+12.5	O
+
+tôi	B_W
+cần	B_W
+bán	B_W
+120	O
+cổ	B_W
+ssi	B_W
+giá	B_W
+12.4	O
+
+tôi	B_W
+cần	B_W
+bán	B_W
+120	O
+cổ	B_W
+phiếu	I_W
+ssi	B_W
+giá	B_W
+11.2	O
+
+thị	B_W
+trường	I_W
+hôm	B_W
+nay	I_W
+thế	B_W
+nào	I_W
+rồi	B_W
+
+thị	B_W
+trường	I_W
+thế	B_W
+nào	I_W
+
+thị	B_W
+trường	I_W
+hiện	B_W
+đang	B_W
+thế	B_W
+nào	I_W
+
+tình	B_W
+hình	I_W
+thị	B_W
+trường	I_W
+thế	B_W
+nào	I_W
+rồi	B_W
+
+lên	B_W
+xuống	B_W
+thế	B_W
+nào	I_W
+
+thị	B_W
+trường	I_W
+lên	B_W
+xuống	B_W
+thế	B_W
+nào	I_W
+
+thị	B_W
+trường	I_W
+biến	B_W
+động	I_W
+ra	B_W
+sao	I_W
+
+diễn	B_W
+biến	I_W
+thị	B_W
+trường	I_W
+ra	B_W
+sao	I_W
+
+tình	B_W
+hình	I_W
+diễn	B_W
+biến	I_W
+mã	B_W
+ssi	B_W
+thế	B_W
+nào	I_W
+
+thị	B_W
+trường	I_W
+biến	B_W
+động	I_W
+thế	B_W
+nào	I_W
+
+tình	B_W
+hình	I_W
+biến	B_W
+động	I_W
+mã	B_W
+ssi	B_W
+
+hôm	B_W
+nay	I_W
+biến	B_W
+động	I_W
+thế	B_W
+nào	I_W
+
+tổng	B_W
+quan	I_W
+thị	B_W
+trường	I_W
+
+tổng	B_W
+quan	I_W
+thị	B_W
+trường	I_W
+chứng	B_W
+khoán	I_W
+
+thông	B_W
+tin	I_W
+thị	B_W
+trường	I_W
+
+thông	B_W
+tin	I_W
+giao	B_W
+dịch	I_W
+
+thị	B_W
+trường	I_W
+đang	B_W
+giao	B_W
+dịch	I_W
+như	B_W
+thế	B_W
+nào	I_W
+
+tình	B_W
+hình	I_W
+giao	B_W
+dịch	I_W
+thế	B_W
+nào	I_W
+rồi	B_W
+
+tình	B_W
+hình	I_W
+giao	B_W
+dịch	I_W
+tích	B_W
+cực	I_W
+chứ	B_W
+?	O
+
+tình	B_W
+hình	I_W
+giao	B_W
+dịch	I_W
+có	B_W
+tiêu	B_W
+cực	I_W
+không	B_W
+?	O
+
+đang	B_W
+giao	B_W
+dịch	I_W
+thế	B_W
+nào	I_W
+
+số	B_W
+lượng	I_W
+mã	B_W
+ssi	B_W
+đang	B_W
+giao	B_W
+dịch	I_W
+có	B_W
+nhiều	B_W
+không	B_W
+?	O
+
+thanh	B_W
+khoản	I_W
+hôm	B_W
+nay	I_W
+cao	B_W
+chứ	B_W
+
+thanh	B_W
+khoản	I_W
+mã	B_W
+ssi	B_W
+có	B_W
+đột	B_W
+biến	I_W
+không	B_W
+
+thanh	B_W
+khoản	I_W
+hôm	B_W
+nay	I_W
+cao	B_W
+hay	B_W
+thấp	B_W
+
+thanh	B_W
+khoản	I_W
+hôm	B_W
+nay	I_W
+có	B_W
+sụt	B_W
+giảm	I_W
+không	B_W
+
+thanh	B_W
+khoản	I_W
+hôm	B_W
+nay	I_W
+tăng	B_W
+nhiều	B_W
+không	B_W
+?	O
+
+thanh	B_W
+khoản	I_W
+hôm	B_W
+nay	I_W
+giảm	B_W
+nhiều	B_W
+hay	B_W
+ít	B_W
+
+thanh	B_W
+khoản	I_W
+hôm	B_W
+nay	I_W
+thế	B_W
+nào	I_W
+rồi	B_W
+?	O
+
+tình	B_W
+hình	I_W
+thanh	B_W
+khoản	I_W
+thế	B_W
+nào	I_W
+rồi	B_W
+?	O
+
+thanh	B_W
+khoản	I_W
+thấp	B_W
+lắm	B_W
+à	B_W
+?	O
+
+thanh	B_W
+khoản	I_W
+có	B_W
+cao	B_W
+không	B_W
+?	O
+
+thanh	B_W
+khoản	I_W
+ssi	B_W
+có	B_W
+cao	B_W
+không	B_W
+?	O
+
+thanh	B_W
+khoản	I_W
+có	B_W
+đột	B_W
+biến	I_W
+không	B_W
+?	O
+
+thanh	B_W
+khoản	I_W
+hiện	B_W
+đang	B_W
+thế	B_W
+nào		I_W
+?	O
+
+thanh	B_W
+khoản	I_W
+ssi	B_W
+hiện	B_W
+đang	B_W
+thế	B_W
+nào	I_W
+?	O
+
+hiện	B_W
+đang	B_W
+ra	B_W
+sao	I_W
+
+mã	B_W
+ssi	B_W
+hiện	B_W
+đang	I_W
+ra	B_W
+sao	I_W
+
+mã	B_W
+ssi	B_W
+hiện	B_W
+đang	B_W
+thế	B_W
+nào	I_W
+
+giá	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+như	B_W
+thế	B_W
+nào	I_W
+?	O
+
+mã	B_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+có	B_W
+ổn	B_W
+không	B_W
+?	O
+
+mã	B_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+có	B_W
+biến	B_W
+động	I_W
+nhiều	B_W
+không	B_W
+?	O
+
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+thế	B_W
+nào	I_W
+nhỉ	B_W
+?	O
+
+mã	B_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+như	B_W
+nào	I_W
+nhỉ	B_W
+?	O
+
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+thế	B_W
+nào	I_W
+?	O
+
+mã	B_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+tốt	B_W
+không	B_W
+?	O
+
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+thế	B_W
+nào	I_W
+?	O
+
+SSI	B_W
+hôm	B_W
+nay	I_W
+thế	B_W
+nào	I_W
+nhỉ	B_W
+?	O
+
+xem	B_W
+mã	B_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+xem	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+hiện	B_W
+ra	B_W
+sao	I_W
+
+xem	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+thế	B_W
+nào	I_W
+
+xem	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+biến	B_W
+động	I_W
+ra	B_W
+sao	I_W
+
+xem	B_W
+biến	B_W
+động	I_W
+mã	B_W
+SSI	B_W
+
+xem	B_W
+biến	B_W
+động	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+xem	B_W
+biến	B_W
+động	I_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+ra	B_W
+sao	I_W
+
+xem	B_W
+hôm	B_W
+nay	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+biến	B_W
+động	I_W
+như	B_W
+thế	B_W
+nào	I_W
+
+xem	B_W
+hôm	B_W
+nay	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+biến	B_W
+động	I_W
+ra	B_W
+sao	I_W
+
+xem	B_W
+tình	B_W
+hình	I_W
+mã	B_W
+SSI	B_W
+
+xem	B_W
+tình	B_W
+hình	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+xem	B_W
+tình	B_W
+hình	I_W
+biến	B_W
+động	I_W
+mã	B_W
+SSI	B_W
+
+xem	B_W
+tình	B_W
+hình	I_W
+biến	B_W
+động	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+xem	B_W
+diễn	B_W
+biến	I_W
+mã	B_W
+SSI	B_W
+
+xem	B_W
+diễn	B_W
+biến	I_W
+hôm	B_W
+nay	I_W
+của	B_W
+mã	B_W
+SSI	B_W
+
+xem	B_W
+diễn	B_W
+biến	I_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+xem	B_W
+diễn	B_W
+biến	I_W
+mã	B_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+xem	B_W
+kết	B_W
+quả	I_W
+giao	B_W
+dịch	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+kết	B_W
+quả	I_W
+giao	B_W
+dịch	I_W
+mã	B_W
+SSI	B_W
+hiện	B_W
+tại	I_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+giao	B_W
+dịch	I_W
+mã	B_W
+SSI	B_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+giao	B_W
+dịch	I_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+xem	B_W
+tổng	B_W
+quan	I_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+xem	B_W
+khối	B_W
+lượng	I_W
+giao	B_W
+dịch	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+xem	B_W
+giá	B_W
+mở	B_W
+cửa	B_W
+hôm	B_W
+nay	I_W
+của	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+xem	B_W
+giá	B_W
+đóng	B_W
+cửa	B_W
+hôm	B_W
+qua	I_W
+mã	B_W
+SSI	B_W
+
+xem	B_W
+giá	B_W
+hiện	B_W
+tại	I_W
+của	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+giá	B_W
+hiện	B_W
+tại	I_W
+của	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+xem	B_W
+lịch	B_W
+sử	I_W
+giá	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+biến	B_W
+động	I_W
+lên	B_W
+xuống	B_W
+của	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+xem	B_W
+lịch	B_W
+sử	I_W
+giao	B_W
+dịch	I_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+xem	B_W
+lịch	B_W
+sử	I_W
+giao	B_W
+dịch	I_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+cập	B_W
+nhật	I_W
+về	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+xem	B_W
+cập	B_W
+nhật	I_W
+tình	B_W
+hình	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+cập	B_W
+nhật	I_W
+thông	B_W
+tin	I_W
+mã	B_W
+SSI	B_W
+
+xem	B_W
+cập	B_W
+nhật	I_W
+thông	B_W
+tin	I_W
+giao	B_W
+dịch	I_W
+mã	B_W
+SSI	B_W
+
+xem	B_W
+cập	B_W
+nhật	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+xem	B_W
+cập	B_W
+nhật	I_W
+tình	B_W
+hình	I_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+xem	B_W
+cập	B_W
+nhật	I_W
+thông	B_W
+tin	I_W
+mã	B_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+xem	B_W
+cập	B_W
+nhật	I_W
+thông	B_W
+tin	I_W
+giao	B_W
+dịch	I_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+chung	B_W
+về	B_W
+mã	B_W
+SSI	B_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+tổng	B_W
+quan	I_W
+
+xem	B_W
+toàn	B_W
+cảnh	I_W
+về	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+toàn	B_W
+cảnh	I_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+xem	B_W
+bao	B_W
+quát	I_W
+mã	B_W
+SSI	B_W
+xem	B_W
+giá	B_W
+trị	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+báo	B_W
+cáo	I_W
+kết	B_W
+quả	I_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+báo	B_W
+cáo	I_W
+kết	B_W
+quả	I_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+xem	B_W
+nhận	B_W
+định	I_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+nhận	B_W
+định	I_W
+mã	B_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+xem	B_W
+nhận	B_W
+định	I_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+nhận	B_W
+định	I_W
+giá	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+nhận	B_W
+định	I_W	
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+xem	B_W
+nhận	B_W
+định	I_W
+giá	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+xem	B_W
+tin	B_W
+tức	I_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+xem	B_W
+tin	B_W
+nhanh	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+giá	B_W
+khớp	B_W
+lệnh	I_W
+của	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+mã	B_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+hiển	B_W
+thị	I_W
+biến	B_W
+động	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+biến	B_W
+động	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+hiển	B_W
+thị	I_W
+tình	B_W
+hình	I_W
+mã	B_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+tình	B_W
+hình	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+hiển	B_W
+thị	I_W
+tình	B_W
+hình	I_W
+biến	B_W
+động	I_W
+cổ	B_W
+phiếu	I_W	
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+tình	B_W
+hình	I_W
+biến	B_W
+động	I_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+hiển	B_W
+thị	I_W
+diễn	B_W
+biến	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+diễn	B_W
+biến	I_W
+hôm	B_W
+nay	I_W
+của	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+hiển	B-W
+thị	I_W
+diễn	B_W
+biến	I_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+hiển	B_W
+thị	I_W
+diễn	B_W
+biến	I_W
+giao	B_W
+dịch	I_W
+mã	B_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+hiển	B_W
+thị	I_W
+kết	B_W
+quả	I_W
+giao	B_W
+dịch	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+kết	B_W
+quả	I_W
+giao	B_W
+dịch	I_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+hiện	B_W
+tại	I_W
+
+hiển	B_W
+thị	I_W
+thông	B_W
+tin	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+thông	B_W
+tin	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+thông	B_W
+tin	I_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+thông	B_W
+tin	I_W
+giao	B_W
+dịch	I_W
+mã	B_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+thông	B_W
+tin	I_W
+giao	B_W
+dịch	I_W
+của	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+hiển	B_W
+thị	I_W
+tổng	B_W
+quan	I_W
+mã	B_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+hiển	B_W
+thị	I_W
+khối	B_W
+lượng	I_W
+giao	B_W
+dịch	I_W
+của	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+hiển	B_W
+thị	I_W
+giá	B_W
+mở	B_W
+cửa	B_W
+hôm	B_W
+nay	I_W
+của	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+giá	B_W
+đóng	B_W
+cửa	B_W
+hôm	B_W
+qua	I_W
+của	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+giá	B_W
+hiện	B_W
+tại	I_W
+của	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+giá	B_W
+hiện	B_W
+tại	I_W
+của	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+lịch	B_W
+sử	I_W
+giá	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+biến	B_W
+động	I_W
+lên	B_W
+xuống	B_W
+của	B_W
+mã	B_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+lịch	B_W
+sử	I_W
+giao	B_W
+dịch	I_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+lịch	B_W
+sử	I_W
+giao	B_W
+dịch	I_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+cập	B_W
+nhật	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+cập	B_W
+nhật	I_W
+tình	B_W
+hình	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+cập	B_W
+nhật	I_W
+thông	B_W
+tin	I_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+cập	B_W
+nhật	I_W
+thông	B_W
+tin	I_W
+giao	B_W
+dịch	I_W
+mã	B_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+cập	B_W
+nhật	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+hiển	B_W
+thị	I_W
+cập	B_W
+nhật	I_W
+tình	B_W
+hình	I_W
+mã	B_W
+chứng	B_W
+khoán
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+hiển	B_W
+thị	I_W
+cập	B_W
+nhật	I_W
+thông	B_W
+tin	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+hiển	B_W
+thị	I_W
+cập	B_W
+nhật	I_W
+thông	B_W
+tin	I_W
+giao	B_W
+dịch	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+hiển	B_W
+thị	I_W
+thông	B_W
+tin	I_W
+chung	B_W
+về	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+thông	B_W
+tin	I_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+tổng	B_W
+quan	I_W		
+
+hiển	B_W
+thị	I_W
+toàn	B_W
+cảnh	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+toàn	B_W
+cảnh	I_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+hiển	B_W
+thị	I_W
+bao	B_W
+quát	I_W
+về	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+giá	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+báo	B_W
+cáo	I_W
+kết	B_W
+quả	I_W
+của	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+báo	B_W
+cáo	I_W
+kết	B_W
+quả	I_W
+của	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+nhận	B_W
+định	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+nhận	B_W
+định	I_W
+mã	B_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+hiển	B_W
+thị	I_W
+nhận	B_W
+định	I_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+nhận	B_W
+định	I_W
+giá	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+nhận	B_W
+định	I_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+nhận	B_W
+định	I_W
+giá	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+tin	B_W
+tức	I_W
+về	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+hiển	B_W
+thị	I_W
+tin	B_W
+nhanh	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+tin	B_W
+nhanh	I_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+xem	B_W
+giá	B_W
+khớp	B_W
+lệnh	I_W
+của	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+xem	B_W
+giá	B_W
+khớp	B_W
+lệnh	I_W
+của	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+hiển	B_W
+thị	I_W
+thông	B_W
+tin	I_W
+giá	B_W
+khớp	B_W
+lệnh	I_W
+của	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+thế	B_W
+nào	I_W
+
+mã	B_W
+SSI	B_W
+biến	B_W
+động	I_W
+ra	B_W
+sao	I_W
+
+tổng	B_W
+quan	I_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+thị	B_W
+trường	I_W
+tổng	B_W
+quan	I_W	
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+thông	B_W
+tin	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+thông	B_W
+tin	I_W
+giao	B_W
+dịch	I_W
+về	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+đang	B_W
+giao	B_W
+dịch	I_W
+thế	B_W
+nào	I_W
+
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hiện	B_W
+ra	I_W
+sao	B_W
+
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+thế	B_W
+nào	I_W
+
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+biến	B_W
+động	I_W
+ra	B_W
+sao	I_W
+
+biến	B_W
+động	I_W
+mã	B_W
+SSI	B_W
+
+biến	B_W
+động	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+biến	B_W
+động	I_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+ra	B_W
+sao	I_W
+
+hôm	B_W
+nay	I_W
+mã	B_W
+SSI	B_W
+biến	B_W
+động	I_W
+như	B_W
+thế	B_W
+nào	I_W
+
+hôm	B_W
+nay	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+biến	B_W
+động	I_W
+ra	B_W
+sao	I_W
+
+tình	B_W
+hình	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+tình	B_W
+hình	I_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+tình	B_W
+hình	I_W
+biến	B_W
+động	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+tình	B_W
+hình	I_W
+biến	B_W
+động	I_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+diễn	B_W
+biến	I_W
+mã	B_W
+cổ	B_W
+phiếu	I_W	
+SSI		B_W
+
+diễn	B_W
+biến	I_W
+hôm	B_W
+nay	I_W
+của	B_W
+cổ	B_W
+piếu	I_W
+SSI	B_W
+
+diễn	B_W
+biến	I_W
+hôm	B_W
+nay	I_W
+của	B_W
+mã	B_W
+SSI	B_W
+
+diễn	B_W
+biến	I_W
+giao	B_W
+dịch	I_W
+mã	B_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+mã	B_W
+ssi	B_W
+diễn	B_W
+biến	I_W
+thế	B_W
+nào	I_W
+rồi	B_W
+
+tình	B_W
+hình	I_W
+diễn	B_W
+biến	I_W
+mã	B_W
+ssi	B_W
+thế	B_W
+nào	I_W
+rồi	B_W
+
+kết	B_W
+quả	I_W
+giao	B_W
+dịch	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+kết	B_W
+quả	I_W
+giao	B_W
+dịch	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+hiện	B_W
+tại	I_W
+
+thông	B_W
+tin	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+thông	B_W
+tin	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+thông	B_W
+tin	I_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+thông	B_W
+tin	I_W
+giao	B_W
+dịch	I_W
+của	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+thông	B_W
+tin	I_W
+giao	B_W
+dịch	I_W
+mã	B_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+tổng	B_W
+quan	I_W
+về	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+khối	B_W
+lượng	I_W
+giao	B_W
+dịch	I_W
+của	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+giá	B_W
+mở	B_W
+cửa	B_W
+hôm	B_W
+nay	I_W
+của	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+giá	B_W
+đóng	B_W
+cửa	B_W
+hôm	B_W
+qua	I_W
+của	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+giá	B_W
+hiện	B_W
+tại	I_W
+của	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+giá	B_W
+hiện	B_W
+tại	I_W
+của	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+lịch	B_W
+sử	I_W
+giá	B_W
+của	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+biến	B_W
+động	I_W
+lên	B_W
+xuống	B_W
+của	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+lịch	B_W
+sử	I_W
+giao	B_W
+dịch	I_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+lịch	B_W
+sử	I_W
+giao	B_W
+dịch	I_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+cập	B_W
+nhật	I_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+cập	B_W
+nhật	I_W
+tình	B_W
+hình	I_W
+mã	B_W
+SSI	B_W
+
+cập	B_W
+nhật	I_W
+thông	B_W
+tin	I_W
+về	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+cập	B_W
+nhật	I_W
+thông	B_W
+tin	I_W
+giao	B_W
+dịch	I_W
+của	B_W
+mã	B_W
+SSI	B_W
+
+cập	B_W
+nhật	I_W
+mã	B_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+cập	B_W
+nhật	I_W
+tình	B_W
+hình	I_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+cập	B_W
+nhật	I_W
+thông	B_W
+tin	I_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+cập	B_W
+nhật	I_W	
+thông	B_W
+tin	I_W
+giao	B_W
+dịch	I_W
+của	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+thông	B_W
+tin	I_W
+chung	B_W
+về	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+thông	B_W
+tin	I_W
+mã	B_W
+SSI	B_W
+tổng	B_W
+quan	I_W
+
+nhận	B_W
+định	I_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+nhận	B_W
+định	I_W
+giá	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+nhận	B_W
+định	I_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+nhận	B_W
+định	I_W
+giá	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+tin	B_W
+tức	I_W
+cổ	B_W
+phiếu
+SSI	B_W
+hôm	B_W
+nay	I_W
+
+tin	B_W
+nhanh	I_W
+về	B_W
+mã	B_W
+SSI	B_W
+
+xem	B_W
+giá	B_W
+khớp	B_W
+lệnh	I_W
+của	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+giá	B_W
+khớp	B_W
+lệnh	I_W
+của	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+xem	B_W
+giá	B_W
+mở	B_W
+cửa	B_W
+mã	B_W
+acb	B_W
+
+hiển	B_W
+thị	I_W
+giá	B_W
+mở	B_W
+cửa	B_W
+ssi	B_W
+sáng	B_W
+nay	I_W
+
+giá	B_W
+mở	B_W
+cửa	B_W
+SSI	B_W
+bao	B_W
+nhiêu	I_W
+nhỉ	B_W
+
+cho	B_W
+tôi	B_W
+xem	B_W
+thông	B_W
+tin	I_W
+về	B_W
+SSI	B_W
+
+SSI	B_W
+lên	B_W
+xuống	B_W
+thế	B_W
+nào	I_W
+
+thông	B_W
+tin	I_W
+về	B_W
+SSI	B_W
+
+mã	B_W
+SSI	B_W
+thế	B_W
+nào	I_W
+rồi	B_W
+
+tôi	B_W
+còn	B_W
+những	B_W
+loại	B_W
+cổ	B_W
+phiếu	I_W
+nào	B_W
+
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+còn	B_W
+những	B_W
+cổ	B_W
+phiếu	I_W
+nào	B_W
+
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+có	B_W
+những	B_W
+cổ	B_W
+phiếu	I_W
+nào	B_W
+
+có	B_W
+những	B_W
+loại	B_W
+cổ	B_W
+phiếu	I_W
+nào	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+
+tài	B_W
+khoản	I_W
+đuôi	B_W
+1	O
+của	B_W
+tôi	B_W
+có	B_W
+những	B_W
+cổ	B_W
+phiếu	I_W
+gì	B_W
+?	O
+
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+còn	B_W
+mã	B_W
+ssi	B_W
+không	B_W
+nhỉ	B_W
+?	O
+
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+có	B_W
+ssi	B_W
+không	B_W
+?	O
+
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+có	B_W
+những	B_W
+mã	B_W
+nào	B_W
+?	O
+
+số	B_W
+lượng	I_W
+cổ	B_W
+phiếu	I_W
+của	B_W
+từng	B_W
+mã	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+
+tôi	B_W
+đang	B_W
+cầm	B_W
+mã	B_W
+nào	B_W
+nhiều	B_W
+nhất	B_W
+?	O
+
+tôi	B_W
+đang	B_W
+giữ	B_W
+những	B_W
+mã	B_W
+nào	B_W
+nhỉ	B_W
+?	O
+
+tôi	B_W
+đang	B_W
+cầm	B_W
+những	B_W
+mã	B_W
+nào	B_W
+nhỉ	B_W
+?	O
+
+tôi	B_W
+đang	B_W
+cầm	B_W
+bao	B_W
+nhiêu	I_W	
+mã	B_W
+ssi	B_W
+
+tôi	B_W
+đang	B_W
+cầm	B_W
+bao	B_W
+nhiêu	I_W
+cổ	B_W
+phiếu	I_W
+mã	B_W
+ssi	B_W
+
+tôi	B_W
+đang	B_W
+giữ	B_W
+bao	B_W
+nhiêu	I_W
+cổ	B_W
+phiếu	I_W
+ssi	B_W
+
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+có	B_W
+đủ	B_W
+1000	O
+mã	B_W
+ssi	B_W
+không	B_W
+?	O
+
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+còn	B_W
+đủ	B_W
+1000	O
+cổ	B_W
+phiếu	I_W
+ssi	B_W
+không	B_W
+?	O
+
+lượng	B_W
+cổ	B_W
+phiếu	I_W
+ssi	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+có	B_W
+đủ	B_W
+1000	O
+không	B_W
+?	O
+
+mã	B_W
+nào	B_W
+tôi	B_W
+đang	B_W
+nắm	B_W
+giữ	I_W
+nhiều	B_W
+nhất	B_W
+nhỉ	B_W
+?	O
+
+mã	B_W
+nào	B_W
+tôi	B_W
+đang	B_W
+nắm	B_W
+giữ	I_W
+ít	B_W
+nhất	B_W
+nhỉ	B_W
+?	O
+
+liệt	B_W
+kê	I_W
+các	B_W
+mã	B_W
+mà	B_W
+tôi	B_W
+đang	B_W
+nắm	B_W
+giữ	I_W
+
+liệt	B_W
+kê	I_W
+các	B_W
+mã	B_W
+và	B_W
+số	B_W
+lượng	I_W
+mà	B_W
+tôi	B_W
+đang	B_W
+nắm	B_W
+giữ	I_W
+
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+còn	B_W
+bao	B_W
+nhiêu	I_W
+cổ	B_W
+phiếu	I_W
+
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+còn	B_W
+bao	B_W
+nhiêu	I_W
+cổ	B_W
+phiếu	I_W
+ssi	B_W
+
+số	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+
+số	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+
+tổng	B_W
+mã	B_W
+SSI	B_W
+tôi	B_W
+đang	B_W
+có	B_W
+
+tổng	B_W
+cp	B_W
+SSI	B_W
+tôi	B_W
+sở	B_W
+hữu	I_W
+
+tôi	B_W
+đang	B_W
+sở	B_W
+hữu	I_W
+bn	B_W
+cp	B_W
+SSI	B_W
+
+kiểm	B_W
+tra	I_W
+số	B_W
+lượng	I_W
+mã	B_W
+SSI	B_W
+
+kiểm	B_W
+tra	I_W
+số	B_W
+lượng	I_W
+cp	B_W
+SSI	B_W
+
+tổng	B_W
+số	I_W
+SSI	B_W
+tôi	B_W
+nắm	B_W
+giữ	I_W
+
+SSI	B_W
+có	B_W
+bao	B_W
+nhiêu	I_W
+cổ	B_W
+
+kiểm	B_W
+tra	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+
+số	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+số	B_W
+dư	B_W
+chứng	B_W
+khoán	I_W
+
+mã	B_W
+cố	B_W
+phiếu	I_W
+ssi	B_W
+còn	B_W
+bao	B_W
+nhiêu	I_W
+?	O
+
+mã	B_W
+cổ	B_W
+phiếu	I_W
+ssi	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+còn	B_W
+bao	B_W
+nhiêu	I_W
+?	O
+
+mã	B_W
+ssi	B_W
+còn	B_W
+bao	B_W
+nhiêu	I_W
+?	O
+
+tôi	B_W
+còn	B_W
+bao	B_W
+nhiêu	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+nữa	B_W
+
+lượng	B_W
+SSI	B_W
+còn	B_W
+lại	I_W
+của	B_W
+tôi	B_W
+là	B_W
+bao	B_W
+nhiêu	I_W
+
+số	B_W
+dư	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+tài	B_W
+khoản	I_W
+đuôi	B_W
+1	O
+có	B_W
+bao	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+tài	B_W
+khoản	I_W
+đuôi	B_W
+6	O
+có	B_W
+bao	B_W
+cổ	B_W
+phiếu	I_W	
+SSI	B_W
+
+có	B_W
+bao	B_W
+nhiêu	I_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+1	O
+
+còn	B_W
+bao	B_W
+nhiêu	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+1	O
+còn	B_W
+bao	B_W
+nhiêu	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+tài	B_W
+khoản	I_W
+đuôi	B_W
+6	O
+còn	B_W
+bao	B_W
+nhiêu	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+6	O
+còn	B_W
+bao	B_W
+nhiêu	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+1	O
+có	B_W
+bao	B_W
+nhiêu	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+6	O
+có	B_W
+bao	B_W
+nhiêu	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+tài	B_W
+khoản	I_W
+đuôi	B_W
+1	O
+có	B_W
+bao	B_W
+chứng	B_W
+khoán	I_W
+
+tài	B_W
+khoản	I_W
+đuôi	B_W
+6	O
+có	B_W
+bao	B_W
+chứng	B_W
+khoán	I_W
+
+có	B_W
+bao	B_W
+nhiêu	I_W
+chứng	B_W
+khoán	I_W
+
+thông	B_W
+tin		I_W
+đầu	B_W
+tư	I_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+đầu	B_W
+tư	I_W
+mã	B_W
+SSI	B_W
+
+thông	B_W
+tin	I_W
+đầu	B_W
+tư	I_W
+mã	B_W
+SSI	B_W
+hiện	B_W
+có	B_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+đầu	B_W
+tư	I_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+hiện	B_W
+có	B_W
+
+thông	B_W
+tin	I_W
+số	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+còn	B_W
+dư	B_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+số	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+còn	B_W
+dư	B_W
+
+thông	B_W
+tin	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+còn	B_W
+lại	B_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+còn	B_W
+lại	B_W
+
+thông	B_W
+tin	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+còn	B_W
+dư	B_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+còn	B_W
+dư	B_W
+
+thông	B_W
+tin	I_W
+số	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+còn	B_W
+lại	B_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+số	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+còn	B_W
+lại	B_W
+
+số	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+còn	B_W
+dư	B_W
+
+xem	B_W
+số	B_W
+dư	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+xem	B_W
+số	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+còn	B_W
+dư	B_W
+
+tổng	B_W
+số	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+xem	B_W
+tổng	B_W
+số	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+số	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+còn	B_W
+lại	B_W
+
+xem	B_W
+số	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+còn	B_W
+lại	B_W
+
+tổng	B_W
+số	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+còn	B_W
+lại	B_W
+
+xem	B_W
+tổng	B_W
+số	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+còn	B_W
+lại	B_W
+
+tổng	B_W
+số	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+còn	B_W
+dư	B_W
+
+xem	B_W
+tổng	B_W
+số	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+còn	B_W
+dư	B_W
+
+tài	B_W
+khoản	I_W
+đuôi	B_W
+1	O
+của	B_W
+tôi	B_W
+còn	B_W
+bao	B_W
+nhiêu	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+xem	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+1	O
+của	B_W
+tôi	B_W
+còn	B_W
+bao	B_W
+nhiêu	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+tài	B_W
+khoản	I_W
+đuôi	B_W
+6	O
+của	B_W
+tôi	B_W
+còn	B_W
+bao	B_W
+nhiêu	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+xem	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+6	O
+của	B_W
+tôi	B_W
+còn	B_W
+bao	B_W
+nhiêu	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+tài	B_W
+khoản	I_W
+đuôi	B_W
+1	O
+của	B_W
+tôi	B_W
+có	B_W
+bao	B_W
+nhiêu	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+xem	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+6	O
+của	B_W
+tôi	B_W
+có	B_W
+bao	B_W
+nhiêu	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+tài	B_W
+khoản	I_W
+đuôi	B_W
+1	O
+của	B_W
+tôi	B_W
+có	B_W
+bao	B_W
+nhiêu	I_W	
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+1	O
+của	B_W
+tôi	B_W
+có	B_W
+bao	B_W
+nhiêu	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+tài	B_W
+khoản	I_W
+đuôi	B_W
+1	O
+của	B_W
+tôi	B_W
+còn	B_W
+bao	B_W
+nhiêu	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+1	O
+của	B_W
+tôi	B_W
+còn	B_W
+bao	B_W
+nhiêu	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+tài	B_W
+khoản	I_W
+đuôi	B_W
+6	O
+của	B_W
+tôi	B_W
+còn	B_W
+bao	B_W
+nhiêu	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+6	O
+của	B_W
+tôi	B_W
+còn	B_W
+bao	B_W
+nhiêu	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+tôi	B_W
+còn	B_W
+nhiều	B_W
+ssi	B_W
+không	B_W
+?	O
+
+tôi	B_W
+còn	B_W
+bao	B_W
+nhiêu	I_W
+ssi	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+nữa	B_W
+nhỉ	B_W
+?	O
+
+còn	B_W
+nhiều	B_W
+ssi	B_W
+không	B_W
+?	O
+
+tôi	B_W
+còn	B_W
+bao	B_W
+nhiêu	I_W
+cổ	B_W
+phiếu	I_W
+ssi	B_W
+?	O
+
+tôi	B_W
+còn	B_W
+mấy	B_W
+cổ	B_W
+phiếu	I_W
+ssi	B_W
+?	O
+
+thông	B_W
+tin	I_W
+số	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+còn	B_W
+dư	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+số	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+còn	B_W
+dư	B_W
+của	B_W
+tôi	B_W
+
+thôngB_W
+tin	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+còn	B_W
+lại	B_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+còn	B_W
+lại	B_W
+
+thông	B_W
+tin	I_W
+cổ	B_W
+phiếu
+SSI	B_W
+của	B_W
+tôi	B_W
+còn	B_W
+dư	B_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+còn	B_W
+dư	B_W
+
+thông	B_W
+tin	I_W
+số	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+còn	B_W
+lại	B_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+số	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+còn	B_W
+lại	B_W
+
+số	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+còn	B_W
+dư	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+số	B_W
+dư	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+số	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+còn	B_W
+dư	B_W
+của	B_W
+tôi	B_W
+
+tổng	B_W
+số	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+tổng	B_W
+số	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+số	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+còn	B_W
+lại	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+số	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+còn	B_W
+lại	B_W
+của	B_W
+tôi	B_W
+
+tổng	B_W
+số	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+còn	B_W
+lại	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+tổng	B_W
+số	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+còn	B_W
+lại	B_W
+của	B_W
+tôi	B_W
+
+tổng	B_W
+số	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+còn	B_W
+dư	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+tổng	B_W
+số	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+còn	B_W
+dư	B_W
+của	B_W
+tôi	B_W
+
+thông	B_W
+tin	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+thông	B_W
+tin	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+thông	B_W
+tin	I_W
+đầu	B_W
+tư	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+đầu	B_W
+tư	I_W
+mã	B_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+thông	B_W
+tin	I_W
+đầu	B_W
+tư	I_W
+của	B_W
+tôi	B_W
+
+hiện	B_W
+có	I_W
+bao	B_W
+nhiêu	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+đầu	B_W
+tư	I_W
+của	B_W
+tôi	B_W
+hiện	B_W
+có	I_W
+bao	B_W
+nhiêu	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+thông	B_W
+tin	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+thông	B_W
+tin	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+thông	B_W
+tin	I_W
+danh	B_W
+mục	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+thông	B_W
+tin	I_W
+danh	B_W
+mục	I_W
+mã	B_W
+SSI	B_W
+hiện	B_W
+có	I_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+thông	B_W
+tin	I_W
+đầu	B_W
+tư	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+thông	B_W
+tin	I_W
+đầu	B_W
+tư	I_W
+mã	B_W
+SSI	B_W
+hiện	B_W
+có	I_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+thông	B_W
+tin	I_W
+số	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+còn	B_W
+dư	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+thông	B_W
+tin	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+còn	B_W
+lại	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+thông	B_W
+tin	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+còn	B_W
+dư	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+thông	B_W
+tin	I_W
+số	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+còn	B_W
+lại	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+số	B_W
+dư	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+số	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+còn	B_W
+dư	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+tổng	B_W
+số	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+số	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+còn	B_W
+lại	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+tổng	B_W
+số	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+còn	B_W
+lại	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+tổng	B_W
+số	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+còn	B_W
+dư	B_W
+
+số	B_W
+dư	B_W
+cổ	B_W
+phiếu	I_W
+ssi	B_W
+là	B_W
+bao	B_W
+nhiêu	I_W
+?	O
+
+số	B_W
+lượng	I_W
+cổ	B_W
+phiếu	I_W
+ssi	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+là	B_W
+bao	B_W
+nhiêu	I_W
+?	O
+
+danh	B_W
+mục	I_W
+ra	B_W
+sao	I_W
+
+danh	B_W
+mục	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+ra	B_W
+sao	I_W
+
+danh	B_W
+mục	I_W
+đầu	B_W
+tư	I_W
+của	B_W
+tôi	B_W
+có	B_W
+bao	B_W
+nhiêu	I_W
+mã	B_W
+SSI	B_W
+
+danh	B_W
+mục	I_W
+đầu	B_W
+tư	I_W
+
+kiểm	B_W
+tra	I_W
+số	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+trong	B_W
+danh	B_W
+mục	I_W
+
+thông	B_W
+tin	I_W
+danh	B_W
+mục	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+danh	B_W
+mục	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+thông	B_W
+tin	I_W
+danh	B_W
+mục	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hiện	B_W
+có	I_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+danh	B_W
+mục	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hiện	B_W
+có	I_W
+
+danh	B_W
+mục	I_W
+mã	B_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+danh	B_W
+mục	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+danh	B_W
+mục	I_W
+đầu	B_W
+tư	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hiện	B_W
+nay	I_W
+
+xem	B_W
+danh	B_W
+mục	I_W
+đầu	B_W
+tư	I_W
+mã	B_W
+cổ	B_W
+phiếu
+SSI	B_W
+hiện	B_W
+nay	I_W
+
+danh	B_W
+mục	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+xem	B_W
+danh	B_W
+mục	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+danh	B_W
+mục	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+danh	B_W
+mục	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+danh	B_W
+mục	I_W
+đầu	B_W
+tư	I_W
+mã	B_W
+SSI	B_W
+hiện	B_W
+có	I_W
+
+xem	B_W
+danh	B_W
+mục	I_W
+đầu	B_W
+tư	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hiện	B_W
+có	I_W
+
+xem	B_W
+danh	B_W
+mục	I_W
+đầu	B_W
+tư	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+danh	B_W
+mục	I_W
+đầu	B_W
+tư	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+danh	B_W
+mục	I_W
+đầu	B_W
+tư	I_W
+mã	B_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+danh	B_W
+mục		I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+danh	B_W
+mục	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+danh	B_W
+mục	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+danh	B_W
+mục	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+danh	B_W
+mục	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hiện	B_W
+có	B_W
+
+xem	B_W
+danh	B_W
+mục	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hiện	B_W
+có	I_W
+
+thông	B_W
+tin	I_W
+danh	B_W
+mục	I_W
+mã	B_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+danh	B_W
+mục	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+thông	B_W
+tin	I_W
+danh	B_W
+mục	I_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+hiện	B_W
+có	I_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+danh	B_W
+mục	I_W
+của	B_W
+tôi	B_W
+hiện	B_W
+có	I_W
+bao	B_W
+nhiêu	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+danh	B_W
+mục	I_W
+đầu	B_W
+tư	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+hiện	B_W
+nay	I_W
+
+xem	B_W
+danh	B_W
+mục	I_W
+đầu	B_W
+tư	I_W
+mã	B_W
+SSI	B_W
+của	B_W
+tôi	B_W
+hiện	B_W
+nay	I_W
+
+danh	B_W
+mục	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+danh	B_W
+mục	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+danh	B_W
+mục	I_W
+đầu	B_W
+tư	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+hiện	B_W
+có	I_W
+
+xem	B_W
+danh	B_W
+mục	I_W
+đầu	B_W
+tư	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+hiện	B_W
+có	I_W
+
+danh	B_W
+mục	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+hiện	B_W
+có	I_W
+
+xem	B_W
+danh	B_W
+mục	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+hiện	B_W
+có	I_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+danh	B_W
+mục	I_W
+đầu	B_W
+tư	I_W
+mã	B_W
+SSI	B_W
+hiện	B_W
+nay	I_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+danh	B_W
+mục	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+danh	B_W
+mục	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+danh	B_W
+mục	I_W
+đầu	B_W
+tư	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hiện	B_W
+có	I_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+danh	B_W
+mục	I_W
+đầu	B_W
+tư	I_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+danh	B_W
+mục	I_W
+đầu	B_W
+tư	I_W
+mã	B_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+danh	B_W
+mục	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+danh	B_W
+mục	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+danh	B_W
+mục	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hiện	B_W
+có	I_W
+
+tình	B_W
+trạng	I_W
+chứng	B_W
+khoán	I_W
+
+tình	B_W
+trạng	I_W
+danh	B_W
+mục	I_W
+
+tình	B_W
+trạng	I_W
+đầu	B_W
+tư	I_W
+
+tình	B_W
+trạng	I_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+tình	B_W
+trạng	I_W
+danh	B_W
+mục	I_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+tình	B_W
+trạng	I_W
+đầu	B_W
+tư	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+tình	B_W
+trạng	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+còn	B_W
+dư	B_W
+
+xem	B_W
+tình	B_W
+trạng	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+còn	B_W
+dư	B_W
+
+tình	B_W
+trạng	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+còn	B_W
+lại	B_W
+
+xem	B_W
+tình	B_W
+trạng	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+còn	B_W
+lại	B_W
+
+tình	B_W
+trạng	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+còn	B_W
+dư	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+tình	B_W
+trạng	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+còn	B_W
+dư	B_W
+của	B_W
+tôi	B_W
+
+tình	B_W
+trạng	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+còn	B_W
+lại	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+tình	B_W
+trạng	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+còn	B_W
+lại	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+tình	B_W
+trạng	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+tình	B_W
+trạng	I_W
+danh	B_W
+mục	I_W
+của	B_W
+tôi	B_W
+có	B_W
+bao	B_W
+nhiêu	I_W
+mã	B_W
+SSI	B_W
+
+xem	B_W
+tình	B_W
+trạng	I_W
+đầu	B_W
+tư	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+tình	B_W
+trạng	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+còn	B_W
+dư	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+tình	B_W
+trạng	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+còn	B_W
+lại	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+tình	B_W
+trạng	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+tình	B_W
+trạng	I_W
+đầu	B_W
+tư	I_W
+mã	B_W
+SSI	B_W
+
+trạng	B_W
+thái	I_W
+chứng	B_W
+khoán	I_W
+
+trạng	B_W
+thái	I_W
+danh	B_W
+mục	I_W
+
+trạng	B_W
+thái	I_W
+đầu	B_W
+tư	I_W
+
+trạng	B_W
+thái	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+trạng	B_W
+thái	I_W
+danh	B_W
+mục	I_W
+mã	B_W
+SSI	B_W
+
+trạng	B_W
+thái	I_W
+đầu	B_W
+tư	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+xem	B_W
+
+trạng	B_W
+thái	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+còn	B_W
+dư	B_W
+
+trạng	B_W
+thái	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+còn	B_W
+lại	B_W
+
+xem	B_W
+trạng	B_W
+thái	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+còn	B_W
+lại	B_W
+
+xem	B_W
+trạng	B_W
+thái	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+xem	B_W
+trạng	B_W
+thái	I_W
+danh	B_W
+mục	I_W
+mã	B_W
+SSI	B_W
+
+xem	B_W
+trạng	B_W
+thái	I_W
+đầu	B_W
+tư	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+trạng	B_W
+thái	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+trạng	B_W
+thái	I_W
+danh	B_W
+mục	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+trạng	B_W
+thái	I_W
+đầu	B_W
+tư	I_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+trạng	B_W
+thái	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+còn	B_W
+dư	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+trạng	B_W
+thái	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+còn	B_W
+dư	B_W
+của	B_W
+tôi	B_W
+
+trạng	B_W
+thái	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+còn	B_W
+lại	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+trạng	B_W
+thái	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+còn	B_W
+lại	B_W
+của	B_W
+tôi	B_W
+
+trạng	B_W
+thái	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+còn	B_W
+dư	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+trạng	B_W
+thái	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+còn	B_W
+dư	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+trạng	B_W
+thái	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+còn	B_W
+lại	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+trạng	B_W
+thái	I_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+trạng	B_W
+thái	I_W
+đầu	B_W
+tư	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+kiểm	B_W
+tra	I_W
+số	B_W
+tiền	I_W
+còn	B_W
+lại	B_W
+
+tôi	B_W
+còn	B_W
+nhiều	B_W
+tiền	B_W
+không	B_W
+?	O
+
+tài	B_W
+khoản	I_W
+đuôi	B_W
+1	O
+của	B_W
+tôi	B_W
+còn	B_W
+bao	B_W
+nhiêu	I_W
+tiền	B_W
+?	O
+
+tôi	B_W
+còn	B_W
+bao	B_W
+nhiêu	I_W
+tiền	B_W
+
+trạng	B_W
+thái	I_W
+tiền	B_W
+
+tình	B_W
+trạng	I_W
+tiền	B_W
+
+tiền	B_W
+
+tiền	B_W
+nong	I_W
+
+số	B_W
+dư	B_W
+tiền	B_W
+
+số	B_W
+dư	B_W
+tài	B_W
+khoản	I_W
+tiền	B_W
+
+tài	B_W
+khoản	I_W
+đuôi	B_W
+1	O
+có	B_W
+bao	B_W
+tiền	B_W
+
+tài	B_W
+khoản	I_W
+đuôi	B_W
+6	O
+có	B_W
+bao	B_W
+nhiêu	I_W
+
+số	B_W
+dư	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+1	O
+ra	B_W
+sao	I_W
+
+số	B_W
+dư	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+6	O
+ra	B_W
+sao	I_W
+
+số	B_W
+dư	B_W
+tiền	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+1	O
+là	B_W
+bao	B_W
+nhiêu	I_W
+
+số	B_W
+dư	B_W
+tiền	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+1	O
+ra	B_W
+sao	I_W
+
+bao	B_W
+nhiêu	I_W
+tiền	B_W
+
+số	B_W
+tiền	B_W
+hiện	B_W
+tại	I_W
+
+tiền	B_W
+thế	B_W
+nào	I_W
+
+xem	B_W
+trạng	B_W
+thái	I_W
+tiền	B_W
+
+số	B_W
+tiền	B_W
+dư	B_W
+
+xem	B_W
+số	B_W
+dư	B_W
+tiền	B_W
+
+xem	B_W
+số	B_W
+tiền	B_W
+dư	B_W
+
+số	B_W
+tiền	B_W
+còn	B_W
+lại	B_W
+
+xem	B_W
+số	B_W
+tiền	B_W
+còn	B_W
+lại	B_W
+
+xem	B_W
+tiền	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+
+thông	B_W
+tin	I_W
+tiền	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+
+tình	B_W
+trạng	I_W
+tiền	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+
+trạng	B_W
+thái	I_W
+tiền	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+
+thông	B_W
+tin	I_W
+số	B_W
+dư	B_W
+tiền	B_W
+
+thông	B_W
+tin	I_W
+số	B_W
+tiền	B_W
+dư	B_W
+
+trạng	B_W
+thái	I_W
+tiền	B_W
+của	B_W
+tài	B_W
+khoản	I_W
+
+tiền	B_W
+còn	B_W
+lại	B_W
+
+tài	B_W
+khoản	I_W
+còn	B_W
+lại	B_W
+bao	B_W
+nhiêu	I_W
+tiền	B_W
+
+số	B_W
+tiền	B_W
+dư	B_W
+
+số	B_W
+dư	B_W
+tiền	B_W
+còn	B_W
+lại	B_W
+
+dư	B_W
+tiền	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+
+dư	B_W
+nợ	B_W
+tiền	B_W
+tài	B_W
+khoản	I_W
+
+xem	B_W
+dư	B_W
+nợ	B_W
+tiền	B_W
+tài	B_W
+khoản	I_W
+
+tiền	B_W
+dư	B_W
+bao	B_W
+nhiêu	I_W
+
+số	B_W
+dư	B_W
+tiền	B_W
+bao	B_W
+nhiêu	I_W
+
+tài	B_W
+khoản	I_W
+dư	B_W
+bao	B_W
+nhiêu	I_W
+tiền	B_W
+
+tài	B_W
+khoản	I_W
+tiền	B_W
+dư	I_W
+bao	B_W
+nhiêu	I_W
+
+thông	B_W
+tin	I_W
+tiền	B_W
+của	B_W
+các	B_W
+tài	B_W
+khoản	I_W
+
+số	B_W
+dư	B_W
+tiềnB_W
+các	B_W
+tài	B_W
+khoản	I_W
+
+thông	B_W
+tin	I_W
+tiền	B_W
+của	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+1	O
+
+thông	B_W
+tin	I_W
+tiền	B_W
+của	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+6	O
+
+trạng	B_W
+thái	I_W
+tiền	B_W
+của	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+1	O
+
+trạng	B_W
+thái	I_W
+tiền	B_W
+của	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+6	O
+
+số	B_W
+tiền	B_W
+hiện	B_W
+có	I_W
+
+số	B_W
+dư	B_W
+hiện	B_W
+có	I_W
+
+dữ	B_W
+liệu	I_W
+tiền	B_W
+của	B_W
+tài	B_W
+khoản	I_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+tiền	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+
+xem	B_W
+tình	B_W
+trạng	I_W
+tiền	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+
+xem	B_W
+trạng	B_W
+thái	I_W
+tiền	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+số	B_W
+dư	B_W
+tiền	B_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+số	B_W
+tiền	B_W
+dư	B_W
+
+xem	B_W
+trạng	B_W
+thái	I_W
+tiền	B_W
+của	B_W
+tài	B_W
+khoản	I_W
+
+xem	B_W
+tiền	B_W
+còn	B_W
+lại	B_W
+
+xem	B_W
+tài	B_W
+khoản	I_W
+còn	B_W
+lại	B_W
+bao	B_W
+nhiêu	I_W
+tiền	B_W
+
+xem	B_W
+số	B_W
+tiền	B_W
+dư	B_W
+
+xem	B_W
+số	B_W
+dư	B_W
+tiền	B_W
+còn	B_W
+lại	B_W
+
+xem	B_W
+dư	B_W
+tiền	B_W
+tài	B_W
+khoản	I_W
+
+xem	B_W
+dư	B_W
+nợ	B_W
+tài	B_W
+khoản	I_W
+
+xem	B_W
+số	B_W
+tiền	B_W
+dư	B_W
+bao	B_W
+nhiêu	I_W
+
+xem	B_W
+số	B_W
+dư	B_W
+tiền	B_W
+bao	B_W
+nhiêu	I_W
+
+xem	B_W
+tài	B_W
+khoản	I_W
+dư	B_W
+bao	B_W
+nhiêu	I_W
+tiền	B_W
+
+xem	B_W
+tài	B_W
+khoản	I_W
+tiền	B_W
+dư	B_W
+bao	B_W
+nhiêu	I_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+tiền	B_W
+của	B_W
+các	B_W
+tài	B_W
+khoản	I_W
+
+xem	B_W
+số	B_W
+dư	B_W
+tiền	B_W
+các	B_W
+tài	B_W
+khoản	I_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+tiền	B_W
+của	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+1	O
+
+xem	B_W
+thông	B_W
+tin	I_W
+tiền	B_W
+của	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+6	O
+
+xem	B_W
+trạng	B_W
+thái	I_W
+tiền	B_W
+của	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+1	O
+
+xem	B_W
+trạng	B_W
+thái	I_W
+tiền	B_W
+của	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+6	O
+
+xem	B_W
+số	B_W
+tiền	B_W
+hiện	B_W
+có	I_W
+
+xem	B_W
+số	B_W
+dư	B_W
+hiện	B_W
+có	I_W
+
+xem	B_W
+tiền	B_W
+của	B_W
+các	B_W
+tài	B_W
+khoản	I_W
+hiện	B_W
+có	I_W
+
+xem	B_W
+dữ	B_W
+liệu	I_W
+tiền	B_W
+của	B_W
+các	B_W
+tài	B_W
+khoản	I_W
+
+xem	B_W
+trạng	B_W
+thái	I_W
+tiền	B_W
+của	B_W
+tôi	B_W
+
+số	B_W
+tiền	B_W
+dư	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+số	B_W
+dư	B_W
+tiền	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+số	B_W
+tiền	B_W
+dư	B_W
+của	B_W
+tôi	B_W
+
+số	B_W
+tiền	B_W
+còn	B_W
+lại	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+số	B_W
+tiền	B_W
+còn	B_W
+lại	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+tiền	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+
+thông	B_W
+tin	I_W
+tiền	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+
+tình	B_W
+trạng	I_W
+tiền	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+
+trạng	B_W
+thái	I_W
+tiền	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+
+thông	B_W
+tin	I_W
+số	B_W
+dư	B_W
+tiền	B_W
+của	B_W
+tôi	B_W
+
+thông	B_W
+tin	I_W
+số	B_W
+tiền	B_W
+dư	B_W
+của	B_W
+tôi	B_W
+
+trạng	B_W
+thái	I_W
+tiền	B_W
+của	I_W
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+
+tiền	B_W
+còn	B_W
+lại	B_W
+của	B_W
+tôi	B_W
+
+tài	B_W
+khoản	I_W
+còn	B_W
+lại	B_W
+bao	B_W
+nhiêu	I_W
+tiền	B_W
+của	B_W
+tôi	B_W
+
+số	B_W
+tiền	B_W
+dư	B_W
+của	B_W
+tôi	B_W
+
+số	B_W
+dư	B_W
+tiền	B_W
+còn	B_W
+lại	B_W
+của	B_W
+tôi	B_W
+
+dư	B_W
+tiền	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+
+dư	B_W
+nợ	B_W
+tiền	B_W
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+dư	B_W
+nợ	B_W
+tiền	B_W
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+
+tiền	B_W
+dư	B_W
+của	B_W
+tôi	B_W
+bao	B_W
+nhiêu	I_W
+
+số	B_W
+dư	B_W
+tiền	B_W
+của	B_W
+tôi	B_W
+bao	B_W
+nhiêu	I_W
+
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+dư	B_W
+bao	B_W
+nhiêu	I_W
+tiền	B_W
+
+tài	B_W
+khoản	I_W
+tiền	B_W
+dư	B_W
+của	B_W
+tôi	B_W
+bao	B_W
+nhiêu	I_W
+
+thông	B_W
+tin	I_W
+tiền	B_W
+của	B_W
+các	B_W
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+
+số	B_W
+dư	B_W
+tiền	B_W
+các	B_W
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+
+thông	B_W
+tin	I_W
+tiền	B_W
+của	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+1	O
+của	B_W
+tôi	B_W
+
+thông	B_W
+tin	I_W
+tiền	B_W
+của	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+6	O
+của	B_W
+tôi	B_W
+
+trạng	B_W
+thái	I_W
+tiền	B_W
+của	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+1	O
+của	B_W
+tôi	B_W
+
+trạng	B_W
+thái	I_W
+tiền	B_W
+của	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+6	O
+của	B_W
+tôi	B_W
+
+số	B_W
+tiền	B_W
+hiện	B_W
+có	I_W
+của	B_W
+tôi	B_W
+
+số	B_W
+dư	B_W
+hiện	B_W
+có	I_W
+của	B_W
+tôi	B_W
+
+dữ	B_W
+liệu	I_W
+tiền	B_W
+của	B_W
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+tiền	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+tình	B_W
+trạng	I_W
+tiền	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+trạng	B_W
+thái	I_W
+tiền	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+số	B_W
+dư	B_W
+tiền	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+số	B_W
+tiền	B_W
+dư	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+trạng	B_W
+thái	I_W
+tiền	B_W
+của	B_W
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+tiền	B_W
+còn	B_W
+lại	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+tài	B_W
+khoản	I_W
+còn	B_W
+lại	B_W
+bao	B_W
+nhiêu	I_W
+tiền	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+số	B_W
+tiền	B_W
+dư	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+số	B_W
+dư	B_W
+tiền	B_W
+còn	B_W
+lại	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+dư	B_W
+tiền	B_W
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+dư	B_W
+nợ	B_W
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+số	B_W
+tiền	B_W
+của	B_W
+tôi	B_W
+dư	B_W
+bao	B_W
+nhiêu	I_W
+
+xem	B_W
+số	B_W
+dư	B_W
+tiền	B_W
+của	B_W
+tôi	B_W
+là	B_W
+bao	B_W
+nhiêu	I_W
+
+xem	B_W
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+dư	B_W
+bao	B_W
+nhiêu	I_W
+tiền	B_W
+
+xem	B_W
+tài	B_W
+khoản	I_W
+tiền	B_W
+của	B_W
+tôi	B_W
+dư	B_W
+bao	B_W
+nhiêu	I_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+tiền	B_W
+của	B_W
+các	B_W
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+số	B_W
+dư	B_W
+tiền	B_W
+các	B_W
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+tiền	B_W
+của	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+1	O
+của	B_W
+tôi	B_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+tiền	B_W
+của	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+6	O
+của	B_W
+tôi	B_W
+
+xem	B_W
+trạng	B_W
+thái	I_W
+tiền	B_W
+của	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+1	O
+của	B_W
+tôi	B_W
+
+xem	B_W
+trạng	B_W
+thái	I_W
+tiền	B_W
+của	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+6	O
+của	B_W
+tôi	B_W
+
+xem	B_W
+số	B_W
+tiền	B_W
+hiện	B_W
+có	I_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+số	B_W
+dư	B_W
+hiện	B_W
+có	I_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+tiền	B_W
+của	B_W
+các	B_W
+tài	B_W
+khoản	I_W
+hiện	B_W
+có	I_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+dữ	B_W
+liệu	I_W
+tiền	B_W
+của	B_W
+các	B_W
+tài	B_W
+khoản	I_W
+của	B_W
+tôi	B_W
+
+cho	B_W
+tôi	B_W
+xem	B_W
+trạng	B_W
+thái	I_W
+tiền	B_W
+
+cho	B_W
+tôi	B_W
+xem	B_W
+số	B_W
+dư	B_W
+tiền	B_W
+
+cho	B_W
+tôi	B_W
+xem	B_W
+số	B_W
+tiền	B_W
+dư	B_W
+
+cho	B_W
+tôi	B_W
+xem	B_W
+số	B_W
+tiền	B_W
+còn	B_W
+lại	B_W
+
+cho	B_W
+tôi	B_W
+xem	B_W
+tiền	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+
+cho	B_W
+tôi	B_W
+xem	B_W
+dư	B_W
+nợ	B_W
+tiền	B_W
+tài	B_W
+khoản	I_W
+
+cho	B_W
+tôi	B_W
+xem	B_W
+thông	B_W
+tin	I_W
+tiền	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+
+cho	B_W
+tôi	B_W
+xem	B_W
+tình	B_W
+trạng	I_W
+tiền	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+
+cho	B_W
+tôi	B_W
+xem	B_W
+trạng	B_W
+thái	I_W
+tiền	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+
+cho	B_W
+tôi	B_W
+xem	B_W
+thông	B_W
+tin	I_W
+số	B_W
+dư	B_W
+tiền	B_W
+
+cho	B_W
+tôi	B_W
+xem	B_W
+thông	B_W
+tin	I_W
+số	B_W
+tiền	B_W
+dư	B_W
+
+cho	B_W
+tôi	B_W
+xem	B_W
+trạng	B_W
+thái	I_W
+tiền	B_W
+của	B_W
+tài	B_W
+khoản	I_W
+
+cho	B_W
+tôi	B_W
+xem	B_W
+tiền	B_W
+còn	B_W
+lại	B_W
+
+cho	B_W
+tôi	B_W
+xem	B_W
+tài	B_W
+khoản	I_W
+còn	B_W
+lại	B_W
+bao	B_W
+nhiêu	I_W
+tiền	B_W
+
+cho	B_W
+tôi	B_W
+xem	B_W
+số	B_W
+tiền	B_W
+dư	B_W
+
+cho	B_W
+tôi	B_W
+xem	B_W
+số	B_W
+dư	B_W
+tiền	B_W
+còn	B_W
+lại	B_W
+	
+cho	B_W
+tôi	B_W
+xem	B_W
+dư	B_W
+tiền	B_W
+tài	B_W
+khoản	I_W
+
+cho	B_W
+tôi	B_W
+xem	B_W
+dư	B_W
+nợ	B_W
+tài	B_W
+khoản	I_W
+
+cho	B_W
+tôi	B_W
+xem	B_W
+số	B_W
+tiền	B_W
+dư	B_W
+bao	B_W
+nhiêu	I_W
+
+cho	B_W
+tôi	B_W
+xem	B_W
+số	B_W
+dư	B_W
+tiền	B_W
+bao	B_W
+nhiêu	I_W
+
+cho	B_W
+tôi	B_W
+xem	B_W
+tài	B_W
+khoản	I_W
+dư	B_W
+bao	B_W
+nhiêu	I_W
+tiền	B_W
+
+cho	B_W
+tôi	B_W
+xem	B_W
+tài	B_W
+khoản	I_W
+tiền	B_W
+dư	B_W
+bao	B_W
+nhiêu	I_W
+
+cho	B_W
+tôi	B_W
+xem	B_W
+thông	B_W
+tin	I_W
+tiền	B_W
+của	B_W
+các	B_W
+tài	B_W
+khoản	I_W
+
+cho	B_W
+tôi	B_W
+xem	B_W
+số	B_W
+dư	B_W
+tiền	B_W
+các	B_W
+tài	B_W
+khoản	I_W
+
+cho	B_W
+tôi	B_W
+xem	B_W
+thông	B_W
+tin	I_W
+tiền	B_W
+của	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+1	O
+
+cho	B_W
+tôi	B_W
+xem	B_W
+thông	B_W
+tin	I_W
+tiền	B_W
+của	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+6	O
+
+cho	B_W
+tôi	B_W
+xem	B_W
+trạng	B_W
+thái	I_W
+tiền	B_W
+của	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+1	O
+
+cho	B_W
+tôi	B_W
+xem	B_W
+trạng	B_W
+thái	I_W
+tiền	B_W
+của	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+6	O
+
+cho	B_W
+tôi	B_W
+xem	B_W
+số	B_W
+tiền	B_W
+hiện	B_W
+có	I_W
+
+cho	B_W
+tôi	B_W
+xem	B_W
+số	B_W
+dư	B_W
+hiện	B_W
+có	I_W
+
+cho	B_W
+tôi	B_W
+xem	B_W
+tiền	B_W
+của	B_W
+các	B_W
+tài	B_W
+khoản	I_W
+hiện	B_W
+có	I_W
+
+cho	B_W
+tôi	B_W
+xem	B_W
+dữ	B_W
+liệu	I_W
+tiền	B_W
+của	B_W
+các	B_W
+tài	B_W
+khoản	I_W
+
+hiển	B_W
+thị	I_W
+trạng	B_W
+thái	I_W
+tiền	B_W
+
+hiển	B_W
+thị	I_W
+số	B_W
+dư	B_W
+tiền	B_W
+
+hiển	B_W
+thị	I_W
+số	B_W
+tiền	B_W
+dư	B_W
+
+hiển	B_W
+thị	I_W
+số	B_W
+tiền	B_W
+còn	B_W
+lại	B_W
+
+hiển	B_W
+thị	I_W
+tiền	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+
+hiển	B_W
+thị	I_W
+dư	B_W
+nợ	B_W
+tiền	B_W
+tài	B_W
+khoản	I_W
+
+hiển	B_W
+thị	I_W
+thông	B_W
+tin	I_W
+tiền	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+
+hiển	B_W
+thị	I_W
+tình	B_W
+trạng	I_W
+tiền	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+
+hiển	B_W
+thị	I_W
+trạng	B_W
+thái	I_W
+tiền	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+
+hiển	B_W
+thị	I_W
+thông	B_W
+tin	I_W
+số	B_W
+dư	B_W
+tiền	B_W
+
+hiển	B_W
+thị	I_W
+thông	B_W
+tin	I_W
+số	B_W
+tiền	B_W
+dư	B_W
+
+hiển	B_W
+thị	I_W
+trạng	B_W
+thái	I_W
+tiền	B_W
+của	B_W
+tài	B_W
+khoản	I_W
+
+hiển	B_W
+thị	I_W
+tiền	B_W
+còn	B_W
+lại	B_W
+
+hiển	B_W
+thị	I_W
+tài	B_W
+khoản	I_W
+còn	B_W
+lại	B_W
+bao	B_W
+nhiêu	I_W
+tiền	B_W
+
+hiển	B_W
+thị	I_W
+số	B_W
+tiền	B_W
+dư	B_W
+
+hiển	B_W
+thị	I_W
+số	B_W
+dư	B_W
+tiền	B_W
+còn	B_W
+lại	B_W
+
+hiển	B_W
+thị	I_W
+dư	B_W
+tiền	B_W
+tài	B_W
+khoản	I_W
+
+hiển	B_W
+thị	I_W
+dư	B_W
+nợ	B_W
+tài	B_W
+khoản	I_W
+
+hiển	B_W
+thị	I_W
+số	B_W
+tiền	B_W
+dư	B_W
+bao	I_W
+nhiêu	B_W
+
+hiển	B_W
+thị	I_W
+số	B_W
+dư	B_W
+tiền	B_W
+bao	B_W
+nhiêu	I_W
+
+hiển	B_W
+thị	I_W
+tài	B_W
+khoản	I_W
+dư	B_W
+bao	B_W
+nhiêu	I_W
+tiền	B_W
+
+hiển	B_W
+thị	I_W
+tài	B_W
+khoản	I_W
+tiền	B_W
+dư	B_W
+bao	B_W
+nhiêu	I_W
+
+hiển	B_W
+thị	I_W
+thông	B_W
+tin	I_W
+tiền	B_W
+của	B_W
+các	B_W
+tài	B_W
+khoản	I_W
+
+hiển	B_W
+thị	I_W
+số	B_W
+dư	B_W
+tiền	B_W
+các	B_W
+tài	B_W
+khoản	I_W
+
+hiển	B_W
+thị	I_W
+thông	B_W
+tin	I_W
+tiền	B_W
+của	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+1	O
+
+hiển	B_W
+thị	I_W
+thông	B_W
+tin	I_W
+tiền	B_W
+của	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+6	O
+
+hiển	B_W
+thị	I_W
+trạng	B_W
+thái	I_W
+tiền	B_W
+của	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+1	O
+
+hiển	B_W
+thị	I_W
+trạng	B_W
+thái	I_W
+tiền	B_W
+của	B_W
+tài	B_W
+khoản	I_W
+đuôi	B_W
+6	O
+
+hiển	B_W
+thị	I_W
+số	B_W
+tiền	B_W
+hiện	B_W
+có	I_W
+
+hiển	B_W
+thị	I_W
+số	B_W
+dư	B_W
+hiện	B_W
+có	I_W
+
+hiển	B_W
+thị	I_W
+tiền	B_W
+của	B_W
+các	B_W
+tài	B_W
+khoản	I_W
+hiện	B_W
+có	I_W
+
+hiển	B_W
+thị	I_W
+dữ	B_W
+liệu	I_W
+tiền	B_W
+của	B_W
+các	B_W
+tài	B_W
+khoản	I_W
+
+kết	B_W
+thúc	I_W
+chương	B_W
+trình	I_W
+
+kết	B_W
+thúc	I_W
+app	B_W
+
+kết	B_W
+thúc	I_W
+đi	B_W
+
+kết	B_W
+thúc	I_W
+ngay	B_W
+
+kết	B_W
+thúc	I_W
+chương	B_W
+trình	I_W
+ngay	B_W
+
+kết	B_W
+thúc	I_W
+chương	B_W
+trình	I_W
+đi	B_W
+
+chấm	B_W
+dứt	I_W
+ngay	B_W
+
+chấm	B_W
+dứt	I_W
+đi	B_W
+
+chấm	B_W
+dứt	I_W
+chương	B_W
+trình
+ngay	B_W
+
+chấm	B_W
+dứt	I_W
+chương	B_W
+trình	I_W
+đi	B_W
+
+chấm	B_W
+dứt	I_W
+app	B_W
+
+trở	B_W
+lại	I_W
+sau	B_W
+
+trở	B_W
+lại	I_W
+sau	B_W
+nhé	B_W
+
+đi	B_W
+đây	B_W
+
+chào	B_W
+
+thế	B_W
+nhé	B_W
+
+tắt	B_W
+app	B_W
+
+tạm	B_W
+biệt	I_W
+nhé	B_W
+
+chào	B_W
+tạm	B_W
+biệt	I_W	
+nhé	B_W
+
+đi	B_W
+nhé	B_W
+
+dừng	B_W
+chương	B_W
+trình	I_W
+
+dừng	B_W
+app	B_W
+
+dừng	B_W
+ngay	B_W
+
+dừng	B_W
+đi	B_W
+
+thoát	B_W
+
+chấm	B_W
+dứt	I_W
+
+tạm	B_W
+biệt	I_W
+
+bye	B_W
+bye	B_W
+
+kết	B_W
+thúc	I_W
+
+gặp	B_W
+lại	I_W
+sau	B_W
+
+mai	B_W
+nói	B_W
+chuyện	I_W
+sau	B_W
+
+mai	B_W
+gặp	B_W
+lại	I_W
+
+hẹn	B_W
+lúc	B_W
+khác	I_W
+nhé	B_W
+
+hẹn	B_W
+gặp	B_W
+sau	B_W
+nhé	B_W
+
+chào	B_W
+tạm	B_W
+biệt	I_W
+
+phải	B_W
+đi	B_W
+đây	B_W
+
+thoát	B_W
+chương	B_W
+trình	I_W
+
+thoát	B_W
+app	B_W
+
+thoát	B_W
+khỏi	I_W
+chương	B_W
+trình	I_W
+
+bye	B_W
+
+đóng	B_W
+
+đóng	B_W
+app	B_W
+
+đóng	B_W
+chương	B_W
+trình	I_W
+
+quay	B_W
+lại	I_W
+sau	B_W
+
+tắt	B_W
+
+tắt	B_W
+chương	B_W
+trình	I_W
+
+chào	B_W
+nhé	B_W
+
+kết	B_W
+thúc	I_W
+
+tôi	B_W
+nên	B_W
+mua	B_W
+ssi	B_W
+với	B_W
+giá	B_W
+bn	B_W
+
+tôi	B_W
+nên	B_W
+mua	B_W
+ssi	B_W
+với	B_W
+giá	B_W
+bao	B_W
+nhiêu	B_W
+
+tôi	B_W
+có	B_W
+nên	B_W
+mua	B_W
+ssi	B_W
+với	B_W
+giá	B_W
+16.5	O
+
+tôi	B_W
+có	B_W
+nên	B_W
+chi	B_W
+12	O
+triệu	B_W
+để	B_W
+mua	B_W
+1000	O
+cp	B_W
+ssi	B_W
+không	B_W
+?	O
+
+tôi	B_W
+có	B_W
+nên	B_W
+đầu	B_W
+tư	I_W
+12	O
+triệu	B_W
+để	B_W
+mua	B_W
+100	O
+cổ	B_W
+phiếu	I_W
+acb	B_W
+không	B_W
+?	O
+
+mua	B_W
+thế	B_W
+nào		I_W
+với	B_W
+mã	B_W
+SSI	B_W
+
+bán	B_W
+thế	B_W
+nào		I_W
+với	B_W
+SSI	B_W
+
+nên	B_W
+bán	B_W
+tất	B_W
+cả	I_W
+SSI	B_W
+chứ	B_W
+
+nên	B_W
+đầu	B_W
+tư	I_W
+SSI	B_W
+lúc	B_W
+này	B_W
+không	B_W
+
+nên	B_W
+giao	B_W
+dịch	I_W
+SSI	B_W
+thời	B_W
+điểm	I_W
+này	B_W
+chứ	B_W
+
+bán	B_W
+SSI	B_W
+giá	B_W
+12	O
+được	B_W
+không	B_W
+?	O
+
+với	B_W
+giá	B_W
+nào	B_W
+thì	B_W
+nên	B_W
+bán	B_W
+SSI	B_W
+
+với	B_W
+giá	B_W
+nào	B_W
+thì	B_W
+bán	B_W
+SSI	B_W
+
+với	B_W
+thị	B_W
+trường	I_W
+này	B_W
+,	O
+có	B_W
+nên	B_W
+mua	B_W
+SSI	B_W
+không	B_W
+?	O
+
+với	B_W
+thị	B_W
+trường	I_W
+này	B_W
+,	O
+có	B_W
+nên	B_W
+mua	B_W
+300	O
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+giá	B_W
+12.4	O
+không	B_W
+?	O
+
+cho	B_W
+tôi	B_W
+xin	B_W
+ý	B_W
+kiến	I_W
+về	B_W
+thị	B_W
+trường	I_W
+hôm	B_W
+nay	I_W
+
+ý	B_W
+kiến	I_W
+của	B_W
+bạn	B_W
+về	B_W
+thị	B_W
+trường	I_W
+hôm	B_W
+nay	I_W
+
+bạn	B_W
+nghĩ	B_W
+thị	B_W
+trường	I_W
+hôm	B_W
+nay	I_W
+sẽ	B_W
+thế	B_W
+nào	I_W
+
+bạn	B_W
+nghĩ	B_W
+mã	B_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+thế	B_W
+nào	I_W
+
+bạn	B_W
+nghĩ	B_W
+mã	B_W
+SSI	B_W
+hôm	B_W	
+nay	I_W
+sẽ	B_W
+tăng	B_W
+hay	B_W
+giảm	B_W
+
+mua	B_W
+100	O
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+giá	B_W
+39.5	O
+có	B_W
+nên	B_W
+không	B_W
+
+bán	B_W
+100	O
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+giá	B_W
+34.5	O
+có	B_W
+nên	B_W
+không	B_W
+
+liệu	B_W
+có	B_W
+nên	B_W
+mua	B_W
+ssi	B_W
+hôm	B_W
+nay	I_W
+không	B_W
+nhỉ	B_W
+?	O
+
+liệu	B_W
+có	B_W
+nên	B_W
+bán	B_W
+ssi	B_W
+hôm	B_W
+nay	I_W
+không	B_W
+?	O
+
+bạn	B_W
+nhìn	B_W
+nhận	I_W
+thị	B_W
+trường	I_W
+hôm	B_W
+nay	I_W
+sẽ	B_W
+thế	B_W
+nào	I_W
+?	O
+
+có	B_W
+nên	B_W
+mua	B_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+không	B_W
+
+có	B_W
+nên	B_W
+bán	B_W
+SSI	B_W
+không	B_W
+
+bán	B_W
+SSI	B_W
+giá	B_W
+12.5	O
+liệu	B_W
+có	B_W
+ổn	B_W
+không	B_W
+nhỉ	B_W
+
+có	B_W
+nên	B_W
+mua	B_W
+bán	B_W
+mã	B_W
+SSI	B_W
+không	B_W
+
+mã	B_W
+SSI	B_W
+được	B_W
+không	B_W
+
+có	B_W
+nên	B_W
+bán	B_W
+mã	B_W
+SSI	B_W
+
+khuyến	B_W
+nghị	I_W
+về	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+khuyên	B_W
+thế	B_W
+nào	I_W
+về	B_W
+SSI	B_W
+
+nhận	B_W
+định	I_W
+mã	B_W
+SSI	B_W
+
+mua	B_W
+SSI	B_W
+giá	B_W
+bao	B_W
+nhiêu	I_W
+hợp	B_W
+lý	I_W
+
+bán	B_W
+SSI	B_W
+giá	B_W
+bao	B_W
+nhiêu	I_W
+hợp	B_W
+lý	I_W
+
+vào	B_W
+mã	B_W
+SSI	B_W
+bây	B_W
+giờ	I_W
+có	B_W
+nên	B_W
+không	B_W
+
+có	B_W
+nên	B_W
+mua	B_W
+vào	B_W
+SSI	B_W
+không	B_W
+
+có	B_W
+nên	B_W
+bán	B_W
+ra	B_W
+SSI	B_W
+không	B_W
+
+có	B_W
+nên	B_W
+mua	B_W
+SSI	B_W
+không	B_W
+
+có	B_W
+nên	B_W
+bán	B_W
+SSI	B_W
+không	B_W
+
+nên	B_W
+bán	B_W
+hay	B_W
+nắm	B_W
+giữ	B_W
+mã	B_W
+SSI	B_W
+
+bán	B_W
+hay	B_W
+giữ	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+nên	B_W
+mua	B_W
+hay	B_W
+bán	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+mua	B_W
+hay	B_W
+bán	B_W
+SSI	B_W
+đây	B_W
+
+nên	B_W
+mua	B_W
+vào	B_W
+hay	B_W
+bán	B_W
+ra	B_W
+mã	B_W
+SSI	B_W
+
+đề	B_W
+xuất	I_W
+như	B_W
+nào	B_W
+về	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+khuyến	B_W
+nghị	I_W
+như	B_W
+nào	B_W
+về	B_W
+mã	B_W
+SSI	B_W
+
+đề	B_W
+xuất	I_W
+thế	B_W
+nào	I_W
+về	B_W
+mã	B_W
+SSI	B_W
+
+nhận	B_W
+định	I_W
+thế	B_W
+nào		I_W
+về	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+nhận	B_W
+định	I_W
+như	B_W
+nào	B_W
+về	B_W
+mã	B_W
+SSI	B_W
+
+mua	B_W
+bán	B_W
+mã	B_W
+SSI	B_W
+thế	B_W
+nào	I_W
+
+xem	B_W
+đề	B_W
+xuất	I_W
+về	B_W
+mã	B_W
+SSI	B_W
+
+xem	B_W
+khuyến	B_W
+nghị	I_W
+mã	B_W
+SSI	B_W
+
+xem	B_W
+nhận	B_W
+định	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+khuyến	B_W
+nghị	I_W
+ra	B_W
+sao	I_W
+về	B_W
+SSI	B_W
+
+đề	B_W
+xuất	I_W
+ra	B_W
+sao	I_W
+về	B_W
+mã	B_W
+SSI	B_W
+
+nhận	B_W
+định	I_W
+mã	B_W
+SSI	B_W
+ra	B_W
+sao	I_W
+
+nên	B_W
+giữ	B_W
+lại	B_W
+hay	B_W
+bán	B_W
+ra	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+nên	B_W
+nắm	B_W
+giữ	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+lúc	B_W
+này	B_W
+không	B_W
+
+nên	B_W
+lướt	B_W
+sóng	B_W
+mã	B_W
+SSI	B_W
+trong	B_W
+giai	B_W
+đoạn	I_W
+này	B_W
+không	B_W
+
+khuyến	B_W
+nghị	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+cho	B_W
+giai	B_W
+đoạn	I_W
+này	B_W
+
+giai	B_W
+đoạn	I_W
+này	B_W
+mua	B_W
+bán	B_W
+thế	B_W
+nào		I_W
+
+mã	B_W
+SSI	B_W
+giai	B_W
+đoạn	I_W
+này	B_W
+nên	B_W
+nắm	B_W
+giữ	I_W
+hay	B_W
+bán	B_W
+ra	B_W
+
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+nên	B_W
+hay	B_W
+không	B_W
+nên	B_W
+mua	B_W
+SSI	B_W
+
+với	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+nên	B_W
+mua	B_W
+giá	B_W
+bao	B_W
+nhiêu	I_W
+
+với	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+nên	B_W
+mua	B_W
+giá	B_W
+bao	B_W
+nhiêu	I_W
+
+với	B_W
+tiền	B_W
+trong	B_W
+tài	B_W
+khoản	I_W
+nên	B_W
+mua	B_W
+lượng	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+bao	B_W
+nhiêu	I_W
+
+nên	B_W
+bán	B_W
+giá	B_W
+bao	B_W
+nhiêu	I_W
+với	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+nên	B_W
+mua	B_W
+giá	B_W
+bao	B_W
+nhiêu	I_W
+với	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+nên	B_W
+bán	B_W
+giá	B_W
+bao	B_W
+nhiêu	I_W
+với	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+nên	B_W
+mua	B_W
+giá	B_W
+bao	B_W
+nhiêu	I_W
+với	B_W
+mã	B_W
+chứng	B_W
+khoán	I_W
+SSI	B_W
+
+nên	B_W
+mua	B_W
+bao	B_W
+nhiêu	I_W
+cổ	B_W
+phiếu	I_W
+ssi	B_W
+?	O
+
+nên	B_W
+mua	B_W
+SSI	B_W
+theo	B_W
+giá	B_W
+thị	B_W
+trường	I_W
+không	B_W
+
+nên	B_W
+bán	B_W
+SSI	B_W
+theo	B_W
+giá	B_W
+thị	B_W
+trường	I_W
+không	B_W
+
+nên	B_W
+làm	B_W
+gì	B_W
+với	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hiện	B_W
+nay	I_W
+
+thị	B_W
+trường	I_W
+lên	B_W
+xuống	B_W
+thất	B_W
+thường	I_W
+nên	B_W
+mua	B_W
+vào	B_W
+hay	B_W
+bán	B_W
+ra	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+bạn	B_W
+nghĩ	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+thế	B_W
+nào	I_W
+?	O
+
+ý	B_W
+kiến	I_W
+của	B_W
+bạn	B_W
+về	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+?	O
+
+bạn	B_W	
+nghĩ	B_W
+thế	B_W
+nào	I_W
+về	B_W
+mã	B_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+?	O
+
+bạn	B_W
+nghĩ	B_W
+mã	B_W
+SSI	B_W
+hôm	B_W
+nay	I_W
+sẽ	B_W
+thế	B_W
+nào	I_W
+?	O
+
+đã	B_W
+khớp	B_W
+lệnh	I_W
+mã	B_W
+SSI	B_W
+chưa	B_W
+
+trạng	B_W
+thái	I_W
+lệnh	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+lệnh	B_W
+về	B_W
+mã	B_W
+SSI	B_W
+của	B_W
+tôi	B_W
+khớp	B_W
+chưa	B_W
+
+tình	B_W
+trạng	I_W
+lệnh	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+lệnh	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+ra	B_W
+sao	I_W
+
+xem	B_W
+trạng	B_W
+thái	I_W
+lệnh	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+trạng	B_W
+thái	I_W
+lệnh	B_W
+mã	B_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+trạng	B_W
+thái	I_W
+lệnh	B_W
+mã	B_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+tình	B_W
+trạng	I_W
+lệnh	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+thông	B_W
+tin	I_W
+lệnh	B_W
+mã	B_W
+SSI	B_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+lệnh	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+tình	B_W
+trạng	I_W
+khớp	B_W
+lệnh	I_W
+mã	B_W
+SSI	B_W
+
+trạng	B_W
+thái	I_W
+khớp	B_W
+lệnh	I_W
+mã	B_W
+SSI	B_W
+
+thông	B_W
+tin	I_W
+khớp	B_W
+lệnh	I_W
+mã	B_W
+SSI	B_W
+
+xem	B_W
+tình	B_W
+trạng	I_W
+khớp	B_W
+lệnh	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+khớp	B_W
+lệnh	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+trạng	B_W
+thái	I_W
+khớp	B_W
+lệnh	I_W
+mã	B_W
+SSI	B_W
+
+thông	B_W
+tin	I_W
+lệnh	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+lệnh	B_W
+mã	B_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+tình	B_W
+trạng	I_W
+khớp	B_W
+lệnh	I_W
+mã	B_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+trạng	B_W
+thái	I_W
+khớp	B_W
+lệnh	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+thông	B_W
+tin	I_W
+khớp	B_W
+lệnh	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+tình	B_W
+trạng	I_W
+khớp	B_W
+lệnh	I_W
+mã	B_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+thông	B_W
+tin	I_W
+khớp	B_W
+lệnh	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+trạng	B_W
+thái	I_W
+khớp	B_W
+lệnh	I_W
+mã	B_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+lệnh	B_W
+về	B_W
+mã	B_W
+SSI	B_W
+đang	B_W
+giao	B_W
+dịch	I_W
+
+xem	B_W
+lệnh	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+đang	B_W
+giao	B_W
+dịch	I_W
+
+lệnh	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+đang	B_W
+chờ	B_W
+giao	B_W
+dịch	I_W
+
+xem	B_W
+lệnh	B_W
+mã	B_W
+SSI	B_W
+đang	B_W
+chờ	B_W
+giao	B_W
+dịch	I_W
+
+lệnh	B_W
+về	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+bị	B_W
+hủy	B_W
+
+xem	B_W
+lệnh	B_W
+mã	B_W
+SSI	B_W
+bị	B_W
+hủy	B_W
+
+lệnh	B_W
+mã	B_W
+SSI	B_W
+không	B_W
+hợp	B_W
+lệ	B_W
+
+xem	B_W
+lệnh	B_W
+về	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+không	B_W
+hợp	B_W
+lệ	I_W
+
+xem	B_W
+lệnh	B_W
+về	B_W
+mã	B_W
+SSI	B_W
+đang	B_W
+chờ	B_W
+lệnh	B_W
+
+mã	B_W
+SSI	B_W
+đang	B_W
+chờ	B_W
+lệnh	B_W
+
+mã	B_W
+SSI	B_W
+đã	B_W
+được	B_W
+khớp	B_W
+chưa	B_W
+
+lệnh	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+đã	B_W
+được	B_W
+thực	B_W
+hiện	I_W
+chưa	B_W
+
+lệnh	B_W
+về	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+đã	B_W
+giao	B_W
+dịch	I_W
+
+xem	B_W
+lệnh	B_W
+mã	B_W
+SSI	B_W
+đã	B_W
+giao	B_W
+dịch	I_W
+
+tình	B_W
+trạng	I_W
+giao	B_W
+dịch	I_W
+của	B_W
+lệnh	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+tình	B_W
+trạng	I_W
+giao	B_W
+dịch	I_W
+của	B_W
+lệnh	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+giao	B_W
+dịch	I_W
+khớp	B_W
+lệnh	I_W
+mã	B_W
+SSI	B_W
+
+xem	B_W
+giao	B_W
+dịch	I_W
+khớp	B_W
+lệnh	I_W
+mã	B_W
+SSI	B_W
+
+kết	B_W
+quả	I_W
+khớp	B_W
+lệnh	I_W
+mã	B_W
+SSI	B_W
+
+xem	B_W
+kết	B_W
+quả	I_W
+khớp	B_W
+lệnh	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+kết	B_W
+quả	I_W
+giao	B_W
+dịch	I_W
+lệnh	B_W
+mã	B_W
+SSI	B_W
+
+kết	B_W
+quả	I_W
+giao	B_W
+dịch	I_W
+lệnh	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+lệnh	B_W
+mã	B_W
+SSI	B_W
+đang	B_W
+giao	B_W
+dịch	I_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+lệnh	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+đang	B_W
+giao	B_W
+dịch	I_W
+của	B_W
+tôi	B_W
+
+lệnh	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+đang	B_W
+chờ	B_W
+giao	B_W
+dịch	I_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+lệnh	B_W
+mã	B_W
+SSI	B_W
+đang	B_W
+chờ	B_W
+giao	B_W
+dịch	I_W
+của	B_W
+tôi	B_W
+
+lệnh	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+bị	B_W
+hủy	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+lệnh	B_W
+mã	B_W
+SSI	B_W
+bị	B_W
+hủy	B_W
+của	B_W
+tôi	B_W
+
+lệnh	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+không	B_W
+hợp	B_W
+lệ	I_W
+của	B_W
+tôi	B_W
+	
+xem	B_W
+lệnh	B_W
+mã	B_W
+SSI	B_W
+không	B_W
+hợp	B_W
+lệ	I_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+lệnh	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+đang	B_W
+chờ	B_W
+của	B_W
+tôi	B_W
+
+lệnh	B_W
+mã	B_W
+SSI	B_W
+đang	B_W
+chờ	B_W
+của	B_W
+tôi	B_W
+
+lệnh	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+đã	B_W
+được	B_W
+khớp	B_W
+chưa	B_W
+
+lệnh	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+đã	B_W
+được	B_W
+thực	B_W
+hiện	I_W
+chưa	B_W
+của	B_W
+tôi	B_W
+
+lệnh	B_W
+mã	B_W
+SSI	B_W
+đã	B_W
+giao	B_W
+dịch	I_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+lệnh	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+đã	B_W
+giao	B_W
+dịch	I_W
+của	B_W
+tôi	B_W
+
+tình	B_W
+trạng	I_W
+giao	B_W
+dịch	I_W
+của	B_W
+lệnh	B_W
+mã	B_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+tình	B_W
+trạng	I_W
+giao	B_W
+dịch	I_W
+của	B_W
+lệnh	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+giao	B_W
+dịch
+khớp	B_W
+lệnh	I_W
+mã	B_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+giao	B_W
+dịch	I_W
+khớp	B_W
+lệnh	I_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+kết	B_W
+quả	I_W
+khớp	B_W
+lệnh	I_W
+mã	B_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+kết	B_W
+quả	I_W
+khớp	B_W
+lệnh	I_W
+mã	B_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+kết	B_W
+quả	I_W
+giao	B_W
+dịch	I_W
+lệnh	B_W
+mã	B_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+kết	B_W
+quả	I_W
+giao	B_W
+dịch	I_W
+lệnh	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+trạng	B_W
+thái	I_W
+lệnh	B_W
+mã	B_W
+SSI	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+trạng	B_W
+thái	I_W
+lệnh	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+tình	B_W
+trạng	I_W
+lệnh	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+thông	B_W
+tin	I_W
+lệnh	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+tình	B_W
+trạng	I_W
+khớp	B_W
+lệnh	I_W
+mã	B_W
+SSI	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+thông	B_W
+tin	I_W
+khớp	B_W
+lệnh	I_W
+mã	B_W
+SSI	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+trạng	B_W
+thái	I_W
+khớp	B_W
+lệnh	I_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+thông	B_W
+tin	I_W
+lệnh	B_W
+mã	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+tình	B_W
+trạng	I_W
+khớp	B_W
+lệnh	I_W
+mã	B_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+thông	B_W
+tin	I_W
+khớp	B_W
+lệnh	I_W
+cổ	B_W
+phiếu
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+trạng	B_W
+thái	I_W
+khớp	B_W
+lệnh	I_W
+mã	B_W
+SSI	B_W
+của	B_W
+tôi	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+lệnh	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+đang	B_W
+giao	B_W
+dịch	I_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+lệnh	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+đang	B_W
+chờ	B_W
+giao	B_W
+dịch	I_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+lệnh	B_W
+mã	B_W
+SSI	B_W
+bị	B_W
+hủy	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+lệnh	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+không	B_W
+hợp	B_W
+lệ	I_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+lệnh	B_W
+mã	B_W
+SSI	B_W
+đang	B_W
+chờ	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+lệnh	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W	
+đã	B_W
+giao	B_W
+dịch	I_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+tình	B_W
+trạng	I_W
+giao	B_W
+dịch	I_W
+của	B_W
+lệnh	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+giao	B_W
+dịch	I_W
+khớp	B_W
+lệnh	I_W
+mã	B_W
+SSI	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+kết	B_W
+quả	I_W
+khớp	B_W
+lệnh	I_W
+mã	B_W
+SSI	B_W
+
+xem	B_W
+cho	B_W
+tôi	B_W
+kết	B_W
+quả	I_W
+giao	B_W
+dịch	I_W
+lệnh	B_W
+cổ	B_W
+phiếu	I_W
+SSI	B_W
+
+huỷ	B_W
+thôi	B_W
+
+bỏ	B_W
+qua	B_W
+
+bỏ	B_W
+đi	B_W
+
+về	B_W
+lại	B_W
+chức	B_W
+năng	I_W
+chính	B_W
+
+chức	B_W
+năng	I_W
+hệ	B_W
+thống	I_W
+làm	B_W
+được	B_W
+gì	B_W
+
+làm	B_W
+gì	B_W
+bây	B_W
+giờ	I_W
+
+quay	B_W
+lại		I_W
+
+quay	B_W
+về	I_W
+
+không	B_W
+đặt	B_W
+nữa	B_W
+
+không	B_W
+làm	B_W
+nữa	B_W
+
+hủy	B_W
+bỏ	I_W
+
+loại	B_W
+bỏ	I_W
+
+dừng	B_W
+
+hủy	B_W
+lệnh	B_W
+
+dừng	B_W
+lệnh	B_W
+
+dừng	B_W
+lại	B_W
+
+tạm	B_W
+dừng	I_W
+
+dừng	B_W
+ngay	B_W
+
+hủy	B_W
+ngay	B_W
+
+bỏ	B_W
+lệnh	B_W
+
+bỏ	B_W
+qua	B_W
+lệnh	B_W
+
+bỏ	B_W
+
+bỏ	B_W
+đi	B_W
+
+dừng	B_W
+đi	B_W
+
+hủy	B_W
+bỏ	I_W
+ngay	B_W
+
+hủy	B_W
+bỏ	I_W
+lệnh	B_W
+
+loại	B_W
+bỏ	I_W
+lệnh	B_W
+
+ngưng	B_W
+lại	B_W
+
+ngưng	B_W
+lệnh	B_W
+
+ngừng	B_W
+lệnh	B_W
+
+ngưng	B_W
+lại	B_W
+
+ngừng	B_W
+lại	B_W
+
+trang	B_W
+chủ	I_W
+
+về	B_W
+
+về	B_W
+trang	B_W
+chủ	I_W
+
+trở	B_W
+về	I_W
+trang	B_W
+chủ	I_W
+
+quay	B_W
+lại	I_W
+trang	B_W
+chủ	I_W
+
+quay	B_W
+về	I_W
+trang	B_W
+chủ	I_W
+
+trở	B_W
+lại	I_W
+trang	B_W
+chủ	I_W
+
+tới	B_W
+trang	B_W
+chủ	I_W
+
+trở	B_W
+về	I_W
+
+trở	B_W
+lại	I_W
+
+làm	B_W
+lại	I_W
+
+dừng	B_W
+đặt	B_W
+lệnh	B_W
+
+bỏ	B_W
+đặt	B_W
+lệnh	B_W
+
+dừng	B_W
+làm	B_W
+
+đừng	B_W
+làm	B_W
+
+quay	B_W
+trở	B_W
+lại	I_W
+
+làm	B_W
+lại	I_W
+
+không	B_W
+khớp	B_W
+lệnh	I_W
+
+bỏ	B_W
+khớp	B_W
+lệnh	I_W
+
+dừng	B_W
+khớp	B_W
+lệnh	I_W
+
+hủy	B_W
+khớp	B_W
+lệnh	I_W
+
+về	B_W
+chức	B_W
+năng	I_W
+chính	B_W
+
+về	B_W
+chức	B_W
+năng	I_W
+hệ	B_W
+thống	I_W
+
+tới	B_W
+chức	B_W
+năng	I_W
+chính	B_W
+
+tới	B_W
+chức	B_W
+năng	I_W
+hệ	B_W
+thống	I_W
+
+về	B_W
+chức	B_W
+năng	I_W
+chính	B_W
+ngay	B_W
+
+về	B_W
+chức	B_W
+năng	I_W
+hệ	B_W
+thống	I_W
+ngay	B_W
+
+tới	B_W
+chức	B_W
+năng	I_W
+chính	B_W
+ngay	B_W
+
+tới	B_W
+chức	B_W
+năng	I_W
+hệ	B_W
+thống	I_W
+ngay	B_W
+
+về	B_W
+chức	B_W
+năng	I_W
+chính	B_W
+đi	B_W
+
+về	B_W
+chức	B_W
+năng	I_W
+hệ	B_W
+thống		I_W
+đi	B_W
+
+tới	B_W
+chức	B_W
+năng	I_W
+chính	B_W
+đi	B_W
+

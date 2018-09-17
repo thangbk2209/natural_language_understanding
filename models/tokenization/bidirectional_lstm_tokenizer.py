@@ -1,6 +1,7 @@
 from preprocessing_data import Preprocess
 import tensorflow as tf
 import matplotlib.pyplot as plt
+import time
 class BiLSTMTokenizer():
     def __init__(self, num_units = None, input_size = None, embedding_dim = None, 
                 batch_size = None, epochs = None, learning_rate = None, data_file = "", file_to_save_model = ""):
@@ -32,9 +33,10 @@ class BiLSTMTokenizer():
         print (self.number_words)
         print (self.x_train)
         print (type(self.x_train))
+        print ('==================shape==================')
         print (self.x_train.shape)
-        print (self.y_train.shape[1])
-        print (self.y_train.shape[2])
+        print (self.y_train.shape)
+        # print (self.y_train.shape[2])
         print (self.y_train)
         # lol
         print ('==============finish preprocessing==============')
@@ -49,12 +51,13 @@ class BiLSTMTokenizer():
         with tf.variable_scope('LSTM_bw_layer'):
             LSTM_bw_layer = self.init_RNN()
         output_bidirection, state = tf.nn.bidirectional_dynamic_rnn(LSTM_fw_layer, LSTM_bw_layer, embedding, dtype = 'float32' )    
-        input_softmax = tf.concat([output_bidirection[0],output_bidirection[1]],2)[-1,:,:]
+        input_softmax = tf.concat([output_bidirection[0],output_bidirection[1]],2)
         # concaternate = input_softmax
         outputs = tf.layers.dense(input_softmax,self.y_train.shape[2],activation = tf.nn.softmax)
         y_label = tf.placeholder(tf.float32, name="y_label", shape=(None, self.y_train.shape[1] , self.y_train.shape[2]))
         # define the loss function:
-        cross_entropy_loss = tf.reduce_mean(-tf.reduce_sum(y_label * tf.log(outputs), reduction_indices=[1]))
+        test_sum = -tf.reduce_sum(y_label * tf.log(outputs), reduction_indices=[2])
+        cross_entropy_loss = tf.reduce_mean(test_sum)
         optimizer = tf.train.GradientDescentOptimizer(self.learning_rate).minimize(cross_entropy_loss,name='training_step')
         sess = tf.Session()
         init = tf.global_variables_initializer()
@@ -65,37 +68,23 @@ class BiLSTMTokenizer():
         print (total_batch)
         loss_set = []
         for _ in range(self.epochs):
+            start_time = time.time()
             print ('epoch: ', _ + 1)
             avg_loss = 0
             for j in range(total_batch):
                 batch_x_train, batch_y_train = self.x_train[j*self.batch_size:(j+1)*self.batch_size], self.y_train[j*self.batch_size:(j+1)*self.batch_size]
-                
-                # embedding = sess.run(embedding, feed_dict={sentence_one_hot: batch_x_train})
-                # print (embedding)
-                # print (embedding.shape)
-                # print ('embedding')
-                # outs, sta = sess.run([outputs,state], feed_dict={sentence_one_hot: batch_x_train})
-                # outputs = sess.run([outputs],feed_dict={sentence_one_hot: batch_x_train})
-                # loss = sess.run([cross_entropy_loss],feed_dict={sentence_one_hot: batch_x_train,y_label:batch_y_train})
-                # print ('prediction')
-                # print (outs[0][:][0])
-                # print (outs[1][:][0])
-                # print (outs)
-                # print (input_softmax)
-                # print (concaternate)
-                # print (cross_entropy_loss)
-                # avg_loss += loss
-                # print (sta)
-                # print (tf.shape(outputs))
                 sess.run(optimizer, feed_dict={sentence_one_hot: batch_x_train, y_label: batch_y_train})
                 loss = sess.run(cross_entropy_loss, feed_dict={sentence_one_hot: batch_x_train, y_label: batch_y_train})/total_batch
+                # test_sum = sess.run(test_sum, feed_dict={sentence_one_hot: batch_x_train, y_label: batch_y_train})
+                # print (test_sum)
+                # print (loss)
                 avg_loss += loss
             loss_set.append(avg_loss)
             
             
             print('loss is : ',avg_loss)
             print("finished training tokenizer phrase!!!")
-        
+            print ('time for epoch: ', _ + 1 , time.time()-start_time)
         save_path = saver.save(sess, self.file_to_save_model)
 
         plt.plot(loss_set)
