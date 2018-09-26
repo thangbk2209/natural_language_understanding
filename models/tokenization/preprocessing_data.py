@@ -1,4 +1,6 @@
 import numpy as np
+import pickle as pk
+import pandas as pd
 """gather the samples have the same input"""
 class Preprocess:
     def __init__(self,input_size = None, data = ""):
@@ -12,13 +14,15 @@ class Preprocess:
         x_train_raw = []
         y_train_raw = []
         all_single_word = []
+        number_digit = 0
         with open (self.data,encoding = 'utf-8') as acro_file:
             lines = acro_file.readlines()
             x_traini = []
             y_traini = []
+            number_replace = '1000'
             for line in lines:
                 # print (line)
-                if line == '\n':
+                if line == '\n' or line == '\t\n':
                     # print(1)
                     x_train_raw.append(x_traini)
                     y_train_raw.append(y_traini)
@@ -27,11 +31,22 @@ class Preprocess:
                 else:
                     datai = line.rstrip('\n').split('\t')
                     # print(datai)
-                    x_traini.append(datai[0])
+                    
                     y_traini.append(datai[1])
-                    if (datai[0] not in all_single_word):
-                        all_single_word.append(datai[0])
-
+                    
+                    if datai[0].isdigit():
+                        x_traini.append(number_replace)
+                        number_digit +=1
+                        if(number_digit == 1):
+                            all_single_word.append(number_replace)
+                        
+                    else:
+                        x_traini.append(datai[0])
+                        if (datai[0] not in all_single_word):
+                            all_single_word.append(datai[0])
+                            
+        all_single_word_df = pd.DataFrame(all_single_word)
+        all_single_word_df.to_csv("../../results/tokenization/all_single_word.csv",header=None)
         word2int = {}   # Word and coresponding number
         int2word = {}   # integer number and coresponding word
         number_words = len(all_single_word) # gives the total number of unique words
@@ -39,6 +54,11 @@ class Preprocess:
         for i,word in enumerate(all_single_word):
             word2int[word] = np.int16(i)
             int2word[np.int16(i)] = word
+        print (int2word[0])
+        print (int2word[10])
+        with open('../../results/tokenization/word2int_ver3.pkl','wb') as output:
+            pk.dump(word2int,output,pk.HIGHEST_PROTOCOL)
+            pk.dump(int2word,output,pk.HIGHEST_PROTOCOL)
         labels = ['B_W','I_W','O']
         number_labels = len(labels)
         label2int = {}   # label and coresponding number
@@ -56,30 +76,32 @@ class Preprocess:
         for i in range(len(labels)):
             y_one_hot_vector[label2int[labels[i]]] = self.to_one_hot(label2int[labels[i]], number_labels)
         # print (y_one_hot_vector)
-        dem = 0
+        # dem = 0
         for i in range(len(x_train_raw)):
-            x_traini = []
-            y_traini = []
-            for j in range(len(x_train_raw[i])):
-                dem+=1
-                print (dem)
-                x_traini.append(x_one_hot_vector[word2int[x_train_raw[i][j]]] )
-                # print (label2int[y_train_raw[i][j]])
-                y_traini.append(y_one_hot_vector[label2int[y_train_raw[i][j]]])
-                # print (y_one_hot_vector[label2int[y_train_raw[i][j]]])
-            if(len(x_train_raw[i]) < self.input_size):
-                temp = np.zeros((self.input_size - len(x_train_raw[i]),number_words),dtype = np.int8)
-                # for t in range(len(x_train_raw[i]),self.input_size,1):
-                #     label = np.array([1/3,1/3,1/3])
-                label = np.full((self.input_size - len(x_train_raw[i]),len(labels)), 1/3)
-            #     # label 
-            for k in range(self.input_size - len(x_train_raw[i])):
+            if(len(x_train_raw[i]) <= self.input_size):
+                x_traini = []
+                y_traini = []
+                for j in range(len(x_train_raw[i])):
+                    # dem+=1
+                    # if(len(x_train_raw[i]) > self.input_size):
+                    #     print (len(x_train_raw[i]))
+                    #     print (dem)
+                    x_traini.append(x_one_hot_vector[word2int[x_train_raw[i][j]]] )
+                    # print (label2int[y_train_raw[i][j]])
+                    y_traini.append(y_one_hot_vector[label2int[y_train_raw[i][j]]])
+                    # print (y_one_hot_vector[label2int[y_train_raw[i][j]]])
+                if(len(x_train_raw[i]) < self.input_size):
+                    temp = np.zeros((self.input_size - len(x_train_raw[i]),number_words),dtype = np.int8)
+                    # for t in range(len(x_train_raw[i]),self.input_size,1):
+                    #     label = np.array([1/3,1/3,1/3])
+                    label = np.full((self.input_size - len(x_train_raw[i]),len(labels)), 1/3)
+                #     # label 
+                for k in range(self.input_size - len(x_train_raw[i])):
                     y_traini.append(label[k])
                     x_traini.append(temp[k])
-                
+        
             x_train.append(x_traini)
             y_train.append(y_traini)
-        
         x_train = np.asarray(x_train)
         y_train = np.asarray(y_train)
         # for i in range(len(x_train)):

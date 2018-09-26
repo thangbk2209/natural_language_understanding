@@ -67,7 +67,7 @@ class Preprocess_W2v:
 
         """gather the samples have the same input"""
         def to_one_hot(data_point_index,vocab_size):
-            temp = np.zeros(vocab_size)
+            temp = np.zeros(vocab_size,dtype = np.int8)
             temp[data_point_index] = 1
             return temp
         # print (to_one_hot(word2int[ data[0][0] ], vocab_size))

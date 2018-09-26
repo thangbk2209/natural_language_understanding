@@ -45,15 +45,15 @@ class Word2Vec:
         # W2 = tf.Variable(tf.random_normal([self.embedding_dim, self.vocab_size]))
         # b2 = tf.Variable(tf.random_normal([self.vocab_size]))
         # prediction = tf.nn.softmax(tf.add( tf.matmul(hidden_representation, W2), b2))
-        pred = tf.layers.dense(hidden_representation, self.vocab_size, activation=tf.nn.softmax)
-        prediction = tf.layers.dropout(
-                            pred,
-                            rate=0.995,
-                            noise_shape=None,
-                            seed=None,
-                            training=False,
-                            name=None
-                        )
+        prediction = tf.layers.dense(hidden_representation, self.vocab_size, activation=tf.nn.softmax)
+        # prediction = tf.layers.dropout(
+        #                     pred,
+        #                     rate=0.995,
+        #                     noise_shape=None,
+        #                     seed=None,
+        #                     training=False,
+        #                     name=None
+        #                 )
         # define the loss function:
         cross_entropy_loss = tf.reduce_mean(-tf.reduce_sum(y_label * tf.log(prediction), reduction_indices=[1]))
         # define the training step:
@@ -63,8 +63,10 @@ class Word2Vec:
         init = tf.global_variables_initializer()
         sess.run(init) #make sure you do this!
         total_batch = int(len(self.x_train)/self.batch_size_word2vec)
+        print(total_batch)
         # train for n_iter iterations
         for _ in range(self.epoch_word2vec):
+            print('epoch_word2vec : ', _ + 1)
             avg_loss = 0
             for j in range(total_batch):
                 batch_x_train, batch_y_train = self.x_train[j*self.batch_size_word2vec: (j+1)*self.batch_size_word2vec], self.y_train[j*self.batch_size_word2vec: (j+1)*self.batch_size_word2vec]
@@ -80,7 +82,7 @@ class Word2Vec:
                 # print ("loss: ", loss)
                 # print ('prediction: ', prediction)
                 avg_loss += loss
-            print('epoch_word2vec : ', _+1)
+            
             total_epoch = _ + 1
             print("loss: ", avg_loss)
             if math.isnan(avg_loss):
