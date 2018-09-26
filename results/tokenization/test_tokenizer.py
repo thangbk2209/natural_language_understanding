@@ -56,7 +56,7 @@ x_data = np.asarray(x_data)
 num_units = [32,8]
 embedding_dim = 50
 epochs = 500
-batch_size = 256
+batch_size = 128
 learning_rate = 0.2
 file_to_save_model = 'model_saved_ver2/model' + str(input_size) + '-' + str(num_units) + '-' + str(embedding_dim) + '-' + str(batch_size)+'.meta'
 
