@@ -75,7 +75,7 @@ class BiLSTMTokenizer():
         sess = tf.Session()
         init = tf.global_variables_initializer()
         # Add ops to save and restore all the variables.
-        saver = tf.train.Saver()
+        saver = tf.train.Saver(save_relative_paths = True)
         sess.run(init)
         total_batch = int(len(self.x_train)/ self.batch_size)
         print (total_batch)
