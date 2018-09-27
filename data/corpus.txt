@@ -1,197 +1,298 @@
-
-mua cho tôi 80 cổ phiếu SSI với giá 29.9
-mua cho tôi mã chứng khoán SSI với giá 21.1
-mua cho tôi 800 mã cổ phiếu SSI với giá 34,1
-mua mã cổ phiếu SSI giá 26
-mua thêm 660 cổ phiếu SSI giá 45.7
-mua thêm 700 mã cổ phiếu SSI giá 50
-mua cho tôi mã chứng khoán SSI với khối lượng 760 giá 65.5
-mua cho tôi mã cổ phiếu SSI giá 45.7 với khối lượng 350 cổ phiếu
-mua cho tôi mã cổ phiếu SSI với khối lượng 750 giá 65.5
-mua cổ phiếu SSI với khối lượng 430 giá 13.9
-mua mã cổ phiếu SSI với khối lượng 330 giá cổ phiếu 20.8
-mua mã cổ phiếu SSI giá 14.8 với khối lượng 760
-mua 400 mã cổ phiếu SSI giá 43.5
-mua mã chứng khoán SSI giá 19.9 với khối lượng 2000 cổ phiếu
-mua mã chứng khoán SSI với khối lượng 460 giá 34
-mua 460 mã chứng khoán SSI giá 34
-mua cho tôi 450 cổ phiếu SSI giá 14.8
-mua cho tôi mã chứng khoán SSI giá 45
-mua cho tôi 600 mã cổ phiếu SSI giá 34
-mua 100 cổ SSI giá 21.5 
-bán 100 cổ giá 21 mã SSI
-bán 100 cổ ssi giá 21.4
-bán mã chứng khoán SSI
-tôi muốn bán mã chứng khoán SSI khối lương 1000 và giá 15.5
-bán hết cổ phiếu SSI với giá 13.3
-bán mã cổ phiếu SSI với giá 25.5 và khối lượng 70 cổ phiếu
-bán mã cổ phiếu SSI với khối lượng 40 cổ phiếu và giá 20
-bán 100 mã cổ phiếu SSI với giá 25
-bán mã chứng khoán SSI với giá 27 và khối lượng 130
-bán mã chứng khoán SSI với khối lượng 150 cổ phiếu và giá 23
-bán 110 mã chứng khoán SSI với giá 24.5
-bán hết mã cổ phiếu SSI với giá 22.4
-bán hết mã chứng khoán SSI với giá 23.6
-bán cổ phiếu SSI với giá 20.5
-bán 130 cổ phiếu SSI với giá 24
-bán cho tôi mã chứng khoán SSI với giá 23.5 và khối lượng 1000
-bán cho tôi mã cổ phiếu SSI với giá 23.5 và khối lượng 150
-bán cho tôi mã cổ phiếu SSI với khối lượng 160 và giá 23
-bán cho tôi 800 mã cổ phiếu SSI với giá 15.5
-bán mã cổ phiếu SSI giá 20 với khối lượng 330 cổ phiếu
-bán 550 mã cổ phiếu SSI giá 150
-bán mã chứng khoán SSI giá 50 với khối lượng 1000
-bán 580 mã chứng khoán SSI giá 45.5
-bán hết mã cổ phiếu SSI giá 23.6
-bán hết mã chứng khoán SSI giá 24
-bán hết con SSI giá 34.8
-bán 800 cổ phiếu SSI giá 56.5
-bán cho tôi mã chứng khoán SSI giá 45.5 với khối lượng 550 cổ phiếu
-bán cho tôi mã cổ phiếu SSI giá 52.5 với khối lượng 500
-bán cho tôi mã cổ phiếu SSI với khối lượng 560 giá 34.7
-bán cho tôi 700 mã cổ phiếu SSI giá 25
-bán ra SSI
-gom vào mã SSI
-gom thêm mã SSI
-gom cổ phiếu SSI với khối lượng 100 cổ phiếu và giá 15.5
-thoát hàng mã SSI
-thoát hàng SSI
-thoát toàn bộ hàng mã SSI
-thoát hàng mã chứng khoán SSI
-thoát hàng mã cổ phiếu SSI
-thoát toàn bộ mã cổ phiếu SSI
-thoát toàn bộ mã chứng khoán SSI
-xả ra SSI
-xả ra mã SSI
-xả ra mã cổ phiếu SSI
-xả ra mã chứng khoán SSI
-xả ra toàn bộ SSI
-xả ra toàn bộ mã SSI
-xả ra toàn bộ mã chứng khoán SSI
-xả ra toàn bộ mã cổ phiếu SSI
-tôi muốn giao dịch mã SSI
-tôi muốn giao dịch mua cổ phiếu SSI với giá 15.5 và khối lượng 210 cổ phiếu
-tôi muốn giao dịch mua cổ phiếu SSI với khối lượng 210 và giá 19.8
-tôi muốn giao dịch mua 900 cổ phiếu SSI với giá 15.5
-tôi muốn giao dịch bán cổ phiếu SSI với giá 13.5 và khối lượng 200 cổ phiếu
-tôi muốn giao dịch bán cổ phiếu SSI với khối lượng 150 và giá 21.5
-tôi muốn giao dịch bán 500 cổ phiếu SSI với giá 15.5
-tôi muốn giao dịch mua mã cổ phiếu SSI với giá 13.9 và khối lượng 200
-tôi muốn giao dịch mua mã cổ phiếu SSI với khối lượng 240 và giá24.5
-tôi muốn giao dịch bán mã cổ phiếu SSI với giá 25.8 và khối lượng 250 cổ phiếu
-tôi muốn giao dịch bán mã cổ phiếu SSI với khối lượng 400 và giá 23.5
-tôi muốn giao dịch mua mã chứng khoán SSI với giá 25.7 và khối lượng 290
-tôi muốn giao dịch mua mã chứng khoán SSI với khối lượng 250 và giá 40
-tôi muốn giao dịch mua 1000 mã chứng khoán SSI với giá 24.7
-tôi muốn giao dịch bán mã chứng khoán SSI với giá 34.6 và khối lượng 270
-tôi muốn giao dịch bán mã chứng khoán SSI với khối lượng 150 và giá 34
-tôi muốn giao dịch bán 2000 mã chứng khoán SSI với giá 34.5
-tôi muốn giao dịch mua cổ phiếu SSI giá 43 với khối lượng 1000 cổ phiếu
-tôi muốn giao dịch mua cổ phiếu SSI với khối lượng 450 giá 25
-tôi muốn giao dịch mua 580 cổ phiếu SSI giá 43
-tôi muốn giao dịch bán cổ phiếu SSI giá 29 với khối lượng 550 cổ phiếu
-tôi muốn giao dịch bán cổ phiếu SSI với khối lượng 600 giá 34
-tôi muốn giao dịch bán 590 cổ phiếu SSI giá 23.8
-tôi muốn giao dịch mua mã cổ phiếu SSI giá 54 với khối lượng 1000
-tôi muốn giao dịch mua mã cổ phiếu SSI với khối lượng 460 giá 23.7
-tôi muốn giao dịch bán mã cổ phiếu SSI giá 34 với khối lượng 2000
-tôi muốn giao dịch bán mã cổ phiếu SSI với khối lượng 550 giá 25.8
-tôi muốn giao dịch mua mã chứng khoán SSI giá 43 với khối lượng 600
-tôi muốn giao dịch mua mã chứng khoán SSI với khối lượng 780 giá 35.6
-tôi muốn giao dịch mua 760 mã chứng khoán SSI giá 23.8
-tôi muốn giao dịch bán mã chứng khoán SSI giá 43 với khối lượng 2300
-tôi muốn giao dịch bán mã chứng khoán SSI với khối lượng 1500 giá 65.5
-tôi muốn giao dịch bán 1300 mã chứng khoán SSI giá 81.5
-đầu tư thêm 100 cổ phiếu SSI giá 30
-đầu tư vào mã SSI
-đầu tư 10 triệu vào mã ssi
-đầu tư 12 triệu vào mã ssi và 10 triệu vào mã acb
-tôi muốn chi 12 triệu vào 100 cổ phiếu ssi
-tôi muốn chi 12 triệu cho cp ssi
-tôi muốn đầu tư 12 triệu vào mã ssi
-tôi muốn đầu tư 12 triệu vào mã acb với giá 12.6
-tôi muốn đầu tư 12 triệu cho 1000 cổ phiếu acb
-trace,tôi muốn đầu từ 12 triệu cho 1000 cổ ssi
-lấy thêm cổ phiếu SSI với khối lượng 50 cổ phiếu và giá 23.5
-lấy thêm 150 cổ phiếu SSI với giá 30
-lấy thêm mã cổ phiếu SSI với khối lượng 130 và giá 23.4
-lấy thêm 50 mã cổ phiếu SSI với giá 23.4
-lấy thêm 320 cổ phiếu SSI giá 32.1
-lấy thêm mã cổ phiếu SSI với khối lượng 32 giá 50
-lấy thêm 300 mã cổ phiếu SSI giá 100
-tôi muốn đặt lệnh mua cổ phiếu SSI với giá 23.9 và khối lượng 500 cổ phiếu
-tôi muốn đặt lệnh mua cổ phiếu SSI với khối lượng 340 và giá 23.3
-tôi muốn đặt lệnh mua 550 cổ phiếu SSI với giá 23.4
-tôi muốn đặt lệnh bán cổ phiếu SSI với giá 32.1 và khối lượng 1200 cổ phiếu
-tôi muốn đặt lệnh bán cổ phiếu SSI với khối lượng 430 và giá 24.5
-tôi muốn đặt lệnh bán 900 cổ phiếu SSI với giá 25.7
-tôi muốn đặt lệnh mua mã cổ phiếu SSI với giá 32.1 và khối lượng 430 cổ phiếu
-tôi muốn đặt lệnh mua mã cổ phiếu SSI với khối lượng 150 và giá 41
-tôi muốn đặt lệnh bán mã cổ phiếu SSI với giá 24.4 và khối lượng 160
-tôi muốn đặt lệnh bán mã cổ phiếu SSI với khối lượng 450 và giá 29.1
-tôi muốn đặt lệnh mua mã chứng khoán SSI với giá 32 và khối lượng 300 cổ phiếu
-tôi muốn đặt lệnh mua mã chứng khoán SSI với khối lượng 450 và giá 32.5
-tôi muốn đặt lệnh mua 600 mã chứng khoán SSI với giá 30.5
-tôi muốn đặt lệnh bán mã chứng khoán SSI với giá 25.6 và khối lượng 2000
-tôi muốn đặt lệnh bán mã chứng khoán SSI với khối lượng 450 và giá 26.8
-tôi muốn đặt lệnh bán 350 mã chứng khoán SSI với giá 23.3
-tôi muốn đặt lệnh mua cổ phiếu SSI giá 50 với khối lượng 1200 cổ phiếu
-tôi muốn đặt lệnh mua cổ phiếu SSI với khối lượng 1000 giá 100
-tôi muốn đặt lệnh mua 1400 cổ phiếu SSI giá 57.5
-tôi muốn đặt lệnh bán cổ phiếu SSI giá 100 với khối lượng 2000
-tôi muốn đặt lệnh bán cổ phiếu SSI với khối lượng 2300 giá 90
-tôi muốn đặt lệnh bán 1300 cổ phiếu SSI giá 50.8
-tôi muốn đặt lệnh mua mã cổ phiếu SSI giá 40.3 với khối lượng 1300 cổ phiếu
-tôi muốn đặt lệnh mua mã cổ phiếu SSI với khối lượng 2300 giá 100
-tôi muốn đặt lệnh bán mã cổ phiếu SSI giá 100 với khối lượng 3000 cổ phiếu
-tôi muốn đặt lệnh bán mã cổ phiếu SSI với khối lượng 1400 giá 56.5
-tôi muốn đặt lệnh mua mã chứng khoán SSI giá 45.5 với khối lượng 2300 cổ phiếu
-tôi muốn đặt lệnh mua mã chứng khoán SSI với khối lượng 2400 giá 150
-tôi muốn đặt lệnh mua 1400 mã chứng khoán SSI giá 80.5
-tôi muốn đặt lệnh bán mã chứng khoán SSI giá 150 với khối lượng 2000
-tôi muốn đặt lệnh bán mã chứng khoán SSI với khối lượng 1500 giá 89.5
-tôi muốn đặt lệnh bán 1400 mã chứng khoán SSI giá 59.5
-đặt lệnh bán SSI
-đặt lệnh mua SSI
-đặt lệnh mua cổ phiếu SSI giá 23 và khối lượng 120 cổ phiếu
-đặt lệnh bán cổ phiếu SSI giá 21.2 và khối lượng 100 cổ phiếu
-đặt bán 100 SSI giá 19.5
-đặt mua 50 cổ SSI giá 20
-đặt mua cổ SSI số lượng 50 giá 21
-tôi muốn đặt bán 100 ssi giá 18.4
-tôi muốn đặt bán 50 cổ ssi giá 20
-tôi muốn đặt mua cổ ssi số lượng 20 giá 21
-tôi cần đặt mua 120 cổ ssi giá 12.5
-tôi cần bán 120 cổ ssi giá 12.4
-tôi cần bán 120 cổ phiếu ssi giá 11.2
-thị trường hôm nay thế nào rồi
-thị trường thế nào
-thị trường hiện đang thế nào
-tình hình thị trường thế nào rồi
-lên xuống thế nào
-thị trường lên xuống thế nào
-thị trường biến động ra sao
-diễn biến thị trường ra sao
-tình hình diễn biến mã ssi thế nào
-thị trường biến động thế nào
-tình hình biến động mã ssi hôm nay
-biến động thế nào
-tổng quan thị trường
-tổng quan thị trường chứng khoán
-thông tin thị trường
-thông tin giao dịch
-thị trường đang giao dịch như thế nào
-tình hình giao dịch thế nào rồi
+mua mã chứng khoán SSI.
+mua mã SSI giá 20 khối lượng 100 cổ phiếu.
+mua vào mã SSI.
+bán ra mã SSI.
+mua vào SSI.
+bán ra SSI.
+mua thêm mã SSI.
+mua thêm SSI.
+tôi muốn mua mã chứng khoán SSI với 100 cổ phiếu và giá 15.6.
+mua cho tôi mã chứng khoán SSI với giá 10.5 và khối lượng 100.
+mua cổ phiếu SSI với giá 10.6 và khối lượng 50.
+mua 100 cổ phiếu SSI với giá 15.5.
+mua 100 SSI với giá 10.5.
+mua 50 cổ phiếu SSI với mức giá 17.5.
+mua 70 cổ phiếu với mức giá 20 của cổ phiếu SSI.
+mua 80 cổ phiếu SSI giá 15.9.
+mua mã cổ phiếu SSI với giá 29.
+mua SSI với giá 12.
+mua thêm 100 SSI giá 10.
+mua thêm cổ phiếu SSI với khối lượng 200 cổ phiếu và giá 19.5.
+mua thêm 200 cổ phiếu SSI với giá 25.5.
+mua thêm mã cổ phiếu SSI với khối lượng 130 và giá 21.1.
+mua thêm 100 mã cổ phiếu SSI với giá 21.
+mua thêm 100 SSI giá 10.
+mua cho tôi mã chứng khoán SSI với khối lượng 500 và giá 24.4.
+mua cho tôi 100 SSI giá 11.
+mua cho tôi mã cổ phiếu SSI với giá 32.5 và khối lượng 150.
+mua cho tôi mã cổ phiếu SSI với khối lượng 200 và giá 25.5.
+mua cổ phiếu SSI với khối lượng 1000 và giá 13.9.
+mua mã cổ phiếu SSI với khối lượng 500 và giá 24.5.
+mua mã cổ phiếu SSI với giá 14 và khối lượng 500.
+mua 900 mã cổ phiếu SSI với giá 20.
+mua mã chứng khoán SSI với giá 25.5 và khối lượng 210 cổ phiếu.
+mua mã chứng khoán SSI với khối lượng 650 và giá 29.5.
+mua 800 mã chứng khoán SSI với giá 29.9.
+mua cho tôi 80 cổ phiếu SSI với giá 29.9.
+mua cho tôi mã chứng khoán SSI với giá 21.1.
+mua cho tôi 800 mã cổ phiếu SSI với giá 34,1.
+mua mã cổ phiếu SSI giá 26.
+mua thêm 660 cổ phiếu SSI giá 45.7.
+mua thêm 700 mã cổ phiếu SSI giá 50.
+mua cho tôi mã chứng khoán SSI với khối lượng 760 giá 65.5.
+mua cho tôi mã cổ phiếu SSI giá 45.7 với khối lượng 350 cổ phiếu.
+mua cho tôi mã cổ phiếu SSI với khối lượng 750 giá 65.5.
+mua cho tôi 100 SSI giá 12.
+mua cổ phiếu SSI với khối lượng 430 giá 13.9.
+mua mã cổ phiếu SSI với khối lượng 330 giá cổ phiếu 20.8.
+mua mã cổ phiếu SSI giá 14.8 với khối lượng 760.
+mua 400 mã cổ phiếu SSI giá 43.5.
+mua mã chứng khoán SSI giá 19.9 với khối lượng 2000 cổ phiếu.
+mua mã chứng khoán SSI với khối lượng 460 giá 34.
+mua 460 mã chứng khoán SSI giá 34.
+mua cho tôi 450 cổ phiếu SSI giá 14.8.
+mua cho tôi mã chứng khoán SSI giá 45.
+mua cho tôi 600 mã cổ phiếu SSI giá 34.
+mua 100 cổ SSI giá 21.5 .
+bán 100 cổ giá 21 mã SSI.
+bán 100 cổ ssi giá 21.4.
+bán mã chứng khoán SSI.
+tôi muốn bán mã chứng khoán SSI khối lương 1000 và giá 15.5.
+bán hết cổ phiếu SSI với giá 13.3.
+bán hết SSI giá 21.
+bán mã cổ phiếu SSI với giá 25.5 và khối lượng 70 cổ phiếu.
+bán mã cổ phiếu SSI với khối lượng 40 cổ phiếu và giá 20.
+bán 100 mã cổ phiếu SSI với giá 25.
+bán 100 SSI giá 11.
+bán mã chứng khoán SSI với giá 27 và khối lượng 130.
+bán mã chứng khoán SSI với khối lượng 150 cổ phiếu và giá 23.
+bán 110 mã chứng khoán SSI với giá 24.5.
+bán hết mã cổ phiếu SSI với giá 22.4.
+bán hết SSI giá 12.
+bán hết mã chứng khoán SSI với giá 23.6.
+bán cổ phiếu SSI với giá 20.5.
+bán 130 cổ phiếu SSI với giá 24.
+bán cho tôi mã chứng khoán SSI với giá 23.5 và khối lượng 1000.
+bán cho tôi mã cổ phiếu SSI với giá 23.5 và khối lượng 150.
+bán cho tôi mã cổ phiếu SSI với khối lượng 160 và giá 23.
+bán cho tôi 800 mã cổ phiếu SSI với giá 15.5.
+bán cho tôi 1000 SSI giá 11.
+bán mã cổ phiếu SSI giá 20 với khối lượng 330 cổ phiếu.
+bán 550 mã cổ phiếu SSI giá 150.
+bán mã chứng khoán SSI giá 50 với khối lượng 1000.
+bán 580 mã chứng khoán SSI giá 45.5.
+bán hết mã cổ phiếu SSI giá 23.6.
+bán hết mã chứng khoán SSI giá 24.
+bán hết con SSI giá 34.8.
+bán 800 cổ phiếu SSI giá 56.5.
+bán cho tôi mã chứng khoán SSI giá 45.5 với khối lượng 550 cổ phiếu.
+bán cho tôi mã cổ phiếu SSI giá 52.5 với khối lượng 500.
+bán cho tôi mã cổ phiếu SSI với khối lượng 560 giá 34.7.
+bán cho tôi 700 mã cổ phiếu SSI giá 25.
+bán ra SSI.
+bán mã SSI.
+bán 100 cổ SSI.
+bán 100 cổ phiếu SSI giá 12.4.
+gom vào mã SSI.
+gom thêm mã SSI.
+gom cổ phiếu SSI với khối lượng 100 cổ phiếu và giá 15.5.
+thoát hàng mã SSI.
+thoát hàng SSI.
+thoát toàn bộ hàng mã SSI.
+thoát hàng mã chứng khoán SSI.
+thoát hàng mã cổ phiếu SSI.
+thoát toàn bộ mã cổ phiếu SSI.
+thoát toàn bộ mã chứng khoán SSI.
+xả ra SSI.
+xả ra mã SSI.
+xả ra mã cổ phiếu SSI.
+xả ra mã chứng khoán SSI.
+xả ra toàn bộ SSI.
+xả ra toàn bộ mã SSI.
+xả ra toàn bộ mã chứng khoán SSI.
+xả ra toàn bộ mã cổ phiếu SSI.
+tôi muốn giao dịch mã SSI.
+tôi muốn giao dịch mua cổ phiếu SSI với giá 15.5 và khối lượng 210 cổ phiếu.
+tôi muốn giao dịch mua cổ phiếu SSI với khối lượng 210 và giá 19.8.
+tôi muốn giao dịch mua 100 SSI giá 11.
+tôi muốn giao dịch bán 100 SSI giá 10.
+tôi muốn giao dịch SSI với khối lượng 100 và giá 12.
+tôi muốn giao dịch mua 900 cổ phiếu SSI với giá 15.5.
+tôi muốn giao dịch bán cổ phiếu SSI với giá 13.5 và khối lượng 200 cổ phiếu.
+tôi muốn giao dịch bán cổ phiếu SSI với khối lượng 150 và giá 21.5.
+tôi muốn giao dịch bán 500 cổ phiếu SSI với giá 15.5.
+tôi muốn giao dịch mua mã cổ phiếu SSI với giá 13.9 và khối lượng 200.
+tôi muốn giao dịch mua mã cổ phiếu SSI với khối lượng 240 và giá24.5.
+tôi muốn giao dịch bán mã cổ phiếu SSI với giá 25.8 và khối lượng 250 cổ phiếu.
+tôi muốn giao dịch bán mã cổ phiếu SSI với khối lượng 400 và giá 23.5.
+tôi muốn giao dịch mua mã chứng khoán SSI với giá 25.7 và khối lượng 290.
+tôi muốn giao dịch mua mã chứng khoán SSI với khối lượng 250 và giá 40.
+tôi muốn giao dịch mua 1000 mã chứng khoán SSI với giá 24.7.
+tôi muốn giao dịch bán mã chứng khoán SSI với giá 34.6 và khối lượng 270.
+tôi muốn giao dịch bán mã chứng khoán SSI với khối lượng 150 và giá 34.
+tôi muốn giao dịch bán 2000 mã chứng khoán SSI với giá 34.5.
+tôi muốn giao dịch mua cổ phiếu SSI giá 43 với khối lượng 1000 cổ phiếu.
+tôi muốn giao dịch mua cổ phiếu SSI với khối lượng 450 giá 25.
+tôi muốn giao dịch mua 580 cổ phiếu SSI giá 43.
+tôi muốn giao dịch bán cổ phiếu SSI giá 29 với khối lượng 550 cổ phiếu.
+tôi muốn giao dịch bán cổ phiếu SSI với khối lượng 600 giá 34.
+tôi muốn giao dịch bán 590 cổ phiếu SSI giá 23.8.
+tôi muốn giao dịch mua mã cổ phiếu SSI giá 54 với khối lượng 1000.
+tôi muốn giao dịch mua mã cổ phiếu SSI với khối lượng 460 giá 23.7.
+tôi muốn giao dịch bán mã cổ phiếu SSI giá 34 với khối lượng 2000.
+tôi muốn giao dịch bán mã cổ phiếu SSI với khối lượng 550 giá 25.8.
+tôi muốn giao dịch mua mã chứng khoán SSI giá 43 với khối lượng 600.
+tôi muốn giao dịch mua mã chứng khoán SSI với khối lượng 780 giá 35.6.
+tôi muốn giao dịch mua 760 mã chứng khoán SSI giá 23.8.
+tôi muốn giao dịch bán mã chứng khoán SSI giá 43 với khối lượng 2300.
+tôi muốn giao dịch bán mã chứng khoán SSI với khối lượng 1500 giá 65.5.
+tôi muốn giao dịch bán 1300 mã chứng khoán SSI giá 81.5.
+đầu tư thêm 100 cổ phiếu SSI giá 30.
+đầu tư vào mã SSI.
+đầu tư 10 triệu vào mã ssi.
+đầu tư 12 triệu vào mã ssi và 10 triệu vào mã acb.
+đầu tư 100 SSI giá 12.
+tôi muốn chi 12 triệu vào 100 cổ phiếu ssi.
+tôi muốn chi 12 triệu cho cp ssi.
+tôi muốn đầu tư 200 SSI giá 12.
+tôi muốn đầu tư 12 triệu vào mã ssi.
+tôi muốn đầu tư 12 triệu vào mã acb với giá 12.6.
+tôi muốn đầu tư 12 triệu cho 1000 cổ phiếu acb.
+tôi muốn đầu từ 12 triệu cho 1000 cổ ssi.
+lấy thêm cổ phiếu SSI với khối lượng 50 cổ phiếu và giá 23.5.
+lấy thêm 150 cổ phiếu SSI với giá 30.
+lấy thêm mã cổ phiếu SSI với khối lượng 130 và giá 23.4.
+lấy thêm 50 mã cổ phiếu SSI với giá 23.4.
+lấy thêm 320 cổ phiếu SSI giá 32.1.
+lấy thêm 100 SSI giá 12.
+lấy thêm mã cổ phiếu SSI với khối lượng 32 giá 50.
+lấy thêm 300 mã cổ phiếu SSI giá 100.
+tôi muốn đặt lệnh mua cổ phiếu SSI với giá 23.9 và khối lượng 500 cổ phiếu.
+tôi muốn đặt lệnh mua cổ phiếu SSI với khối lượng 340 và giá 23.3.
+tôi muốn đặt lệnh mua 550 cổ phiếu SSI với giá 23.4.
+tôi muốn đặt lệnh bán cổ phiếu SSI với giá 32.1 và khối lượng 1200 cổ phiếu.
+tôi muốn đặt lệnh bán cổ phiếu SSI với khối lượng 430 và giá 24.5.
+tôi muốn đặt lệnh bán 900 cổ phiếu SSI với giá 25.7.
+tôi muốn đặt lệnh mua 100 SSI giá 10.
+tôi muốn đặt lệnh bán 100 SSI giá 11.
+tôi muốn đặt lệnh mua mã cổ phiếu SSI với giá 32.1 và khối lượng 430 cổ phiếu.
+tôi muốn đặt lệnh mua mã cổ phiếu SSI với khối lượng 150 và giá 41.
+tôi muốn đặt lệnh bán mã cổ phiếu SSI với giá 24.4 và khối lượng 160.
+tôi muốn đặt lệnh bán mã cổ phiếu SSI với khối lượng 450 và giá 29.1.
+tôi muốn đặt lệnh mua mã chứng khoán SSI với giá 32 và khối lượng 300 cổ phiếu.
+tôi muốn đặt lệnh mua mã chứng khoán SSI với khối lượng 450 và giá 32.5.
+tôi muốn đặt lệnh mua 600 mã chứng khoán SSI với giá 30.5.
+tôi muốn đặt lệnh bán mã chứng khoán SSI với giá 25.6 và khối lượng 2000.
+tôi muốn đặt lệnh bán mã chứng khoán SSI với khối lượng 450 và giá 26.8.
+tôi muốn đặt lệnh bán 350 mã chứng khoán SSI với giá 23.3.
+tôi muốn đặt lệnh mua cổ phiếu SSI giá 50 với khối lượng 1200 cổ phiếu.
+tôi muốn đặt lệnh mua cổ phiếu SSI với khối lượng 1000 giá 100.
+tôi muốn đặt lệnh mua 1400 cổ phiếu SSI giá 57.5.
+tôi muốn đặt lệnh bán cổ phiếu SSI giá 100 với khối lượng 2000.
+tôi muốn đặt lệnh bán cổ phiếu SSI với khối lượng 2300 giá 90.
+tôi muốn đặt lệnh bán 1300 cổ phiếu SSI giá 50.8.
+tôi muốn đặt lệnh mua mã cổ phiếu SSI giá 40.3 với khối lượng 1300 cổ phiếu.
+tôi muốn đặt lệnh mua mã cổ phiếu SSI với khối lượng 2300 giá 100.
+tôi muốn đặt lệnh bán mã cổ phiếu SSI giá 100 với khối lượng 3000 cổ phiếu.
+tôi muốn đặt lệnh bán mã cổ phiếu SSI với khối lượng 1400 giá 56.5.
+tôi muốn đặt lệnh mua mã chứng khoán SSI giá 45.5 với khối lượng 2300 cổ phiếu.
+tôi muốn đặt lệnh mua mã chứng khoán SSI với khối lượng 2400 giá 150.
+tôi muốn đặt lệnh mua 1400 mã chứng khoán SSI giá 80.5.
+tôi muốn đặt lệnh bán mã chứng khoán SSI giá 150 với khối lượng 2000.
+tôi muốn đặt lệnh bán mã chứng khoán SSI với khối lượng 1500 giá 89.5.
+tôi muốn đặt lệnh bán 1400 mã chứng khoán SSI giá 59.5.
+đặt lệnh bán SSI.
+đặt lệnh mua SSI.
+đặt lệnh mua cổ phiếu SSI giá 23 và khối lượng 120 cổ phiếu.
+đặt lệnh bán cổ phiếu SSI giá 21.2 và khối lượng 100 cổ phiếu.
+đặt bán 100 SSI giá 19.5.
+đặt mua 50 cổ SSI giá 20.
+đặt mua cổ SSI số lượng 50 giá 21.
+tôi muốn đặt bán 100 ssi giá 18.4.
+tôi muốn đặt bán 50 cổ ssi giá 20.
+tôi muốn đặt mua cổ ssi số lượng 20 giá 21.
+tôi cần đặt mua 120 cổ ssi giá 12.5.
+tôi cần bán 120 cổ ssi giá 12.4.
+tôi cần bán 120 cổ phiếu ssi giá 11.2.
+giao dịch mua SSI.
+giao dịch mua SSI giá 10.5.
+giao dịch bán SSI.
+giao dịch mua SSI.
+tôi muốn giao dịch mua SSI.
+tôi muốn giao dịch mua SSI giá 12.
+tôi muốn giao dịch bán SSI.
+tôi muốn giao dịch bán SSI giá 11.
+mua 100 SSI giá 10.5.
+mua 1000 SSI giá 12.
+bán 120 SSI giá 11.
+bán 200 SSI giá 12.
+giao dịch mua SSI giá 12.5.
+giao dịch bán SSI giá 11.
+tôi muốn mua SSI giá 12.
+tôi muốn bán SSI giá 20.
+tôi muốn mua 100 SSI giá 10.
+tôi muốn bán 100 SSI giá 12.
+múc 100 SSI giá 11.
+múc 120 mã SSI giá 21.
+múc 1000 cổ phiếu SSI giá 10.
+múc 120 cổ SSI giá 10.1.
+múc SSI giá 12.
+tôi muốn thực hiện giao dịch SSI.
+tôi muốn thực hiện giao dịch mã SSI.
+tôi muốn thực hiện giao dịch cổ phiếu SSI.
+tôi muốn thực hiện giao dịch 100 SSI giá 10.
+tôi muốn thực hiện giao dịch SSI giá 11.
+tôi muốn thực hiện giao dịch 1000 cp SSI giá 12.
+tôi muốn thực hiện giao dịch 100 mã SSI giá 10.
+tôi muốn thực hiện giao dịch cổ phiếu SSI khối lượng 1000 giá 12.
+tôi muốn thực hiện giao dịch cp SSI giá 11 khối lượng 1000.
+tôi muốn thực hiện giao dịch mua SSI giá 10.
+tôi muốn thực hiện giao dịch bán SSI giá 11.
+tôi muốn thực hiện giao dịch mua 100 SSI giá 11.
+tôi muốn thực hiện giao dịch bán 1000 SSI giá 10.5.
+tôi muốn thực hiện giao dịch mua bán SSI.
+tôi muốn tiến hành giao dịch SSI.
+tôi muốn tiến hành giao dịch mã SSI.
+tôi muốn tiến hành giao dịch cổ phiếu SSI.
+tôi muốn tiến hành giao dịch 100 SSI giá 10.
+tôi muốn tiến hành giao dịch SSI giá 11.
+tôi muốn tiến hành giao dịch 1000 cp SSI giá 12.
+tôi muốn tiến hành giao dịch 100 mã SSI giá 10.
+tôi muốn tiến hành giao dịch cổ phiếu SSI khối lượng 1000 giá 12.
+tôi muốn tiến hành giao dịch cp SSI giá 11 khối lượng 1000.
+tôi muốn tiến hành giao dịch mua SSI giá 10.
+tôi muốn tiến hành giao dịch bán SSI giá 11.
+tôi muốn tiến hành giao dịch mua 100 SSI giá 11.
+tôi muốn tiến hành giao dịch bán 1000 SSI giá 10.5.
+tôi muốn tiến hành giao dịch mua bán SSI.
+thị trường hôm nay thế nào rồi.
+thị trường thế nào.
+thị trường hiện đang thế nào.
+tình hình thị trường thế nào rồi.
+lên xuống thế nào.
+thị trường lên xuống thế nào.
+thị trường biến động ra sao.
+diễn biến thị trường ra sao.
+tình hình diễn biến mã ssi thế nào.
+thị trường biến động thế nào.
+tình hình biến động mã ssi hôm nay.
+biến động thế nào.
+tổng quan thị trường.
+tổng quan thị trường chứng khoán.
+thông tin thị trường.
+thông tin giao dịch.
+thị trường đang giao dịch như thế nào.
+tình hình giao dịch thế nào rồi.
 tình hình giao dịch tích cực chứ?
 tình hình giao dịch có tiêu cực không?
-đang giao dịch thế nào
+đang giao dịch thế nào.
 số lượng mã ssi đang giao dịch có nhiều không?
-thanh khoản hôm nay cao chứ
-thanh khoản mã ssi có đột biến không
-thanh khoản hôm nay cao hay thấp
-thanh khoản hôm nay có sụt giảm không
+thanh khoản hôm nay cao chứ.
+thanh khoản mã ssi có đột biến không.
+thanh khoản hôm nay cao hay thấp.
+thanh khoản hôm nay có sụt giảm không.
 thanh khoản hôm nay tăng nhiều không?
-thanh khoản hôm nay giảm nhiều hay ít
+thanh khoản hôm nay giảm nhiều hay ít.
 thanh khoản hôm nay thế nào rồi?
 tình hình thanh khoản thế nào rồi?
 thanh khoản thấp lắm à?
@@ -200,9 +301,9 @@ thanh khoản ssi có cao không?
 thanh khoản có đột biến không?
 thanh khoản hiện đang thế nào?
 thanh khoản ssi hiện đang thế nào?
-hiện đang ra sao
-mã ssi hiện đang ra sao
-mã ssi hiện đang thế nào
+hiện đang ra sao.
+mã ssi hiện đang ra sao.
+mã ssi hiện đang thế nào.
 giá cổ phiếu SSI như thế nào?
 mã SSI hôm nay có ổn không?
 mã SSI hôm nay có biến động nhiều không?
@@ -212,996 +313,1399 @@ cổ phiếu SSI hôm nay thế nào?
 mã SSI hôm nay tốt không?
 mã chứng khoán SSI hôm nay thế nào?
 SSI hôm nay thế nào nhỉ?
-xem mã SSI hôm nay
-xem mã chứng khoán SSI hiện ra sao
-xem cổ phiếu SSI hôm nay thế nào
-xem mã chứng khoán SSI biến động ra sao
-xem biến động mã SSI
-xem biến động cổ phiếu SSI hôm nay
-xem biến động mã chứng khoán SSI ra sao
-xem hôm nay chứng khoán SSI biến động như thế nào
-xem hôm nay cổ phiếu SSI biến động ra sao
-xem tình hình mã SSI
-xem tình hình cổ phiếu SSI hôm nay
-xem tình hình biến động mã SSI
-xem tình hình biến động cổ phiếu SSI hôm nay
-xem diễn biến mã SSI
-xem diễn biến hôm nay của mã SSI
-xem diễn biến mã chứng khoán SSI hôm nay
-xem diễn biến mã SSI hôm nay
-xem kết quả giao dịch cổ phiếu SSI
-xem kết quả giao dịch mã SSI hiện tại
-xem thông tin cổ phiếu SSI
-xem thông tin chứng khoán SSI
-xem thông tin mã cổ phiếu SSI
-xem thông tin giao dịch mã SSI
-xem thông tin giao dịch mã chứng khoán SSI hôm nay
-xem tổng quan mã cổ phiếu SSI hôm nay
-xem khối lượng giao dịch cổ phiếu SSI hôm nay
-xem giá mở cửa hôm nay của mã chứng khoán SSI
-xem giá đóng cửa hôm qua mã SSI
-xem giá hiện tại của mã cổ phiếu SSI
-xem giá hiện tại của mã chứng khoán SSI
-xem lịch sử giá cổ phiếu SSI
-xem biến động lên xuống của mã chứng khoán SSI
-xem lịch sử giao dịch mã chứng khoán SSI
-xem lịch sử giao dịch mã cổ phiếu SSI
-xem cập nhật về mã chứng khoán SSI
-xem cập nhật tình hình cổ phiếu SSI
-xem cập nhật thông tin mã SSI
-xem cập nhật thông tin giao dịch mã SSI
-xem cập nhật cổ phiếu SSI hôm nay
-xem cập nhật tình hình mã chứng khoán SSI hôm nay
-xem cập nhật thông tin mã SSI hôm nay
-xem cập nhật thông tin giao dịch mã chứng khoán SSI hôm nay
-xem thông tin chung về mã SSI
-xem thông tin cổ phiếu SSI tổng quan
-xem toàn cảnh về mã cổ phiếu SSI
-xem toàn cảnh mã chứng khoán SSI hôm nay
-xem bao quát mã SSI
-xem giá trị cổ phiếu SSI
-xem báo cáo kết quả mã cổ phiếu SSI
-xem báo cáo kết quả mã chứng khoán SSI
-xem nhận định mã cổ phiếu SSI
-xem nhận định mã SSI hôm nay
-xem nhận định mã cổ phiếu SSI
-xem nhận định giá cổ phiếu SSI
-xem nhận định mã chứng khoán SSI
-xem nhận định giá mã chứng khoán SSI
-xem tin tức mã chứng khoán SSI hôm nay
-xem tin nhanh cổ phiếu SSI
-xem thông tin giá khớp lệnh của chứng khoán SSI 
-hiển thị mã SSI hôm nay
-hiển thị biến động cổ phiếu SSI
-hiển thị biến động cổ phiếu SSI hôm nay
-hiển thị tình hình mã SSI
-hiển thị tình hình cổ phiếu SSI hôm nay
-hiển thị tình hình biến động cổ phiếu SSI
-hiển thị tình hình biến động mã chứng khoán SSI hôm nay
-hiển thị diễn biến chứng khoán SSI
-hiển thị diễn biến hôm nay của cổ phiếu SSI
-hiển thị diễn biến mã chứng khoán SSI hôm nay
-hiển thị diễn biến giao dịch mã SSI hôm nay
-hiển thị kết quả giao dịch cổ phiếu SSI
-hiển thị kết quả giao dịch mã chứng khoán SSI hiện tại
-hiển thị thông tin cổ phiếu SSI
-hiển thị thông tin chứng khoán SSI
-hiển thị thông tin mã cổ phiếu SSI
-hiển thị thông tin giao dịch mã SSI
-hiển thị thông tin giao dịch của cổ phiếu SSI hôm nay
-hiển thị tổng quan mã SSI hôm nay
-hiển thị khối lượng giao dịch của cổ phiếu SSI hôm nay
-hiển thị giá mở cửa hôm nay của mã chứng khoán SSI
-hiển thị giá đóng cửa hôm qua của mã chứng khoán SSI
-hiển thị giá hiện tại của mã cổ phiếu SSI
-hiển thị giá hiện tại của mã chứng khoán SSI
-hiển thị lịch sử giá cổ phiếu SSI
-hiển thị biến động lên xuống của mã SSI
-hiển thị lịch sử giao dịch mã chứng khoán SSI
-hiển thị lịch sử giao dịch mã cổ phiếu SSI
-hiển thị cập nhật cổ phiếu SSI
-hiển thị cập nhật tình hình cổ phiếu SSI
-hiển thị cập nhật thông tin mã cổ phiếu SSI
-hiển thị cập nhật thông tin giao dịch mã SSI
-hiển thị cập nhật cổ phiếu SSI hôm nay
-hiển thị cập nhật tình hình mã chứng khoán SSI hôm nay
-hiển thị cập nhật thông tin cổ phiếu SSI hôm nay
-hiển thị cập nhật thông tin giao dịch chứng khoán SSI hôm nay
-hiển thị thông tin chung về cổ phiếu SSI
-hiển thị thông tin mã chứng khoán SSI tổng quan
-hiển thị toàn cảnh cổ phiếu SSI
-hiển thị toàn cảnh mã cổ phiếu SSI hôm nay
-hiển thị bao quát về cổ phiếu SSI
-hiển thị giá cổ phiếu SSI
-hiển thị báo cáo kết quả của cổ phiếu SSI
-hiển thị báo cáo kết quả của mã chứng khoán SSI
-hiển thị nhận định cổ phiếu SSI
-hiển thị nhận định mã SSI hôm nay
-hiển thị nhận định mã cổ phiếu SSI
-hiển thị nhận định giá cổ phiếu SSI
-hiển thị nhận định mã chứng khoán SSI
-hiển thị nhận định giá mã chứng khoán SSI
-hiển thị tin tức về cổ phiếu SSI hôm nay
-hiển thị tin nhanh cổ phiếu SSI
-hiển thị tin nhanh mã chứng khoán SSI
-hiển thị xem giá khớp lệnh của cổ phiếu SSI
-hiển thị xem giá khớp lệnh của mã chứng khoán SSI
-hiển thị thông tin giá khớp lệnh của chứng khoán SSI 
-cổ phiếu SSI thế nào
-mã SSI biến động ra sao
-tổng quan mã chứng khoán SSI thị trường
-tổng quan mã chứng khoán SSI
-thông tin cổ phiếu SSI
-thông tin giao dịch về cổ phiếu SSI
-cổ phiếu SSI đang giao dịch thế nào
-cổ phiếu SSI hôm nay
-mã cổ phiếu SSI hiện ra sao
-cổ phiếu SSI hôm nay thế nào
-cổ phiếu SSI biến động ra sao
-biến động mã SSI
-biến động cổ phiếu SSI hôm nay
-biến động mã chứng khoán SSI ra sao
-hôm nay mã SSI biến động như thế nào
-hôm nay cổ phiếu SSI biến động ra sao
-tình hình cổ phiếu SSI
-tình hình mã chứng khoán SSI hôm nay
-tình hình biến động cổ phiếu SSI
-tình hình biến động mã chứng khoán SSI hôm nay
-diễn biến mã cổ phiếu SSI
-diễn biến hôm nay của cổ phiếu SSI
-diễn biến hôm nay của mã SSI
-diễn biến giao dịch mã SSI hôm nay
-mã ssi diễn biến thế nào rồi
-tình hình diễn biến mã ssi thế nào rồi
-kết quả giao dịch cổ phiếu SSI
-kết quả giao dịch chứng khoán SSI hiện tại
-thông tin cổ phiếu SSI
-thông tin chứng khoán SSI
-thông tin mã cổ phiếu SSI
-thông tin giao dịch của cổ phiếu SSI
-thông tin giao dịch mã SSI hôm nay
-tổng quan về cổ phiếu SSI hôm nay
-khối lượng giao dịch của mã chứng khoán SSI hôm nay
-giá mở cửa hôm nay của mã chứng khoán SSI
-giá đóng cửa hôm qua của cổ phiếu SSI
-giá hiện tại của mã cổ phiếu SSI
-giá hiện tại của mã chứng khoán SSI
-lịch sử giá của cổ phiếu SSI
-biến động lên xuống của mã chứng khoán SSI
-lịch sử giao dịch mã chứng khoán SSI
-lịch sử giao dịch mã cổ phiếu SSI
-cập nhật mã cổ phiếu SSI
-cập nhật tình hình mã SSI
-cập nhật thông tin về cổ phiếu SSI
-cập nhật thông tin giao dịch của mã SSI
-cập nhật mã SSI hôm nay
-cập nhật tình hình mã cổ phiếu SSI hôm nay
-cập nhật thông tin mã chứng khoán SSI hôm nay
-cập nhật thông tin giao dịch của cổ phiếu SSI hôm nay
-thông tin chung về cổ phiếu SSI
-thông tin mã SSI tổng quan
-nhận định mã cổ phiếu SSI
-nhận định giá cổ phiếu SSI
-nhận định mã chứng khoán SSI
-nhận định giá mã chứng khoán SSI
-tin tức cổ phiếu SSI hôm nay
-tin nhanh về mã SSI
-xem giá khớp lệnh của cổ phiếu SSI
-xem giá khớp lệnh của mã chứng khoán SSI
-xem giá mở cửa mã acb
-hiển thị giá mở cửa ssi
-sáng nay giá mở cửa SSI bao nhiêu nhỉ
-cho tôi xem thông tin về SSI
-SSI lên xuống thế nào
-thông tin về SSI
-mã SSI thế nào rồi
-tôi còn những loại cổ phiếu nào
-tài khoản của tôi còn những cổ phiếu nào
-tài khoản của tôi có những cổ phiếu nào
-có những loại cổ phiếu nào trong tài khoản của tôi
+xem mã SSI hôm nay.
+xem mã chứng khoán SSI hiện ra sao.
+xem cổ phiếu SSI hôm nay thế nào.
+xem mã chứng khoán SSI biến động ra sao.
+xem biến động mã SSI.
+hôm nay SSI biến động nhiều không.
+xem biến động cổ phiếu SSI hôm nay.
+xem biến động mã chứng khoán SSI ra sao.
+xem hôm nay chứng khoán SSI biến động như thế nào.
+xem hôm nay cổ phiếu SSI biến động ra sao.
+xem tình hình mã SSI.
+xem tình hình cổ phiếu SSI hôm nay.
+xem tình hình biến động mã SSI.
+xem tình hình biến động cổ phiếu SSI hôm nay.
+xem diễn biến mã SSI.
+xem diễn biến hôm nay của mã SSI.
+xem diễn biến mã chứng khoán SSI hôm nay.
+xem diễn biến mã SSI hôm nay.
+xem kết quả giao dịch cổ phiếu SSI.
+xem kết quả giao dịch mã SSI hiện tại.
+xem thông tin cổ phiếu SSI.
+xem thông tin chứng khoán SSI.
+xem thông tin mã cổ phiếu SSI.
+xem thông tin giao dịch mã SSI.
+xem thông tin giao dịch mã chứng khoán SSI hôm nay.
+xem tổng quan mã cổ phiếu SSI hôm nay.
+xem khối lượng giao dịch cổ phiếu SSI hôm nay.
+xem giá mở cửa hôm nay của mã chứng khoán SSI.
+xem giá đóng cửa hôm qua mã SSI.
+xem giá hiện tại của mã cổ phiếu SSI.
+xem giá hiện tại của mã chứng khoán SSI.
+xem lịch sử giá cổ phiếu SSI.
+xem biến động lên xuống của mã chứng khoán SSI.
+xem lịch sử giao dịch mã chứng khoán SSI.
+xem lịch sử giao dịch mã cổ phiếu SSI.
+xem cập nhật về mã chứng khoán SSI.
+xem cập nhật tình hình cổ phiếu SSI.
+xem cập nhật thông tin mã SSI.
+xem cập nhật thông tin giao dịch mã SSI.
+xem cập nhật cổ phiếu SSI hôm nay.
+xem cập nhật tình hình mã chứng khoán SSI hôm nay.
+xem cập nhật thông tin mã SSI hôm nay.
+xem cập nhật thông tin giao dịch mã chứng khoán SSI hôm nay.
+xem thông tin chung về mã SSI.
+xem thông tin cổ phiếu SSI tổng quan.
+xem toàn cảnh về mã cổ phiếu SSI.
+xem toàn cảnh mã chứng khoán SSI hôm nay.
+xem bao quát mã SSI.
+xem giá trị cổ phiếu SSI.
+xem báo cáo kết quả mã cổ phiếu SSI.
+xem báo cáo kết quả mã chứng khoán SSI.
+xem nhận định mã cổ phiếu SSI.
+xem nhận định mã SSI hôm nay.
+xem nhận định mã cổ phiếu SSI.
+xem nhận định giá cổ phiếu SSI.
+xem nhận định mã chứng khoán SSI.
+SSI tuần này xanh hay đỏ.
+xem nhận định giá mã chứng khoán SSI.
+xem tin tức mã chứng khoán SSI hôm nay.
+xem tin nhanh cổ phiếu SSI.
+xem thông tin giá khớp lệnh của chứng khoán SSI .
+hiển thị mã SSI hôm nay.
+hiển thị biến động cổ phiếu SSI.
+hiển thị biến động cổ phiếu SSI hôm nay.
+hiển thị tình hình mã SSI.
+hiển thị tình hình cổ phiếu SSI hôm nay.
+hiển thị tình hình biến động cổ phiếu SSI.
+hiển thị tình hình biến động mã chứng khoán SSI hôm nay.
+hiển thị diễn biến chứng khoán SSI.
+hiển thị diễn biến hôm nay của cổ phiếu SSI.
+hiển thị diễn biến mã chứng khoán SSI hôm nay.
+hiển thị diễn biến giao dịch mã SSI hôm nay.
+hiển thị kết quả giao dịch cổ phiếu SSI.
+hiển thị kết quả giao dịch mã chứng khoán SSI hiện tại.
+hiển thị thông tin cổ phiếu SSI.
+hiển thị thông tin chứng khoán SSI.
+hiển thị thông tin mã cổ phiếu SSI.
+hiển thị thông tin giao dịch mã SSI.
+hiển thị thông tin giao dịch của cổ phiếu SSI hôm nay.
+hiển thị tổng quan mã SSI hôm nay.
+hiển thị khối lượng giao dịch của cổ phiếu SSI hôm nay.
+hiển thị giá mở cửa hôm nay của mã chứng khoán SSI.
+hiển thị giá đóng cửa hôm qua của mã chứng khoán SSI.
+hiển thị giá hiện tại của mã cổ phiếu SSI.
+hiển thị giá hiện tại của mã chứng khoán SSI.
+hiển thị lịch sử giá cổ phiếu SSI.
+hiển thị biến động lên xuống của mã SSI.
+hiển thị lịch sử giao dịch mã chứng khoán SSI.
+hiển thị lịch sử giao dịch mã cổ phiếu SSI.
+hiển thị cập nhật cổ phiếu SSI.
+hiển thị cập nhật tình hình cổ phiếu SSI.
+hiển thị cập nhật thông tin mã cổ phiếu SSI.
+hiển thị cập nhật thông tin giao dịch mã SSI.
+hiển thị cập nhật cổ phiếu SSI hôm nay.
+hiển thị cập nhật tình hình mã chứng khoán SSI hôm nay.
+hiển thị cập nhật thông tin cổ phiếu SSI hôm nay.
+hiển thị cập nhật thông tin giao dịch chứng khoán SSI hôm nay.
+hiển thị thông tin chung về cổ phiếu SSI.
+hiển thị thông tin mã chứng khoán SSI tổng quan.
+hiển thị toàn cảnh cổ phiếu SSI.
+hiển thị toàn cảnh mã cổ phiếu SSI hôm nay.
+hiển thị bao quát về cổ phiếu SSI.
+hiển thị giá cổ phiếu SSI.
+hiển thị báo cáo kết quả của cổ phiếu SSI.
+hiển thị báo cáo kết quả của mã chứng khoán SSI.
+hiển thị nhận định cổ phiếu SSI.
+hiển thị nhận định mã SSI hôm nay.
+hiển thị nhận định mã cổ phiếu SSI.
+hiển thị nhận định giá cổ phiếu SSI.
+hiển thị nhận định mã chứng khoán SSI.
+hiển thị nhận định giá mã chứng khoán SSI.
+hiển thị tin tức về cổ phiếu SSI hôm nay.
+hiển thị tin nhanh cổ phiếu SSI.
+hiển thị tin nhanh mã chứng khoán SSI.
+hiển thị xem giá khớp lệnh của cổ phiếu SSI.
+hiển thị xem giá khớp lệnh của mã chứng khoán SSI.
+hiển thị thông tin giá khớp lệnh của chứng khoán SSI .
+cổ phiếu SSI thế nào.
+mã SSI biến động ra sao.
+tổng quan mã chứng khoán SSI thị trường.
+tổng quan mã chứng khoán SSI.
+thông tin cổ phiếu SSI.
+thông tin giao dịch về cổ phiếu SSI.
+cổ phiếu SSI đang giao dịch thế nào.
+cổ phiếu SSI hôm nay.
+mã cổ phiếu SSI hiện ra sao.
+cổ phiếu SSI hôm nay thế nào.
+cổ phiếu SSI biến động ra sao.
+biến động mã SSI.
+biến động cổ phiếu SSI hôm nay.
+biến động mã chứng khoán SSI ra sao.
+hôm nay mã SSI biến động như thế nào.
+hôm nay cổ phiếu SSI biến động ra sao.
+tình hình cổ phiếu SSI.
+tình hình mã chứng khoán SSI hôm nay.
+tình hình biến động cổ phiếu SSI.
+tình hình biến động mã chứng khoán SSI hôm nay.
+diễn biến mã cổ phiếu SSI.
+diễn biến hôm nay của cổ phiếu SSI.
+diễn biến hôm nay của mã SSI.
+diễn biến giao dịch mã SSI hôm nay.
+mã ssi diễn biến thế nào rồi.
+tình hình diễn biến mã ssi thế nào rồi.
+kết quả giao dịch cổ phiếu SSI.
+kết quả giao dịch chứng khoán SSI hiện tại.
+thông tin cổ phiếu SSI.
+thông tin chứng khoán SSI.
+thông tin mã cổ phiếu SSI.
+thông tin giao dịch của cổ phiếu SSI.
+thông tin giao dịch mã SSI hôm nay.
+tổng quan về cổ phiếu SSI hôm nay.
+khối lượng giao dịch của mã chứng khoán SSI hôm nay.
+giá mở cửa hôm nay của mã chứng khoán SSI.
+giá đóng cửa hôm qua của cổ phiếu SSI.
+giá hiện tại của mã cổ phiếu SSI.
+giá hiện tại của mã chứng khoán SSI.
+lịch sử giá của cổ phiếu SSI.
+biến động lên xuống của mã chứng khoán SSI.
+lịch sử giao dịch mã chứng khoán SSI.
+lịch sử giao dịch mã cổ phiếu SSI.
+cập nhật mã cổ phiếu SSI.
+cập nhật tình hình mã SSI.
+cập nhật thông tin về cổ phiếu SSI.
+cập nhật thông tin giao dịch của mã SSI.
+cập nhật mã SSI hôm nay.
+cập nhật tình hình mã cổ phiếu SSI hôm nay.
+cập nhật thông tin mã chứng khoán SSI hôm nay.
+cập nhật thông tin giao dịch của cổ phiếu SSI hôm nay.
+thông tin chung về cổ phiếu SSI.
+thông tin mã SSI tổng quan.
+tin tức cổ phiếu SSI hôm nay.
+tin nhanh về mã SSI.
+xem giá khớp lệnh của cổ phiếu SSI.
+xem giá khớp lệnh của mã chứng khoán SSI.
+xem giá mở cửa mã acb.
+hiển thị giá mở cửa ssi.
+sáng nay giá mở cửa SSI bao nhiêu nhỉ.
+cho tôi xem thông tin về SSI.
+SSI lên xuống thế nào.
+thông tin về SSI.
+mã SSI thế nào rồi.
+cập nhật mã SSI.
+cập nhật SSI.
+tình hình SSI.
+tình trạng SSI trên thị trường.
+thông tin SSI.
+biến động SSI.
+hiển thị thông tin SSI.
+hiển thị tình trạng SSI.
+hiển thị tình hình SSI.
+tôi còn những loại cổ phiếu nào.
+tôi có những loại cổ nào.
+tôi còn những loại cổ nào.
+tài khoản của tôi còn những cổ phiếu nào.
+tài khoản của tôi có những cổ phiếu nào.
+có những loại cổ phiếu nào trong tài khoản của tôi.
 tài khoản đuôi 1 của tôi có những cổ phiếu gì?
 tài khoản của tôi còn mã ssi không nhỉ?
 tài khoản của tôi có ssi không?
 tài khoản của tôi có những mã nào?
-số lượng cổ phiếu của từng mã trong tài khoản của tôi
+số lượng cổ phiếu của từng mã trong tài khoản của tôi.
 tôi đang cầm mã nào nhiều nhất?
 tôi đang giữ những mã nào nhỉ?
 tôi đang cầm những mã nào nhỉ?
-tôi đang cầm bao nhiêu mã ssi
-tôi đang cầm bao nhiêu cổ phiếu mã ssi
-tôi đang giữ bao nhiêu cổ phiếu ssi
+tôi đang cầm bao nhiêu mã ssi.
+tôi đang cầm bao nhiêu cổ phiếu mã ssi.
+tôi đang giữ bao nhiêu cổ phiếu ssi.
 tài khoản của tôi có đủ 1000 mã ssi không?
 tài khoản của tôi còn đủ 1000 cổ phiếu ssi không?
 lượng cổ phiếu ssi trong tài khoản của tôi có đủ 1000 không?
 mã nào tôi đang nắm giữ nhiều nhất nhỉ?
 mã nào tôi đang nắm giữ ít nhất nhỉ?
-liệt kê các mã mà tôi đang nắm giữ
-liệt kê các mã và số lượng mà tôi đang nắm giữ
-tài khoản của tôi còn bao nhiêu cổ phiếu
-tài khoản của tôi còn bao nhiêu cổ phiếu ssi
-số cổ phiếu SSI trong tài khoản
-số cổ phiếu SSI của tôi trong tài khoản
-tổng mã SSI tôi đang có
-tổng cp SSI tôi sở hữu
-tôi đang sở hữu bn cp SSI
-kiểm tra số lượng mã SSI
-kiểm tra số lượng cp SSI
-tổng số SSI tôi nắm giữ
-SSI có bao nhiêu cổ
-kiểm tra cổ phiếu SSI trong tài khoản
-số cổ phiếu SSI của tôi
-số dư chứng khoán
+liệt kê các mã mà tôi đang nắm giữ.
+liệt kê các mã và số lượng mà tôi đang nắm giữ.
+tài khoản của tôi còn bao nhiêu cổ phiếu.
+tài khoản của tôi còn bao nhiêu cổ phiếu ssi.
+số cổ phiếu SSI trong tài khoản.
+số cổ phiếu SSI của tôi trong tài khoản.
+tổng mã SSI tôi đang có.
+tổng cp SSI tôi sở hữu.
+tôi đang sở hữu bn cp SSI.
+kiểm tra số lượng mã SSI.
+kiểm tra số lượng cp SSI.
+tổng số SSI tôi nắm giữ.
+SSI có bao nhiêu cổ.
+kiểm tra cổ phiếu SSI trong tài khoản.
+số cổ phiếu SSI của tôi.
+số dư chứng khoán.
 mã cố phiếu ssi còn bao nhiêu?
 mã cổ phiếu ssi trong tài khoản của tôi còn bao nhiêu?
 mã ssi còn bao nhiêu?
-tôi còn bao nhiêu cổ phiếu SSI nữa
-lượng SSI còn lại của tôi là bao nhiêu
-số dư chứng khoán SSI
-tài khoản đuôi 1 có bao cổ phiếu SSI
-tài khoản đuôi 6 có bao cổ phiếu SSI
-có bao nhiêu mã cổ phiếu SSI
-tài khoản đuôi 1 còn bao nhiêu cổ phiếu SSI
-xem tài khoản đuôi 1 còn bao nhiêu cổ phiếu SSI
-tài khoản đuôi 6 còn bao nhiêu cổ phiếu SSI
-xem tài khoản đuổi 6 còn bao nhiêu cổ phiếu SSI
-xem tài khoản đuôi 1 có bao nhiêu cổ phiếu SSI
-xem tài khoản đuôi 6 có bao nhiêu cổ phiếu SSI
-tài khoản đuôi 1 có bao chứng khoán
-tài khoản đuôi 6 có bao chứng khoán
-có bao nhiêu chứng khoán
-thông tin đầu tư mã cổ phiếu SSI
-xem thông tin đầu tư mã SSI
-thông tin đầu tư mã SSI hiện có
-xem thông tin đầu tư mã chứng khoán SSI hiện có
-thông tin số chứng khoán SSI còn dư
-xem thông tin số chứng khoán SSI còn dư
-thông tin cổ phiếu SSI còn lại
-xem thông tin cổ phiếu SSI còn lại
-thông tin cổ phiếu SSI còn dư
-xem thông tin cổ phiếu SSI còn dư
-thông tin số chứng khoán SSI còn lại
-xem thông tin số chứng khoán SSI còn lại
-số chứng khoán SSI còn dư
-xem số dư chứng khoán SSI
-xem số chứng khoán SSI còn dư
-tổng số chứng khoán SSI
-xem tổng số chứng khoán SSI
-số chứng khoán SSI còn lại
-xem số chứng khoán SSI còn lại
-tổng số chứng khoán SSI còn lại
-xem tổng số cổ phiếu SSI còn lại
-tổng số cổ phiếu SSI còn dư
-xem tổng số cổ phiếu SSI còn dư
-tài khoản đuôi 1 của tôi còn bao nhiêu chứng khoán SSI
-xem tài khoản đuôi 1 của tôi còn bao nhiêu chứng khoán SSI
-tài khoản đuôi 6 của tôi còn bao nhiêu chứng khoán SSI
-xem tài khoản đuổi 6 của tôi còn bao nhiêu chứng khoán SSI
-xem tài khoản đuôi 1 của tôi có bao nhiêu chứng khoán SSI
-xem tài khoản đuôi 6 của tôi có bao nhiêu chứng khoán SSI
-tài khoản đuôi 1 của tôi có bao nhiêu cổ phiếu SSI
-xem tài khoản đuôi 1 của tôi có bao nhiêu cổ phiếu SSI
-tài khoản đuôi 1 của tôi còn bao nhiêu cổ phiếu SSI
-xem tài khoản đuôi 1 của tôi còn bao nhiêu cổ phiếu SSI
-tài khoản đuôi 6 của tôi còn bao nhiêu cổ phiếu SSI
-xem tài khoản đuôi 6 của tôi còn bao nhiêu cổ phiếu SSI
+tôi còn bao nhiêu cổ phiếu SSI nữa.
+lượng SSI còn lại của tôi là bao nhiêu.
+số dư chứng khoán SSI.
+tài khoản đuôi 1 có bao cổ phiếu SSI.
+tài khoản đuôi 6 có bao cổ phiếu SSI.
+có bao nhiêu mã cổ phiếu SSI.
+tài khoản đuôi 1 còn bao nhiêu cổ phiếu SSI.
+xem tài khoản đuôi 1 còn bao nhiêu cổ phiếu SSI.
+tài khoản đuôi 6 còn bao nhiêu cổ phiếu SSI.
+xem tài khoản đuổi 6 còn bao nhiêu cổ phiếu SSI.
+xem tài khoản đuôi 1 có bao nhiêu cổ phiếu SSI.
+xem tài khoản đuôi 6 có bao nhiêu cổ phiếu SSI.
+tài khoản đuôi 1 có bao chứng khoán.
+tài khoản đuôi 6 có bao chứng khoán.
+có bao nhiêu chứng khoán.
+thông tin đầu tư mã cổ phiếu SSI.
+xem thông tin đầu tư mã SSI.
+thông tin đầu tư mã SSI hiện có.
+xem thông tin đầu tư mã chứng khoán SSI hiện có.
+thông tin số chứng khoán SSI còn dư.
+xem thông tin số chứng khoán SSI còn dư.
+thông tin cổ phiếu SSI còn lại.
+xem thông tin cổ phiếu SSI còn lại.
+thông tin cổ phiếu SSI còn dư.
+xem thông tin cổ phiếu SSI còn dư.
+thông tin số chứng khoán SSI còn lại.
+xem thông tin số chứng khoán SSI còn lại.
+số chứng khoán SSI còn dư.
+xem số dư chứng khoán SSI.
+xem số chứng khoán SSI còn dư.
+tổng số chứng khoán SSI.
+xem tổng số chứng khoán SSI.
+số chứng khoán SSI còn lại.
+xem số chứng khoán SSI còn lại.
+tổng số chứng khoán SSI còn lại.
+xem tổng số cổ phiếu SSI còn lại.
+tổng số cổ phiếu SSI còn dư.
+xem tổng số cổ phiếu SSI còn dư.
+tài khoản đuôi 1 của tôi còn bao nhiêu chứng khoán SSI.
+xem tài khoản đuôi 1 của tôi còn bao nhiêu chứng khoán SSI.
+tài khoản đuôi 6 của tôi còn bao nhiêu chứng khoán SSI.
+xem tài khoản đuổi 6 của tôi còn bao nhiêu chứng khoán SSI.
+xem tài khoản đuôi 1 của tôi có bao nhiêu chứng khoán SSI.
+xem tài khoản đuôi 6 của tôi có bao nhiêu chứng khoán SSI.
+tài khoản đuôi 1 của tôi có bao nhiêu cổ phiếu SSI.
+xem tài khoản đuôi 1 của tôi có bao nhiêu cổ phiếu SSI.
+tài khoản đuôi 1 của tôi còn bao nhiêu cổ phiếu SSI.
+xem tài khoản đuôi 1 của tôi còn bao nhiêu cổ phiếu SSI.
+tài khoản đuôi 6 của tôi còn bao nhiêu cổ phiếu SSI.
+xem tài khoản đuôi 6 của tôi còn bao nhiêu cổ phiếu SSI.
 tôi còn nhiều ssi không?
 tôi còn bao nhiêu ssi trong tài khoản nữa nhỉ?
 còn nhiều ssi không?
 tôi còn bao nhiêu cổ phiếu ssi?
 tôi còn mấy cổ phiếu ssi?
-thông tin số chứng khoán SSI còn dư của tôi
-xem thông tin số chứng khoán SSI còn dư của tôi
-thông tin cổ phiếu SSI của tôi còn lại
-xem thông tin cổ phiếu SSI của tôi còn lại
-thông tin cổ phiếu SSI của tôi còn dư
-xem thông tin cổ phiếu SSI của tôi còn dư
-thông tin số chứng khoán SSI của tôi còn lại
-xem thông tin số chứng khoán SSI của tôi còn lại
-số chứng khoán SSI còn dư của tôi
-xem số dư chứng khoán SSI của tôi
-xem số chứng khoán SSI còn dư của tôi
-tổng số chứng khoán SSI của tôi
-xem tổng số chứng khoán SSI của tôi
-số chứng khoán SSI còn lại của tôi
-xem số chứng khoán SSI còn lại của tôi
-tổng số chứng khoán SSI còn lại của tôi
-xem tổng số chứng khoán SSI còn lại của tôi
-tổng số chứng khoán SSI còn dư của tôi
-xem tổng số chứng khoán SSI còn dư của tôi
-thông tin chứng khoán SSI của tôi
-xem thông tin chứng khoán SSI của tôi
-thông tin cổ phiếu SSI của tôi
-xem thông tin cổ phiếu SSI của tôi
-thông tin đầu tư cổ phiếu SSI của tôi
-xem thông tin đầu tư mã SSI của tôi
-thông tin đầu tư của tôi hiện có bao nhiêu cổ phiếu SSI
-xem thông tin đầu tư của tôi hiện có bao nhiêu cổ phiếu SSI
-xem cho tôi thông tin chứng khoán SSI
-xem cho tôi thông tin cổ phiếu SSI
-xem cho tôi thông tin danh mục cổ phiếu SSI
-xem cho tôi thông tin danh mục mã SSI hiện có
-xem cho tôi thông tin đầu tư cổ phiếu SSI
-xem cho tôi thông tin đầu tư mã SSI hiện có
-xem cho tôi thông tin số chứng khoán SSI còn dư
-xem cho tôi thông tin cổ phiếu SSI còn lại
-xem cho tôi thông tin cổ phiếu SSI còn dư
-xem cho tôi thông tin số chứng khoán SSI còn lại
-xem cho tôi số dư chứng khoán SSI
-xem cho tôi số chứng khoán SSI còn dư
-xem cho tôi tổng số chứng khoán SSI
-xem cho tôi số chứng khoán SSI còn lại
-xem cho tôi tổng số chứng khoán SSI còn lại
-xem cho tôi tổng số chứng khoán SSI còn dư
+thông tin số chứng khoán SSI còn dư của tôi.
+xem thông tin số chứng khoán SSI còn dư của tôi.
+thông tin cổ phiếu SSI của tôi còn lại.
+xem thông tin cổ phiếu SSI của tôi còn lại.
+thông tin cổ phiếu SSI của tôi còn dư.
+xem thông tin cổ phiếu SSI của tôi còn dư.
+thông tin số chứng khoán SSI của tôi còn lại.
+xem thông tin số chứng khoán SSI của tôi còn lại.
+số chứng khoán SSI còn dư của tôi.
+xem số dư chứng khoán SSI của tôi.
+xem số chứng khoán SSI còn dư của tôi.
+tổng số chứng khoán SSI của tôi.
+xem tổng số chứng khoán SSI của tôi.
+số chứng khoán SSI còn lại của tôi.
+xem số chứng khoán SSI còn lại của tôi.
+tổng số chứng khoán SSI còn lại của tôi.
+xem tổng số chứng khoán SSI còn lại của tôi.
+tổng số chứng khoán SSI còn dư của tôi.
+xem tổng số chứng khoán SSI còn dư của tôi.
+thông tin chứng khoán SSI của tôi.
+xem thông tin chứng khoán SSI của tôi.
+thông tin cổ phiếu SSI của tôi.
+xem thông tin cổ phiếu SSI của tôi.
+thông tin đầu tư cổ phiếu SSI của tôi.
+xem thông tin đầu tư mã SSI của tôi.
+thông tin đầu tư của tôi hiện có bao nhiêu cổ phiếu SSI.
+xem thông tin đầu tư của tôi hiện có bao nhiêu cổ phiếu SSI.
+xem cho tôi thông tin chứng khoán SSI.
+xem cho tôi thông tin cổ phiếu SSI.
+xem cho tôi thông tin danh mục cổ phiếu SSI.
+xem cho tôi thông tin danh mục mã SSI hiện có.
+xem cho tôi thông tin đầu tư cổ phiếu SSI.
+xem cho tôi thông tin đầu tư mã SSI hiện có.
+xem cho tôi thông tin số chứng khoán SSI còn dư.
+xem cho tôi thông tin cổ phiếu SSI còn lại.
+xem cho tôi thông tin cổ phiếu SSI còn dư.
+xem cho tôi thông tin số chứng khoán SSI còn lại.
+xem cho tôi số dư chứng khoán SSI.
+xem cho tôi số chứng khoán SSI còn dư.
+xem cho tôi tổng số chứng khoán SSI.
+xem cho tôi số chứng khoán SSI còn lại.
+xem cho tôi tổng số chứng khoán SSI còn lại.
+xem cho tôi tổng số chứng khoán SSI còn dư.
 số dư cổ phiếu ssi là bao nhiêu?
 số lượng cổ phiếu ssi trong tài khoản là bao nhiêu?
-danh mục ra sao
-danh mục cổ phiếu SSI ra sao
-danh mục đầu tư của tôi có bao nhiêu mã SSI
-danh mục đầu tư
-kiểm tra số cổ phiếu SSI trong danh mục
-thông tin danh mục cổ phiếu SSI
-xem thông tin danh mục cổ phiếu SSI
-thông tin danh mục cổ phiếu SSI hiện có
-xem thông tin danh mục cổ phiếu SSI hiện có
-danh mục mã SSI của tôi
-xem danh mục cổ phiếu SSI của tôi
-danh mục đầu tư cổ phiếu SSI hiện nay
-xem danh mục đầu tư mã cổ phiếu SSI hiện nay
-danh mục chứng khoán SSI
-xem danh mục chứng khoán SSI
-danh mục chứng khoán SSI của tôi
-xem danh mục chứng khoán SSI của tôi
-danh mục đầu tư mã SSI hiện có
-xem danh mục đầu tư cổ phiếu SSI hiện có
-xem danh mục đầu tư cổ phiếu SSI
-danh mục đầu tư cổ phiếu SSI của tôi
-xem danh mục đầu tư mã SSI của tôi
-danh mục cổ phiếu SSI
-xem danh mục cổ phiếu SSI
-danh mục cổ phiếu SSI của tôi
-xem danh mục cổ phiếu SSI của tôi
-danh mục cổ phiếu SSI hiện có
-xem danh mục cổ phiếu SSI hiện có
-thông tin danh mục mã SSI của tôi
-xem thông tin danh mục cổ phiếu SSI của tôi
-thông tin danh mục mã chứng khoán SSI của tôi hiện có
-xem thông tin danh mục của tôi hiện có bao nhiêu cổ phiếu SSI
-danh mục đầu tư cổ phiếu SSI của tôi hiện nay
-xem danh mục đầu tư mã SSI của tôi hiện nay
-danh mục chứng khoán SSI của tôi
-xem danh mục chứng khoán SSI của tôi
-danh mục đầu tư cổ phiếu SSI của tôi hiện có
-xem danh mục đầu tư cổ phiếu SSI của tôi hiện có
-danh mục cổ phiếu SSI của tôi hiện có
-xem danh mục cổ phiếu SSI của tôi hiện có
-xem cho tôi danh mục đầu tư mã SSI hiện nay
-xem cho tôi danh mục chứng khoán SSI
-xem cho tôi danh mục chứng khoán SSI của tôi
-xem cho tôi danh mục đầu tư cổ phiếu SSI hiện có
-xem cho tôi danh mục đầu tư mã chứng khoán SSI
-xem cho tôi danh mục đầu tư mã SSI của tôi
-xem cho tôi danh mục cổ phiếu SSI
-xem cho tôi danh mục cổ phiếu SSI của tôi
-xem cho tôi danh mục cổ phiếu SSI hiện có
-tình trạng chứng khoán
-tình trạng danh mục
-tình trạng đầu tư
-tình trạng mã chứng khoán SSI
-tình trạng danh mục mã cổ phiếu SSI
-tình trạng đầu tư cổ phiếu SSI
-tình trạng cổ phiếu SSI còn dư
-xem tình trạng cổ phiếu SSI còn dư
-tình trạng cổ phiếu SSI còn lại
-xem tình trạng cổ phiếu SSI còn lại
-tình trạng cổ phiếu SSI còn dư của tôi
-xem tình trạng cổ phiếu SSI còn dư của tôi 
-tình trạng cổ phiếu SSI còn lại của tôi
-xem tình trạng cổ phiếu SSI còn lại của tôi
-xem tình trạng chứng khoán SSI của tôi
-xem tình trạng danh mục của tôi có bao nhiêu mã SSI
-xem tình trạng đầu tư cổ phiếu SSI của tôi
-xem cho tôi tình trạng cổ phiếu SSI còn dư
-xem cho tôi tình trạng cổ phiếu SSI còn lại
-xem cho tôi tình trạng chứng khoán SSI
-xem cho tôi tình trạng đầu tư mã SSI
-trạng thái chứng khoán
-trạng thái danh mục
-trạng thái đầu tư
-trạng thái chứng khoán SSI
-trạng thái danh mục mã SSI
-trạng thái đầu tư cổ phiếu SSI
-xem trạng thái cổ phiếu SSI còn dư
-trạng thái cổ phiếu SSI còn lại
-xem trạng thái cổ phiếu SSI còn lại
-xem trạng thái chứng khoán SSI
-xem trạng thái danh mục mã SSI
-xem trạng thái đầu tư cổ phiếu SSI
-xem trạng thái chứng khoán SSI của tôi
-xem trạng thái danh mục cổ phiếu SSI của tôi
-xem trạng thái đầu tư mã chứng khoán SSI của tôi
-trạng thái cổ phiếu SSI còn dư của tôi
-xem trạng thái cổ phiếu SSI còn dư của tôi
-trạng thái cổ phiếu SSI còn lại của tôi
-xem trạng thái cổ phiếu SSI còn lại của tôi
-trạng thái cổ phiếu SSI còn dư
-xem cho tôi trạng thái cổ phiếu SSI còn dư
-xem cho tôi trạng thái cổ phiếu SSI còn lại
-xem cho tôi trạng thái chứng khoán SSI
-xem cho tôi trạng thái đầu tư cổ phiếu SSI
-kiểm tra số tiền còn lại
+danh mục ra sao.
+danh mục cổ phiếu SSI ra sao.
+danh mục đầu tư của tôi có bao nhiêu mã SSI.
+danh mục đầu tư.
+kiểm tra số cổ phiếu SSI trong danh mục.
+thông tin danh mục cổ phiếu SSI.
+xem thông tin danh mục cổ phiếu SSI.
+thông tin danh mục cổ phiếu SSI hiện có.
+xem thông tin danh mục cổ phiếu SSI hiện có.
+danh mục mã SSI của tôi.
+xem danh mục cổ phiếu SSI của tôi.
+danh mục đầu tư cổ phiếu SSI hiện nay.
+xem danh mục đầu tư mã cổ phiếu SSI hiện nay.
+danh mục chứng khoán SSI.
+xem danh mục chứng khoán SSI.
+danh mục chứng khoán SSI của tôi.
+xem danh mục chứng khoán SSI của tôi.
+danh mục đầu tư mã SSI hiện có.
+xem danh mục đầu tư cổ phiếu SSI hiện có.
+xem danh mục đầu tư cổ phiếu SSI.
+danh mục đầu tư cổ phiếu SSI của tôi.
+xem danh mục đầu tư mã SSI của tôi.
+danh mục cổ phiếu SSI.
+xem danh mục cổ phiếu SSI.
+danh mục cổ phiếu SSI của tôi.
+xem danh mục cổ phiếu SSI của tôi.
+danh mục cổ phiếu SSI hiện có.
+xem danh mục cổ phiếu SSI hiện có.
+thông tin danh mục mã SSI của tôi.
+xem thông tin danh mục cổ phiếu SSI của tôi.
+thông tin danh mục mã chứng khoán SSI của tôi hiện có.
+xem thông tin danh mục của tôi hiện có bao nhiêu cổ phiếu SSI.
+danh mục đầu tư cổ phiếu SSI của tôi hiện nay.
+xem danh mục đầu tư mã SSI của tôi hiện nay.
+danh mục chứng khoán SSI của tôi.
+xem danh mục chứng khoán SSI của tôi.
+danh mục đầu tư cổ phiếu SSI của tôi hiện có.
+xem danh mục đầu tư cổ phiếu SSI của tôi hiện có.
+danh mục cổ phiếu SSI của tôi hiện có.
+xem danh mục cổ phiếu SSI của tôi hiện có.
+xem cho tôi danh mục đầu tư mã SSI hiện nay.
+xem cho tôi danh mục chứng khoán SSI.
+xem cho tôi danh mục chứng khoán SSI của tôi.
+xem cho tôi danh mục đầu tư cổ phiếu SSI hiện có.
+xem cho tôi danh mục đầu tư mã chứng khoán SSI.
+xem cho tôi danh mục đầu tư mã SSI của tôi.
+xem cho tôi danh mục cổ phiếu SSI.
+xem cho tôi danh mục cổ phiếu SSI của tôi.
+xem cho tôi danh mục cổ phiếu SSI hiện có.
+tình trạng chứng khoán.
+tình trạng danh mục.
+số SSI tôi sở hữu.
+tôi còn dư bao nhiêu chứng khoán SSI.
+tình trạng đầu tư.
+tình trạng mã chứng khoán SSI.
+tình trạng danh mục mã cổ phiếu SSI.
+tình trạng đầu tư cổ phiếu SSI.
+tình trạng cổ phiếu SSI còn dư.
+xem tình trạng cổ phiếu SSI còn dư.
+tình trạng cổ phiếu SSI còn lại.
+xem tình trạng cổ phiếu SSI còn lại.
+tình trạng cổ phiếu SSI còn dư của tôi.
+xem tình trạng cổ phiếu SSI còn dư của tôi .
+tình trạng cổ phiếu SSI còn lại của tôi.
+xem tình trạng cổ phiếu SSI còn lại của tôi.
+xem tình trạng chứng khoán SSI của tôi.
+xem tình trạng danh mục của tôi có bao nhiêu mã SSI.
+xem tình trạng đầu tư cổ phiếu SSI của tôi.
+xem cho tôi tình trạng cổ phiếu SSI còn dư.
+xem cho tôi tình trạng cổ phiếu SSI còn lại.
+xem cho tôi tình trạng chứng khoán SSI.
+xem cho tôi tình trạng đầu tư mã SSI.
+trạng thái chứng khoán.
+trạng thái danh mục.
+trạng thái đầu tư.
+trạng thái chứng khoán SSI.
+trạng thái danh mục mã SSI.
+trạng thái đầu tư cổ phiếu SSI.
+xem trạng thái cổ phiếu SSI còn dư.
+trạng thái cổ phiếu SSI còn lại.
+xem trạng thái cổ phiếu SSI còn lại.
+xem trạng thái chứng khoán SSI.
+xem trạng thái danh mục mã SSI.
+xem trạng thái đầu tư cổ phiếu SSI.
+xem trạng thái chứng khoán SSI của tôi.
+xem trạng thái danh mục cổ phiếu SSI của tôi.
+xem trạng thái đầu tư mã chứng khoán SSI của tôi.
+trạng thái cổ phiếu SSI còn dư của tôi.
+xem trạng thái cổ phiếu SSI còn dư của tôi.
+trạng thái cổ phiếu SSI còn lại của tôi.
+xem trạng thái cổ phiếu SSI còn lại của tôi.
+trạng thái cổ phiếu SSI còn dư.
+xem cho tôi trạng thái cổ phiếu SSI còn dư.
+xem cho tôi trạng thái cổ phiếu SSI còn lại.
+xem cho tôi trạng thái chứng khoán SSI.
+xem cho tôi trạng thái đầu tư cổ phiếu SSI.
+tài khoản còn nhiều cổ chứ.
+tài khoản của tôi còn nhiều cổ chứ.
+tôi đang sở hữu bao nhiêu cổ.
+tài khoản của tôi đang sở hữu bao nhiêu cổ.
+số cổ tôi có trong tài khoản.
+có còn nhiều cổ trong tài khoản của tôi chứ.
+tôi còn bao nhiêu cổ trong tài khoản.
+tôi đang nắm giữ bao nhiêu cổ.
+trong tài khoản còn bao nhiêu cổ.
+số cổ trong tài khoản.
+số cổ còn lại trong tài khoản của tôi.
+có bao nhiêu cổ trong tài khoản.
+số cổ tôi đang nắm giữ.
+tôi sở hữu bao nhiêu cổ.
+tôi nắm giữ bao nhiêu cổ.
+còn bao nhiêu cổ trong tài khoản của tôi.
+SSI tôi có.
+SSI tôi còn.
+SSI trong tài khoản của tôi.
+tôi có bao nhiêu SSI.
+tôi còn bao nhiêu SSI.
+trong tài khoản có bao nhiêu SSI.
+trong tài khoản còn bao nhiêu SSI.
+tổng số SSI tôi nắm giữ.
+tổng số SSI tôi sở hữu.
+tôi nắm giữ bao nhiêu SSI.
+tôi sở hữu bao nhiêu SSI.
+tài khoản đuôi 1 có bao nhiêu SSI.
+tài khoản đuôi 1 còn bao nhiêu SSI.
+check số cổ phiếu trong tài khoản của tôi.
+check số cổ phiếu tôi có.
+check số cổ phiếu tôi còn.
+check xem tôi có bao nhiêu mã SSI.
+check xem tôi có bao nhiêu cổ phiếu SSI.
+check xem tôi có bao nhiếu cp SSI.
+check xem tôi còn bao nhiêu mã SSI.
+check xem tôi còn bao nhiêu cổ phiếu SSI.
+check xem tôi còn bao nhiêu cp SSI.
+check số SSI tôi có.
+check số SSI tôi còn.
+check SSI tôi có.
+check SSI trong tài khoản của tôi.
+check SSI của tôi.
+check mã SSI của tôi.
+check mã SSI của tôi trong tài khoản.
+check mã SSI tôi có trong tài khoản.
+check mã SSI tôi còn.
+check tổng số cổ phiếu của tôi.
+check tổng số mã chứng khoán tôi có.
+check tổng chứng khoán tôi sở hữu.
+check tổng mã tôi nắm giữ.
+check số SSI tôi sở hữu.
+check SSI tôi sở hữu.
+check số SSI tôi nắm giữ.
+check SSI tôi nắm giữ.
+check tổng số SSI tôi sở hữu.
+check tổng số SSI tôi nắm giữ.
+check xem số SSI tôi sở hữu trong tài khoản của tôi.
+check xem số SSI tôi nắm giữ trong tài khoản.
+check xem tài khoản của tôi có bao nhiêu SSI.
+check xem tài khoản của tôi còn bao nhiêu SSI.
+check xem tài khoản của tôi sở hữu bao nhiêu SSI.
+check xem tài khoản của tôi nắm giữ bao nhiêu SSI.
+check xem tài khoản của tôi có bao nhiêu mã SSI.
+check xem tài khoản của tôi còn bao nhiêu mã SSI.
+check xem tài khoản của tôi sở hữu bao nhiêu mã SSI.
+check xem tài khoản của tôi nắm giữ bao nhiêu mã SSI.
+check xem tài khoản của tôi có bao nhiêu cổ phiếu SSI.
+check xem tài khoản của tôi còn bao nhiêu cp SSI.
+check xem tài khoản của tôi sở hữu bao nhiêu cp SSI.
+check xem tài khoản của tôi nắm giữ bao nhiêu cổ phiếu SSI.
+kiểm tra số tiền còn lại.
 tôi còn nhiều tiền không?
 tài khoản đuôi 1 của tôi còn bao nhiêu tiền?
-tôi còn bao nhiêu tiền
-trạng thái tiền
-tình trạng tiền
-tiền
-tiền nong
-số dư tiền
-số dư tài khoản tiền
-tài khoản đuôi 1 có bao tiền
-tài khoản đuôi 6 có bao nhiêu
-số dư tài khoản đuôi 1 ra sao
-số dư tài khoản đuôi 6 ra sao
-số dư tiền tài khoản đuôi 1 là bao nhiêu
-số dư tiền tài khoản đuôi 1 ra sao
-bao nhiêu tiền
-số tiền hiện tại
-tiền thế nào
-xem trạng thái tiền
-số tiền dư
-xem số dư tiền
-xem số tiền dư
-số tiền còn lại
-xem số tiền còn lại
-xem tiền trong tài khoản
-thông tin tiền trong tài khoản
-tình trạng tiền trong tài khoản
-trạng thái tiền trong tài khoản
-thông tin số dư tiền
-thông tin số tiền dư
-trạng thái tiền của tài khoản
-tiền còn lại
-tài khoản còn lại bao nhiêu tiền
-số tiền dư
-số dư tiền còn lại
-dư tiền trong tài khoản
-dư nợ tiền tài khoản
-xem dư nợ tiền tài khoản
-tiền dư bao nhiêu
-số dư tiền bao nhiêu
-tài khoản dư bao nhiêu tiền
-tài khoản tiền dư bao nhiêu
-thông tin tiền của các tài khoản
-số dư tiền các tài khoản
-thông tin tiền của tài khoản đuôi 1
-thông tin tiền của tài khoản đuôi 6
-trạng thái tiền của tài khoản đuôi 1
-trạng thái tiền của tài khoản đuôi 6
-số tiền hiện có
-số dư hiện có
-dữ liệu tiền của tài khoản
-xem thông tin tiền trong tài khoản
-xem tình trạng tiền trong tài khoản
-xem trạng thái tiền trong tài khoản
-xem thông tin số dư tiền
-xem thông tin số tiền dư
-xem trạng thái tiền của tài khoản
-xem tiền còn lại
-xem tài khoản còn lại bao nhiêu tiền
-xem số tiền dư
-xem số dư tiền còn lại
-xem dư tiền tài khoản
-xem dư nợ tài khoản
-xem số tiền dư bao nhiêu
-xem số dư tiền bao nhiêu
-xem tài khoản dư bao nhiêu tiền
-xem tài khoản tiền dư bao nhiêu
-xem thông tin tiền của các tài khoản
-xem số dư tiền các tài khoản
-xem thông tin tiền của tài khoản đuôi 1
-xem thông tin tiền của tài khoản đuôi 6
-xem trạng thái tiền của tài khoản đuôi 1
-xem trạng thái tiền của tài khoản đuôi 6
-xem số tiền hiện có
-xem số dư hiện có
-xem tiền của các tài khoản hiện có
-xem dữ liệu tiền của các tài khoản
-xem trạng thái tiền của tôi
-số tiền dư của tôi
-xem số dư tiền của tôi
-xem số tiền dư của tôi
-số tiền còn lại của tôi
-xem số tiền còn lại của tôi
-xem tiền trong tài khoản của tôi
-thông tin tiền trong tài khoản của tôi
-tình trạng tiền trong tài khoản của tôi
-trạng thái tiền trong tài khoản của tôi
-thông tin số dư tiền của tôi
-thông tin số tiền dư của tôi
-trạng thái tiền của tài khoản của tôi
-tiền còn lại của tôi
-tài khoản còn lại bao nhiêu tiền của tôi
-số tiền dư của tôi
-số dư tiền còn lại của tôi
-dư tiền trong tài khoản của tôi
-dư nợ tiền tài khoản của tôi
-xem dư nợ tiền tài khoản của tôi
-tiền dư của tôi bao nhiêu
-số dư tiền của tôi bao nhiêu
-tài khoản của tôi dư bao nhiêu tiền
-tài khoản tiền dư của tôi bao nhiêu
-thông tin tiền của các tài khoản của tôi
-số dư tiền các tài khoản của tôi
-thông tin tiền của tài khoản đuôi 1 của tôi
-thông tin tiền của tài khoản đuôi 6 của tôi
-trạng thái tiền của tài khoản đuôi 1 của tôi
-trạng thái tiền của tài khoản đuôi 6 của tôi
-số tiền hiện có của tôi
-số dư hiện có của tôi
-dữ liệu tiền của tài khoản của tôi
-xem thông tin tiền trong tài khoản của tôi
-xem tình trạng tiền trong tài khoản của tôi
-xem trạng thái tiền trong tài khoản của tôi
-xem thông tin số dư tiền của tôi
-xem thông tin số tiền dư của tôi
-xem trạng thái tiền của tài khoản của tôi
-xem tiền còn lại của tôi
-xem tài khoản còn lại bao nhiêu tiền của tôi
-xem số tiền dư của tôi
-xem số dư tiền còn lại của tôi
-xem dư tiền tài khoản của tôi
-xem dư nợ tài khoản của tôi
-xem số tiền  của tôi dư  bao nhiêu 
-xem số dư tiền của tôi là bao nhiêu
-xem tài khoản của tôi dư bao nhiêu tiền
-xem tài khoản tiền của tôi dư bao nhiêu
-xem thông tin tiền của các tài khoản của tôi
-xem số dư tiền các tài khoản của tôi
-xem thông tin tiền của tài khoản đuôi 1 của tôi
-xem thông tin tiền của tài khoản đuôi 6 của tôi
-xem trạng thái tiền của tài khoản đuôi 1 của tôi
-xem trạng thái tiền của tài khoản đuôi 6 của tôi
-xem số tiền hiện có của tôi
-xem số dư hiện có của tôi
-xem tiền của các tài khoản hiện có của tôi
-xem dữ liệu tiền của các tài khoản của tôi
-cho tôi xem trạng thái tiền
-cho tôi xem số dư tiền
-cho tôi xem số tiền dư
-cho tôi xem số tiền còn lại
-cho tôi xem tiền trong tài khoản
-cho tôi xem dư nợ tiền tài khoản
-cho tôi xem thông tin tiền trong tài khoản
-cho tôi xem tình trạng tiền trong tài khoản
-cho tôi xem trạng thái tiền trong tài khoản
-cho tôi xem thông tin số dư tiền
-cho tôi xem thông tin số tiền dư
-cho tôi xem trạng thái tiền của tài khoản
-cho tôi xem tiền còn lại
-cho tôi xem tài khoản còn lại bao nhiêu tiền
-cho tôi xem số tiền dư
-cho tôi xem số dư tiền còn lại
-cho tôi xem dư tiền tài khoản
-cho tôi xem dư nợ tài khoản
-cho tôi xem số tiền dư bao nhiêu
-cho tôi xem số dư tiền bao nhiêu
-cho tôi xem tài khoản dư bao nhiêu tiền
-cho tôi xem tài khoản tiền dư bao nhiêu
-cho tôi xem thông tin tiền của các tài khoản
-cho tôi xem số dư tiền các tài khoản
-cho tôi xem thông tin tiền của tài khoản đuôi 1
-cho tôi xem thông tin tiền của tài khoản đuôi 6
-cho tôi xem trạng thái tiền của tài khoản đuôi 1
-cho tôi xem trạng thái tiền của tài khoản đuôi 6
-cho tôi xem số tiền hiện có
-cho tôi xem số dư hiện có
-cho tôi xem tiền của các tài khoản hiện có
-cho tôi xem dữ liệu tiền của các tài khoản
-hiển thị trạng thái tiền
-hiển thị số dư tiền
-hiển thị số tiền dư
-hiển thị số tiền còn lại
-hiển thị tiền trong tài khoản
-hiển thị dư nợ tiền tài khoản
-hiển thị thông tin tiền trong tài khoản
-hiển thị tình trạng tiền trong tài khoản
-hiển thị trạng thái tiền trong tài khoản
-hiển thị thông tin số dư tiền
-hiển thị thông tin số tiền dư
-hiển thị trạng thái tiền của tài khoản
-hiển thị tiền còn lại
-hiển thị tài khoản còn lại bao nhiêu tiền
-hiển thị số tiền dư
-hiển thị số dư tiền còn lại
-hiển thị dư tiền tài khoản
-hiển thị dư nợ tài khoản
-hiển thị số tiền dư bao nhiêu
-hiển thị số dư tiền bao nhiêu
-hiển thị tài khoản dư bao nhiêu tiền
-hiển thị tài khoản tiền dư bao nhiêu
-hiển thị thông tin tiền của các tài khoản
-hiển thị số dư tiền các tài khoản
-hiển thị thông tin tiền của tài khoản đuôi 1
-hiển thị thông tin tiền của tài khoản đuôi 6
-hiển thị trạng thái tiền của tài khoản đuôi 1
-hiển thị trạng thái tiền của tài khoản đuôi 6
-hiển thị số tiền hiện có
-hiển thị số dư hiện có
-hiển thị tiền của các tài khoản hiện có
-hiển thị dữ liệu tiền của các tài khoản
-kết thúc chương trình
-kết thúc app
-kết thúc đi
-kết thúc ngay
-kết thúc chương trình ngay
-kết thúc chương trình đi
-chấm dứt ngay
-chấm dứt đi
-chấm dứt chương trình ngay
-chấm dứt chương trình đi
-chấm dứt app
-trở lại sau
-trở lại sau nhé
-đi đây
-chào
-thế nhé
-tắt app
-tạm biệt nhé
-chào tạm biệt nhé
-đi nhé
-dừng chương trình
-dừng app
-dừng ngay
-dừng đi
-thoát
-chấm dứt
-tạm biệt
-bye bye
-kết thúc
-gặp lại sau
-mai nói chuyện sau
-mai gặp lại
-hẹn lúc khác nhé
-hẹn gặp sau nhé
-chào tạm biệt
-phải đi đây
-thoát chương trình
-thoát app
-thoát khỏi chương trình
-bye
-đóng
-đóng app
-đóng chương trình
-quay lại sau
-tắt
-tắt chương trình
-chào nhé
-kết thúc
-tôi nên mua ssi với giá bn
-tôi nên mua ssi với giá bao nhiêu
-tôi có nên mua ssi với giá 16.5
-tôi có nên chi 12 triệu để mua 1000 cp ssi không?
-tôi có nên đầu tư 12 triệu để mua 100 cổ phiếu acb không?
-mua thế nào với mã SSI
-bán thế nào với SSI
-nên bán tất cả SSI chứ
-nên đầu tư SSI lúc này không
-nên giao dịch SSI thời điểm này chứ
-bán SSI giá 12 được không?
-với giá nào thì nên bán SSI
-với giá nào thì bán SSI
-với thị trường này, có nên mua SSI không?
-với thị trường này, có nên mua 300 cổ phiếu SSI giá 12.4 không?
-cho tôi xin ý kiến về thị trường hôm nay
-ý kiến của bạn về thị trường hôm nay
-bạn nghĩ thị trường hôm nay sẽ thế nào
-bạn nghĩ mã SSI hôm nay thế nào
-bạn nghĩ mã SSI hôm nay sẽ tăng hay giảm
-mua 100 cổ phiếu SSI giá 39.5 có nên không
-bán 100 cổ phiếu SSI giá 34.5 có nên không
-liệu có nên mua ssi hôm nay không nhỉ?
-liệu có nên bán ssi hôm nay không?
-bạn nhìn nhận thị trường hôm nay sẽ thế nào?
-có nên mua SSI hôm nay không
-có nên bán SSI không
-bán SSI giá 12.5 liệu có ổn không nhỉ
-có nên mua bán mã SSI không
-mã SSI được không
-có nên bán mã SSI
-khuyến nghị về cổ phiếu SSI
-khuyên thế nào về SSI
-nhận định mã SSI
-mua SSI giá bao nhiêu hợp lý
-bán SSI giá bao nhiêu hợp lý
-vào mã SSI bây giờ có nên không
-có nên mua vào SSI không
-có nên bán ra SSI không
-có nên mua SSI không
-có nên bán SSI không
-nên bán hay nắm giữ mã SSI
-bán hay giữ cổ phiếu SSI
-nên mua hay bán cổ phiếu SSI
-mua hay bán SSI đây
-nên mua vào hay bán ra mã SSI
-đề xuất như nào về cổ phiếu SSI
-khuyến nghị như nào về mã SSI
-đề xuất thế nào về mã SSI
-nhận định thế nào về cổ phiếu SSI
-nhận định như nào về mã SSI
-mua bán mã SSI thế nào
-xem đề xuất về mã SSI
-xem khuyến nghị mã SSI
-xem nhận định cổ phiếu SSI
-khuyến nghị ra sao về SSI
-đề xuất ra sao về mã SSI
-nhận định mã SSI ra sao
-nên giữ lại hay bán ra cổ phiếu SSI
-nên nắm giữ cổ phiếu SSI lúc này không
-nên lướt sóng mã SSI trong giai đoạn này không
-khuyến nghị cổ phiếu SSI cho giai đoạn này
-giai đoạn này mua bán thế nào mã SSI
-giai đoạn này nên nắm giữ hay bán ra cổ phiếu SSI
-nên hay không nên mua SSI
-với cổ phiếu SSI nên mua giá bao nhiêu
-với mã chứng khoán SSI nên mua giá bao nhiêu
-với tiền trong tài khoản nên mua lượng cổ phiếu SSI bao nhiêu
-nên bán giá bao nhiêu với cổ phiếu SSI
-nên mua giá bao nhiêu với cổ phiếu SSI
-nên bán giá bao nhiêu với mã chứng khoán SSI
-nên mua giá bao nhiêu với mã chứng khoán SSI
-nên mua bao nhiêu cổ phiếu ssi?
-nên mua SSI theo giá thị trường không
-nên bán SSI theo giá thị trường không
-nên làm gì với cổ phiếu SSI hiện nay
-thị trường lên xuống thất thường nên mua vào hay bán ra cổ phiếu SSI
-bạn nghĩ cổ phiếu SSI hôm nay thế nào?
-ý kiến của bạn về cổ phiếu SSI hôm nay?
-bạn nghĩ thế nào về mã SSI hôm nay?
-bạn nghĩ mã SSI hôm nay sẽ thế nào?
-đã khớp lệnh mã SSI chưa
-trạng thái lệnh cổ phiếu SSI
-lệnh về mã SSI của tôi khớp chưa
-tình trạng lệnh cổ phiếu SSI
-lệnh cổ phiếu SSI ra sao
-xem trạng thái lệnh cổ phiếu SSI
-trạng thái lệnh mã SSI của tôi
-xem trạng thái lệnh mã SSI của tôi
-xem tình trạng lệnh cổ phiếu SSI
-thông tin lệnh mã SSI
-xem thông tin lệnh cổ phiếu SSI
-tình trạng khớp lệnh mã SSI
-trạng thái khớp lệnh mã SSI
-thông tin khớp lệnh mã SSI
-xem tình trạng khớp lệnh cổ phiếu SSI
-xem thông tin khớp lệnh cổ phiếu SSI
-xem trạng thái khớp lệnh mã SSI
-thông tin lệnh cổ phiếu SSI của tôi
-xem thông tin lệnh mã SSI của tôi
-tình trạng khớp lệnh mã SSI của tôi
-trạng thái khớp lệnh cổ phiếu SSI của tôi
-thông tin khớp lệnh cổ phiếu SSI của tôi
-xem tình trạng khớp lệnh mã SSI của tôi
-xem thông tin khớp lệnh cổ phiếu SSI của tôi
-xem trạng thái khớp lệnh mã SSI của tôi
-lệnh về mã SSI đang giao dịch
-xem lệnh cổ phiếu SSI đang giao dịch
-lệnh cổ phiếu SSI đang chờ giao dịch
-xem lệnh mã SSI đang chờ giao dịch
-lệnh về cổ phiếu SSI bị hủy
-xem lệnh mã SSI bị hủy
-lệnh mã SSI không hợp lệ
-xem lệnh về cổ phiếu SSI không hợp lệ
-xem lệnh về mã SSI đang chờ
-lệnh mã SSI đang chờ
-lệnh mã SSI đã được khớp chưa
-lệnh cổ phiếu SSI đã được thực hiện chưa
-lệnh về cổ phiếu SSI đã giao dịch
-xem lệnh mã SSI đã giao dịch
-tình trạng giao dịch của lệnh mã cổ phiếu SSI
-xem tình trạng giao dịch của lệnh cổ phiếu SSI
-giao dịch khớp lệnh mã SSI
-xem giao dịch khớp lệnh mã SSI
-kết quả khớp lệnh mã SSI
-xem kết quả khớp lệnh cổ phiếu SSI
-xem kết quả giao dịch lệnh mã SSI
-kết quả giao dịch lệnh cổ phiếu SSI
-lệnh mã SSI đang giao dịch của tôi
-xem lệnh cổ phiếu SSI đang giao dịch của tôi
-lệnh cổ phiếu SSI đang chờ giao dịch của tôi
-xem lệnh mã SSI đang chờ giao dịch của tôi
-lệnh cổ phiếu SSI bị hủy của tôi
-xem lệnh mã SSI bị hủy của tôi
-lệnh cổ phiếu SSI không hợp lệ của tôi
-xem lệnh mã SSI không hợp lệ của tôi
-xem lệnh cổ phiếu SSI đang chờ của tôi
-lệnh mã SSI đang chờ của tôi
-lệnh cổ phiếu SSI đã được khớp chưa
-lệnh cổ phiếu SSI đã được thực hiện chưa của tôi
-lệnh mã SSI đã giao dịch của tôi
-xem lệnh cổ phiếu SSI đã giao dịch của tôi
-tình trạng giao dịch của lệnh mã SSI của tôi
-xem tình trạng giao dịch của lệnh cổ phiếu SSI của tôi
-giao dịch khớp lệnh mã SSI của tôi
-xem giao dịch khớp lệnh mã cổ phiếu SSI của tôi
-kết quả khớp lệnh mã SSI của tôi
-xem kết quả khớp lệnh mã SSI của tôi
-xem kết quả giao dịch lệnh mã SSI của tôi
-kết quả giao dịch lệnh cổ phiếu SSI của tôi
-xem cho tôi trạng thái lệnh mã SSI
-xem cho tôi trạng thái lệnh cổ phiếu SSI của tôi
-xem cho tôi tình trạng lệnh cổ phiếu SSI
-xem cho tôi thông tin lệnh mã cổ phiếu SSI
-xem cho tôi tình trạng khớp lệnh mã SSI
-xem cho tôi thông tin khớp lệnh mã SSI
-xem cho tôi trạng thái khớp lệnh cổ phiếu SSI
-xem cho tôi thông tin lệnh mã cổ phiếu SSI của tôi
-xem cho tôi tình trạng khớp lệnh mã SSI của tôi
-xem cho tôi thông tin khớp lệnh cổ phiếu SSI của tôi
-xem cho tôi trạng thái khớp lệnh mã SSI của tôi
-xem cho tôi lệnh cổ phiếu SSI đang giao dịch
-xem cho tôi lệnh cổ phiếu SSI đang chờ giao dịch
-xem cho tôi lệnh mã SSI bị hủy
-xem cho tôi lệnh cổ phiếu SSI không hợp lệ
-xem cho tôi lệnh mã SSI đang chờ
-xem cho tôi lệnh cổ phiếu SSI đã giao dịch
-xem cho tôi tình trạng giao dịch của lệnh cổ phiếu SSI
-xem cho tôi giao dịch khớp lệnh mã SSI
-xem cho tôi kết quả khớp lệnh mã SSI
-xem cho tôi kết quả giao dịch lệnh cổ phiếu SSI
-huỷ
-thôi
-bỏ qua
-bỏ đi
-về lại
-chức năng chính
-chức năng hệ thống
-làm được gì
-làm gì bây giờ
-quay lại
-quay về
-không đặt nữa
-không làm nữa
-hủy bỏ
-loại bỏ
-dừng
-hủy lệnh
-dừng lệnh
-dừng lại
-tạm dừng
-dừng ngay
-hủy ngay
-bỏ lệnh
-bỏ qua lệnh
-bỏ
-bỏ đi
-dừng đi
-hủy bỏ ngay
-hủy bỏ lệnh
-loại bỏ lệnh
-ngưng lại
-ngưng lệnh
-ngừng lệnh
-ngưng lại
-ngừng lại
-trang chủ
-về
-về trang chủ
-trở về trang chủ
-quay lại trang chủ
-quay về trang chủ
-trở lại trang chủ
-tới trang chủ
-trở về
-trở lại
-làm lại
-dừng đặt lệnh
-bỏ đặt lệnh
-dừng làm
-đừng làm
-quay trở lại
-làm lại
-không khớp lệnh
-bỏ khớp lệnh
-dừng khớp lệnh
-hủy khớp lệnh
-về chức năng chính
-về chức năng hệ thống
-tới chức năng chính
-tới chức năng hệ thống
-về chức năng chính ngay
-về chức năng hệ thống ngay
-tới chức năng chính ngay
-tới chức năng hệ thống ngay
-về chức năng chính đi
-về chức năng hệ thống đi
-tới chức năng chính đi
-tới chức năng hệ thống đi
-đến chức năng chính
-đến chức năng hệ thống
-đến chức năng chính đi
-đến chức năng hệ thống đi
-đến chức năng chính ngay
-đến chức năng hệ thống ngay
-đi tới chức năng chính
-đi tới chức năng hệ thống
-đi tới chức năng chính ngay
-đi tới chức năng hệ thống ngay
-đi tới chức năng chính đi
-đi tới chức năng hệ thống đi
-hủy bỏ đi
-loại bỏ đi
-hủy lệnh đi
-dừng lệnh đi
-dừng lại đi
-tạm dừng đi
-dừng ngay đi
-hủy ngay đi
-bỏ lệnh đi
-bỏ qua lệnh đi
-hủy bỏ ngay đi
-hủy bỏ lệnh đi
-loại bỏ lệnh đi
-ngưng lại đi
-ngưng lệnh đi
-ngừng lệnh đi
-ngừng lại đi
-về trang chủ đi
-trở về trang chủ đi
-quay lại trang chủ đi
-quay về trang chủ đi
-trở lại trang chủ đi
-tới trang chủ đi
-trở về đi
-trở lại đi
-làm lại đi
-dừng đặt lệnh đi
-bỏ đặt lệnh đi
-dừng làm đi
-quay trở lại đi
-làm lại đi
-bỏ khớp lệnh đi
-dừng khớp lệnh đi
-hủy khớp lệnh đi
-hủy bỏ ngay
-loại bỏ ngay
-dừng ngay
-hủy lệnh ngay
-dừng lệnh ngay
-dừng lại ngay
-tạm dừng ngay
-bỏ lệnh ngay
-bỏ qua lệnh ngay
-bỏ ngay
-bỏ đi ngay
-dừng đi ngay
-hủy bỏ lệnh ngay
-loại bỏ lệnh ngay
-ngưng lại ngay
-ngưng lệnh ngay
-ngừng lệnh ngay
-ngưng lại ngay
-ngừng lại ngay
-về lại ngay
-về trang chủ ngay
-trở về trang chủ ngay
-quay lại trang chủ ngay
-quay về trang chủ ngay
-trở lại trang chủ ngay
-tới trang chủ ngay
-trở về ngay
-trở lại ngay
-làm lại ngay
-đi tới trang chủ
-dừng đặt lệnh ngay
-bỏ đặt lệnh ngay
-dừng làm ngay
-đừng làm nữa
-quay trở lại ngay
-làm lại ngay
-bỏ khớp lệnh ngay
-dừng khớp lệnh ngay
-hủy khớp lệnh ngay
-bn có bn cổ phiếu tbn giá bn
+tôi còn bao nhiêu tiền.
+trạng thái tiền.
+tình trạng tiền.
+tiền.
+tiền nong.
+số dư tiền.
+số dư tài khoản tiền.
+tài khoản đuôi 1 có bao tiền.
+tài khoản đuôi 6 có bao nhiêu.
+số dư tài khoản đuôi 1 ra sao.
+số dư tài khoản đuôi 6 ra sao.
+số dư tiền tài khoản đuôi 1 là bao nhiêu.
+số dư tiền tài khoản đuôi 1 ra sao.
+bao nhiêu tiền.
+số tiền hiện tại.
+tiền thế nào.
+xem trạng thái tiền.
+số tiền dư.
+xem số dư tiền.
+xem số tiền dư.
+số tiền còn lại.
+xem số tiền còn lại.
+xem tiền trong tài khoản.
+thông tin tiền trong tài khoản.
+tình trạng tiền trong tài khoản.
+trạng thái tiền trong tài khoản.
+thông tin số dư tiền.
+thông tin số tiền dư.
+trạng thái tiền của tài khoản.
+tiền còn lại.
+tài khoản còn lại bao nhiêu tiền.
+số tiền dư.
+số dư tiền còn lại.
+dư tiền trong tài khoản.
+dư nợ tiền tài khoản.
+xem dư nợ tiền tài khoản.
+tiền dư bao nhiêu.
+số dư tiền bao nhiêu.
+tài khoản dư bao nhiêu tiền.
+tài khoản tiền dư bao nhiêu.
+thông tin tiền của các tài khoản.
+số dư tiền các tài khoản.
+thông tin tiền của tài khoản đuôi 1.
+thông tin tiền của tài khoản đuôi 6.
+trạng thái tiền của tài khoản đuôi 1.
+trạng thái tiền của tài khoản đuôi 6.
+số tiền hiện có.
+số dư hiện có.
+dữ liệu tiền của tài khoản.
+xem thông tin tiền trong tài khoản.
+xem tình trạng tiền trong tài khoản.
+xem trạng thái tiền trong tài khoản.
+xem thông tin số dư tiền.
+xem thông tin số tiền dư.
+xem trạng thái tiền của tài khoản.
+xem tiền còn lại.
+xem tài khoản còn lại bao nhiêu tiền.
+xem số tiền dư.
+xem số dư tiền còn lại.
+xem dư tiền tài khoản.
+xem dư nợ tài khoản.
+xem số tiền dư bao nhiêu.
+xem số dư tiền bao nhiêu.
+tài khoản còn bao nhiêu tiền.
+xem tài khoản dư bao nhiêu tiền.
+xem tài khoản tiền dư bao nhiêu.
+xem thông tin tiền của các tài khoản.
+xem số dư tiền các tài khoản.
+xem thông tin tiền của tài khoản đuôi 1.
+xem thông tin tiền của tài khoản đuôi 6.
+xem trạng thái tiền của tài khoản đuôi 1.
+xem trạng thái tiền của tài khoản đuôi 6.
+xem số tiền hiện có.
+xem số dư hiện có.
+xem tiền của các tài khoản hiện có.
+xem dữ liệu tiền của các tài khoản.
+xem trạng thái tiền của tôi.
+số tiền dư của tôi.
+xem số dư tiền của tôi.
+xem số tiền dư của tôi.
+số tiền còn lại của tôi.
+xem số tiền còn lại của tôi.
+xem tiền trong tài khoản của tôi.
+thông tin tiền trong tài khoản của tôi.
+tình trạng tiền trong tài khoản của tôi.
+trạng thái tiền trong tài khoản của tôi.
+thông tin số dư tiền của tôi.
+thông tin số tiền dư của tôi.
+trạng thái tiền của tài khoản của tôi.
+tiền còn lại của tôi.
+tài khoản còn lại bao nhiêu tiền của tôi.
+số tiền dư của tôi.
+số dư tiền còn lại của tôi.
+dư tiền trong tài khoản của tôi.
+dư nợ tiền tài khoản của tôi.
+xem dư nợ tiền tài khoản của tôi.
+tiền dư của tôi bao nhiêu.
+số dư tiền của tôi bao nhiêu.
+tài khoản của tôi dư bao nhiêu tiền.
+tài khoản tiền dư của tôi bao nhiêu.
+thông tin tiền của các tài khoản của tôi.
+số dư tiền các tài khoản của tôi.
+thông tin tiền của tài khoản đuôi 1 của tôi.
+thông tin tiền của tài khoản đuôi 6 của tôi.
+trạng thái tiền của tài khoản đuôi 1 của tôi.
+trạng thái tiền của tài khoản đuôi 6 của tôi.
+số tiền hiện có của tôi.
+số dư hiện có của tôi.
+dữ liệu tiền của tài khoản của tôi.
+xem thông tin tiền trong tài khoản của tôi.
+xem tình trạng tiền trong tài khoản của tôi.
+xem trạng thái tiền trong tài khoản của tôi.
+xem thông tin số dư tiền của tôi.
+xem thông tin số tiền dư của tôi.
+xem trạng thái tiền của tài khoản của tôi.
+xem tiền còn lại của tôi.
+xem tài khoản còn lại bao nhiêu tiền của tôi.
+xem số tiền dư của tôi.
+xem số dư tiền còn lại của tôi.
+xem dư tiền tài khoản của tôi.
+xem dư nợ tài khoản của tôi.
+xem số tiền  của tôi dư  bao nhiêu .
+xem số dư tiền của tôi là bao nhiêu.
+xem tài khoản của tôi dư bao nhiêu tiền.
+xem tài khoản tiền của tôi dư bao nhiêu.
+xem thông tin tiền của các tài khoản của tôi.
+xem số dư tiền các tài khoản của tôi.
+xem thông tin tiền của tài khoản đuôi 1 của tôi.
+xem thông tin tiền của tài khoản đuôi 6 của tôi.
+xem trạng thái tiền của tài khoản đuôi 1 của tôi.
+xem trạng thái tiền của tài khoản đuôi 6 của tôi.
+xem số tiền hiện có của tôi.
+xem số dư hiện có của tôi.
+xem tiền của các tài khoản hiện có của tôi.
+xem dữ liệu tiền của các tài khoản của tôi.
+cho tôi xem trạng thái tiền.
+cho tôi xem số dư tiền.
+cho tôi xem số tiền dư.
+cho tôi xem số tiền còn lại.
+cho tôi xem tiền trong tài khoản.
+cho tôi xem dư nợ tiền tài khoản.
+cho tôi xem thông tin tiền trong tài khoản.
+cho tôi xem tình trạng tiền trong tài khoản.
+cho tôi xem trạng thái tiền trong tài khoản.
+cho tôi xem thông tin số dư tiền.
+cho tôi xem thông tin số tiền dư.
+cho tôi xem trạng thái tiền của tài khoản.
+cho tôi xem tiền còn lại.
+cho tôi xem tài khoản còn lại bao nhiêu tiền.
+cho tôi xem số tiền dư.
+cho tôi xem số dư tiền còn lại.
+cho tôi xem dư tiền tài khoản.
+cho tôi xem dư nợ tài khoản.
+cho tôi xem số tiền dư bao nhiêu.
+cho tôi xem số dư tiền bao nhiêu.
+cho tôi xem tài khoản dư bao nhiêu tiền.
+cho tôi xem tài khoản tiền dư bao nhiêu.
+cho tôi xem thông tin tiền của các tài khoản.
+cho tôi xem số dư tiền các tài khoản.
+cho tôi xem thông tin tiền của tài khoản đuôi 1.
+cho tôi xem thông tin tiền của tài khoản đuôi 6.
+cho tôi xem trạng thái tiền của tài khoản đuôi 1.
+cho tôi xem trạng thái tiền của tài khoản đuôi 6.
+cho tôi xem số tiền hiện có.
+cho tôi xem số dư hiện có.
+cho tôi xem tiền của các tài khoản hiện có.
+cho tôi xem dữ liệu tiền của các tài khoản.
+hiển thị trạng thái tiền.
+hiển thị số dư tiền.
+hiển thị số tiền dư.
+hiển thị số tiền còn lại.
+hiển thị tiền trong tài khoản.
+hiển thị dư nợ tiền tài khoản.
+hiển thị thông tin tiền trong tài khoản.
+hiển thị tình trạng tiền trong tài khoản.
+hiển thị trạng thái tiền trong tài khoản.
+hiển thị thông tin số dư tiền.
+hiển thị thông tin số tiền dư.
+hiển thị trạng thái tiền của tài khoản.
+hiển thị tiền còn lại.
+hiển thị tài khoản còn lại bao nhiêu tiền.
+hiển thị số tiền dư.
+hiển thị số dư tiền còn lại.
+hiển thị dư tiền tài khoản.
+hiển thị dư nợ tài khoản.
+hiển thị số tiền dư bao nhiêu.
+hiển thị số dư tiền bao nhiêu.
+hiển thị tài khoản dư bao nhiêu tiền.
+hiển thị tài khoản tiền dư bao nhiêu.
+hiển thị thông tin tiền của các tài khoản.
+hiển thị số dư tiền các tài khoản.
+hiển thị thông tin tiền của tài khoản đuôi 1.
+hiển thị thông tin tiền của tài khoản đuôi 6.
+hiển thị trạng thái tiền của tài khoản đuôi 1.
+hiển thị trạng thái tiền của tài khoản đuôi 6.
+hiển thị số tiền hiện có.
+hiển thị số dư hiện có.
+hiển thị tiền của các tài khoản hiện có.
+hiển thị dữ liệu tiền của các tài khoản.
+check số dư tiền trong tài khoản của tôi.
+check số dư tiền tôi có.
+check số tiền tôi còn.
+check xem tôi có bao nhiêu tiền.
+check xem tôi tôi dư bao nhiêu tiền.
+check xem tôi có dư tiền không.
+check xem tôi còn bao nhiêu tiền.
+check xem tôi còn dư bao nhiêu tiền.
+check xem tôi còn bao nhiêu tiền dư.
+check số tiền tôi có.
+check số dư tiền tôi còn.
+check tiền dư tôi có.
+check số dư tiền trong tài khoản của tôi.
+check số dư tiền của tôi.
+check dư tiền của tôi.
+check số tiền dư của tôi trong tài khoản.
+check số tiền tôi có trong tài khoản.
+check số tiền tôi còn.
+check tổng số tiền của tôi.
+check tổng số tiền dư tôi có.
+check tổng số tiền tôi sở hữu.
+check tổng tiền dư tôi nắm giữ.
+check số tiền tôi sở hữu.
+check dư tiền tôi sở hữu.
+check số tiền tôi nắm giữ.
+check số dư tiền tôi nắm giữ.
+check tổng số tiền tôi sở hữu.
+check tổng số tiền dư tôi nắm giữ.
+check xem số dư tiền tôi sở hữu trong tài khoản của tôi.
+check xem số tiền dư tôi nắm giữ trong tài khoản.
+check xem tài khoản của tôi có bao nhiêu tiền.
+check xem tài khoản của tôi còn bao nhiêu tiền còn dư.
+check xem tài khoản của tôi sở hữu bao nhiêu tiền còn dư.
+check xem tài khoản của tôi nắm giữ bao nhiêu tiền.
+check xem tài khoản của tôi có bao nhiêu số dư tiền.
+check xem tài khoản của tôi còn bao nhiêu tiền còn dư.
+check xem tài khoản của tôi sở hữu bao nhiêu số dư tiền.
+check xem tài khoản của tôi còn bao nhiêu số tiền còn dư.
+check xem tài khoản của tôi sở hữu bao nhiêu tiền .
+check xem tài khoản của tôi nắm giữ bao nhiêu tiền dư.
+advice,nhận định mã cổ phiếu SSI.
+advice,nhận định giá cổ phiếu SSI.
+advice,nhận định mã chứng khoán SSI.
+advice,nhận định giá mã chứng khoán SSI.
+advice,tôi nên mua ssi với giá bn.
+advice,tôi nên mua ssi với giá bao nhiêu.
+advice,tôi có nên mua ssi với giá 16.5.
+advice,tôi có nên chi 12 triệu để mua 1000 cp ssi không?
+advice,tôi có nên đầu tư 12 triệu để mua 100 cổ phiếu acb không?
+advice,mua thế nào với mã SSI.
+advice,bán thế nào với SSI.
+advice,nên bán tất cả SSI chứ.
+advice,nên đầu tư SSI lúc này không.
+advice,nên giao dịch SSI thời điểm này chứ.
+advice,bán SSI giá 12 được không?
+advice,với giá nào thì nên bán SSI.
+advice,với giá nào thì bán SSI.
+advice,với thị trường này, có nên mua SSI không?
+advice,với thị trường này, có nên mua 300 cổ phiếu SSI giá 12.4 không?
+advice,cho tôi xin ý kiến về thị trường hôm nay.
+advice,ý kiến của bạn về thị trường hôm nay.
+advice,bạn nghĩ thị trường hôm nay sẽ thế nào.
+advice,bạn nghĩ mã SSI hôm nay thế nào.
+advice,bạn nghĩ mã SSI hôm nay sẽ tăng hay giảm.
+advice,mua 100 cổ phiếu SSI giá 39.5 có nên không.
+advice,bán 100 cổ phiếu SSI giá 34.5 có nên không.
+advice,liệu có nên mua ssi hôm nay không nhỉ?
+advice,liệu có nên bán ssi hôm nay không?
+advice,bạn nhìn nhận thị trường hôm nay sẽ thế nào?
+advice,có nên mua SSI hôm nay không.
+advice,có nên bán SSI không.
+advice,bán SSI giá 12.5 liệu có ổn không nhỉ.
+advice,có nên mua bán mã SSI không.
+advice,mã SSI được không.
+advice,có nên bán mã SSI.
+advice,khuyến nghị về cổ phiếu SSI.
+advice,khuyên thế nào về SSI.
+advice,nhận định mã SSI.
+advice,có đáng để đầu tư cho SSI không.
+advice,giờ mua vào SSI ổn chứ.
+advice,SSI có tiềm năng để đầu tư không.
+advice,tiềm năng đầu tư của SSI.
+advice,mua SSI giá bao nhiêu hợp lý.
+advice,bán SSI giá bao nhiêu hợp lý.
+advice,vào mã SSI bây giờ có nên không.
+advice,có nên mua vào SSI không.
+advice,có nên bán ra SSI không.
+advice,có nên mua SSI không.
+advice,có nên bán SSI không.
+advice,nên bán hay nắm giữ mã SSI.
+advice,nên bán hay giữ cổ phiếu SSI.
+advice,bán hay giữ cổ phiếu SSI đây.
+advice,nên giữ SSI hay ACB nhỉ?
+advice,nên bán SSI hay bán ACB.
+advice,có nên bán SSI hoặc ACB không?
+advice,nên mua hay bán cổ phiếu SSI.
+advice,mua hay bán SSI đây.
+advice,nên mua vào hay bán ra mã SSI.
+advice,đề xuất như nào về cổ phiếu SSI.
+advice,khuyến nghị như nào về mã SSI.
+advice,đề xuất thế nào về mã SSI.
+advice,bạn đề xuất thế nào về mã SSI.
+advice,bạn có đề xuất gì về mã SSI.
+advice,nhận định thế nào về cổ phiếu SSI.
+advice,nhận định như nào về mã SSI.
+advice,mua bán mã SSI thế nào.
+advice,xem đề xuất về mã SSI.
+advice,xem khuyến nghị mã SSI.
+advice,xem nhận định cổ phiếu SSI.
+advice,khuyến nghị ra sao về SSI.
+advice,đề xuất ra sao về mã SSI.
+advice,nhận định mã SSI ra sao.
+advice,nên giữ lại hay bán ra cổ phiếu SSI.
+advice,nên nắm giữ cổ phiếu SSI lúc này không.
+advice,nên lướt sóng mã SSI trong giai đoạn này không.
+advice,khuyến nghị cổ phiếu SSI cho giai đoạn này.
+advice,giai đoạn này mua bán thế nào mã SSI.
+advice,giai đoạn này nên nắm giữ ssi hay acb.
+advice,giai đoạn này có nên nắm giữ cổ phiếu SSI.
+advice,giai đoạn này nên nắm giữ hay bán ra cổ phiếu SSI.
+advice,nên hay không nên mua SSI.
+advice,với cổ phiếu SSI nên mua giá bao nhiêu.
+advice,với mã chứng khoán SSI nên mua giá bao nhiêu.
+advice,với tiền trong tài khoản nên mua lượng cổ phiếu SSI bao nhiêu.
+advice,nên bán giá bao nhiêu với cổ phiếu SSI.
+advice,nên mua giá bao nhiêu với cổ phiếu SSI.
+advice,nên bán giá bao nhiêu với mã chứng khoán SSI.
+advice,nên mua giá bao nhiêu với mã chứng khoán SSI.
+advice,nên mua bao nhiêu cổ phiếu ssi?
+advice,nên mua SSI theo giá thị trường không.
+advice,nên bán SSI theo giá thị trường không.
+advice,nên làm gì với cổ phiếu SSI hiện nay.
+advice,thị trường lên xuống thất thường nên mua vào hay bán ra cổ phiếu SSI.
+advice,bạn nghĩ cổ phiếu SSI hôm nay thế nào?
+advice,ý kiến của bạn về cổ phiếu SSI hôm nay?
+advice,bạn nghĩ thế nào về mã SSI hôm nay?
+advice,bạn nghĩ mã SSI hôm nay sẽ thế nào?
+advice,rủi ro khi đầu tư vào SSI.
+advice,nếu thị trường đang xuống, có đáng mua vào SSI.
+advice,tôi có nên nắm giữ SSI không.
+advice,tôi có nên nắm giữ mã SSI không.
+advice,tôi có nên nắm giữ cổ phiếu SSI không.
+advice,có nhiều rủi ro khi đầu tư vào SSI không.
+advice,có rủi ro không khi đầu tư vào SSI không.
+advice,rủi ro nào khi đầu tư vào SSI.
+advice,đầu tư vào SSI có rủi ro không.
+advice,nếu đầu tư vào SSI sẽ có rủi ro chứ.
+advice,có đáng đầu tư SSI lúc này.
+advice,với biến động của thị trường, có đáng đầu tư vào SSI.
+advice,có đáng sở hữu SSI lúc này không.
+advice,có đáng để nắm giữ SSI không.
+advice,có đáng để nắm giữ cổ phiếu SSI không.
+advice,có đáng để nắm giữ mã SSI không.
+advice,có nên nắm giữ SSI lúc này không.
+advice,tôi nên nắm giữ SSI không.
+advice,tôi nên nắm giữ mã SSI không.
+advice,tôi nên nắm giữ cổ phiếu SSI không.
+advice,nên nắm giữ cp SSI chứ.
+advice,có nên nắm giữ mã SSI lúc này.
+advice,có nên nắm giữ cổ phiếu SSI lúc này.
+advice,nên múc SSI lúc này không.
+advice,có nên múc SSI vào lúc này không.
+advice,có nên múc SSI giá 10 không.
+advice,tôi có nên múc SSI giá 11 không.
+advice,tôi nên múc mã SSI giá 10 không.
+advice,nên múc cổ phiếu SSI lúc này chứ.
+advice,nên múc SSI.
+advice,nên nắm giữ SSI không.
+advice,nên sở hữu SSI không.
+advice,nên mua vào SSI không.
+advice,nên bán SSI vào thời điểm này không.
+advice,tôi có nên năm giữ SSI.
+advice,tôi có nên mua vào SSI.
+advice,tôi có nên sở hữu SSI.
+advice,nên mua bán SSI lúc này không.
+advice,nên sở hữu SSI không nhỉ.
+advice,với tình hình thị trường như này nên làm gì với SSI.
+advice,nên mua hay bán SSI như nào.
+advice,có đáng để mua SSI không.
+advice,có đáng để nắm giữ SSI không.
+advice,có đáng để mua bán SSI không.
+advice,SSI có khả năng sinh lời không.
+advice,tiềm năng của SSI.
+advice,SSI có tiềm năng để mua bán không.
+advice,SSI có tiềm năng để sở hữu không.
+advice,SSI có tiềm năng để giao dịch không.
+advice,nên hay không sở hữu SSI.
+advice,có đáng để đầu tư vào SSI.
+advice,đầu tư SSI vào lúc này có đáng không.
+advice,đầu tư SSI có tiềm năng không.
+advice,đầu tư SSI có khả năng sinh lời không.
+advice,đầu tư SSI có khả năng sinh lời chứ.
+advice,đáng để đầu tư vào SSI không nhỉ.
+advice,có đáng để đầu tư vào SSI không.
+order_status,đã khớp lệnh mã SSI chưa.
+order_status,trạng thái lệnh cổ phiếu SSI.
+order_status,tình trạng chờ xử lý giao dịch của tôi.
+order_status,tình trạng giao dịch của tôi thế nào.
+order_status,lệnh về mã SSI của tôi khớp chưa.
+order_status,tình trạng lệnh cổ phiếu SSI.
+order_status,lệnh cổ phiếu SSI ra sao.
+order_status,xem trạng thái lệnh cổ phiếu SSI.
+order_status,trạng thái lệnh mã SSI của tôi.
+order_status,xem trạng thái lệnh mã SSI của tôi.
+order_status,xem tình trạng lệnh cổ phiếu SSI.
+order_status,thông tin lệnh mã SSI.
+order_status,xem thông tin lệnh cổ phiếu SSI.
+order_status,tình trạng khớp lệnh mã SSI.
+order_status,trạng thái khớp lệnh mã SSI.
+order_status,thông tin khớp lệnh mã SSI.
+order_status,xem tình trạng khớp lệnh cổ phiếu SSI.
+order_status,xem thông tin khớp lệnh cổ phiếu SSI.
+order_status,xem trạng thái khớp lệnh mã SSI.
+order_status,thông tin lệnh cổ phiếu SSI của tôi.
+order_status,xem thông tin lệnh mã SSI của tôi.
+order_status,tình trạng khớp lệnh mã SSI của tôi.
+order_status,trạng thái khớp lệnh cổ phiếu SSI của tôi.
+order_status,thông tin khớp lệnh cổ phiếu SSI của tôi.
+order_status,xem tình trạng khớp lệnh mã SSI của tôi.
+order_status,xem thông tin khớp lệnh cổ phiếu SSI của tôi.
+order_status,xem trạng thái khớp lệnh mã SSI của tôi.
+order_status,hãy cho tôi biết trạng thái giao dịch mã SSI của tôi .
+order_status,giao dịch mua SSI của tôi đã thực hiện xong chưa.
+order_status,lệnh về mã SSI đang giao dịch.
+order_status,xem lệnh cổ phiếu SSI đang giao dịch.
+order_status,lệnh cổ phiếu SSI đang chờ giao dịch.
+order_status,xem lệnh mã SSI đang chờ giao dịch.
+order_status,lệnh về cổ phiếu SSI bị hủy.
+order_status,xem lệnh mã SSI bị hủy.
+order_status,lệnh mã SSI không hợp lệ.
+order_status,xem lệnh về cổ phiếu SSI không hợp lệ.
+order_status,xem lệnh về mã SSI đang chờ.
+order_status,lệnh mã SSI đang chờ.
+order_status,lệnh mã SSI đã được khớp chưa.
+order_status,lệnh cổ phiếu SSI đã được thực hiện chưa.
+order_status,lệnh về cổ phiếu SSI đã giao dịch.
+order_status,xem lệnh mã SSI đã giao dịch.
+order_status,tình trạng giao dịch của lệnh mã cổ phiếu SSI.
+order_status,xem tình trạng giao dịch của lệnh cổ phiếu SSI.
+order_status,giao dịch khớp lệnh mã SSI.
+order_status,xem giao dịch khớp lệnh mã SSI.
+order_status,kết quả khớp lệnh mã SSI.
+order_status,xem kết quả khớp lệnh cổ phiếu SSI.
+order_status,xem kết quả giao dịch lệnh mã SSI.
+order_status,kết quả giao dịch lệnh cổ phiếu SSI.
+order_status,lệnh mã SSI đang giao dịch của tôi.
+order_status,xem lệnh cổ phiếu SSI đang giao dịch của tôi.
+order_status,lệnh cổ phiếu SSI đang chờ giao dịch của tôi.
+order_status,xem lệnh mã SSI đang chờ giao dịch của tôi.
+order_status,lệnh cổ phiếu SSI bị hủy của tôi.
+order_status,xem lệnh mã SSI bị hủy của tôi.
+order_status,lệnh cổ phiếu SSI không hợp lệ của tôi.
+order_status,xem lệnh mã SSI không hợp lệ của tôi.
+order_status,xem lệnh cổ phiếu SSI đang chờ của tôi.
+order_status,lệnh mã SSI đang chờ của tôi.
+order_status,lệnh cổ phiếu SSI đã được khớp chưa.
+order_status,lệnh cổ phiếu SSI đã được thực hiện chưa của tôi.
+order_status,lệnh mã SSI đã giao dịch của tôi.
+order_status,xem lệnh cổ phiếu SSI đã giao dịch của tôi.
+order_status,tình trạng giao dịch của lệnh mã SSI của tôi.
+order_status,xem tình trạng giao dịch của lệnh cổ phiếu SSI của tôi.
+order_status,giao dịch khớp lệnh mã SSI của tôi.
+order_status,xem giao dịch khớp lệnh mã cổ phiếu SSI của tôi.
+order_status,kết quả khớp lệnh mã SSI của tôi.
+order_status,xem kết quả khớp lệnh mã SSI của tôi.
+order_status,xem kết quả giao dịch lệnh mã SSI của tôi.
+order_status,kết quả giao dịch lệnh cổ phiếu SSI của tôi.
+order_status,xem cho tôi trạng thái lệnh mã SSI.
+order_status,xem cho tôi trạng thái lệnh cổ phiếu SSI của tôi.
+order_status,xem cho tôi tình trạng lệnh cổ phiếu SSI.
+order_status,xem cho tôi thông tin lệnh mã cổ phiếu SSI.
+order_status,xem cho tôi tình trạng khớp lệnh mã SSI.
+order_status,xem cho tôi thông tin khớp lệnh mã SSI.
+order_status,xem cho tôi trạng thái khớp lệnh cổ phiếu SSI.
+order_status,xem cho tôi thông tin lệnh mã cổ phiếu SSI của tôi.
+order_status,xem cho tôi tình trạng khớp lệnh mã SSI của tôi.
+order_status,xem cho tôi thông tin khớp lệnh cổ phiếu SSI của tôi.
+order_status,xem cho tôi trạng thái khớp lệnh mã SSI của tôi.
+order_status,xem cho tôi lệnh cổ phiếu SSI đang giao dịch.
+order_status,xem cho tôi lệnh cổ phiếu SSI đang chờ giao dịch.
+order_status,xem cho tôi lệnh mã SSI bị hủy.
+order_status,xem cho tôi lệnh cổ phiếu SSI không hợp lệ.
+order_status,xem cho tôi lệnh mã SSI đang chờ.
+order_status,xem cho tôi lệnh cổ phiếu SSI đã giao dịch.
+order_status,xem cho tôi tình trạng giao dịch của lệnh cổ phiếu SSI.
+order_status,xem cho tôi giao dịch khớp lệnh mã SSI.
+order_status,xem cho tôi kết quả khớp lệnh mã SSI.
+order_status,xem cho tôi kết quả giao dịch lệnh cổ phiếu SSI.
+end,kết thúc chương trình.
+end,kết thúc app.
+end,kết thúc đi.
+end,kết thúc ngay.
+end,kết thúc chương trình ngay.
+end,kết thúc chương trình đi.
+end,chấm dứt ngay.
+end,chấm dứt đi.
+end,chấm dứt chương trình ngay.
+end,chấm dứt chương trình đi.
+end,chấm dứt app.
+end,trở lại sau.
+end,trở lại sau nhé.
+end,đi đây.
+end,chào.
+end,thế nhé.
+end,tắt app.
+end,tắt app nhé.
+end,tắt ứng dụng.
+end,tắt chương trình.
+end,tạm biệt nhé.
+end,chào tạm biệt nhé.
+end,đi nhé.
+end,mình đi nhé.
+end,tôi đi đây.
+end,dừng chương trình.
+end,dừng chương trình đi.
+end,dừng app.
+end,dừng app đi.
+end,dừng app ngay.
+end,dừng ứng dụng.
+end,dừng ứng dụng ngay.
+end,dừng ứng dụng đi.
+end,thoát.
+end,chấm dứt.
+end,tạm biệt.
+end,bye bye.
+end,kết thúc.
+end,gặp lại sau.
+end,mai nói chuyện sau.
+end,mai gặp lại.
+end,hẹn lúc khác nhé.
+end,hẹn gặp sau nhé.
+end,chào tạm biệt.
+end,phải đi đây.
+end,thoát chương trình.
+end,thoát app.
+end,thoát khỏi chương trình.
+end,bye.
+end,đóng.
+end,đóng app.
+end,đóng chương trình.
+end,quay lại sau.
+end,tắt.
+end,tắt chương trình.
+end,chào nhé.
+end,chào bạn nhé.
+end,kết thúc.
+cancel,huỷ.
+cancel,bỏ qua.
+cancel,bỏ đi.
+cancel,về lại chức năng chính.
+cancel,hiển thị chức năng hệ thống.
+cancel,danh sách chức năng hệ thống.
+cancel,quay lại chức năng chính.
+cancel,quay về chức năng chính.
+cancel,không đặt nữa.
+cancel,không làm nữa.
+cancel,hủy bỏ.
+cancel,loại bỏ.
+cancel,hủy lệnh.
+cancel,dừng lệnh.
+cancel,dừng lại.
+cancel,tạm dừng.
+cancel,dừng ngay.
+cancel,hủy ngay.
+cancel,bỏ lệnh.
+cancel,bỏ qua lệnh.
+cancel,bỏ.
+cancel,bỏ đi.
+cancel,dừng chức năng này đi.
+cancel,dừng khớp lệnh đi.
+cancel,hủy bỏ ngay.
+cancel,hủy bỏ lệnh.
+cancel,loại bỏ lệnh.
+cancel,ngưng lại.
+cancel,ngưng lệnh.
+cancel,ngừng lệnh.
+cancel,ngưng lại.
+cancel,ngừng lại.
+cancel,về trang chủ.
+cancel,trở về trang chủ.
+cancel,quay lại trang chủ.
+cancel,quay về trang chủ.
+cancel,trở lại trang chủ.
+cancel,tới trang chủ.
+cancel,trở về.
+cancel,trở lại.
+cancel,làm lại.
+cancel,dừng đặt lệnh.
+cancel,bỏ đặt lệnh.
+cancel,dừng làm.
+cancel,đừng làm.
+cancel,quay trở lại.
+cancel,làm lại.
+cancel,không khớp lệnh.
+cancel,bỏ khớp lệnh.
+cancel,dừng khớp lệnh.
+cancel,hủy khớp lệnh.
+cancel,về chức năng chính.
+cancel,về chức năng hệ thống.
+cancel,tới chức năng chính.
+cancel,tới chức năng hệ thống.
+cancel,về chức năng chính ngay.
+cancel,về chức năng hệ thống ngay.
+cancel,tới chức năng chính ngay.
+cancel,tới chức năng hệ thống ngay.
+cancel,về chức năng chính đi.
+cancel,về chức năng hệ thống đi.
+cancel,tới chức năng chính đi.
+cancel,tới chức năng hệ thống đi.
+cancel,đến chức năng chính.
+cancel,đến chức năng hệ thống.
+cancel,đến chức năng chính đi.
+cancel,đến chức năng hệ thống đi.
+cancel,đến chức năng chính ngay.
+cancel,đến chức năng hệ thống ngay.
+cancel,đi tới chức năng chính.
+cancel,đi tới chức năng hệ thống.
+cancel,đi tới chức năng chính ngay.
+cancel,đi tới chức năng hệ thống ngay.
+cancel,đi tới chức năng chính đi.
+cancel,đi tới chức năng hệ thống đi.
+cancel,hủy bỏ đi.
+cancel,loại bỏ đi.
+cancel,hủy lệnh đi.
+cancel,dừng lệnh đi.
+cancel,dừng lại đi.
+cancel,tạm dừng đi.
+cancel,dừng ngay đi.
+cancel,hủy ngay đi.
+cancel,bỏ lệnh đi.
+cancel,bỏ qua lệnh đi.
+cancel,hủy bỏ ngay đi.
+cancel,hủy bỏ lệnh đi.
+cancel,loại bỏ lệnh đi.
+cancel,ngưng lại đi.
+cancel,ngưng lệnh đi.
+cancel,ngừng lệnh đi.
+cancel,ngừng lại đi.
+cancel,về trang chủ đi.
+cancel,trở về trang chủ đi.
+cancel,quay lại trang chủ đi.
+cancel,quay về trang chủ đi.
+cancel,trở lại trang chủ đi.
+cancel,tới trang chủ đi.
+cancel,trở về đi.
+cancel,trở lại đi.
+cancel,làm lại đi.
+cancel,dừng đặt lệnh đi.
+cancel,bỏ đặt lệnh đi.
+cancel,dừng làm đi.
+cancel,quay trở lại đi.
+cancel,làm lại đi.
+cancel,bỏ khớp lệnh đi.
+cancel,dừng khớp lệnh đi.
+cancel,hủy khớp lệnh đi.
+cancel,hủy bỏ ngay.
+cancel,loại bỏ ngay.
+cancel,dừng ngay.
+cancel,hủy lệnh ngay.
+cancel,dừng lệnh ngay.
+cancel,dừng lại ngay.
+cancel,tạm dừng ngay.
+cancel,bỏ lệnh ngay.
+cancel,bỏ qua lệnh ngay.
+cancel,bỏ ngay.
+cancel,bỏ đi ngay.
+cancel,dừng đi ngay.
+cancel,hủy bỏ lệnh ngay.
+cancel,loại bỏ lệnh ngay.
+cancel,ngưng lại ngay.
+cancel,ngưng lệnh ngay.
+cancel,ngừng lệnh ngay.
+cancel,ngưng lại ngay.
+cancel,ngừng lại ngay.
+cancel,về lại ngay.
+cancel,về trang chủ ngay.
+cancel,trở về trang chủ ngay.
+cancel,quay lại trang chủ ngay.
+cancel,quay về trang chủ ngay.
+cancel,trở lại trang chủ ngay.
+cancel,tới trang chủ ngay.
+cancel,trở về ngay.
+cancel,trở lại ngay.
+cancel,làm lại ngay.
+cancel,đi tới trang chủ.
+cancel,dừng đặt lệnh ngay.
+cancel,tôi muốn dừng đặt lệnh.
+cancel,tôi muốn dừng khớp lệnh.
+cancel,hủy đặt lệnh cho tôi.
+cancel,hủy đặt lệnh giúp tôi với.
+cancel,bỏ đặt lệnh ngay.
+cancel,dừng làm ngay.
+cancel,đừng làm nữa.
+cancel,quay trở lại ngay.
+cancel,làm lại ngay.
+cancel,bỏ khớp lệnh ngay.
+cancel,dừng khớp lệnh ngay.
+cancel,dừng khớp lệnh mua ssi.
+cancel,dừng khớp lệnh.
+cancel,hủy khớp lệnh ngay.
+cancel,hủy khớp lệnh.
+cancel,hủy khớp lệnh mua ssi.
+cancel,hủy bỏ khớp lệnh mua ssi.
+hôm nay thị trường chán nhỉ, bán cho tôi 1000 SSI giá 10.
+hôm nay thị trường chán ghê, bán 1000 SSI giá 10 đi.
+hôm nay thị trường chán thật, bán mã SSI với số lượng 100 giá 10.5.
+hôm nay thị trường tệ quá, bán hết SSI đi.
+hôm nay thị trường sao thế nhỉ, bán 100 mã SSI giá 10.5.
+hôm nay thị trường xuống nhiều, bán toàn bộ mã SSI cho tôi.
+hôm nay thị trường đang giảm, bán 1000 mã SSI giá 10,5.
+hôm nay thị trường xấu quá, bán 1000 cp SSI giá 10.4.
+hôm nay thị trường thất thường quá, bán mã SSI khối lượng 1000 giá 10.5.
+hôm nay thị trường xấu ghê, bán mã SSI với số lượng 1000 giá 11.
+hôm nay thị trường con gấu, bán cho tôi 100 SSI giá 10.5.
+hôm nay thị trường xụt rồi, bán cho tôi cổ phiếu SSI khối lượng 1000 giá 10.5.
+hôm nay thị trường giảm mạnh, bán hết cổ phiếu SSI cho tôi.
+hôm nay thị trường tụt mạnh, bán 100 cp SSI cho tôi.
+hôm qua thị trường chán nhỉ, bán cho tôi 1000 SSI giá 10.
+hôm qua thị trường chán ghê, bán 1000 SSI giá 10 đi.
+hôm qua thị trường chán thật, bán mã SSI với số lượng 100 giá 10.5.
+hôm qua thị trường tệ quá, bán hết SSI đi.
+hôm qua thị trường sao thế nhỉ, bán 100 mã SSI giá 10.5.
+hôm qua thị trường xuống nhiều, bán toàn bộ mã SSI cho tôi.
+hôm qua thị trường đang giảm, bán 1000 mã SSI giá 10,5.
+hôm qua thị trường xấu quá, bán 1000 cp SSI giá 10.4.
+hôm qua thị trường thất thường quá, bán mã SSI khối lượng 1000 giá 10.5.
+hôm qua thị trường xấu ghê, bán mã SSI với số lượng 1000 giá 11.
+hôm qua thị trường con gấu, bán cho tôi 100 SSI giá 10.5.
+hôm qua thị trường xụt rồi, bán cho tôi cổ phiếu SSI khối lượng 1000 giá 10.5.
+hôm qua thị trường giảm mạnh, bán hết cổ phiếu SSI cho tôi.
+hôm qua thị trường tụt mạnh, bán 100 cp SSI cho tôi.
+hôm nay thị trường tốt lên, mua 100 cp SSI giá 10.
+hôm nay thị trường đang tăng, mua cho tôi cp SSI số lượng 1000 giá 10.
+hôm nay thị trường bò tót, mua 1000 SSI giá 10.5.
+hôm nay thị trường đang lên, mua 1000 cp SSI giá 10.5.
+hôm nay thị trường tăng mạnh, đầu tư thêm 100 cp SSI giá 11.
+hôm nay thị trường đang tốt, mua thêm cho tôi 1000 cp SSI giá 12.
+hôm nay thị trường đang đà tăng, mua thêm cho tôi 100 cp SSI giá 19.
+hôm nay thị trường đang lên, mua vào cho tôi 1000 SSI giá 10.5.
+hôm nay thị trường đà lên, mua ngay 100 cp SSI giá 11.
+hôm nay thị trường lên nhanh, giao dịch mua 1000 cổ phiếu SSI giá 12.
+hôm nay thị trường đang lên thì phải, mua ngay 1000 SSI giá 10.
+hôm nay thị trường tăng vù vù, mua 1000 SSI giá 10.5.
+hôm nay thị trường con bò tót, đầu tư ngay 1000 cp SSI giá 10.
+hôm nay thị trường đang đà tăng, mua thêm cho tôi 1000 SSI giá 10.5.
+hôm nay mã SSI đang tăng, mua thêm 100 SSI giá 11.
+thấy bảo SSI sẽ tăng, đầu tư 1000 SSI giá 10.
+có tin mã SSI sẽ tăng, mua thêm cho tôi 1000 cp SSI giá 10.5.
+có tin bảo SSI hôm nay sẽ tăng, cho tôi đặt lệnh mua 1000 SSI giá 10.5.
+dự báo SSI sẽ tăng, đầu tư thêm 1000 SSI giá 10.5.
+có nguồn tin bảo SSI sẽ tăng, mua thêm cho tôi 100 SSI giá 11.
+hôm nay SSI sẽ tăng đấy, mua thêm 1000 SSI giá 10.
+hôm nay mã SSI đang giảm, bán ngay 100 SSI giá 11.
+thấy bảo SSI sẽ xuống, thoát hàng 1000 SSI giá 10.
+có tin mã SSI sẽ tụt, bán ngay cho tôi 1000 cp SSI giá 10.5.
+có tin bảo SSI hôm nay sẽ mất điểm, cho tôi đặt lệnh bán 1000 SSI giá 10.5.
+dự báo SSI sẽ giảm mạnh, bán ra ngay 1000 SSI giá 10.5.
+có nguồn tin bảo SSI sẽ giảm mạnh, đặt lệnh bán cho tôi 100 SSI giá 11.
+hôm nay SSI sẽ tụt đấy, bán ra 1000 SSI giá 10.
+hôm nay con SSI lên đấy, mua cho tôi 1000 SSI giá 10.5.
+thấy đồ thị dự báo hôm nay SSI lên, đầu tư thêm 1000 SSI giá 11.
+thị trường đang mua SSI, mua cho tôi 1000 SSI giá 10.
+thị trường đang đầu tư SSI, mua cho tôi 1000 SSI giá 10.
+mọi người đua nhau mua SSI, đầu tư cho tôi 100 SSI giá 11.
+thấy bảo đầu tư SSI có lãi, mua cho tôi 1000 SSI giá 10.
+có lời khi mua SSI không nhỉ, mua cho tôi 1000 SSI giá 10.
+đồ thị kỹ thuật hôm nay tốt quá, mua cho tôi thêm 1000 SSI giá 11 đi.
+mới đổ tiền vào tài khoản, đặt lệnh mua 100 SSI giá 11.
+mới thêm tiền vào tài khoản, đặt mua thêm 1000 SSI giá 12.
+có thêm thông tin tích cực về SSI, mua thêm 100 SSI.
+có tin vui về cp SSI, đầu tư thêm 1000 SSI giá 11.
+thị trường hôm nay chán quá, xả hết SSI hộ tôi với.
+thị trường hôm nay tụt dốc, thoát hết cp SSI hộ anh với.
+thị trường tiêu cực ghê, bán sạch SSI cho tôi.
+hôm qua SSI tăng kịch trần, đầu tư thêm SSI cho tôi.
+hôm qua SSI tăng chạm trần, mua cho tôi 100 SSI giá 10.
+hôm qua SSI lên kịch trần, đầu tư cho tôi 1000 SSI giá 11.
+hôm qua SSI lên tới trần, cho tôi đặt lệnh mua 100 SSI giá 10.
+hôm qua SSI lên kịch trần, đặt lệnh giao dịch mua 1000 SSI giá 10.
+hôm qua SSI tăng tới trần, múc cho tôi 100 SSI giá 10.
+hôm qua SSI lại tăng rồi, mua cho tôi thêm 1000 SSI giá 12.
+hôm qua SSI lại lên điểm, đầu tư thêm cho tôi 1000 mã SSI giá 11.
+hôm qua SSI lại có dấu hiệu tích cực, cho tôi đầu tư thêm 100 SSI giá 10.
+hôm qua SSI lại lên thì phải, múc cho tôi 100 SSI giá 10.
+hôm qua SSI lại tăng điểm thì phải, cho tôi mua 100 SSI giá 10.
+hôm qua SSI vừa tăng lên, đặt lệnh mua 100 SSI giá 10.
+hôm qua SSI tiếp tục tăng, giao dịch mua thêm 1000 SSI giá 10.
+hôm qua SSI tiếp tục lên điểm, cho tôi đặt lệnh mua thêm 100 SSI giá 10.5.
+hôm nay SSI giảm sập sàn, thoát hàng SSI cho tôi.
+hôm nay SSI giảm sàn, bán cho tôi 100 SSI giá 10.
+hôm nay SSI xuống chạm sàn, bán ngay cho tôi 1000 SSI giá 11.
+hôm nay SSI xuống tới sàn, cho tôi đặt lệnh bán 100 SSI giá 10.
+hôm nay SSI giảm chạm sàn, đặt lệnh giao dịch bán 1000 SSI giá 10.
+hôm nay SSI giảm mạnh, thoát cho tôi 100 SSI giá 10.
+hôm nay SSI lại giảm rồi, bán cho tôi ngay 1000 SSI giá 12.
+hôm nay SSI lại giảm điểm, bán ngay cho tôi 1000 mã SSI giá 11.
+hôm nay SSI lại có dấu hiệu tiêu cực, cho tôi bán 100 SSI giá 10.
+hôm nay SSI lại giảm thì phải, thoát hàng cho tôi 100 SSI giá 10.
+hôm nay SSI lại giảm điểm thì phải, cho tôi bán 100 SSI giá 10.
+hôm nay SSI vừa giảm tiếp, đặt lệnh bán 100 SSI giá 10.
+hôm nay SSI tiếp tục giảm, giao dịch bán thêm 1000 SSI giá 10.
+hôm nay SSI tiếp tục giảm điểm, cho tôi đặt lệnh bán thêm 100 SSI giá 10.5.
+adivce,hôm nay thị trường chán nhỉ, có nên bán hết SSI không?
+adivce,hôm nay thị trường chán ghê, có nên thoát hàng SSI không?
+adivce,hôm nay thị trường chán thật, cho tôi lời khuyên về mã SSI.
+adivce,hôm nay thị trường tệ quá, có nên bán sạch SSI không?
+adivce,hôm nay thị trường sao thế nhỉ, có đáng để tiếp tục nắm giữ SSI không?
+adivce,hôm nay thị trường xuống nhiều, nên bán ngay SSI không nhỉ?
+adivce,hôm nay thị trường đang giảm, có nên tiếp tục nắm giữ cp SSI không.
+adivce,hôm nay thị trường xấu quá, nên bán gấp cổ phiếu SSI không nhỉ?
+adivce,hôm nay thị trường thất thường quá, vẫn nên tiếp tục nắm giữ SSI không nhỉ.
+adivce,hôm nay thị trường xấu ghê, có nên thoát sạch SSI không.
+adivce,hôm nay thị trường con gấu, bán SSI lúc này ngay chứ?
+adivce,hôm nay thị trường xụt rồi, có nên bán ngay cp SSI không nhỉ?
+adivce,hôm nay thị trường giảm mạnh, có nên bán hết sạch SSI không.
+adivce,hôm nay thị trường tụt mạnh, có nên xả ngay SSI không nhỉ?
+adivce,hôm qua thị trường chán nhỉ, có nên bán ngay SSI lúc này không.
+adivce,hôm qua thị trường chán ghê, nên đợi hay bán ra SSI hôm nay.
+adivce,hôm qua thị trường chán thật, có nên tiếp tục nắm giữ SSI hôm nay không.
+adivce,hôm qua thị trường tệ quá, nên bán hết SSI hôm nay không nhỉ.
+adivce,hôm qua thị trường sao thế nhỉ, có nên bán tháo toàn bộ SSI hôm nay không?
+adivce,hôm qua thị trường xuống nhiều, có nên tiếp tục cầm SSI không.
+adivce,hôm qua thị trường đã giảm mạnh, nên chờ hay cắt lỗ SSI đây?
+adivce,hôm qua thị trường xấu quá, có nên bán ngay SSI lúc này không.
+adivce,hôm qua thị trường thất thường quá, tiếp tục nắm giữ hay bán hết SSI đây?
+adivce,hôm qua thị trường xấu ghê, có nên tiếp tục giữ cp SSI không?
+adivce,hôm qua thị trường con gấu, liệu hôm nay SSI sẽ tăng điểm chứ?
+adivce,hôm qua thị trường xụt mạnh, có hy vọng nào SSI tăng lên hôm nay không.
+adivce,hôm qua thị trường giảm mạnh, có nên tiếp tục hay bán ngay SSI không?
+adivce,hôm qua thị trường tụt mạnh, nên bán tháo SSI lúc này?
+advice,với thông tin cập nhật thị trường, đưa ra khuyến nghị mã SSI hôm nay.
+advice,thấy bảo thị trường sẽ lên, đưa ra khuyến nghị mua SSI hôm nay.
+advice,thấy bảo hôm nay thị trường lên điểm, cho lời khuyên về mã SSI với.
+advice,thấy bảo hôm nay SSI sẽ tăng, nên mua bao nhiêu mã SSI đây.
+advice,thấy mọi người đi mua SSI, nên mua SSI lúc này không.
+advice,thấy mọi người đổ xô mua SSI, nên mua SSI theo không nhỉ.
+advice,thị trường hôm nay lên xuống khó đoán, nên nắm giữ, mua hay bán SSI đây.
+advice,đồ thị kỹ thuật hôm nay xấu quá, nên mua hay bán SSI đây.
+advice,hôm nay thấy bảo thị trường xấu lắm, nên nắm giữ hay bán ra mã SSI đây.
+hôm nay tôi vừa mua thêm 100 SSI, xem cho tôi số dư các cổ phiếu trong tài khoản của tôi.
+vừa về 100 SSI, xem cho tôi có bao nhiêu SSI trong tài khoản.
+vừa mua thêm 100 SSI, xem tổng SSI tôi sở hữu.
+vừa mua thêm 100 SSI, xem tổng SSI tôi nắm giữ.
+tôi vừa đầu tư 1000 SSI, xem các cổ phiếu tôi nắm giữ trong tài khoản của tôi.
+tôi vừa đầu tư 1000 SSI, xem các cổ phiếu tôi sở hữu trong tài khoản của tôi.
+đang định bán SSI, cho tôi xem số SSI còn dư trong tài khoản.
+đang định đầu tư thêm SSI, cho tôi xem tôi đang sở hữu bao nhiêu SSI.
+đang định đầu tư thêm SSI, cho tôi xem tôi đang nắm giữ bao nhiêu SSI.
+đang định bán SSI, cho tôi xem số SSI tôi nắm giữ trong tài khoản.
+đang định bán SSI, cho tôi xem số SSI sở hữu trong tài khoản.
+thị trường biến động ghê quá, cho tôi xem tôi có bao nhiêu cổ phiếu trong tài khoản.
+muốn bán bớt cp, cho tôi xem số cp tôi sở hữu trong tài khoản.
+muốn bán bớt cp, cho tôi xem số cp tôi nắm giữ trong tài khoản.
+muốn bán bớt cp, cho tôi xem số cp tôi có trong tài khoản.
+muốn mua thêm cp, cho tôi xem số cp tôi sở hữu trong tài khoản.
+muốn đầu tư thêm cp, cho tôi xem số cp tôi nắm giữ trong tài khoản.
+muốn múc thêm cp, cho tôi xem số cp tôi có trong tài khoản.
+tình hình thị trường xấu quá, xem cho tôi tài khoản có bao nhiêu cổ phiếu.
+mọi người bảo nên cắt lỗ ngay, cho tôi xem tài khoản có tổng bao nhiêu cp.
+thấy bảo nên thoát hàng ngay, xem cho tôi có bao nhiêu SSI trong tài khoản.
+vừa mua 100 SSI và thoát 50 AAA, xem cho tôi tổng cp còn dư.
+thấy bảo nên đầu tư thêm cp SSI, trong tài khoản của tôi có bn SSI nhỉ.
+thấy thị trường đang lên, cho tôi xem tổng cp tôi có.
+thấy thị trường đang lên, cho tôi xem tôi sở hữu bao nhiêu cp.
+thấy thị trường đang tăng, cho tôi xem tổng chứng khoán tôi nắm giữ.
+vừa bán SSI, cho tôi xem số dư tiền trong tài khoản của tôi.
+vừa mới mua thêm SSI, xem trong tài khoản còn dư bao nhiêu tiền.
+sáng SSI vừa về, cho tôi xem tôi đang có bao nhiêu tiền trong tài khoản.
+vừa bán tháo SSI, cho tôi xem tôi sở hữu bao nhiêu tiền trong tài khoản.
+bán tháo SSI rồi, tôi còn bao nhiêu tiền nhỉ.
+bán tháo SSI, tôi vừa thu được bao nhiêu tiền nhỉ.
+vừa đầu tư một lô SSI, xem tôi còn bao nhiêu tiền.
+vừa đầu tư cp SSI, xem tài khoản của tôi còn bao nhiêu tiền.
+vừa mới múc thêm một đống SSI, xem dư tiền trong tài khoản của tôi.
+đang định mua thêm SSI, cho tôi xem trong tài khoản còn bao nhiêu tiền.
+đang định múc thêm SSI, xem trong tài khoản của tôi còn bao nhiêu tiền.
+định đầu tư thêm SSI, xem tài khoản dư nhiều tiền không.
+vừa thoát một lô SSI, tài khoản tôi có bao nhiêu tiền rồi.
+vừa cắt lỗ, xem số dư tài khoản của tôi.
+vừa mua thêm 1000 SSI, xem tổng số tiền còn lại của tôi.
+đã bán toàn bộ cổ phiếu, cho tôi xem tổng số tiền trong tài khoản.
+vừa thêm tiền vào tài khoản, cho tôi xem tổng tiền trong tài khoản.
+vừa rút một số tiền, xem cho tôi trong tài khoản còn bao nhiêu tiền.
+thấy mọi người sắp đầu tư SSI, cho tôi xem tài khoản của tôi còn tiền chứ.
+tôi vừa đặt lệnh mua SSI, cho tôi xem số dư tiền tài khoản.
+tôi mới mua thêm SSI đấy, cho tôi xem trong tài khoản dư bao nhiêu tiền.
+đầu tư thêm SSI, xem trong tài khoản còn lại bao nhiêu tiền.
+mới múc thêm SSI, xem số tiền còn dư trong tài khoản của tôi.
+vừa thực hiện bán cổ xong, cho tôi xem số dư tiền tài khoản.
+lệnh bán SSI vừa được thực hiện, tài khoản của tôi còn dư bao nhiêu tiền nhỉ.
+tiền bán SSI vừa về, cho tôi xem tổng tiền tôi có trong tài khoản.
+tiền bán SSI vừa về cho tôi xem tổng số tiền tôi sở hữu trong tài khoản.
+tiền bán SSI vừa tới nơi, cho tôi xem tổng tiền tôi nắm giữ trong tài khoản.
 Thị trường có một phiên giao dịch trong biên độ hẹp với sự phân hóa mạnh và thanh khoản duy trì tích cực nhưng những tín hiệu giao dịch ở cuối phiên cho thấy đà tăng đang chững lại và có dấu hiệu quay đầu.
 VNIndex đóng cửa vẫn tăng nhẹ 0.63 điểm trong khi hầu hết các chỉ số khác như VN30, HNXIndex giảm điểm cho thấy sự biến động trái chiều và thanh khoản toàn thị trường vẫn duy trì tốt khi đạt hơn 6.000 tỷ đồng trong đó có giao dịch đột biến HNG với qui mô 580 tỷ đồng, VIC 236 tỷ đồng. 
 Các cổ phiếu lớn như GAS, MSN,VCB, VRE đóng góp cho chiều tăng điểm của chỉ số nhưng sức kéo giảm đến từ VNM, BVH, TCB, VPB, SAB đã khiến cho các chỉ số không duy trì được đà tăng tốt và quay đầu sụt giảm nhẹ ở cuối phiên.
@@ -3257,7 +3761,7 @@ Một người đàn ông xô xát với cảnh sát bên ngoài bệnh viện t
 Thông tin từ Viện Gút TPHCM cho hay, gút là bệnh do axit uric dư thừa dẫn đến hình thành các tinh thể ở khớp. Các tinh thể này kích hoạt cơn đau dữ dội, cấp tính và cuối cùng phá hủy khớp. Nếu bệnh nhân không được điều trị chống lại việc gia tăng lắng đọng, các lắng đọng sẽ ngày càng nặng hơn, xuất hiện các biến chứng dẫn đến tàn phế, phá hủy khớp, hình thành các cục tophi xâm lấn cơ thể, đặc biệt là ở dưới da và thận, ảnh hưởng đến chất lượng sống, sinh mạng của người bệnh. Những trường hợp bệnh gút kết hợp với cao huyết áp, có thể dẫn đến tiểu đường, bệnh tim và suy thận, một phần là do các tinh thể lắng đọng trong thận. Bệnh gút thường được xem là bệnh cấp tính và không thể chữa được, điều trị chủ yếu bằng thuốc kháng viêm, nguy cơ gây hại cho dạ dày, thận và tim. Nhiều bệnh nhân điều trị bằng dẫn xuất của cortisol có tác dụng giảm viêm, nhưng không hạ axit uric và là nguồn gốc của các biến chứng béo phì, tiểu đường, cao huyết áp, loãng xương. Ở Việt Nam, bệnh nhân gút đôi khi sử dụng thuốc không rõ nguồn gốc. Các lời khuyên, rất quan trọng, về lối sống (tập thể dục, giảm cân, hạn chế thức uống có cồn, nhất là bia và rượu mạnh) và giáo dục điều trị ít khi được đưa ra. Nhìn chung, các khuyến nghị quốc tế về điều trị bệnh gút dường như ít được tuân thủ. Ngoài điều trị bệnh gút, cần phải nhắm đến điều trị các bệnh kèm theo.     Bệnh gút đang trở thành gánh nặng cho cộng đồng với nhiều biến chứng nguy hiểm Với mục tiêu tìm ra giải pháp phòng bệnh, điều trị hiệu quả, Đại học Paris 7 của Pháp đã chủ động phối hợp cùng các cơ sở y tế tại TPHCM lập Trung tâm Nghiên cứu bệnh Gút (ngày 20/6). Ông Emmanuel LY - BATALLAN, Tổng lãnh sự Pháp tại TPHCM cho hay, mục tiêu của các nghiên cứu hướng tới cải thiện việc điều trị bệnh gút bằng cách tối ưu hóa mô hình điều trị, đồng thời tìm hiểu rõ về vòng xoắn bệnh lý của gút với các bệnh có liên quan. Hệ thống cơ sở dữ liệu của quá trình nghiên cứu với sự hỗ trợ từ Trường Đại học Paris 7, khi triển khai hoàn thiện sẽ là cơ sở dữ liệu duy nhất trên thế giới, là nguồn dữ liệu quý cho tất cả các nhà nghiên cứu. Theo đó, Trường đại học Y Dược TPHCM sẽ thực hiện các nghiên cứu về dịch tễ học bệnh gút để hiểu rõ mức độ của bệnh gút đối với sức khỏe cộng đồng. Trường Đại học Y khoa Phạm Ngọc Thạch và nhiều đơn vị y tế khác sẽ nghiên cứu các biểu hiện của bệnh gút ở khớp, đặc biệt là ở thận và tim. Nghiên cứu về gen cũng sẽ được triển khai trên nhiều bệnh nhân có đặc điểm rõ ràng với sự tham gia của các nhà nghiên cứu tại Trường đại học Y Dược TPHCM. Trong tương lai, các nghiên cứu này sẽ làm sáng tỏ các mục tiêu đích trong điều trị. Ngoài ra, trung tâm sẽ mở rộng hợp tác với các đơn vị trong và ngoài nước, để sớm đạt được kết quả tối ưu trong phòng và điều trị bệnh gút.
 Mùa thi vào những ngày hè nóng bức nên các sĩ tử luôn luôn ở tâm trạng mệt mỏi, hay quên, buồn ngủ, ngủ chập chờn... Nhiều cha mẹ tìm mua thuốc bổ tăng cường sức khỏe, tăng cường trí nhớ cho con mà quên mất “thuốc luôn luôn là con dao 2 lưỡi”. Có rất nhiều món ăn tăng cường sức khỏe, tăng cường trí nhớ trong kho tàng y thực trị mà đơn giản, dễ kiếm phù hợp điều kiện của từng gia đình.  Hạt sen 30g, trứng gà 1 - 2 quả, đường 30 - 50g. Hạt sen nấu chín nhừ, khuấy với đường cho tan, đập trứng vào, khuấy vừa chín, cho ăn trước khi đi ngủ. Đậu nành 50g, long nhãn 20g, trứng gà 2 quả. Đậu nành, long nhãn cùng nấu chín nhừ, sau đập trứng gà vào, khuấy đều, thêm chút đường trắng cho ăn tuần 3 lần, trong 2 - 3 tuần.   Mộc nhĩ 60g, vừng đen 15g. Mộc nhĩ một nửa để sống, còn một nửa sao chín; vừng đen sao chín, cùng đem nấu lấy nước gạn qua lọc. Thịt bò 100g, gạo tẻ 80 - 100g. Thịt bò thái lát mỏng, nấu với gạo thành cháo. Khi cháo được, cho gừng tươi đập nhỏ, hành sống đã thái lát, mắm, muối, hạt tiêu đảo đều, ăn nóng.  Cà chua 250g, trứng gà 2 quả, nấu dạng canh hoặc xào nước.  Mực 1-2 con, thịt heo nạc 50g, tôm nõn 500g, củ mài 20g, hạt sen 20g. Mực ngâm mềm làm sạch thái lát; hạt sen bỏ tâm; thêm gia vị và lượng nước thích hợp nấu thành canh súp. Lươn 500g, đương qui 15g, hoàng kỳ 30g. Hoàng kỳ, đương qui đựng trong túi vải xô để sẵn. Lươn làm sạch, khía dọc theo thân. Tất cả cho trong xoong, thêm gia vị, rượu, gừng, hành, tỏi, muối trộn ướp đều; thêm nước lượng thích hợp. Đun to lửa cho sôi, vớt bỏ váng bọt, tiếp tục đun nhỏ lửa trong khoảng 1 giờ, vớt bỏ bã thuốc, thêm chút bột ngọt. Ăn với cơm.  Thịt dê 200 - 300g, thêm gia vị nấu hầm chín nhừ. Ếch 2 con, đảng sâm 10g, bạch truật 10g. Ếch làm sạch, bỏ ruột; thêm gia vị nấu súp.  Hải sâm 200g, đảng sâm 16g, kỷ tử 12g, hành 15g, gừng tươi 10g, tỏi 5g. Hải sâm nhúng với nước sôi, cắt khúc, rửa sạch; đảng sâm, kỷ tử sắc hãm lấy nước. Hải sâm xào tái to lửa với gừng, hành, ớt, tiêu, sau đó cho nước cốt đảng sâm, kỷ tử và các gia vị khác om cho đến khi nước xào đậm đặc, cho bột ngọt trộn đều.  Chim cút 100g, măng tre 30g, mộc nhĩ (nấm mèo) 12g, dưa chuột 12g. Chim cút làm sạch bỏ ruột; mộc nhĩ ngâm mềm, rửa sạch, thái lát; măng tre, dưa chuột thái lát. Đặt xoong trên bếp nóng cho dầu, thả thịt chim cút vào rán chín, cho thêm nước hàng, bột đậu, măng, nấm, dưa chuột đã thái lát vào; xào chín toàn bộ, cho chút bột ngọt là được. : Trứng vịt cho ấp đại trà gần nở, đem luộc chín, ăn với gừng tươi thái lát, rau răm, muối tiêu.  Nhân sâm 5g (hoặc đảng sâm 15g), đại táo 20 trái, sâm được thái lát mỏng, cùng với đại táo, cho thêm 1 chén nước đem sắc hoặc hãm khoảng 30 - 45 phút, uống và ăn cả sâm táo. Dùng cho các trường hợp huyết hư thiếu máu, suy nhược cơ thể. Theo
 Nhận định về đề thi, giáo viên tổ toán Hệ thống Học Mãi cho biết, đề thi tiếp tục theo hướng đánh giá năng lực người học, đòi hỏi thí sinh phải vững tư duy, chắc kĩ năng; đảm bảo phân tầng độ khó để đáp ứng mục tiêu “2 trong 1” của kì thi THPT quốc gia. Nội dung đề thi hoàn toàn nằm trong chương trình phổ thông lớp 12, kiến thức phủ đều nội dung chương trình và phân bổ đều giữa các chuyên đề; đề có sự sắp xếp từ dễ đến khó theo ma trận kiến thức, tạo tâm lí thoải mái và thuận lợi cho các em học sinh làm bài. Phạm vi đề thi THPT quốc gia môn Toán năm 2017 tương tự hình thức và cấu trúc đề thi minh họa, thử nghiệm và đề thi tham khảo mà Bộ đã công bố. Về độ khó và sự phân bổ kiến thức: Mỗi nội dung kiến thức đều được hỏi ở các mức độ từ dễ đến khó, có vận dụng kiến thức toán vào các bài toán thực tế, hình thức hỏi đa dạng. Sự phân bổ mức độ câu hỏi cũng tương đối rõ ràng với khoảng 60% câu hỏi trong đề ở mức độ dễ, 40% câu hỏi còn lại có độ khó tăng dần. Mỗi đề thi đều có 1-2 câu đặc sắc. Bên cạnh đó, vẫn có các câu hỏi “hay”, “lạ” có tính ứng dụng thực tiễn là các câu có tính phân loại, dùng để lấy điểm 9, 10 như câu 49 mã đề 101; 50 mã đề 124; câu 48 mã đề 104 và câu 45 mã đề 105 (rơi vào dạng đồ thị); câu 37 mã đề 124; câu 41 mã đề 101 và câu 34 mã đề 104 (rơi vào dạng bài toán chuyển động tính quãng đường), câu 39 mã đề 124 và câu 35 mã đề 101 (bài toán thực tế về tính lương hoặc tính lãi suất). Năm 2017 là năm đầu tiên áp dụng hình thức thi trắc nghiệm môn Toán, so với đề thi tự luận năm 2016 nói riêng và các năm trước nói chung có thể thấy, để đạt điểm 10, học sinh cần phải vận dụng nhiều vùng kiến thức thay vì chỉ cần tập trung vào câu Bất đẳng thức và giá trị lớn nhất, nhỏ nhất như thông lệ. Các câu hỏi lấy điểm 8, 9 cũng được dàn đều qua nhiều chuyên đề thay thì chỉ rơi vào 1, 2 chuyên đề cố định như mọi năm. Do đó, để có thể đạt điểm cao đòi hỏi học sinh phải học đều, hạn chế học tủ, học lệch, vững tư duy, chắc kĩ năng. Đây là ưu điểm rất rõ nét của hình thức thi trắc nghiệm.
-Dễ dàng nhận thấy ngày càng xuất hiện nhiều các trang web bán hàng qua mạng, người bán không cần tốn tiền mở cửa hiệu, cửa hàng mà đăng trực tiếp hình ảnh và giá bán các sản phẩm qua internet.  Khách hàng có nhu cầu chỉ cần vài cú “click chuột” sẽ nhanh chóng tìm thấy sản phẩm mình đang tìm kiếm. Tuy nhiên, một thực tế đang diễn ra đó là việc công khai bán hàng “nhái” các thương hiệu cao cấp, xâm hại nghiêm trọng đến sở hữu trí tuệ. Đồng thời gây ảnh hưởng đến người tiêu dùng Các mặt hàng “nhái” được rao bán nhiều nhất là thời trang như: quần áo, túi xách, kính mắt, đồng hồ và điện thoại…Dạo quanh một vòng các địa chỉ bán hàng trên mạng được treo quảng cáo “dày đặc” trên các trang web tin tức có thể dễ dàng tìm thấy những mặt hàng “nhái” thương hiệu cao cấp. Như trên trang web: sieuthimuachung.com, trang web này rao bán hàng loạt sản phẩm kính mắt thương hiệu “sang chảnh” như Cartier X-Men, Gucci, Rayban, Porsche...Điển hình như chiếc kính nhãn hiệu Rayban được nhiều người ưa chuộng được giới thiệu nổi bật với kiểu kính Aviator, mắt kính tráng gương bán với giá 780.000 đồng. Kính nhãn hiệu porsche chỉ có giá 770.000 đồng. Trên trang web khác như chungnhom.vn, một chiếc đồng hồ có nhãn hiệu sang trọng Rolex được bán với mức giá 799.000 đồng, rẻ hơn rất nhiều so với giá bán hàng chính hãng. Tại trang web này cũng bán vô số các mặt hàng túi xách, kinh mắt hàng hiệu với giá “rẻ như bèo”. Rẻ mạt hơn, trên trang bán hàng eva123.vn còn bán chiếc kính nhãn hiệu Rayban với giá 399.000 đồng và còn kèm theo lời cam kết hàng chính hãng ngay trên trang web. Bên cạnh đó, nhiều hãng điện thoại nổi tiếng thế giới với mức giá vài chục triệu cũng được rao bán với giá “giật mình” tại các trang web. Như dòng điện thoại “Đại gia” Vertu được rao bán chỉ với giá 1.210.000 đồng trên trang web 168group.vn. Trước đó, ngày 22/7, cơ quan cảnh sát điều tra đã chuyển hồ sơ tới Thanh tra Bộ Khoa học và Công nghệ (KH&CN) xử lý theo thẩm quyền liên quan đến việc giả mạo nhãn hiệu thời trang nổi tiếng Hermes. Theo Phòng Cảnh sát điều tra tội phạm về trật tự quản lý kinh tế và chức vụ (PC46, công an Hà Nội), qua điều tra xác minh, tại Cửa hàng Hoàn Boutique, địa chỉ: số 38, phố Hàng Bông, quận Hoàn Kiếm (Hà Nội) do bà Phạm Thị Hoàn là Chủ và ông Vương Tuấn Anh, Chủ Cửa hàng LEGEND, địa chỉ: số 4, Điện Biên Phủ, quận Hoàn Kiếm, (Hà Nội) đã có hành vi Buôn bán các sản phẩm thời trang gắn dấu hiệu “HERMÈS”, “HERMÈS&hình”, “H&hình” trùng với nhãn hiệu “HERMÈS”, “HERMÈS&hình”, “H&hình” đang được bảo hộ tại Việt Nam. Các nhãn hiệu này thuộc quyền sở hữu trí tuệ của Hermes International (Cộng hòa Pháp) theo Đăng ký quốc tế số 196756, số 199735, số 669026 và số 800232 cho nhiều sản phẩm/dịch vụ trong đó có sản phẩm, dịch vụ thuộc nhóm 14, 25, 26 (túi xách, giày dép, quần áo…). Đây là hành vi buôn bán hàng hóa giả mạo nhãn hiệu theo quy định tại Điều 129 và Điều 213 Luật Sở hữu trí tuệ và bị xử phạt vi phạm hành chính theo quy định tại khoản 4 Điều 12 Nghị định số 99/2013/NĐ-CP ngày 29/8/2013 của Chính phủ quy định xử phạt vi phạm hành chính về sở hữu công nghiệp.
+Dễ dàng nhận thấy ngày càng xuất hiện nhiều các trang web bán hàng qua mạng, người bán không cần tốn tiền mở cửa hiệu, cửa hàng mà đăng trực tiếp hình ảnh và giá bán các sản phẩm qua internet.  Khách hàng có nhu cầu chỉ cần vài cú “click chuột” sẽ nhanh chóng tìm thấy sản phẩm mình đang tìm kiếm. Tuy nhiên, một thực tế đang diễn ra đó là việc công khai bán hàng “nhái” các thương hiệu cao cấp, xâm hại nghiêm trọng đến sở hữu trí tuệ. Đồng thời gây ảnh hưởng đến người tiêu dùng Các mặt hàng “nhái” được rao bán nhiều nhất là thời trang như: quần áo, túi xách, kính mắt, đồng hồ và điện thoại…Dạo quanh một vòng các địa chỉ bán hàng trên mạng được treo quảng cáo “dày đặc” trên các trang web tin tức có thể dễ dàng tìm thấy những mặt hàng “nhái” thương hiệu cao cấp. Như trên trang web: sieuthimuachung.com, trang web này rao bán hàng loạt sản phẩm kính mắt thương hiệu “sang chảnh” như Cartier X-Men, Gucci, Rayban, Porsche...Điển hình như chiếc kính nhãn hiệu Rayban được nhiều người ưa chuộng được giới thiệu nổi bật với kiểu kính Aviator, mắt kính tráng gương bán với giá 780.000 đồng. Kính nhãn hiệu porsche chỉ có giá 770.000 đồng. Trên trang web khác như chungnhom.vn, một chiếc đồng hồ có nhãn hiệu sang trọng Rolex được bán với mức giá 799.000 đồng, rẻ hơn rất nhiều so với giá bán hàng chính hãng. Tại trang web này cũng bán vô số các mặt hàng túi xách, kinh mắt hàng hiệu với giá “rẻ như bèo”. Rẻ mạt hơn, trên trang bán hàng eva123.vn còn bán chiếc kính nhãn hiệu Rayban với giá 399.000 đồng và còn kèm theo lời cam kết hàng chính hãng ngay trên trang web. Bên cạnh đó, nhiều hãng điện thoại nổi tiếng thế giới với mức giá vài chục triệu cũng được rao bán với giá “giật mình” tại các trang web. Như dòng điện thoại “Đại gia” Vertu được rao bán chỉ với giá 1.210.000 đồng trên trang web 168group.vn. Trước đó, ngày 22/7, cơ quan cảnh sát điều tra đã chuyển hồ sơ tới Thanh tra Bộ Khoa học và Công nghệ (KH&CN) xử lý theo thẩm quyền liên quan đến việc giả mạo nhãn hiệu thời trang nổi tiếng Hermes. Theo Phòng Cảnh sát điều tra tội phạm về trật tự quản lý kinh tế và chức vụ (PC46, công an Hà Nội), qua điều tra xác minh, tại Cửa hàng Hoàn Boutique, địa chỉ: số 38, phố Hàng Bông, quận Hoàn Kiếm (Hà Nội) do bà Phạm Thị Hoàn là Chủ và ông Vương Tuấn Anh, Chủ Cửa hàng LEG địa chỉ: số 4, Điện Biên Phủ, quận Hoàn Kiếm, (Hà Nội) đã có hành vi Buôn bán các sản phẩm thời trang gắn dấu hiệu “HERMÈS”, “HERMÈS&hình”, “H&hình” trùng với nhãn hiệu “HERMÈS”, “HERMÈS&hình”, “H&hình” đang được bảo hộ tại Việt Nam. Các nhãn hiệu này thuộc quyền sở hữu trí tuệ của Hermes International (Cộng hòa Pháp) theo Đăng ký quốc tế số 196756, số 199735, số 669026 và số 800232 cho nhiều sản phẩm/dịch vụ trong đó có sản phẩm, dịch vụ thuộc nhóm 14, 25, 26 (túi xách, giày dép, quần áo…). Đây là hành vi buôn bán hàng hóa giả mạo nhãn hiệu theo quy định tại Điều 129 và Điều 213 Luật Sở hữu trí tuệ và bị xử phạt vi phạm hành chính theo quy định tại khoản 4 Điều 12 Nghị định số 99/2013/NĐ-CP ngày 29/8/2013 của Chính phủ quy định xử phạt vi phạm hành chính về sở hữu công nghiệp.
 Trong phiên khai mạc hôm qua (22/5), Chính phủ đã trình Quốc hội một loạt báo cáo quan trọng liên quan đến vấn đề phát triển kinh tế xã hội và ngân sách Nhà nước (NSNN). Trong đó, Chính phủ vẫn kiên định mục tiêu tăng trưởng 6,7% trong khi theo đánh giá của nhiều chuyên gia, để đạt được con số này là rất khó khăn, nhiều thách thức. Trao đổi với báo giới bên hành lang Quốc hội, ông Nguyễn Đức Kiên - Phó Chủ nhiệm Ủy ban Kinh tế của Quốc hội, đại biểu Quốc hội đoàn đại biểu tỉnh Sóc Trăng cho rằng, cần phải nhìn thẳng “trong năm 2016, nhiều vấn đề kinh tế xã hội không được giải quyết một cách rốt ráo nên đã dẫn đến hệ lụy sang năm 2017”. Vị đại biểu phân tích, liên kết các giải pháp ngắn hạn và dài hạn của Chính phủ đề ra trong báo cáo thấy rằng, nhóm các giải pháp để nâng cao hiệu quả, tốc độ tăng trưởng kinh tế vẫn chủ yếu dựa vào nguồn đầu tư công. Theo đó, ba giải pháp đầu tiên trong đầu tư là sớm triển khai dự án sân bay Long Thành, chống ngập, triển khai một phần đường cao tốc Bắc Nam. Ngoài ra, Chính phủ cũng tính đến việc 6 tháng cuối năm 2017, Nhà máy luyện cán thép Hưng Nghiệp - Formosa Hà Tĩnh đi vào hoạt động để có thể đóng góp 0,16% vào GDP. “Như vậy, các giải pháp ngắn hạn trong năm 2017 vẫn là sử dụng đòn bẩy của đầu tư công để tạo ra tốc độ tăng trưởng”, ông Kiên bình luận. Trong khi đó, những vấn đề nhằm nâng cao hiệu quả sản xuất của doanh nghiệp và nâng cao hiệu quả cạnh tranh của hàng Việt Nam thông qua các sản phẩm hoạt động của doanh nghiệp vẫn chưa phản ánh đúng mong muốn của nền kinh tế cũng như của xã hội. “Vấn đề đặt ra là chúng ta muốn nền kinh tế phát triển theo số lượng hay chất lượng?”, ông Kiên nhìn nhận. Nếu đứng ở chất lượng tăng trưởng, trong bối cảnh hiện nay để đạt được tốc độ tăng trưởng 6,7% là không thể, nhưng nếu ở góc độ số lượng thì vẫn có biện pháp để đạt được con số này... Liên quan đến vấn đề xử lý nợ xấu, tái cơ cấu các tổ chức tín dụng, Phó Chủ nhiệm Ủy ban Kinh tế Quốc hội cho rằng, con số 611.590 tỷ đồng nợ xấu đã được xử lý trong thời gian qua, trong đó 56% do các tổ chức tín dụng tự xử lý và 44% thông qua các hoạt động của Ngân hàng Nhà nước ở Công ty Quản lý tài sản của các Tổ chức tín dụng Việt Nam (VAMC) cho thấy nhận định về thực trạng nền kinh tế Việt Nam vào năm 2012 là chuẩn xác. “Sau 4 năm, chúng ta đã làm được nhiều việc nhưng đến nay vẫn phải ban hành một Nghị quyết chuyên đề về xử lý nợ xấu thì phải thấy bối cảnh 4 năm trước là rất khó khăn”, vị đại biểu nhận xét. Thành công lớn nhất của cơ quan quản lý là bên cạnh giữ cho các tổ chức tín dụng ổn định, không sụp đổ và vẫn bảo đảm chất lượng tăng trưởng của khối các tổ chức tín dụng. Đây chính là thành công lớn trong lĩnh vực ngân hàng – ông Nguyễn Đức Kiên đánh giá. Trong chiều qua, Thống đốc Ngân hàng Nhà nước Lê Minh Hưng thừa ủy quyền của Thủ tướng Chính phủ cũng đã trình bày Tờ trình dự thảo Nghị quyết về xử lý nợ xấu của các tổ chức tín dụng trước Quốc hội, đồng thời, trình dự án Luật sửa đổi, bổ sung một số điều của Luật các tổ chức tín dụng.
 "Hôn là một bản năng nhằm giải phóng các hóa chất đem lại cho chúng ta trải nghiệm về những cảm giác dễ chịu", Takeesha Roland-Jenkins, nhà tư vấn chuyên nghiệp của Between Us Clinic trò chuyện trên Bustle. Theo đó, khi hôn, cơ thể xảy ra 5 điều kỳ diệu sau đây:     Những lúc căng thẳng bạn thường muốn uống một ly nhưng có thể bạn sẽ nghĩ lại. Một nghiên cứu nêu trên NBC đã tìm thấy rằng, các sinh viên đại học khi tham gia quá trình hôn kéo dài 15 phút có khả năng giảm đáng kể nồng độ hormone stress cortisol. Không những thế, đối tượng nam giới tham gia nghiên cứu còn có mức oxytocin - hóa chất khiến con người cảm thấy dễ chịu - tăng trong khi nữ giới giảm. Nụ hôn có tác động tích cực đến mức lipid trong máu. Các nhà nghiên cứu đã tìm ra rằng, những nụ hôn lãng mạn có khả năng giảm cholesterol và tăng sự thỏa mãn nói chung cho các cặp đôi. Theo nghiên cứu của ĐH Oxford, những nụ hôn ướt át đang làm việc rất chăm chỉ để đánh giá xem người bạn đang hôn có phải là bạn đời tiềm ẩn hay không. Các chất hóa học có trong nước bọt giúp cơ thể bạn quyết định xem người bạn đang hôn có sinh ra được thế hệ sau khỏe mạnh. Cuộc chiến hóa học xảy ra trong cơ thể khi chúng ta hôn ai đó lần đầu khiến cơ thể bùng nổ adrenaline làm tăng nhịp tim, tăng mức năng lượng và lưu thông máu. Tất cả đều tốt. Cơ thể chúng ta không  chỉ sản sinh adrenaline và oxytocin. Một loạt các hóa chất khác cũng đến làm vai trò của nó khi chúng ta hôn. Justin Lehmiller, giáo sư tâm lý Harvard cho rằng khi chúng ta hôn, bộ não của chúng ta tràn ngập dopamine. Dopamine là hóa chất được sản sinh khi chúng ta làm những điều bản thân rất thích.
 

@@ -22,7 +22,7 @@ def read_trained_data(file_trained_data):
     return vectors, word2int, int2word
 def train_model(batch_size_classifier):
     # batch_size_classifier = item["batch_size_classifier"]
-    summary = open("../../results/text_classification/ANN_ver8.csv",'a+')
+    summary = open("../../results/text_classification/ANN_ver9.csv",'a+')
     summary.write("window_size,Embedding,Batch Size Word2vec,Batch Size Classifier,Accuracy\n")
     
     for window_size in window_sizes:
@@ -32,7 +32,7 @@ def train_model(batch_size_classifier):
                 
                 vectors, word2int, int2word = read_trained_data(file_to_save_word2vec_data)
 
-                file_to_save_classified_data = '../../results/text_classification/ANN_ver8/ws-' + str(window_size) + '-embed-' + str(embedding_dim) + 'batch_size_w2c-' + str(batch_size_word2vec) + 'batch_size_cl' + str(batch_size_classifier)
+                file_to_save_classified_data = '../../results/text_classification/ANN_ver9/ws-' + str(window_size) + '-embed-' + str(embedding_dim) + 'batch_size_w2c-' + str(batch_size_word2vec) + 'batch_size_cl' + str(batch_size_classifier)
                 
                 classifier = Classifier(vectors, word2int, int2word, input_size, num_classes, window_size, 
                         epoch_classifier ,embedding_dim,batch_size_classifier, optimizer_method,
@@ -40,6 +40,7 @@ def train_model(batch_size_classifier):
                 accuracy, int2intent = classifier.train(file_data_classifier)
                 summary.write(str(window_size)+","+str(embedding_dim)+","+str(batch_size_word2vec)+","+str(batch_size_classifier)+","+str(accuracy)+"\n")
                 # print (int2intent)
+
 def train_model_by_other_method(batch_size_classifier):
     # batch_size_classifier = item["batch_size_classifier"]
     summary = open("../../results/text_classification/ANN_ver7.csv",'a+')
@@ -68,7 +69,7 @@ input_size = 16
 num_classes = 8
 epoch_classifier = 500
 
-file_data_classifier = '../../data/text_classifier_ver5.txt'
+file_data_classifier = '../../data/text_classifier_ver7.txt'
 # file_to_save_classified_data = "test.pkl"
 optimizer_method = OPTIMIZER_BY_GRADIENT
 batch_size_classifiers = [8]

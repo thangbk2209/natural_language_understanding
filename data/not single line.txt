@@ -1,0 +1,190 @@
+trade,hôm nay thị trường chán nhỉ, bán cho tôi 1000 SSI giá 10
+trade,hôm nay thị trường chán ghê, bán 1000 SSI giá 10 đi
+trade,hôm nay thị trường chán thật, bán mã SSI với số lượng 100 giá 10.5
+trade,hôm nay thị trường tệ quá, bán hết SSI đi
+trade,hôm nay thị trường sao thế nhỉ, bán 100 mã SSI giá 10.5
+trade,hôm nay thị trường xuống nhiều, bán toàn bộ mã SSI cho tôi
+trade,hôm nay thị trường đang giảm, bán 1000 mã SSI giá 10,5
+trade,hôm nay thị trường xấu quá, bán 1000 cp SSI giá 10.4
+trade,hôm nay thị trường thất thường quá, bán mã SSI khối lượng 1000 giá 10.5
+trade,hôm nay thị trường xấu ghê, bán mã SSI với số lượng 1000 giá 11
+trade,hôm nay thị trường con gấu, bán cho tôi 100 SSI giá 10.5
+trade,hôm nay thị trường xụt rồi, bán cho tôi cổ phiếu SSI khối lượng 1000 giá 10.5
+trade,hôm nay thị trường giảm mạnh, bán hết cổ phiếu SSI cho tôi
+trade,hôm nay thị trường tụt mạnh, bán 100 cp SSI cho tôi
+trade,hôm qua thị trường chán nhỉ, bán cho tôi 1000 SSI giá 10
+trade,hôm qua thị trường chán ghê, bán 1000 SSI giá 10 đi
+trade,hôm qua thị trường chán thật, bán mã SSI với số lượng 100 giá 10.5
+trade,hôm qua thị trường tệ quá, bán hết SSI đi
+trade,hôm qua thị trường sao thế nhỉ, bán 100 mã SSI giá 10.5
+trade,hôm qua thị trường xuống nhiều, bán toàn bộ mã SSI cho tôi
+trade,hôm qua thị trường đang giảm, bán 1000 mã SSI giá 10,5
+trade,hôm qua thị trường xấu quá, bán 1000 cp SSI giá 10.4
+trade,hôm qua thị trường thất thường quá, bán mã SSI khối lượng 1000 giá 10.5
+trade,hôm qua thị trường xấu ghê, bán mã SSI với số lượng 1000 giá 11
+trade,hôm qua thị trường con gấu, bán cho tôi 100 SSI giá 10.5
+trade,hôm qua thị trường xụt rồi, bán cho tôi cổ phiếu SSI khối lượng 1000 giá 10.5
+trade,hôm qua thị trường giảm mạnh, bán hết cổ phiếu SSI cho tôi
+trade,hôm qua thị trường tụt mạnh, bán 100 cp SSI cho tôi
+trade,hôm nay thị trường tốt lên, mua 100 cp SSI giá 10
+trade,hôm nay thị trường đang tăng, mua cho tôi cp SSI số lượng 1000 giá 10
+trade,hôm nay thị trường bò tót, mua 1000 SSI giá 10.5
+trade,hôm nay thị trường đang lên, mua 1000 cp SSI giá 10.5
+trade,hôm nay thị trường tăng mạnh, đầu tư thêm 100 cp SSI giá 11
+trade,hôm nay thị trường đang tốt, mua thêm cho tôi 1000 cp SSI giá 12
+trade,hôm nay thị trường đang đà tăng, mua thêm cho tôi 100 cp SSI giá 19
+trade,hôm nay thị trường đang lên, mua vào cho tôi 1000 SSI giá 10.5
+trade,hôm nay thị trường đà lên, mua ngay 100 cp SSI giá 11
+trade,hôm nay thị trường lên nhanh, giao dịch mua 1000 cổ phiếu SSI giá 12
+trade,hôm nay thị trường đang lên thì phải, mua ngay 1000 SSI giá 10
+trade,hôm nay thị trường tăng vù vù, mua 1000 SSI giá 10.5
+trade,hôm nay thị trường con bò tót, đầu tư ngay 1000 cp SSI giá 10
+trade,hôm nay thị trường đang đà tăng, mua thêm cho tôi 1000 SSI giá 10.5
+trade,hôm nay mã SSI đang tăng, mua thêm 100 SSI giá 11
+trade,thấy bảo SSI sẽ tăng, đầu tư 1000 SSI giá 10
+trade,có tin mã SSI sẽ tăng, mua thêm cho tôi 1000 cp SSI giá 10.5
+trade,có tin bảo SSI hôm nay sẽ tăng, cho tôi đặt lệnh mua 1000 SSI giá 10.5
+trade,dự báo SSI sẽ tăng, đầu tư thêm 1000 SSI giá 10.5
+trade,có nguồn tin bảo SSI sẽ tăng, mua thêm cho tôi 100 SSI giá 11
+trade,hôm nay SSI sẽ tăng đấy, mua thêm 1000 SSI giá 10
+trade,hôm nay mã SSI đang giảm, bán ngay 100 SSI giá 11
+trade,thấy bảo SSI sẽ xuống, thoát hàng 1000 SSI giá 10
+trade,có tin mã SSI sẽ tụt, bán ngay cho tôi 1000 cp SSI giá 10.5
+trade,có tin bảo SSI hôm nay sẽ mất điểm, cho tôi đặt lệnh bán 1000 SSI giá 10.5
+trade,dự báo SSI sẽ giảm mạnh, bán ra ngay 1000 SSI giá 10.5
+trade,có nguồn tin bảo SSI sẽ giảm mạnh, đặt lệnh bán cho tôi 100 SSI giá 11
+trade,hôm nay SSI sẽ tụt đấy, bán ra 1000 SSI giá 10
+trade,hôm nay con SSI lên đấy, mua cho tôi 1000 SSI giá 10.5
+trade,thấy đồ thị dự báo hôm nay SSI lên, đầu tư thêm 1000 SSI giá 11
+trade,thị trường đang mua SSI, mua cho tôi 1000 SSI giá 10
+trade,thị trường đang đầu tư SSI, mua cho tôi 1000 SSI giá 10
+trade,mọi người đua nhau mua SSI, đầu tư cho tôi 100 SSI giá 11
+trade,thấy bảo đầu tư SSI có lãi, mua cho tôi 1000 SSI giá 10
+trade,có lời khi mua SSI không nhỉ, mua cho tôi 1000 SSI giá 10
+trade,đồ thị kỹ thuật hôm nay tốt quá, mua cho tôi thêm 1000 SSI giá 11 đi
+trade,mới đổ tiền vào tài khoản, đặt lệnh mua 100 SSI giá 11
+trade,mới thêm tiền vào tài khoản, đặt mua thêm 1000 SSI giá 12
+trade,có thêm thông tin tích cực về SSI, mua thêm 100 SSI
+trade,có tin vui về cp SSI, đầu tư thêm 1000 SSI giá 11
+trade,thị trường hôm nay chán quá, xả hết SSI hộ tôi với
+trade,thị trường hôm nay tụt dốc, thoát hết cp SSI hộ anh với
+trade,thị trường tiêu cực ghê, bán sạch SSI cho tôi
+trade,hôm qua SSI tăng kịch trần, đầu tư thêm SSI cho tôi
+trade,hôm qua SSI tăng chạm trần, mua cho tôi 100 SSI giá 10
+trade,hôm qua SSI lên kịch trần, đầu tư cho tôi 1000 SSI giá 11
+trade,hôm qua SSI lên tới trần, cho tôi đặt lệnh mua 100 SSI giá 10
+trade,hôm qua SSI lên kịch trần, đặt lệnh giao dịch mua 1000 SSI giá 10
+trade,hôm qua SSI tăng tới trần, múc cho tôi 100 SSI giá 10
+trade,hôm qua SSI lại tăng rồi, mua cho tôi thêm 1000 SSI giá 12
+trade,hôm qua SSI lại lên điểm, đầu tư thêm cho tôi 1000 mã SSI giá 11
+trade,hôm qua SSI lại có dấu hiệu tích cực, cho tôi đầu tư thêm 100 SSI giá 10
+trade,hôm qua SSI lại lên thì phải, múc cho tôi 100 SSI giá 10
+trade,hôm qua SSI lại tăng điểm thì phải, cho tôi mua 100 SSI giá 10
+trade,hôm qua SSI vừa tăng lên, đặt lệnh mua 100 SSI giá 10
+trade,hôm qua SSI tiếp tục tăng, giao dịch mua thêm 1000 SSI giá 10
+trade,hôm qua SSI tiếp tục lên điểm, cho tôi đặt lệnh mua thêm 100 SSI giá 10.5
+trade,hôm nay SSI giảm sập sàn, thoát hàng SSI cho tôi
+trade,hôm nay SSI giảm sàn, bán cho tôi 100 SSI giá 10
+trade,hôm nay SSI xuống chạm sàn, bán ngay cho tôi 1000 SSI giá 11
+trade,hôm nay SSI xuống tới sàn, cho tôi đặt lệnh bán 100 SSI giá 10
+trade,hôm nay SSI giảm chạm sàn, đặt lệnh giao dịch bán 1000 SSI giá 10
+trade,hôm nay SSI giảm mạnh, thoát cho tôi 100 SSI giá 10
+trade,hôm nay SSI lại giảm rồi, bán cho tôi ngay 1000 SSI giá 12
+trade,hôm nay SSI lại giảm điểm, bán ngay cho tôi 1000 mã SSI giá 11
+trade,hôm nay SSI lại có dấu hiệu tiêu cực, cho tôi bán 100 SSI giá 10
+trade,hôm nay SSI lại giảm thì phải, thoát hàng cho tôi 100 SSI giá 10
+trade,hôm nay SSI lại giảm điểm thì phải, cho tôi bán 100 SSI giá 10
+trade,hôm nay SSI vừa giảm tiếp, đặt lệnh bán 100 SSI giá 10
+trade,hôm nay SSI tiếp tục giảm, giao dịch bán thêm 1000 SSI giá 10
+trade,hôm nay SSI tiếp tục giảm điểm, cho tôi đặt lệnh bán thêm 100 SSI giá 10.5
+adivce,hôm nay thị trường chán nhỉ, có nên bán hết SSI không?
+adivce,hôm nay thị trường chán ghê, có nên thoát hàng SSI không?
+adivce,hôm nay thị trường chán thật, cho tôi lời khuyên về mã SSI
+adivce,hôm nay thị trường tệ quá, có nên bán sạch SSI không?
+adivce,hôm nay thị trường sao thế nhỉ, có đáng để tiếp tục nắm giữ SSI không?
+adivce,hôm nay thị trường xuống nhiều, nên bán ngay SSI không nhỉ?
+adivce,hôm nay thị trường đang giảm, có nên tiếp tục nắm giữ cp SSI không
+adivce,hôm nay thị trường xấu quá, nên bán gấp cổ phiếu SSI không nhỉ?
+adivce,hôm nay thị trường thất thường quá, vẫn nên tiếp tục nắm giữ SSI không nhỉ
+adivce,hôm nay thị trường xấu ghê, có nên thoát sạch SSI không
+adivce,hôm nay thị trường con gấu, bán SSI lúc này ngay chứ?
+adivce,hôm nay thị trường xụt rồi, có nên bán ngay cp SSI không nhỉ?
+adivce,hôm nay thị trường giảm mạnh, có nên bán hết sạch SSI không
+adivce,hôm nay thị trường tụt mạnh, có nên xả ngay SSI không nhỉ?
+adivce,hôm qua thị trường chán nhỉ, có nên bán ngay SSI lúc này không
+adivce,hôm qua thị trường chán ghê, nên đợi hay bán ra SSI hôm nay
+adivce,hôm qua thị trường chán thật, có nên tiếp tục nắm giữ SSI hôm nay không
+adivce,hôm qua thị trường tệ quá, nên bán hết SSI hôm nay không nhỉ
+adivce,hôm qua thị trường sao thế nhỉ, có nên bán tháo toàn bộ SSI hôm nay không?
+adivce,hôm qua thị trường xuống nhiều, có nên tiếp tục cầm SSI không
+adivce,hôm qua thị trường đã giảm mạnh, nên chờ hay cắt lỗ SSI đây?
+adivce,hôm qua thị trường xấu quá, có nên bán ngay SSI lúc này không
+adivce,hôm qua thị trường thất thường quá, tiếp tục nắm giữ hay bán hết SSI đây?
+adivce,hôm qua thị trường xấu ghê, có nên tiếp tục giữ cp SSI không?
+adivce,hôm qua thị trường con gấu, liệu hôm nay SSI sẽ tăng điểm chứ?
+adivce,hôm qua thị trường xụt mạnh, có hy vọng nào SSI tăng lên hôm nay không
+adivce,hôm qua thị trường giảm mạnh, có nên tiếp tục hay bán ngay SSI không?
+adivce,hôm qua thị trường tụt mạnh, nên bán tháo SSI lúc này?
+advice,với thông tin cập nhật thị trường, đưa ra khuyến nghị mã SSI hôm nay
+advice,thấy bảo thị trường sẽ lên, đưa ra khuyến nghị mua SSI hôm nay
+advice,thấy bảo hôm nay thị trường lên điểm, cho lời khuyên về mã SSI với
+advice,thấy bảo hôm nay SSI sẽ tăng, nên mua bao nhiêu mã SSI đây
+advice,thấy mọi người đi mua SSI, nên mua SSI lúc này không
+advice,thấy mọi người đổ xô mua SSI, nên mua SSI theo không nhỉ
+advice,thị trường hôm nay lên xuống khó đoán, nên nắm giữ, mua hay bán SSI đây
+advice,đồ thị kỹ thuật hôm nay xấu quá, nên mua hay bán SSI đây
+advice,hôm nay thấy bảo thị trường xấu lắm, nên nắm giữ hay bán ra mã SSI đây
+stock_balance,hôm nay tôi vừa mua thêm 100 SSI, xem cho tôi số dư các cổ phiếu trong tài khoản của tôi
+stock_balance,vừa về 100 SSI, xem cho tôi có bao nhiêu SSI trong tài khoản
+stock_balance,vừa mua thêm 100 SSI, xem tổng SSI tôi sở hữu
+stock_balance,vừa mua thêm 100 SSI, xem tổng SSI tôi nắm giữ
+stock_balance,tôi vừa đầu tư 1000 SSI, xem các cổ phiếu tôi nắm giữ trong tài khoản của tôi
+stock_balance,tôi vừa đầu tư 1000 SSI, xem các cổ phiếu tôi sở hữu trong tài khoản của tôi
+stock_balance,đang định bán SSI, cho tôi xem số SSI còn dư trong tài khoản
+stock_balance,đang định đầu tư thêm SSI, cho tôi xem tôi đang sở hữu bao nhiêu SSI
+stock_balance,đang định đầu tư thêm SSI, cho tôi xem tôi đang nắm giữ bao nhiêu SSI
+stock_balance,đang định bán SSI, cho tôi xem số SSI tôi nắm giữ trong tài khoản
+stock_balance,đang định bán SSI, cho tôi xem số SSI sở hữu trong tài khoản
+stock_balance,thị trường biến động ghê quá, cho tôi xem tôi có bao nhiêu cổ phiếu trong tài khoản
+stock_balance,muốn bán bớt cp, cho tôi xem số cp tôi sở hữu trong tài khoản
+stock_balance,muốn bán bớt cp, cho tôi xem số cp tôi nắm giữ trong tài khoản
+stock_balance,muốn bán bớt cp, cho tôi xem số cp tôi có trong tài khoản
+stock_balance,muốn mua thêm cp, cho tôi xem số cp tôi sở hữu trong tài khoản
+stock_balance,muốn đầu tư thêm cp, cho tôi xem số cp tôi nắm giữ trong tài khoản
+stock_balance,muốn múc thêm cp, cho tôi xem số cp tôi có trong tài khoản
+stock_balance,tình hình thị trường xấu quá, xem cho tôi tài khoản có bao nhiêu cổ phiếu
+stock_balance,mọi người bảo nên cắt lỗ ngay, cho tôi xem tài khoản có tổng bao nhiêu cp
+stock_balance,thấy bảo nên thoát hàng ngay, xem cho tôi có bao nhiêu SSI trong tài khoản
+stock_balance,vừa mua 100 SSI và thoát 50 AAA, xem cho tôi tổng cp còn dư
+stock_balance,thấy bảo nên đầu tư thêm cp SSI, trong tài khoản của tôi có bn SSI nhỉ
+stock_balance,thấy thị trường đang lên, cho tôi xem tổng cp tôi có
+stock_balance,thấy thị trường đang lên, cho tôi xem tôi sở hữu bao nhiêu cp
+stock_balance,thấy thị trường đang tăng, cho tôi xem tổng chứng khoán tôi nắm giữ
+cash_balance,vừa bán SSI, cho tôi xem số dư tiền trong tài khoản của tôi
+cash_balance,vừa mới mua thêm SSI, xem trong tài khoản còn dư bao nhiêu tiền
+cash_balance,sáng SSI vừa về, cho tôi xem tôi đang có bao nhiêu tiền trong tài khoản
+cash_balance,vừa bán tháo SSI, cho tôi xem tôi sở hữu bao nhiêu tiền trong tài khoản
+cash_balance,bán tháo SSI rồi, tôi còn bao nhiêu tiền nhỉ
+cash_balance,bán tháo SSI, tôi vừa thu được bao nhiêu tiền nhỉ
+cash_balance,vừa đầu tư một lô SSI, xem tôi còn bao nhiêu tiền
+cash_balance,vừa đầu tư cp SSI, xem tài khoản của tôi còn bao nhiêu tiền
+cash_balance,vừa mới múc thêm một đống SSI, xem dư tiền trong tài khoản của tôi
+cash_balance,đang định mua thêm SSI, cho tôi xem trong tài khoản còn bao nhiêu tiền
+cash_balance,đang định múc thêm SSI, xem trong tài khoản của tôi còn bao nhiêu tiền
+cash_balance,định đầu tư thêm SSI, xem tài khoản dư nhiều tiền không
+cash_balance,vừa thoát một lô SSI, tài khoản tôi có bao nhiêu tiền rồi
+cash_balance,vừa cắt lỗ, xem số dư tài khoản của tôi
+cash_balance,vừa mua thêm 1000 SSI, xem tổng số tiền còn lại của tôi
+cash_balance,đã bán toàn bộ cổ phiếu, cho tôi xem tổng số tiền trong tài khoản
+cash_balance,vừa thêm tiền vào tài khoản, cho tôi xem tổng tiền trong tài khoản
+cash_balance,vừa rút một số tiền, xem cho tôi trong tài khoản còn bao nhiêu tiền
+cash_balance,thấy mọi người sắp đầu tư SSI, cho tôi xem tài khoản của tôi còn tiền chứ
+cash_balance,tôi vừa đặt lệnh mua SSI, cho tôi xem số dư tiền tài khoản
+cash_balance,tôi mới mua thêm SSI đấy, cho tôi xem trong tài khoản dư bao nhiêu tiền
+cash_balance,đầu tư thêm SSI, xem trong tài khoản còn lại bao nhiêu tiền
+cash_balance,mới múc thêm SSI, xem số tiền còn dư trong tài khoản của tôi
+cash_balance,vừa thực hiện bán cổ xong, cho tôi xem số dư tiền tài khoản
+cash_balance,lệnh bán SSI vừa được thực hiện, tài khoản của tôi còn dư bao nhiêu tiền nhỉ
+cash_balance,tiền bán SSI vừa về, cho tôi xem tổng tiền tôi có trong tài khoản
+cash_balance,tiền bán SSI vừa về cho tôi xem tổng số tiền tôi sở hữu trong tài khoản
+cash_balance,tiền bán SSI vừa tới nơi, cho tôi xem tổng tiền tôi nắm giữ trong tài khoản
