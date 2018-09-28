@@ -3,7 +3,7 @@ leng = 0
 train_file = open('./train/train.txt','w')
 test_file = open('./train/test.txt','w')
 
-with open ("./text_classifier_ver5.txt", encoding="utf8") as input:
+with open ("./text_classifier_ver7.txt", encoding="utf8") as input:
     for line in input:
         leng = leng + 1
 print (leng)

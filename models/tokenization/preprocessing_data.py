@@ -1,15 +1,37 @@
 import numpy as np
 import pickle as pk
 import pandas as pd
+import re
 """gather the samples have the same input"""
 class Preprocess:
     def __init__(self,input_size = None, data = ""):
         self.input_size = input_size
         self.data = data
     def to_one_hot(self,data_point_index,vocab_size):
+        # this function create vector onehot for word
         temp = np.zeros(vocab_size, dtype = np.int8)
         temp[data_point_index] = 1
         return temp
+    def hasNumbers(self,inputString):
+        # this function check inputString contain number or not. 
+        # If contain number, return true
+        # else return fasle
+        return any(char.isdigit() for char in inputString)
+    def check_Number(self,inputString):
+        # this function check inputString is number or not
+        if(inputString.isdigit or re.match("^\d+?\.\d+?$", inputString) is not None):
+            return True
+        
+    # def execute_exception(self,array):
+    #     # this function execute strings that have number
+    #     number_replace = '1000'
+    #     outputs = []
+    #     for word in array:
+    #         if (self.hasNumbers(word)):
+    #             outputs.append(number_replace)
+    #         else:
+    #             outputs.append(word)
+    #     return outputs
     def preprocessing_data(self):
         x_train_raw = []
         y_train_raw = []
@@ -33,8 +55,7 @@ class Preprocess:
                     # print(datai)
                     
                     y_traini.append(datai[1])
-                    
-                    if datai[0].isdigit():
+                    if self.hasNumbers(datai[0]):
                         x_traini.append(number_replace)
                         number_digit +=1
                         if(number_digit == 1):
@@ -50,7 +71,8 @@ class Preprocess:
         word2int = {}   # Word and coresponding number
         int2word = {}   # integer number and coresponding word
         number_words = len(all_single_word) # gives the total number of unique words
-        # print (number_words)
+        print (number_words)
+        lol76
         for i,word in enumerate(all_single_word):
             word2int[word] = np.int16(i)
             int2word[np.int16(i)] = word

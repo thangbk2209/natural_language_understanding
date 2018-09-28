@@ -121,7 +121,7 @@ class PreprocessingDataClassifier:
         sentences = {}
         with open(self.file_data_classifier, encoding="utf8") as input:
             for line in input :
-                # print (line)
+                print (line)
                 temp = line.split(",",1)
                 temp[1] = temp[1].lower()
                 texts.append(temp[1])  #list of train_word
