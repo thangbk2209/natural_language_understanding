@@ -935,7 +935,7 @@ dự	B_W
 báo	I_W
 được	B_W
 dòng	B_W
-tiền	I_W
+tiền	B_W
 ,	O
 doanh	B_W
 thu	I_W
@@ -2378,7 +2378,7 @@ trong	B_W
 phiên	B_W
 nhưng	B_W
 dòng	B_W
-tiền	I_W
+tiền	B_W
 tiếp	B_W
 tục	I_W
 thận	B_W
@@ -2608,7 +2608,7 @@ HOSE	B_W
 một	B_W
 phần	B_W
 dòng	B_W
-tiền	I_W
+tiền	B_W
 đã	B_W
 dịch	B_W
 chuyển	I_W
@@ -3629,7 +3629,7 @@ dấu	B_W
 hiệu	I_W
 của	B_W
 dòng	B_W
-tiền	I_W
+tiền	B_W
 thiếu	B_W
 lành	B_W
 mạnh	I_W
@@ -4542,7 +4542,7 @@ sự	B_W
 đặn	I_W
 của	B_W
 dòng	B_W
-tiền	I_W
+tiền	B_W
 chi	B_W
 trả	B_W
 cổ	B_W
@@ -4904,7 +4904,7 @@ cạnh	I_W
 đó	B_W
 ,	O
 dòng	B_W
-tiền	I_W
+tiền	B_W
 khối	B_W
 ngoại	B_W
 cũng	B_W
@@ -6014,7 +6014,7 @@ dược	B_W
 là	B_W
 việc	B_W
 dòng	B_W
-tiền	I_W
+tiền	B_W
 đổ	B_W
 mạnh	B_W
 vào	B_W
@@ -6062,7 +6062,7 @@ room	B_W
 thu	B_W
 hút	I_W
 dòng	B_W
-tiền	I_W
+tiền	B_W
 tốt	B_W
 và	B_W
 tăng	B_W
@@ -7422,7 +7422,7 @@ hoán	B_W
 đổi	I_W
 các	B_W
 dòng	B_W
-tiền	I_W
+tiền	B_W
 phát	B_W
 sinh	I_W
 từ	B_W
@@ -7447,7 +7447,7 @@ thời	B_W
 hoán	B_W
 đổi	I_W
 dòng	B_W
-tiền	I_W
+tiền	B_W
 và	B_W
 phương	B_W
 pháp	I_W

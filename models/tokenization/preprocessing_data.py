@@ -72,13 +72,13 @@ class Preprocess:
         int2word = {}   # integer number and coresponding word
         number_words = len(all_single_word) # gives the total number of unique words
         print (number_words)
-        lol76
+        # lol76
         for i,word in enumerate(all_single_word):
             word2int[word] = np.int16(i)
             int2word[np.int16(i)] = word
         print (int2word[0])
         print (int2word[10])
-        with open('../../results/tokenization/word2int_ver3.pkl','wb') as output:
+        with open('../../results/tokenization/word2int_ver5.pkl','wb') as output:
             pk.dump(word2int,output,pk.HIGHEST_PROTOCOL)
             pk.dump(int2word,output,pk.HIGHEST_PROTOCOL)
         labels = ['B_W','I_W','O']

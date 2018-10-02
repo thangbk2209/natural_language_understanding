@@ -93,10 +93,10 @@ class BiLSTMTokenizer():
                 # print (loss)
                 avg_loss += loss
             loss_set.append(avg_loss)
-            if ( _ > self.patience):
-                if (self.early_stopping(loss_set, self.patience) == False):
-                    print ("early stopping tokenizer training")
-                    break
+            # if ( _ > self.patience):
+            #     if (self.early_stopping(loss_set, self.patience) == False):
+            #         print ("early stopping tokenizer training")
+            #         break
             print ("Epoch training tokenizer finished")
             
             print('loss is : ',avg_loss)
