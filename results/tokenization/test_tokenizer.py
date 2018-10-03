@@ -75,7 +75,6 @@ def tokenize_corpus():
     file_word = open('word.txt','w', encoding="utf8")
                 
     for sentence in sentences:
-        
         sentence = sentence[:-1]
         # print(sentence)
         # print(sentence[-1])
@@ -86,41 +85,48 @@ def tokenize_corpus():
         file_word.write('\n')
         if(len(all_single_word)<=64):
             real_word.append(all_single_word)
-        number_words = len(word2int)
-        input_size = 64
+    print (len(real_word))
+    real_word = np.asarray(real_word)
+    number_words = len(word2int)
+    input_size = 64
+    
+    number_replace = '1000'
+    for i in range(len(real_word)):
+        all_single_word = []
         x_one_hot_vectori = []
-        number_replace = '1000'
-        for i in range(len(all_single_word)):
+        for j in range(len(real_word[i])):
             # if(all_single_word[i].isdigit()):
             #     all_single_word[i] = number_replace
             # elif re.match("^\d+?\.\d+?$", all_single_word[i]) is not None:
             #     all_single_word[i] = number_replace
-            if(hasNumbers(all_single_word[i])):
-                all_single_word[i] = number_replace
-        if(len(all_single_word) <= 64):
-            for i in range(len(all_single_word)):
-                # print (all_single_word[i], word2int[all_single_word[i]])
-                if all_single_word[i] in word2int:
-                    x_one_hot_vectori.append(to_one_hot(word2int[all_single_word[i]], number_words)) 
-                # elif len(all_single_word[i])<= 7 and hasNumbers(all_single_word[i]) == False:
-                else:
-                    # print (all_single_word[i])
-                    not_have.append(all_single_word[i])
-                    x_one_hot_vectori.append(to_one_hot(word2int[number_replace], number_words))
-                # not_have = set(not_have)
-                # print (not_have)
-                # print (len(not_have)) 
-            for i in range(len(all_single_word), input_size, 1):
-                temp = np.zeros(number_words,dtype = np.int8)
-                x_one_hot_vectori.append(temp)
-            x_one_hot_vectori = np.asarray(x_one_hot_vectori)
-            print (x_one_hot_vectori.shape)
-            x_one_hot_vector.append(x_one_hot_vectori)
-    # x_data = [x_one_hot_vector]
+            if(hasNumbers(real_word[i][j])):
+                all_single_word.append(number_replace) 
+            else:
+                all_single_word.append(real_word[i][j])
+        for i in range(len(all_single_word)):
+            # print (all_single_word[i], word2int[all_single_word[i]])
+            if all_single_word[i] in word2int:
+                x_one_hot_vectori.append(to_one_hot(word2int[all_single_word[i]], number_words)) 
+            # elif len(all_single_word[i])<= 7 and hasNumbers(all_single_word[i]) == False:
+            else:
+                # print (all_single_word[i])
+                not_have.append(all_single_word[i])
+                x_one_hot_vectori.append(to_one_hot(word2int[number_replace], number_words))
+    #             # not_have = set(not_have)
+    #             # print (not_have)
+    #             # print (len(not_have)) 
+        for i in range(len(all_single_word), input_size, 1):
+            temp = np.zeros(number_words,dtype = np.int8)
+            x_one_hot_vectori.append(temp)
+    #         x_one_hot_vectori = np.asarray(x_one_hot_vectori)
+    #         print (x_one_hot_vectori.shape)
+        x_one_hot_vector.append(x_one_hot_vectori)
+    # # x_data = [x_one_hot_vector]
     x_data = np.asarray(x_one_hot_vector)
-    real_word = np.asarray(real_word)
     print (x_data.shape)
-    # lol
+    # real_word = np.asarray(real_word)
+    # print (x_data.shape)
+    # # lol
 
     num_units = [32,8]
     embedding_dim = 50
@@ -148,40 +154,46 @@ def tokenize_corpus():
             # for j in range(total_batch):
                 # batch_x_train, batch_y_train = x_train[j*batch_size_classifier:(j+1)*batch_size_classifier], y_train[j*batch_size_classifier:(j+1)*batch_size_classifier]
         pred = (sess.run(prediction,{x:x_data}))
-        print (pred[3])
+        print (pred.shape)
         index = tf.argmax(pred, axis=1, name=None)
         index = sess.run(index)
-        # print (index)
+
+        print (index[0:20])
         file = open('token.txt','w', encoding="utf8")
-        k = 0
-        for i in range(len(real_word)):
-            for j in range(len(real_word[i])):
-                file.write(real_word[i][j] + '\t' + str(index[k]) +'\n')
-                k +=1
-        print (index.shape)
+        # k = 0
+        # for i in range(len(real_word)):
+        #     file.write('\n')
+        #     for j in range(len(real_word[i])):
+        #         file.write(real_word[i][j] + '\t' + str(index[i*64+j]) +'\n')
+                # k +=1
+        # print (k)
+    #     print (index.shape)
         labels = []
-        k = 0
+    #     k = 0
         for i in range(real_word.shape[0]):
             labelsi = []
             for j in range(len(real_word[i])):
-                if (index[k] == 0):
+                if (index[i*64+j] == 0):
                     labelsi.append([real_word[i][j],'B_W'])
-                elif (index[k] == 1):
+                elif (index[i*64+j] == 1):
                     labelsi.append([real_word[i][j],'I_W'])
                 else :
                     labelsi.append([real_word[i][j],'O'])
-                k+=1
             labels.append(labelsi)
-        # print (labels[:5])
-        # print (labels[:-5])
-        print (labels)
+    #     # print (labels[:5])
+    #     # print (labels[:-5])
+    #     print (labels)
         labels = np.asarray(labels)
         print (labels.shape)
         for label in labels:
+            
             print (label)
             tokens = compound_word(label)
-        # print (tokens)
+    #     # print (tokens)
             all_tokens.append(tokens)
+            for token in tokens:
+                file.write(token + '\n')
+            file.write('\n')
     return all_tokens
 def preprocessing_testdata():
     with open ('../../data/tokenize/10k - 5.txt',encoding = 'utf-8') as acro_file:
@@ -431,12 +443,13 @@ def token_sentence(sentence):
         all_tokens.append(tokens)
     return all_tokens
 if __name__ == '__main__':
+    # tokenize_corpus()
     all_tokens = tokenize_corpus()
     print (all_tokens)
     with open('tokens_corpus.pkl','wb') as output:
             pk.dump(all_tokens,output,pk.HIGHEST_PROTOCOL)
-    # evaluate()
-    sentence = "xem tình trạng tiền trong tài khoản của tôi"
-    all_tokens  = token_sentence(sentence)
-    print (all_tokens)
+    # # evaluate()
+    # sentence = "xem tình trạng tiền trong tài khoản của tôi"
+    # all_tokens  = token_sentence(sentence)
+    # print (all_tokens)
     # evaluate()
