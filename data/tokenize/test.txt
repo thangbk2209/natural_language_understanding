@@ -394,8 +394,8 @@ ngày	B_W
 ,	O
 Công	B_W
 ty	I_W
-Công	O
-nghiệp	B_W
+Công	B_W
+nghiệp	I_W
 tàu	B_W
 thủy	I_W
 Sài	B_W
@@ -419,7 +419,7 @@ chất	B_W
 lượng	I_W
 theo	B_W
 yêu	B_W
-cầu	O
+cầu	I_W
 .	O
 
 Tại	B_W
@@ -3588,9 +3588,9 @@ VN	B_W
 Fumiatsu	B_W
 Hirai	I_W
 :	O
-Công	O
-ty	B_W
-Sony	O
+Công	B_W
+ty	I_W
+Sony	B_W
 không	B_W
 có	B_W
 ý	B_W
@@ -4623,7 +4623,7 @@ phẩm	I_W
 dành	B_W
 cho	B_W
 sức	B_W
-khỏe	O
+khỏe	I_W
 ,	O
 sắc	B_W
 đẹp	I_W
@@ -5165,7 +5165,7 @@ Lương	B_W
 thực	I_W
 VN	B_W
 (	O
-Vietfood	O
+Vietfood	B_W
 )	O
 cho	B_W
 rằng	I_W
@@ -5359,7 +5359,7 @@ Thương	B_W
 mại	I_W
 )	O
 năm	B_W
-2005	O
+2005	B_W
 ,	O
 cục	B_W
 này	B_W
@@ -12332,7 +12332,7 @@ NTD	B_W
 lưu	B_W
 ý	I_W
 nhiều	B_W
-hơn	O
+hơn	B_W
 .	O
 
 Thứ	B_W
@@ -16288,7 +16288,7 @@ ngày	B_W
 hai	B_W
 người	B_W
 quen	I_W
-nhau	O
+nhau	B_W
 .	O
 .	O
 .	O
@@ -17507,13 +17507,13 @@ loại	B_W
 đặc	B_W
 biệt	I_W
 bao	B_W
-5	O
+5	B_W
 ký	B_W
 giá	B_W
-15.000	O
-đồng	O
+15.000	B_W
+đồng	B_W
 /	O
-kg	O
+kg	B_W
 (	O
 không	B_W
 có	B_W
@@ -18692,7 +18692,8 @@ những	B_W
 tài	B_W
 sản	I_W
 ảo	B_W
-khác.	O
+khác	B_W
+.	O
 
 Tôi	B_W
 kiếm	B_W
@@ -18760,8 +18761,9 @@ hay	B_W
 nhà	I_W
 riêng	B_W
 ở	B_W
-Trung	O
-Quốc.	O
+Trung	B_W
+Quốc	I_W
+.	O
 
 sự	B_W
 bùng	I_W
@@ -19810,8 +19812,7 @@ Quốc	I_W
 100%	B_W
 .	O
 
-Tron	B_W
-g	O
+Trong	B_W
 năm	B_W
 2005	B_W
 ,	O
@@ -21188,7 +21189,7 @@ bản	B_W
 dùng	B_W
 thử	B_W
 của	B_W
-game	O
+loại	B_W
 có	B_W
 dung	B_W
 lượng	I_W
@@ -21724,7 +21725,7 @@ doping	B_W
 lại	B_W
 được	B_W
 đặt	B_W
-ra	O
+ra	I_W
 .	O
 
 Vụ	B_W
@@ -23012,8 +23013,8 @@ chú	B_W
 sư	B_W
 tử	I_W
 "	O
-Anh	O
-quốc	B_W
+Anh	B_W
+quốc	I_W
 -	O
 hiện	B_W
 đang	B_W
@@ -23215,7 +23216,7 @@ giải	B_W
 hạng	B_W
 nhất	I_W
 quốc	B_W
-gia	O
+gia	I_W
 .	O
 
 Với	B_W
@@ -24333,8 +24334,8 @@ Sơn	I_W
 tạm	B_W
 gác	I_W
 lại	I_W
-khóa	O
-học	B_W
+khóa	B_W
+học	I_W
 HLV	B_W
 để	B_W
 làm	B_W
@@ -24650,7 +24651,7 @@ Games	I_W
 24	B_W
 nhưng	B_W
 VFF	B_W
-than	O
+than	B_W
 .	O
 .	O
 .	O
@@ -24800,7 +24801,7 @@ NLĐ	B_W
 )	O
 -	O
 CLB	B_W
-TPHCM	O
+TPHCM	B_W
 trở	B_W
 lại	I_W
 vị	B_W
@@ -25675,8 +25676,8 @@ nghi	B_W
 án	I_W
 của	B_W
 đội	B_W
-Công	O
-an	B_W
+Công	B_W
+an	I_W
 TPHCM	B_W
 trước	B_W
 đây	I_W
@@ -25721,7 +25722,7 @@ tuyển	I_W
 quốc	B_W
 gia	I_W
 (	O
-ĐTQG	O
+ĐTQG	B_W
 )	O
 HLV	B_W
 Trần	B_W
@@ -27904,7 +27905,7 @@ thoát	B_W
 khí	I_W
 đơn	B_W
 với	B_W
-2	O
+2	B_W
 ống	B_W
 pô	I_W
 bên	B_W
@@ -33188,7 +33189,7 @@ sức	B_W
 quyến	B_W
 rũ	I_W
 phù	B_W
-thủy	O
+thủy	I_W
 của	B_W
 Cayman	B_W
 S	I_W
@@ -34512,7 +34513,7 @@ là	I_W
 hỏi	B_W
 thăm	I_W
 sức	B_W
-khỏe	O
+khỏe	I_W
 ,	O
 chuyện	B_W
 trò	I_W
@@ -34847,7 +34848,7 @@ bộ	I_W
 sắt	I_W
 đã	B_W
 bị	B_W
-1	O
+1	B_W
 đối	B_W
 tượng	I_W
 vi	B_W
@@ -35585,7 +35586,7 @@ Trong	B_W
 mượn	B_W
 xe	B_W
 của	B_W
-3	O
+3	B_W
 đơn	B_W
 vị	I_W
 công	B_W
@@ -35645,7 +35646,7 @@ chiếc	B_W
 xe	I_W
 Toyota	B_W
 Camry	I_W
-4	O
+4	B_W
 chỗ	B_W
 mới	B_W
 toanh	I_W
@@ -35873,7 +35874,7 @@ ngoài	B_W
 sổ	B_W
 sách	I_W
 gần	B_W
-1	O
+1	B_W
 tỷ	B_W
 đồng	B_W
 từ	B_W
@@ -37584,8 +37585,8 @@ cá	B_W
 cược	I_W
 bóng	B_W
 đá	I_W
-Việt	O
-Nam	O
+Việt	B_W
+Nam	I_W
 ,	O
 cái	B_W
 tên	I_W
@@ -37906,7 +37907,7 @@ lãnh	B_W
 đạo	I_W
 SITC	B_W
 biến	B_W
-mất	O
+mất	I_W
 
 Chính	B_W
 vì	B_W
@@ -38570,10 +38571,10 @@ Nghệ	B_W
 An	I_W
 
 (	O
-NLĐ	O
+NLĐ	B_W
 )	O
 -	O
-Trong	O
+Trong	B_W
 những	B_W
 ngày	B_W
 tới	B_W
@@ -39265,7 +39266,8 @@ trường	I_W
 ĐH	B_W
 ,	O
 CĐ	B_W
-nào?	O
+nào	B_W
+?	O
 Ra	B_W
 trường	B_W
 sẽ	B_W
@@ -39865,15 +39867,15 @@ mắt	I_W
 sách	B_W
 mới	B_W
 
-Trường	O
-ĐH	O
-Nông	O
-lâm	B_W
-TP.HCM	O
+Trường	B_W
+ĐH	B_W
+Nông	B_W
+lâm	I_W
+TP.HCM	B_W
 vừa	B_W
 được	B_W
-Bộ	O
-GD-ĐT	O
+Bộ	B_W
+GD-ĐT	B_W
 cho	B_W
 phép	I_W
 tuyển	B_W
@@ -39881,7 +39883,8 @@ hai	B_W
 ngành	B_W
 công	B_W
 nghệ	I_W
-ôtô	O
+ô	B_W
+tô	I_W
 và	B_W
 cơ	B_W
 điện	B_W
@@ -39890,7 +39893,7 @@ trong	B_W
 mùa	B_W
 tuyển	B_W
 sinh	I_W
-2006	O
+2006	B_W
 ,	O
 nâng	B_W
 tổng	B_W
@@ -39902,7 +39905,8 @@ ngành	I_W
 của	B_W
 trường	B_W
 lên	B_W
-38.	O
+38	B_W
+.	O
 
 Bộ	B_W
 GD-ĐT	B_W
@@ -40141,7 +40145,7 @@ tháng	B_W
 (	O
 học	B_W
 suốt	B_W
-tuần	O
+tuần	B_W
 )	O
 với	B_W
 học	B_W
@@ -40302,7 +40306,7 @@ sinh	I_W
 CĐ	B_W
 ?	O
 
-Điều	O
+Điều	B_W
 quan	B_W
 trọng	I_W
 nhất	B_W
@@ -41396,7 +41400,8 @@ vì	B_W
 .	O
 không	B_W
 thích	B_W
-học.	O
+học	B_W
+.	O
 
 Nhìn	B_W
 bề	B_W
@@ -43150,8 +43155,10 @@ càng	I_W
 đau	B_W
 đầu	I_W
 trong	B_W
-ăm	O
-nay}.	O
+năm	B_W
+nay	B_W
+}	O
+.	O
 
 Cũng	B_W
 có	B_W
@@ -43232,7 +43239,7 @@ bao	I_W
 ngày	B_W
 300đ	B_W
 /	O
-ngày	O
+ngày	B_W
 và	B_W
 cước	B_W
 thay	B_W
@@ -44035,7 +44042,7 @@ bản	I_W
 A5520SA	B_W
 nặng	B_W
 105	B_W
-g	O
+g	I_W
 với	B_W
 kích	B_W
 thước	I_W
@@ -44983,7 +44990,7 @@ người	B_W
 trong	B_W
 diện	B_W
 giải	B_W
-tỏa	O
+tỏa	I_W
 không	B_W
 bị	B_W
 thiệt	B_W
@@ -45604,7 +45611,7 @@ về	B_W
 Việt	B_W
 Nam	I_W
 làm	B_W
-ăn	O
+ăn	I_W
 .	O
 "	O
 
@@ -45826,8 +45833,8 @@ giải	B_W
 thích	I_W
 rằng	B_W
 "	O
-chúng	O
-tôi	B_W
+chúng	B_W
+tôi	I_W
 làm	B_W
 ăn	I_W
 ở	B_W
@@ -46203,7 +46210,7 @@ và	B_W
 đóng	B_W
 cửa	I_W
 khép	B_W
-kín	O
+kín	I_W
 .	O
 
 Như	B_W
@@ -49085,7 +49092,7 @@ phí	I_W
 Loạt	B_W
 bài	I_W
 "	O
-Tăng	O
+Tăng	B_W
 học	B_W
 phí	I_W
 :	O
@@ -49268,7 +49275,7 @@ Nẵng	I_W
 .	O
 
 Valentine	B_W
-buồn	O
+buồn	B_W
 .	O
 .	O
 .	O
@@ -49701,8 +49708,8 @@ nghiệp	I_W
 ,	O
 sinh	B_W
 viên	I_W
-Công	O
-nghệ	B_W
+Công	B_W
+nghệ	I_W
 kỹ	B_W
 thuật	I_W
 xây	B_W
@@ -52557,8 +52564,8 @@ bị	B_W
 ngăn	B_W
 cản	I_W
 ở	B_W
-Ấn	O
-Độ	O
+Ấn	B_W
+Độ	I_W
 (	O
 11/02/2006	B_W
 )	O
@@ -52716,8 +52723,8 @@ hoạch	I_W
 bởi	B_W
 Công	B_W
 ty	I_W
-Kiến	O
-trúc	B_W
+Kiến	B_W
+trúc	I_W
 Việt	B_W
 Nam	I_W
 và	B_W
@@ -55235,7 +55242,7 @@ có	B_W
 thêm	B_W
 nhiều	B_W
 hàng	B_W
-hóa	O
+hóa	I_W
 để	B_W
 lựa	B_W
 chọn	I_W
@@ -58322,7 +58329,8 @@ sở	I_W
 lọc	B_W
 dầu	B_W
 của	B_W
-Mỹ}	O
+Mỹ	B_W
+}	O
 xuống	B_W
 mức	B_W
 55-56	B_W
@@ -63049,7 +63057,8 @@ cho	B_W
 trẻ	B_W
 em	I_W
 thật	B_W
-khó.	O
+khó	I_W
+.	O
 
 Tài	B_W
 sản	I_W
@@ -63450,7 +63459,7 @@ họ	B_W
 thuê	B_W
 chỉ	B_W
 chơi	B_W
-game	O
+loại	B_W
 vì	B_W
 lợi	B_W
 nhuận	I_W
@@ -64546,7 +64555,7 @@ là	B_W
 phát	B_W
 pháo	B_W
 khai	B_W
-hỏa	O
+hỏa	I_W
 cho	B_W
 cuộc	B_W
 chiến	I_W
@@ -64781,9 +64790,9 @@ hạ	B_W
 Chelsea	B_W
 3-0	B_W
 ở	B_W
-Premiership	O
+Premiership	B_W
 cuối	B_W
-tuầu	O
+tuần	B_W
 trước	B_W
 ,	O
 Middlesborough	B_W
@@ -64954,10 +64963,10 @@ trọng	I_W
 với	B_W
 đội	B_W
 tuyển	I_W
-Nga	O
+Nga	B_W
 (	O
 ngày	B_W
-1-3	O
+1-3	B_W
 )	O
 và	B_W
 HLV	B_W
@@ -65295,7 +65304,7 @@ dẻo	B_W
 dai	I_W
 ở	B_W
 chuột	B_W
-già	O
+già	B_W
 .	O
 
 Do	B_W
@@ -65667,11 +65676,11 @@ cách	I_W
 giữa	B_W
 Juventus	B_W
 và	B_W
-Inter	O
+Inter	B_W
 hiện	B_W
 là	B_W
 9	B_W
-điểm	O
+điểm	B_W
 .	O
 
 Hai	B_W
@@ -66182,8 +66191,8 @@ một	B_W
 lần	I_W
 nữa	B_W
 "	O
-cú	O
-sốc	O
+cú	B_W
+sốc	I_W
 "	O
 áp	B_W
 lực	I_W
@@ -67567,10 +67576,6 @@ GM	B_W
 Mikado	B_W
 Nam	B_W
 Định	I_W
-(	O
-GM.M	O
-NĐ}	O
-)	O
 cầm	B_W
 chân	I_W
 1	B_W
@@ -71502,7 +71507,8 @@ này	B_W
 đây	B_W
 là	B_W
 mẫu	B_W
-ôtô	O
+ô	B_W
+tô	I_W
 có	B_W
 lượng	B_W
 tiêu	B_W
@@ -71516,15 +71522,16 @@ lịch	B_W
 sử	I_W
 .	O
 
-Trong	O
-khi	B_W
+Trong	B_W
+khi	I_W
 ngay	B_W
 cả	I_W
 một	B_W
 vài	I_W
 liên	B_W
 doanh	I_W
-ôtô	O
+ô	B_W
+tô	I_W
 có	B_W
 tên	I_W
 tuổi	I_W
@@ -72741,7 +72748,7 @@ ra	B_W
 nước	B_W
 ngoài	I_W
 của	B_W
-Hưng	O
+Hưng	B_W
 cũng	B_W
 bị	B_W
 coi	B_W
@@ -73159,7 +73166,7 @@ quý	I_W
 "	O
 ,	O
 sau	B_W
-3	O
+3	B_W
 giờ	B_W
 phẫu	B_W
 thuật	I_W
@@ -73698,7 +73705,7 @@ bà	B_W
 đem	B_W
 xác	B_W
 ông	B_W
-Thành	O
+Thành	B_W
 ra	B_W
 đoạn	B_W
 đường	I_W
@@ -73894,9 +73901,9 @@ loại	B_W
 xịn	B_W
 "	O
 được	B_W
-Bùi	O
-Tiến	O
-Dũng	O
+Bùi	B_W
+Tiến	I_W
+Dũng	I_W
 cho	B_W
 một	B_W
 số	B_W
@@ -74613,8 +74620,8 @@ với	B_W
 dân	B_W
 cá	B_W
 độ	I_W
-Việt	O
-Nam	O
+Việt	B_W
+Nam	I_W
 và	B_W
 thường	B_W
 từ	B_W
@@ -75589,7 +75596,8 @@ D1	B_W
 vào	B_W
 2	B_W
 ngành	B_W
-trên.	O
+trên	B_W
+.	O
 
 Khoa	B_W
 Đông	B_W
@@ -75848,13 +75856,14 @@ phí	I_W
 đầu	B_W
 tư	I_W
 của	B_W
-Nhà	O
-nước	B_W
+Nhà	B_W
+nước	I_W
 ,	O
 ông	B_W
-Thi	O
+Thi	B_W
 thông	B_W
-tin.	O
+tin	I_W
+.	O
 
 Đối	B_W
 với	I_W
@@ -78648,7 +78657,7 @@ Thắng	I_W
 "	O
 Cán	B_W
 bộ	I_W
-Đoàn	O
+Đoàn	B_W
 còn	B_W
 thiếu	B_W
 kinh	B_W
@@ -79121,7 +79130,7 @@ các	B_W
 hoạt	B_W
 động	I_W
 văn	B_W
-hóa	O
+hóa	I_W
 ,	O
 nghệ	B_W
 thuật	I_W
@@ -79700,7 +79709,7 @@ các	B_W
 đại	B_W
 gia	I_W
 quốc	B_W
-tế	O
+tế	I_W
 "	O
 sang	B_W
 thăm	B_W
@@ -79793,7 +79802,7 @@ mạng	B_W
 và	B_W
 tin	B_W
 nhắn	I_W
-hình	O
+hình	B_W
 "	O
 tới	B_W
 khách	B_W
@@ -79843,7 +79852,7 @@ kiểu	B_W
 dân	B_W
 hi-tech	B_W
 Đón	B_W
-Valentine	O
+Valentine	B_W
 kiểu	B_W
 dân	B_W
 hi-tech	B_W
@@ -79892,8 +79901,8 @@ Valentine	B_W
 Thiên	B_W
 Ý	I_W
 (	O
-Tổng	O
-hợp	B_W
+Tổng	B_W
+hợp	I_W
 )	O
 VietNamNet	B_W
 -	O
@@ -79981,7 +79990,7 @@ tự	B_W
 động	I_W
 .	O
 
-Một	O
+Một	B_W
 cuộc	B_W
 sống	I_W
 không	B_W
@@ -80348,8 +80357,8 @@ thực	B_W
 hiện	I_W
 được	B_W
 ?	O
-Phải	O
-chăng	B_W
+Phải	B_W
+chăng	I_W
 những	B_W
 tục	B_W
 lệ	I_W
@@ -87463,7 +87472,7 @@ hiện	I_W
 được	B_W
 tiêu	B_W
 chí	I_W
-ày	O
+này	B_W
 .	O
 
 Dự	B_W
@@ -88939,7 +88948,7 @@ giới	I_W
 đóng	B_W
 cửa	I_W
 cuối	B_W
-tuần	O
+tuần	B_W
 qua	B_W
 ở	B_W
 mức	B_W
@@ -89100,7 +89109,7 @@ buôn	B_W
 bán	I_W
 của	B_W
 thế	B_W
-giới	O
+giới	I_W
 .	O
 
 07-02-2006	B_W
@@ -89149,8 +89158,8 @@ hóa	I_W
 cho	B_W
 ngày	B_W
 lễ	B_W
-Tình	O
-yêu	B_W
+Tình	B_W
+yêu	I_W
 (	O
 Valentine	B_W
 )	O
@@ -89899,7 +89908,7 @@ và	B_W
 nhãn	B_W
 hiệu	I_W
 hàng	B_W
-hóa	O
+hóa	I_W
 ;	O
 đánh	B_W
 giá	I_W
@@ -92724,7 +92733,7 @@ Hiệp	I_W
 Trần	B_W
 Văn	I_W
 Khánh	I_W
-và	O
+và	B_W
 .	O
 .	O
 .	O
@@ -93291,14 +93300,14 @@ giành	B_W
 một	B_W
 điểm	B_W
 sau	B_W
-4	O
+4	B_W
 vòng	B_W
 đấu	B_W
 đầu	B_W
 tiên	I_W
 ,	O
 ngày	B_W
-11-2	O
+11-2	B_W
 CLB	B_W
 TPHCM	B_W
 sẽ	B_W
@@ -97519,7 +97528,7 @@ doanh	B_W
 nghiệp	I_W
 này	B_W
 vẫn	B_W
-đuợc	O
+được	B_W
 giữ	B_W
 tuyệt	B_W
 đối	I_W
@@ -98186,8 +98195,8 @@ TPHCM	B_W
 về	B_W
 tội	B_W
 "	O
-Lừa	O
-đảo	B_W
+Lừa	B_W
+đảo	I_W
 chiếm	B_W
 đoạt	I_W
 tài	B_W
@@ -98917,7 +98926,7 @@ Chí	I_W
 Thanh	I_W
 ,	O
 quận	B_W
-5	O
+5	B_W	
 -	O
 TPHCM	B_W
 .	O
@@ -99482,7 +99491,8 @@ nên	B_W
 phải	B_W
 kiếm	B_W
 TT	B_W
-khác.	O
+khác	B_W
+.	O
 
 Có	B_W
 lẽ	I_W
@@ -99865,8 +99875,7 @@ chính	I_W
 Viễn	B_W
 thông	I_W
 vẫn	B_W
-khôn	B_W
-g	O
+không	B_W
 tìm	B_W
 được	B_W
 phương	B_W
@@ -101878,7 +101887,7 @@ tích	B_W
 hợp	B_W
 dưới	B_W
 dạng	B_W
-logo	O
+logo	B_W
 ,	O
 biểu	B_W
 tượng	I_W
@@ -102026,7 +102035,7 @@ hơn	B_W
 ,	O
 các	B_W
 con	B_W
-chip	O
+chip	I_W
 điện	B_W
 tử	I_W
 nhỏ	B_W
@@ -102280,7 +102289,7 @@ Việc	B_W
 phải	B_W
 đến	B_W
 sẽ	B_W
-đến	O
+đến	B_W
 "	O
 .	O
 
@@ -102573,14 +102582,14 @@ SITC	B_W
 Hà	B_W
 Nội	I_W
 -	O
-Hỗn	O
-loạn	B_W
+Hỗn	B_W
+loạn	I_W
 ,	O
 cảnh	B_W
 sát	I_W
 113	B_W
 vào	B_W
-cuộc	O
+cuộc	B_W
 .	O
 
 Phó	B_W
@@ -104562,7 +104571,7 @@ mua	B_W
 tô	I_W
 ngày	B_W
 càng	I_W
-tăng	O
+tăng	B_W
 .	O
 
 Như	B_W
@@ -106683,7 +106692,7 @@ Pháp	B_W
 thì	B_W
 ông	B_W
 Đức	B_W
-là	O
+là	B_W
 "	O
 người	B_W
 có	B_W
@@ -108574,7 +108583,7 @@ hàng	I_W
 này	B_W
 trong	B_W
 ngày	B_W
-Valentine	O
+Valentine	B_W
 để	B_W
 thưởng	B_W
 thức	I_W
@@ -108840,9 +108849,6 @@ ngành	B_W
 thuế	B_W
 .	O
 
-NLĐ	B_W
-O	O
-)	O
 Đó	B_W
 là	B_W
 nội	B_W
@@ -110406,7 +110412,7 @@ họ	B_W
 đã	B_W
 có	B_W
 bàn	B_W
-thắng	O
+thắng	I_W
 .	O
 
 Giành	B_W
@@ -111048,7 +111054,7 @@ số	B_W
 cựu	B_W
 binh	I_W
 của	B_W
-ĐTQG	O
+ĐTQG	B_W
 như	B_W
 Quang	B_W
 Huy	I_W
@@ -111343,8 +111349,8 @@ Tề	B_W
 Kiến	I_W
 Quốc	I_W
 nhận	B_W
-Kỷ	O
-niệm	B_W
+Kỷ	B_W
+niệm	I_W
 chương	B_W
 Vì	B_W
 sự	B_W
@@ -112182,7 +112188,7 @@ X	B_W
 .O	I_W
 .	I_W
 
-ơĐểư	O
+Đểu	B_W
 đưa	B_W
 loại	B_W
 xe	B_W
@@ -113933,7 +113939,7 @@ công	B_W
 tác	I_W
 ,	O
 ông	B_W
-Học	O
+Học	B_W
 đã	B_W
 ký	B_W
 khá	B_W
@@ -114178,7 +114184,8 @@ xác	B_W
 định	I_W
 như	B_W
 thế	I_W
-nào?	O
+nào	I_W
+?	O
 
 Một	B_W
 trong	B_W
@@ -115562,9 +115569,9 @@ ký	I_W
 xét	B_W
 tuyển	I_W
 (	O
-NV2	O
+NV2	B_W
 ,	O
-NV3	O
+NV3	B_W
 )	O
 nộp	B_W
 qua	B_W
@@ -118088,7 +118095,7 @@ giá	B_W
 của	B_W
 một	B_W
 bó	B_W
-hoa	O
+hoa	I_W
 .	O
 "	O
 
@@ -118306,8 +118313,8 @@ rất	B_W
 tốt	B_W
 về	B_W
 vị	B_W
-Chủ	O
-tịch	B_W
+Chủ	B_W
+tịch	I_W
 kiêm	B_W
 Tổng	B_W
 giám	I_W
@@ -120564,8 +120571,8 @@ vấn	B_W
 gì	B_W
 trong	B_W
 khi	I_W
-Nhà	O
-nước	B_W
+Nhà	B_W
+nước	I_W
 thất	B_W
 thu	I_W
 thêm	B_W
@@ -121339,7 +121346,7 @@ giới	I_W
 đóng	B_W
 cửa	I_W
 cuối	B_W
-tuần	O
+tuần	B_W
 qua	B_W
 ở	B_W
 mức	B_W
@@ -122793,8 +122800,8 @@ chơi	I_W
 online	B_W
 PTV	B_W
 (	O
-Giành	O
-lại	B_W
+Giành	B_W
+lại	I_W
 miền	B_W
 đất	B_W
 hứa	I_W
@@ -125763,7 +125770,7 @@ tin	I_W
 Địa	B_W
 chỉ	I_W
 :	O
-123	O
+123	B_W
 Võ	B_W
 Văn	I_W
 Tần	I_W
@@ -133100,8 +133107,8 @@ vô	B_W
 ích	I_W
 .	O
 
-Thành	O
-tích	B_W
+Thành	B_W
+tích	I_W
 thể	B_W
 thao	I_W
 chẳng	B_W
@@ -133134,8 +133141,8 @@ hèn	B_W
 nhát	I_W
 .	O
 
-Tiền	O
-đạo	B_W
+Tiền	B_W
+đạo	I_W
 Harewood	B_W
 vừa	B_W
 lúc	I_W
@@ -133199,7 +133206,7 @@ giành	B_W
 được	I_W
 chữ	B_W
 ký	I_W
-vủa	O
+của	B_W
 tiền	B_W
 đạo	I_W
 này	B_W
@@ -135425,7 +135432,7 @@ Trước	B_W
 kia	I_W
 ,	O
 ông	B_W
-Dũng	O
+Dũng	B_W
 cũng	B_W
 chỉ	B_W
 là	I_W
@@ -136229,9 +136236,10 @@ kỳ	B_W
 thi	I_W
 tuyển	B_W
 sinh	I_W
-ĐH	O
+ĐH	B_W
 ,	O
-CĐ.	O
+CĐ	B_W
+.	O
 
 Thời	B_W
 đại	I_W
@@ -136993,7 +137001,7 @@ mưu	I_W
 cho	B_W
 lãnh	B_W
 đạo	I_W
-UBND	O
+UBND	B_W
 quận	B_W
 định	B_W
 hướng	I_W
@@ -137060,7 +137068,7 @@ quyền	I_W
 có	B_W
 nghĩa	I_W
 vụ	B_W
-phải	O
+phải	B_W
 trả	B_W
 lời	I_W
 và	B_W
@@ -140748,7 +140756,7 @@ tính	B_W
 thưởng	B_W
 để	B_W
 tăng	B_W
-level	O
+level	B_W
 hoặc	B_W
 điểm	B_W
 kinh	B_W
@@ -141188,7 +141196,7 @@ danh	B_W
 giá	I_W
 của	B_W
 nước	B_W
-Anh	O
+Anh	B_W
 mà	B_W
 còn	B_W
 tạo	B_W
@@ -141197,7 +141205,7 @@ cho	B_W
 Liverpool	B_W
 trên	B_W
 đường	B_W
-soán	O
+soán	B_W
 vị	B_W
 trí	I_W
 thứ	B_W
@@ -141233,7 +141241,7 @@ Cơ	B_W
 quan	I_W
 Chống	B_W
 doping	B_W
-Mỹ	O
+Mỹ	B_W
 (	O
 USADA	B_W
 )	O
@@ -141299,8 +141307,8 @@ trận	B_W
 chung	B_W
 kết	I_W
 cúp	B_W
-Nhà	O
-vua	B_W
+Nhà	B_W
+vua	I_W
 ,	O
 đối	B_W
 thủ	I_W
@@ -142727,7 +142735,7 @@ khí	B_W
 Autoweek	B_W
 ra	B_W
 hàng	B_W
-tuần	O
+tuần	B_W
 với	B_W
 số	B_W
 lượng	I_W
@@ -142874,7 +142882,7 @@ Lê	B_W
 Ngọc	I_W
 Tiến	I_W
 (	O
-SN	O
+SN	B_W
 1954	B_W
 ,	O
 thường	B_W
@@ -143059,7 +143067,7 @@ của	B_W
 quý	I_W
 "	O
 ông	B_W
-C.	O
+.	O
 
 Việc	B_W
 sở	I_W
@@ -143172,7 +143180,7 @@ gió	B_W
 từ	B_W
 khi	I_W
 ông	B_W
-Tiến	O
+Tiến	B_W
 về	B_W
 làm	B_W
 tổng	B_W
@@ -143185,7 +143193,7 @@ ban	B_W
 quản	I_W
 lý	I_W
 (	O
-BQL	O
+BQL	B_W
 )	O
 này	B_W
 được	B_W
@@ -143805,7 +143813,7 @@ sinh	I_W
 từng	B_W
 ban	B_W
 ,	O
-1	O
+1	B_W
 môn	B_W
 thi	I_W
 do	B_W
@@ -144400,15 +144408,15 @@ nêu	B_W
 ra	I_W
 trong	B_W
 cuộc	B_W
-Bàn	O
-tròn	B_W
+Bàn	B_W
+tròn	I_W
 trực	B_W
 tuyến	I_W
 chủ	B_W
 đề	I_W
 "	O
-Góp	O
-ý	B_W
+Góp	B_W
+ý	I_W
 cho	B_W
 văn	B_W
 kiện	I_W
@@ -146342,7 +146350,7 @@ triệu	B_W
 đồng	B_W
 được	B_W
 vay	B_W
-không	O
+không	B_W
 .	O
 .	O
 .	O
@@ -147487,7 +147495,7 @@ mặt	I_W
 giọng	B_W
 nói	I_W
 hiền	B_W
-hòa	O
+hòa	I_W
 ,	O
 từ	B_W
 tốn	I_W
@@ -149370,7 +149378,7 @@ năm	B_W
 nay	I_W
 số	B_W
 lượng	I_W
-HV	O
+HV	B_W
 đăng	B_W
 ký	I_W
 học	B_W
@@ -149970,7 +149978,7 @@ những	B_W
 bông	B_W
 hồng	I_W
 ,	O
-sôcôla	O
+sôcôla	B_W
 và	B_W
 cả	B_W
 "	O
@@ -152506,8 +152514,8 @@ tạo	B_W
 ra	I_W
 các	B_W
 chất	B_W
-hóa	O
-học	B_W
+hóa	B_W
+học	I_W
 giúp	B_W
 tăng	B_W
 cơ	B_W
@@ -154687,7 +154695,7 @@ thay	I_W
 đổi	I_W
 của	B_W
 dư	B_W
-luận	O
+luận	I_W
 trong	B_W
 nước	B_W
 về	B_W
@@ -154874,7 +154882,7 @@ Nếu	B_W
 vòng	B_W
 đàm	B_W
 phán	I_W
-Doha	O
+Doha	B_W
 thoả	B_W
 thuận	I_W
 được	B_W
@@ -156642,8 +156650,8 @@ môi	B_W
 giới	I_W
 VFD	B_W
 đã	B_W
-thỏa	O
-thuận	B_W
+thỏa	B_W
+thuận	I_W
 xong	B_W
 các	B_W
 điều	B_W
@@ -158538,7 +158546,8 @@ biết	I_W
 ai	B_W
 là	B_W
 đầu	B_W
-mối!	O
+mối	I_W
+!	O
 
 Bảng	B_W
 2	B_W
@@ -160358,8 +160367,8 @@ giả	I_W
 nhà	B_W
 tại	B_W
 sân	B_W
-Thành	O
-Long	O
+Thành	B_W
+Long	I_W
 trong	B_W
 trận	B_W
 hòa	B_W
@@ -161050,7 +161059,7 @@ Ngày	B_W
 ,	O
 tổng	B_W
 đài	I_W
-8277	O
+8277	B_W
 đưa	B_W
 ra	I_W
 mục	B_W
@@ -161493,7 +161502,6 @@ Tôn	B_W
 Đức	I_W
 Thắng	I_W
 ,	O
-n	O
 Q.	B_W
 1	B_W
 -	O
@@ -161876,7 +161884,7 @@ với	B_W
 dịch	B_W
 vụ	I_W
 trực	B_W
-tuyến	O
+tuyến	I_W
 .	O
 .	O
 .	O
@@ -162722,7 +162730,7 @@ PGS	B_W
 Nguyễn	B_W
 Lương	I_W
 Dũng	I_W
-nói	O
+nói	B_W
 .	O
 
 Người	B_W
@@ -163645,7 +163653,7 @@ trận	B_W
 hình	B_W
 ảnh	I_W
 ,	O
-logo	O
+logo	B_W
 ,	O
 nhạc	B_W
 nền	I_W
@@ -166696,7 +166704,7 @@ trở	B_W
 lại	I_W
 vạch	B_W
 xuất	B_W
-phát	O
+phát	I_W
 .	O
 .	O
 .	O
@@ -167454,7 +167462,7 @@ tự	B_W
 ý	I_W
 cho	B_W
 mượn	I_W
-11	O
+11	B_W
 xe	B_W
 công	B_W
 nói	B_W
@@ -167960,7 +167968,7 @@ số	I_W
 gần	B_W
 9.000	B_W
 /	O
-ngày	O
+ngày	B_W
 ,	O
 tăng	B_W
 khoảng	B_W
@@ -168142,7 +168150,7 @@ thể	I_W
 tung	B_W
 ra	I_W
 lô	B_W
-chip	O
+chip	I_W
 máy	B_W
 chủ	B_W
 bốn	B_W
@@ -168168,7 +168176,7 @@ AMD	B_W
 .	O
 
 (	O
-Bài	O
+Bài	B_W
 gửi	B_W
 về	B_W
 Diễn	B_W
@@ -168277,7 +168285,7 @@ trình	B_W
 ,	O
 CĐ	B_W
 từ	B_W
-khóa	O
+khóa	B_W
 tuyển	B_W
 sinh	I_W
 2006	B_W
@@ -169556,7 +169564,7 @@ Piero	I_W
 đã	B_W
 không	I_W
 cho	B_W
-Cesar	O
+Cesar	B_W
 một	B_W
 cơ	B_W
 hội	I_W
@@ -170196,7 +170204,7 @@ học	B_W
 nhưng	B_W
 chưa	B_W
 hết	B_W
-khóa	O
+khóa	B_W
 ;	O
 số	B_W
 giáo	B_W
@@ -171713,7 +171721,7 @@ thay	B_W
 thế	I_W
 2	B_W
 con	B_W
-chip	O
+chip	I_W
 được	B_W
 đánh	B_W
 dấu	I_W
@@ -174675,8 +174683,8 @@ Internet	B_W
 Lâm	B_W
 Đồng	I_W
 :	O
-Đầu	O
-tư	B_W
+Đầu	B_W
+tư	I_W
 hơn	B_W
 4.276	B_W
 tỉ	B_W
@@ -176081,7 +176089,7 @@ có	B_W
 Những	B_W
 điều	B_W
 cần	B_W
-biết	O
+biết	B_W
 .	O
 .	O
 .	O
@@ -176539,7 +176547,7 @@ lên	B_W
 4,7	B_W
 triệu	B_W
 ,	O
-rồi	O
+rồi	B_W
 .	O
 .	O
 .	O
@@ -176603,7 +176611,7 @@ kích	B_W
 cỡ	I_W
 ,	O
 phong	B_W
-cách	O
+cách	I_W
 .	O
 .	O
 .	O
@@ -177186,7 +177194,8 @@ tạo	I_W
 thường	B_W
 xuyên	I_W
 của	B_W
-�HQG}.	O
+ĐHQG	B_W
+}	O
 
 Trường	B_W
 Anh	B_W
@@ -177209,7 +177218,7 @@ khóa	B_W
 học	I_W
 (	O
 1	B_W
-khóa	O
+khóa	B_W
 3	B_W
 tháng	B_W
 )	O
@@ -179125,8 +179134,7 @@ cảm	B_W
 ơn	I_W
 tới	B_W
 "	O
-nhữn	B_W
-g	O
+những	B_W
 đồng	B_W
 chí	I_W
 đã	B_W
@@ -179322,7 +179330,7 @@ giới	I_W
 đóng	B_W
 cửa	I_W
 cuối	B_W
-tuần	O
+tuần	B_W
 qua	B_W
 ở	B_W
 mức	B_W
@@ -179569,8 +179577,8 @@ trong	B_W
 cuộc	B_W
 họp	I_W
 báo	B_W
-giới	I_W
-thiệu	O
+giới	B_W
+thiệu	I_W
 FPT	B_W
 là	B_W
 nhà	B_W
@@ -179601,8 +179609,8 @@ môn	I_W
 bóng	B_W
 đá	I_W
 của	B_W
-Uỷ	O
-ban	B_W
+Ủy	B_W
+ban	I_W
 TDTT	B_W
 ,	O
 kiêm	B_W
@@ -179985,7 +179993,7 @@ Bảo	B_W
 Định	I_W
 (	O
 phường	B_W
-4	O
+4	B_W
 ,	O
 thị	B_W
 xã	I_W
@@ -181200,7 +181208,7 @@ hoạch	I_W
 năm	B_W
 nay	I_W
 ,	O
-Viettel	O
+Viettel	B_W
 sẽ	B_W
 phát	B_W
 triển	I_W
@@ -182136,8 +182144,8 @@ Gia	B_W
 Bình	I_W
 .	O
 
-Sau	O
-khi	B_W
+Sau	B_W
+khi	I_W
 học	B_W
 hết	B_W
 cấp	B_W
@@ -183324,7 +183332,7 @@ các	B_W
 đại	B_W
 lý	I_W
 bán	B_W
-hàng	O
+hàng	I_W
 .	O
 
 Đèn	B_W
@@ -183768,7 +183776,7 @@ Mai	B_W
 Chung	I_W
 đã	B_W
 chấp	B_W
-thuận	O
+thuận	I_W
 .	O
 
 Ông	B_W
@@ -185043,8 +185051,8 @@ lần	B_W
 ,	O
 khi	B_W
 làm	B_W
-Chủ	O
-tịch	B_W
+Chủ	B_W
+tịch	I_W
 phường	B_W
 ,	O
 đi	B_W
@@ -185852,7 +185860,7 @@ trên	B_W
 thuê	B_W
 bao	I_W
 /	O
-ngày.	O
+ngày	B_W
 
 "	O
 Muốn	B_W
@@ -186005,11 +186013,11 @@ Tại	B_W
 diễn	B_W
 đàn	I_W
 "	O
-Doanh	O
-nhân	B_W
+Doanh	B_W
+nhân	I_W
 và	B_W
 thương	B_W
-hiệu	O
+hiệu	I_W
 "	O
 lần	B_W
 10	B_W
@@ -188442,7 +188450,7 @@ CA	B_W
 thu	B_W
 giữ	I_W
 gần	B_W
-500	O
+500	B_W
 BKS	B_W
 ,	O
 trong	B_W
@@ -189541,7 +189549,7 @@ tuyển	I_W
 quốc	B_W
 gia	I_W
 (	O
-ĐTQG	O
+ĐTQG	B_W
 )	O
 HLV	B_W
 Trần	B_W
@@ -192303,8 +192311,8 @@ diện	I_W
 về	B_W
 thị	B_W
 trường	I_W
-hàng	O
-hoá	O
+hàng	B_W
+hoá	I_W
 ,	O
 thị	B_W
 trường	I_W
@@ -193497,8 +193505,8 @@ lớn	B_W
 hơn	B_W
 với	B_W
 sự	B_W
-phát	I_W
-triển	O
+phát	B_W
+triển	I_W
 .	O
 
 Họ	B_W
@@ -194046,7 +194054,7 @@ hơn	B_W
 triệu	B_W
 người	B_W
 chơi	I_W
-game	O
+loại	B_W
 trực	B_W
 tuyến	I_W
 ,	O
@@ -194155,7 +194163,7 @@ sinh	B_W
 1961	B_W
 )	O
 ở	B_W
-824	O
+824	B_W
 Minh	B_W
 Khai	I_W
 ;	O
@@ -195080,8 +195088,8 @@ bộ	I_W
 tất	B_W
 cả	I_W
 các	B_W
-lọai	O
-hình	B_W
+loại	B_W
+hình	I_W
 doanh	B_W
 nghiệp	I_W
 .	O
@@ -195213,7 +195221,7 @@ phí	I_W
 100%	B_W
 cho	B_W
 500	B_W
-HV	O
+HV	B_W
 đã	B_W
 đóng	B_W
 tiền	B_W
@@ -197758,7 +197766,7 @@ quen	I_W
 với	B_W
 thi	B_W
 trắc	B_W
-nghiệm.	O
+nghiệm	I_W
 
 Gần	B_W
 đến	B_W
@@ -198612,7 +198620,7 @@ và	B_W
 Anh	B_W
 văn	I_W
 thiếu	B_W
-nhi.	O
+nhi	I_W
 
 Phòng	B_W
 Thương	B_W
@@ -201748,7 +201756,7 @@ cho	B_W
 trận	B_W
 đấu	I_W
 với	B_W
-Quân	O
+Quân	B_W
 khu	B_W
 4	B_W
 vào	B_W
@@ -202542,7 +202550,7 @@ Games	I_W
 24	B_W
 nhưng	B_W
 VFF	B_W
-than	O
+than	B_W
 .	O
 .	O
 .	O
@@ -205152,8 +205160,8 @@ Nguyễn	B_W
 Thị	I_W
 Đinh	I_W
 (	O
-SN	O
-1957	O
+SN	B_W
+1957	B_W
 )	O
 và	B_W
 con	B_W
@@ -205447,7 +205455,7 @@ HCM	B_W
 vào	B_W
 tháng	B_W
 4	B_W
-tới	O
+tới	B_W
 .	O
 
 Trong	B_W
@@ -205528,10 +205536,10 @@ phạt	B_W
 góc	B_W
 .	O
 
-Trường	O
-ĐH	O
-Công	O
-nghiệp	B_W
+Trường	B_W
+ĐH	B_W
+Công	B_W
+nghiệp	I_W
 không	B_W
 có	B_W
 ngành	B_W
@@ -205685,7 +205693,7 @@ xe	B_W
 Bắc	B_W
 Ninh	I_W
 :	O
-Thêm	O
+Thêm	B_W
 một	B_W
 vụ	B_W
 hành	B_W
@@ -206462,8 +206470,8 @@ trang	I_W
 ,	O
 thiết	B_W
 kế	I_W
-họa	O
-tiết	B_W
+họa	B_W
+tiết	I_W
 hoa	B_W
 văn	I_W
 trên	B_W

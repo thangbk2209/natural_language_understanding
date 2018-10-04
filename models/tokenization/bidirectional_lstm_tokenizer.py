@@ -66,6 +66,7 @@ class BiLSTMTokenizer():
         output_bidirection, state = tf.nn.bidirectional_dynamic_rnn(LSTM_fw_layer, LSTM_bw_layer, embedding, dtype = 'float32' )    
         input_softmax = tf.concat([output_bidirection[0],output_bidirection[1]],2)
         # concaternate = input_softmax
+        #hidden1 = tf.layers.dense(input_softmax, 16,activation = tf.nn.sigmoid, name="hidden1")
         outputs = tf.layers.dense(input_softmax,self.y_train.shape[2],activation = tf.nn.softmax, name="outputs")
         y_label = tf.placeholder(tf.float32, name="y_label", shape=(None, self.y_train.shape[1] , self.y_train.shape[2]))
         # define the loss function:

@@ -52,7 +52,7 @@ def separate_word(tokens):
     return word_separate
 
 
-word2int, int2word = read_trained_data('word2int_ver5.pkl')
+word2int, int2word = read_trained_data('word2int_ver7.pkl')
 corpus_file = '../../data/corpus.txt'
 
 def tokenize_corpus():
@@ -202,20 +202,29 @@ def preprocessing_testdata():
         y_test_raw = []
         x_testi = []
         y_testi = []
+        x_reali = []
         number_replace = "1000"
         number_digit = 0
         all_single_word = []
+        x_real = []
         for line in lines:
             # print (line)
+           
             if line == '\n' or line == '\t\n':
                 # print(1)
                 x_test_raw.append(x_testi)
                 y_test_raw.append(y_testi)
+                x_real.append(x_reali)
                 x_testi = []
                 y_testi = []
+                x_reali = []
+                
             else:
                 datai = line.rstrip('\n').split('\t')
-                # print(datai)          
+                if(hasNumbers(datai[0]) and datai[1] == "O"):
+                    print (datai)
+                # print(datai)  
+                x_reali.append(datai[0])        
                 y_testi.append(datai[1])
                 if hasNumbers(datai[0]):
                     x_testi.append(number_replace)
@@ -229,13 +238,15 @@ def preprocessing_testdata():
                         all_single_word.append(datai[0])
     # p = re.compile("^\d+?\.\d+?$")
     # print (p.match("alo"))
-    return all_single_word, x_test_raw, y_test_raw
+    return all_single_word, x_test_raw, y_test_raw, x_real
 def evaluate():
-    all_single_word, x_test_raw, y_test_raw = preprocessing_testdata()
+    all_single_word, x_test_raw, y_test_raw, x_real = preprocessing_testdata()
+    # lol
     print (x_test_raw[0])
     print (y_test_raw[0])
     x_one_hot_vector = []
     x_vector = []
+    x_real_vector = []
     y_vector = []
     number_replace = '1000'
     number_words = len(word2int)
@@ -243,30 +254,35 @@ def evaluate():
     for i,x_testi in enumerate(x_test_raw):
         x_one_hot_vectori = []
         y_vectori = []
+        x_real_vectori = []
         x_vectori = []
-        if(len(x_test_raw[i])>input_size):
+        if(len(x_test_raw[i]) > input_size):
             continue
         else:
             for j in range(len(x_test_raw[i])):
                 # print (all_single_word[i], word2int[all_single_word[i]])
                 if x_test_raw[i][j] in word2int:
                     x_one_hot_vectori.append(to_one_hot(word2int[x_test_raw[i][j]], number_words))
+                    x_real_vectori.append(x_real[i][j])
                     x_vectori.append(x_test_raw[i][j])
                     y_vectori.append(y_test_raw[i][j])
                 else:
                     x_one_hot_vectori.append(to_one_hot(word2int[number_replace], number_words))
                     x_vectori.append(number_replace)
+                    x_real_vectori.append(x_real[i][j])
                     y_vectori.append(y_test_raw[i][j])
             for j in range(len(x_test_raw[i]), input_size, 1):
                 temp = np.zeros(number_words,dtype = np.int8)
                 x_one_hot_vectori.append(temp)
                 # y_vectori.append(y_test_raw[i][j])
         x_one_hot_vector.append(x_one_hot_vectori)
+        x_real_vector.append(x_real_vectori)
         x_vector.append(x_vectori)
         y_vector.append(y_vectori)
     x_data = np.asarray(x_one_hot_vector)
     y_vector = np.asarray(y_vector)
     x_vector = np.asarray(x_vector)
+    x_real_vector = np.asarray(x_real_vector)
     print (x_data.shape)
     # y_test_raw = np.asarray(y_test_raw)
     num_units = [32,8]
@@ -274,13 +290,13 @@ def evaluate():
     epochs = 500
     batch_size = 128
     learning_rate = 0.2
-    file_to_save_model = 'model_saved_ver5/model' + str(input_size) + '-' + str(num_units) + '-' + str(embedding_dim) + '-' + str(batch_size)+'.meta'
+    file_to_save_model = 'model_saved_ver7/model' + str(input_size) + '-' + str(num_units) + '-' + str(embedding_dim) + '-' + str(batch_size)+'.meta'
 
     with tf.Session() as sess:
         
         #First let's load meta graph and restore weights
         saver = tf.train.import_meta_graph(file_to_save_model)
-        saver.restore(sess,tf.train.latest_checkpoint('model_saved_ver5/'))
+        saver.restore(sess,tf.train.latest_checkpoint('model_saved_ver7/'))
         # Access and create placeholders variables and
         graph = tf.get_default_graph()
         
@@ -316,19 +332,24 @@ def evaluate():
         # print (x_test_raw_final[-1])
         # lol
         # print (y_test_raw_final[-1])
+        special_character = [".","x","“","”","…",">","<","@", "#", ")","(","+","-","_", "&","=","•","©","{", "}", "±", "v.v...","," ]
         labels = []
         for i in range(x_data.shape[0]):
             labelsi = []
             for j in range(len(x_vector[i])):
-                if index[i*64+j] == 0:
-                    labelsi.append('B_W')
-                elif index[i*64+j] == 1:
-                    labelsi.append('I_W')
-                elif index[i*64+j] == 2:
+                if (x_vector[i][j] in special_character):
                     labelsi.append('O')
+                else:
+                    if index[i*64+j] == 0:
+                        labelsi.append('B_W')
+                    elif index[i*64+j] == 1:
+                        labelsi.append('I_W')
+                    elif index[i*64+j] == 2:
+                        labelsi.append('O')
             labels.append(labelsi)
         print (labels[-1])
         # lol
+        k = 0
         correct = 0
         all_word = 0
         for i in range(len(labels)):
@@ -337,7 +358,10 @@ def evaluate():
                 if(labels[i][j] == y_vector[i][j]):
                     correct +=1
                 else:
-                    print (x_vector[i][j] ,',', labels[i][j], ',', y_vector[i][j])
+                    if(y_vector[i][j] == 'O'):
+                        k+=1
+                        print ( x_real_vector[i][j] ,',', labels[i][j], pred[i*64+j] , ',', y_vector[i][j])
+        print (k)
         print (correct/all_word)
         print (all_word)
         print (correct)
@@ -444,12 +468,12 @@ def token_sentence(sentence):
     return all_tokens
 if __name__ == '__main__':
     # tokenize_corpus()
-    all_tokens = tokenize_corpus()
-    print (all_tokens)
-    with open('tokens_corpus.pkl','wb') as output:
-            pk.dump(all_tokens,output,pk.HIGHEST_PROTOCOL)
+    # all_tokens = tokenize_corpus()
+    # print (all_tokens)
+    # with open('tokens_corpus.pkl','wb') as output:
+    #         pk.dump(all_tokens,output,pk.HIGHEST_PROTOCOL)
     # # evaluate()
     # sentence = "xem tình trạng tiền trong tài khoản của tôi"
     # all_tokens  = token_sentence(sentence)
     # print (all_tokens)
-    # evaluate()
+    evaluate()

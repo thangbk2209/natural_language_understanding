@@ -46,8 +46,11 @@ class Preprocess:
                 # print (line)
                 if line == '\n' or line == '\t\n':
                     # print(1)
-                    x_train_raw.append(x_traini)
-                    y_train_raw.append(y_traini)
+                    if x_traini not in x_train_raw:
+                        x_train_raw.append(x_traini)
+                        y_train_raw.append(y_traini)
+                    # else:
+                        # print (x_traini)
                     x_traini = []
                     y_traini = []
                 else:
@@ -65,7 +68,8 @@ class Preprocess:
                         x_traini.append(datai[0])
                         if (datai[0] not in all_single_word):
                             all_single_word.append(datai[0])
-                            
+        print (len(x_train_raw))
+        # lol
         all_single_word_df = pd.DataFrame(all_single_word)
         all_single_word_df.to_csv("../../results/tokenization/all_single_word.csv",header=None)
         word2int = {}   # Word and coresponding number
@@ -78,7 +82,7 @@ class Preprocess:
             int2word[np.int16(i)] = word
         print (int2word[0])
         print (int2word[10])
-        with open('../../results/tokenization/word2int_ver5.pkl','wb') as output:
+        with open('../../results/tokenization/word2int_ver7.pkl','wb') as output:
             pk.dump(word2int,output,pk.HIGHEST_PROTOCOL)
             pk.dump(int2word,output,pk.HIGHEST_PROTOCOL)
         labels = ['B_W','I_W','O']
