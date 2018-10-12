@@ -70,17 +70,8 @@ class Word2Vec:
             avg_loss = 0
             for j in range(total_batch):
                 batch_x_train, batch_y_train = self.x_train[j*self.batch_size_word2vec: (j+1)*self.batch_size_word2vec], self.y_train[j*self.batch_size_word2vec: (j+1)*self.batch_size_word2vec]
-                # print ('batch_x_train')
-                # print (batch_x_train)
-                # print ('batch_y_train')
-                # print (batch_y_train)
                 sess.run(optimizer, feed_dict={x: batch_x_train, y_label: batch_y_train})
-                # prediction = sess.run([prediction], feed_dict={x: batch_x_train})
-                # print ('prediction')
-                # print (prediction)
                 loss = sess.run(cross_entropy_loss, feed_dict={x: batch_x_train, y_label: batch_y_train})/total_batch
-                # print ("loss: ", loss)
-                # print ('prediction: ', prediction)
                 avg_loss += loss
             
             total_epoch = _ + 1
@@ -96,7 +87,6 @@ class Word2Vec:
         self.vectors = sess.run(hidden_representation,feed_dict={x: vocab})
         if(total_epoch == self.epoch_word2vec):
             self.save_trained_data()
-        # print (self.word2int['hụt_hơi'])
         return self.vectors, self.word2int, self.int2word
     # save data to file
     def save_trained_data(self):

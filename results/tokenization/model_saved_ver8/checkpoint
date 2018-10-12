@@ -1,0 +1,2 @@
+model_checkpoint_path: "model64-[32, 4]-50-128"
+all_model_checkpoint_paths: "model64-[32, 4]-50-128"

@@ -2,6 +2,7 @@ import tensorflow as tf
 import pickle as pk 
 import numpy as np 
 from nltk.tokenize import sent_tokenize, word_tokenize
+from pyvi import ViTokenizer,ViPosTagger
 # from pyvi import ViPosTagger,ViTokenizer 
 import re
 def read_trained_data(file_trained_data):
@@ -52,9 +53,16 @@ def separate_word(tokens):
     return word_separate
 
 
-word2int, int2word = read_trained_data('word2int_ver7.pkl')
+word2int, int2word = read_trained_data('word2int_ver8.pkl')
 corpus_file = '../../data/corpus.txt'
-
+input_size = 64
+num_units = [32,4]
+embedding_dim = 50
+epochs = 500
+batch_size = 128
+learning_rate = 0.2
+file_to_save_model = 'model_saved_ver8/model' + str(input_size) + '-' + str(num_units) + '-' + str(embedding_dim) + '-' + str(batch_size)+'.meta'
+checkpoint_file = 'model_saved_ver8/'
 def tokenize_corpus():
     with open(corpus_file, encoding = 'utf-8') as f:
         text = f.read().lower()
@@ -88,7 +96,7 @@ def tokenize_corpus():
     print (len(real_word))
     real_word = np.asarray(real_word)
     number_words = len(word2int)
-    input_size = 64
+    
     
     number_replace = '1000'
     for i in range(len(real_word)):
@@ -128,18 +136,11 @@ def tokenize_corpus():
     # print (x_data.shape)
     # # lol
 
-    num_units = [32,8]
-    embedding_dim = 50
-    epochs = 500
-    batch_size = 128
-    learning_rate = 0.2
-    file_to_save_model = 'model_saved_ver5/model' + str(input_size) + '-' + str(num_units) + '-' + str(embedding_dim) + '-' + str(batch_size)+'.meta'
-
     with tf.Session() as sess:
         
         #First let's load meta graph and restore weights
         saver = tf.train.import_meta_graph(file_to_save_model)
-        saver.restore(sess,tf.train.latest_checkpoint('model_saved_ver5/'))
+        saver.restore(sess,tf.train.latest_checkpoint(checkpoint_file))
         # Access and create placeholders variables and
         graph = tf.get_default_graph()
         
@@ -184,16 +185,20 @@ def tokenize_corpus():
     #     # print (labels[:-5])
     #     print (labels)
         labels = np.asarray(labels)
+        print (labels[0])
         print (labels.shape)
         for label in labels:
-            
-            print (label)
+            for word_label in label:
+                print (word_label)
+                # lol
+                file.write(word_label[0] + '\t' + word_label[1] + '\n')
+            file.write('\n')
+            # print (label)
             tokens = compound_word(label)
     #     # print (tokens)
             all_tokens.append(tokens)
-            for token in tokens:
-                file.write(token + '\n')
-            file.write('\n')
+            # for token in tokens:
+                
     return all_tokens
 def preprocessing_testdata():
     with open ('../../data/tokenize/10k - 5.txt',encoding = 'utf-8') as acro_file:
@@ -285,18 +290,11 @@ def evaluate():
     x_real_vector = np.asarray(x_real_vector)
     print (x_data.shape)
     # y_test_raw = np.asarray(y_test_raw)
-    num_units = [32,8]
-    embedding_dim = 50
-    epochs = 500
-    batch_size = 128
-    learning_rate = 0.2
-    file_to_save_model = 'model_saved_ver7/model' + str(input_size) + '-' + str(num_units) + '-' + str(embedding_dim) + '-' + str(batch_size)+'.meta'
-
     with tf.Session() as sess:
         
         #First let's load meta graph and restore weights
         saver = tf.train.import_meta_graph(file_to_save_model)
-        saver.restore(sess,tf.train.latest_checkpoint('model_saved_ver7/'))
+        saver.restore(sess,tf.train.latest_checkpoint(checkpoint_file))
         # Access and create placeholders variables and
         graph = tf.get_default_graph()
         
@@ -332,7 +330,7 @@ def evaluate():
         # print (x_test_raw_final[-1])
         # lol
         # print (y_test_raw_final[-1])
-        special_character = [".","x","“","”","…",">","<","@", "#", ")","(","+","-","_", "&","=","•","©","{", "}", "±", "v.v...","," ]
+        special_character = ["...","’","‘","''","``",".","x","“","”","…",">","<","@", "#", ")","(","+","-","_", "&","=","•","©","{", "}", "±", "v.v...","," ]
         labels = []
         for i in range(x_data.shape[0]):
             labelsi = []
@@ -352,15 +350,19 @@ def evaluate():
         k = 0
         correct = 0
         all_word = 0
+        wrong_word = []
         for i in range(len(labels)):
             for j in range(len(labels[i])):
                 all_word += 1
                 if(labels[i][j] == y_vector[i][j]):
                     correct +=1
                 else:
-                    if(y_vector[i][j] == 'O'):
-                        k+=1
-                        print ( x_real_vector[i][j] ,',', labels[i][j], pred[i*64+j] , ',', y_vector[i][j])
+                     print ( x_real_vector[i][j] ,',', labels[i][j], pred[i*64+j] , ',', y_vector[i][j])
+                     wrong_word.append(x_real_vector[i][j]) 
+                         
+        wrong_word = set(wrong_word)
+        print (wrong_word)
+        print (len(wrong_word))
         print (k)
         print (correct/all_word)
         print (all_word)
@@ -390,7 +392,7 @@ def token_sentence(sentence):
     real_word = []
     input_size = 64
     all_single_word = word_tokenize(sentence)
-    print (all_single_word)
+    # print (all_single_word)
     # lol
     x_one_hot_vectori = []
     if(len(all_single_word) <= input_size):
@@ -412,26 +414,19 @@ def token_sentence(sentence):
             x_one_hot_vectori.append(temp)
     x_one_hot_vector.append(x_one_hot_vectori)
     x_one_hot_vector = np.asarray(x_one_hot_vector)
-    print (x_one_hot_vector.shape)
+    # print (x_one_hot_vector.shape)
         # lol
     # x_data = [x_one_hot_vector]
     x_data = np.asarray(x_one_hot_vector)
     real_word = np.asarray(real_word)
-    print (x_data.shape)
+    # print (x_data.shape)
     # lol
-
-    num_units = [32,8]
-    embedding_dim = 50
-    epochs = 500
-    batch_size = 128
-    learning_rate = 0.2
-    file_to_save_model = 'model_saved_ver5/model' + str(input_size) + '-' + str(num_units) + '-' + str(embedding_dim) + '-' + str(batch_size)+'.meta'
 
     with tf.Session() as sess:
         
         #First let's load meta graph and restore weights
         saver = tf.train.import_meta_graph(file_to_save_model)
-        saver.restore(sess,tf.train.latest_checkpoint('model_saved_ver5/'))
+        saver.restore(sess,tf.train.latest_checkpoint(checkpoint_file))
         # Access and create placeholders variables and
         graph = tf.get_default_graph()
         
@@ -468,12 +463,58 @@ def token_sentence(sentence):
     return all_tokens
 if __name__ == '__main__':
     # tokenize_corpus()
-    # all_tokens = tokenize_corpus()
+    all_tokens = tokenize_corpus()
     # print (all_tokens)
+    for i,sentence in enumerate(all_tokens):
+        tokenized_sentence = ""
+        for j,token in enumerate(all_tokens[i]):
+            # print (token)
+            if(j != len(all_tokens[i])-1):  
+                tokenized_sentence += token + ' '
+            else:
+                tokenized_sentence += token
+        pos = ViPosTagger.postagging(tokenized_sentence)
+        print (pos)
+        
+    lol
     # with open('tokens_corpus.pkl','wb') as output:
     #         pk.dump(all_tokens,output,pk.HIGHEST_PROTOCOL)
     # # evaluate()
-    # sentence = "xem tình trạng tiền trong tài khoản của tôi"
-    # all_tokens  = token_sentence(sentence)
-    # print (all_tokens)
-    evaluate()
+    sentence = "Tôi muốn mua 100 cố phiếu ssi với giá 12.4"
+    all_tokens  = token_sentence(sentence)
+    tokenized_sentence = ""
+    print (all_tokens)
+    
+
+    for i,token in enumerate(all_tokens[0]):
+        print (token)
+        if(i != len(all_tokens[0])-1):  
+            tokenized_sentence += token + ' '
+        else:
+            tokenized_sentence += token
+    # pos = ViPosTagger()
+    print (ViTokenizer.tokenize(sentence))
+    pos = ViPosTagger.postagging(tokenized_sentence)
+    print (all_tokens)
+    print (pos)
+    # evaluate()
+
+
+# A - Adjective ------------------------------------ tính từ
+# C - Coordinating conjunction --------------------- Liên từ kết hợp 
+# E - Preposition ---------------------------------- Giới từ
+# I - Interjection --------------------------------- Thán từ
+# L - Determiner ----------------------------------- Từ hạn định
+# M - Numeral -------------------------------------- Số
+# N - Common noun ---------------------------------- Danh từ chung
+# Nc - Noun Classifier ----------------------------- Danh từ thể loại
+# Ny - Noun abbreviation --------------------------- Danh từ viết tắt
+# Np - Proper noun --------------------------------- Danh từ riêng
+# Nu - Unit noun ----------------------------------- Đơn vị
+# P - Pronoun -------------------------------------- Đại từ
+# R - Adverb --------------------------------------- Trạng từ
+# S - Subordinating conjunction -------------------- Liên từ phụ thuộc
+# T - Auxiliary, modal words ----------------------- Trợ động từ
+# V - Verb ----------------------------------------- Động từ
+# X - Unknown -------------------------------------- Không biết
+# F - Filtered out (punctuation) ------------------- Dấu câu
