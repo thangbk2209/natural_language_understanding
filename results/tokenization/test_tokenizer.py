@@ -53,16 +53,16 @@ def separate_word(tokens):
     return word_separate
 
 
-word2int, int2word = read_trained_data('word2int_ver8.pkl')
-corpus_file = '../../data/corpus.txt'
+word2int, int2word = read_trained_data('word2int_ver9.pkl')
+corpus_file = '../../data/tokenize/testFinance.txt'
 input_size = 64
 num_units = [32,4]
 embedding_dim = 50
 epochs = 500
 batch_size = 128
 learning_rate = 0.2
-file_to_save_model = 'model_saved_ver8/model' + str(input_size) + '-' + str(num_units) + '-' + str(embedding_dim) + '-' + str(batch_size)+'.meta'
-checkpoint_file = 'model_saved_ver8/'
+file_to_save_model = 'model_saved_ver9/model' + str(input_size) + '-' + str(num_units) + '-' + str(embedding_dim) + '-' + str(batch_size)+'.meta'
+checkpoint_file = 'model_saved_ver9/'
 def tokenize_corpus():
     with open(corpus_file, encoding = 'utf-8') as f:
         text = f.read().lower()
@@ -464,39 +464,39 @@ def token_sentence(sentence):
 if __name__ == '__main__':
     # tokenize_corpus()
     all_tokens = tokenize_corpus()
-    # print (all_tokens)
-    for i,sentence in enumerate(all_tokens):
-        tokenized_sentence = ""
-        for j,token in enumerate(all_tokens[i]):
-            # print (token)
-            if(j != len(all_tokens[i])-1):  
-                tokenized_sentence += token + ' '
-            else:
-                tokenized_sentence += token
-        pos = ViPosTagger.postagging(tokenized_sentence)
-        print (pos)
+    print (all_tokens)
+    # for i,sentence in enumerate(all_tokens):
+    #     tokenized_sentence = ""
+    #     for j,token in enumerate(all_tokens[i]):
+    #         # print (token)
+    #         if(j != len(all_tokens[i])-1):  
+    #             tokenized_sentence += token + ' '
+    #         else:
+    #             tokenized_sentence += token
+    #     pos = ViPosTagger.postagging(tokenized_sentence)
+    #     print (pos)
         
-    lol
+    # lol
     # with open('tokens_corpus.pkl','wb') as output:
     #         pk.dump(all_tokens,output,pk.HIGHEST_PROTOCOL)
-    # # evaluate()
-    sentence = "Tôi muốn mua 100 cố phiếu ssi với giá 12.4"
-    all_tokens  = token_sentence(sentence)
-    tokenized_sentence = ""
-    print (all_tokens)
+    # evaluate()
+    # sentence = "Tôi muốn mua 100 cố phiếu ssi với giá 12.4"
+    # all_tokens  = token_sentence(sentence)
+    # tokenized_sentence = ""
+    # print (all_tokens)
     
 
-    for i,token in enumerate(all_tokens[0]):
-        print (token)
-        if(i != len(all_tokens[0])-1):  
-            tokenized_sentence += token + ' '
-        else:
-            tokenized_sentence += token
-    # pos = ViPosTagger()
-    print (ViTokenizer.tokenize(sentence))
-    pos = ViPosTagger.postagging(tokenized_sentence)
-    print (all_tokens)
-    print (pos)
+    # for i,token in enumerate(all_tokens[0]):
+    #     print (token)
+    #     if(i != len(all_tokens[0])-1):  
+    #         tokenized_sentence += token + ' '
+    #     else:
+    #         tokenized_sentence += token
+    # # pos = ViPosTagger()
+    # print (ViTokenizer.tokenize(sentence))
+    # pos = ViPosTagger.postagging(tokenized_sentence)
+    # print (all_tokens)
+    # print (pos)
     # evaluate()
 
 

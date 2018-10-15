@@ -55486,7 +55486,7 @@ trường	I_W
 vẫn	B_W
 chưa	B_W
 thể	I_W
-khởi	O
+khởi	B_W
 sắc	I_W
 
 song	B_W
@@ -56380,7 +56380,7 @@ là	B_W
 thủ	I_W
 cạnh	B_W
 tranh	I_W
-``	B_W
+``	O
 một	B_W
 mất	B_W
 một	B_W
@@ -56563,7 +56563,7 @@ tưởng	I_W
 chờ	B_W
 đợi	I_W
 sự	B_W
-``	B_W
+``	O
 ban	B_W
 phát	I_W
 ''	O
@@ -56574,7 +56574,7 @@ xin	B_W
 cho	B_W
 ”	O
 và	B_W
-``	B_W
+``	O
 dựa	B_W
 dẫm	I_W
 ''	O
@@ -56753,7 +56753,7 @@ không	B_W
 muốn	B_W
 lớn	B_W
 
-``	B_W
+``	O
 khôn	B_W
 thì	B_W
 dựng	B_W
@@ -57002,7 +57002,7 @@ lộ	I_W
 những	B_W
 điểm	B_W
 yếu	I_W
-dù	O
+dù	B_W
 chiến	B_W
 thắng	I_W
 
@@ -57472,7 +57472,7 @@ nhiều	B_W
 khu	B_W
 tiện	B_W
 ích	I_W
-phục	O
+phục	B_W
 vụ	I_W
 nhu	B_W
 cầu	I_W
@@ -58131,7 +58131,7 @@ vụ	B_W
 nhiều	B_W
 nhưng	B_W
 ở	B_W
-``	B_W
+``	O
 người	B_W
 phán	B_W
 xử	I_W
@@ -58736,7 +58736,7 @@ phan	B_W
 thị	B_W
 và	B_W
 thế	B_W
-``	B_W
+``	O
 chột	B_W
 ''	O
 
@@ -59122,7 +59122,7 @@ sát	I_W
 đang	B_W
 thi	B_W
 hành	I_W
-nhiệm	O
+nhiệm	B_W
 vụ	I_W
 bị	B_W
 thương	B_W
@@ -60656,7 +60656,7 @@ thi	I_W
 có	B_W
 1-2	B_W
 câu	B_W
-đặc	O
+đặc	B_W
 sắc	I_W
 
 các	B_W
@@ -60839,7 +60839,7 @@ trọng	I_W
 đến	B_W
 sở	B_W
 hữu	I_W
-trí	O
+trí	B_W
 tuệ	I_W
 
 kính	B_W
@@ -61351,7 +61351,7 @@ phần	B_W
 đường	B_W
 cao	B_W
 tốc	I_W
-bắc	O
+bắc	B_W
 nam	B_W
 
 ngoài	B_W
@@ -61427,7 +61427,7 @@ trưởng	I_W
 ,	O
 ông	B_W
 kiên	B_W
-bình	O
+bình	B_W
 luận	I_W
 
 trong	B_W
