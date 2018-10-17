@@ -82,7 +82,7 @@ class Preprocess:
             int2word[np.int16(i)] = word
         print (int2word[0])
         print (int2word[10])
-        with open('../../results/tokenization/word2int_ver9.pkl','wb') as output:
+        with open('../../results/tokenization/word2int_ver11.pkl','wb') as output:
             pk.dump(word2int,output,pk.HIGHEST_PROTOCOL)
             pk.dump(int2word,output,pk.HIGHEST_PROTOCOL)
         labels = ['B_W','I_W','O']

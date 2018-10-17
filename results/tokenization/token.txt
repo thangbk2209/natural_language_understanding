@@ -1,5 +1,5 @@
 chúng	B_W
-tôi	B_W
+tôi	I_W
 điều	B_W
 chỉnh	I_W
 dự	B_W
@@ -20,7 +20,7 @@ tại	B_W
 các	B_W
 kcn	B_W
 quế	B_W
-võ	B_W
+võ	I_W
 và	B_W
 tân	B_W
 phú	I_W
@@ -58,7 +58,7 @@ duệ	B_W
 và	B_W
 kcn	B_W
 nam	B_W
-sơn	B_W
+sơn	I_W
 -	O
 hạp	B_W
 linh	B_W
@@ -91,7 +91,7 @@ năm	B_W
 2018	B_W
 đạt	B_W
 lần	B_W
-lượt	B_W
+lượt	I_W
 gần	B_W
 2.300	B_W
 tỷ	B_W
@@ -152,7 +152,7 @@ năm	B_W
 tăng	B_W
 
 chúng	B_W
-tôi	B_W
+tôi	I_W
 dự	B_W
 báo	I_W
 lnst	B_W
@@ -177,7 +177,7 @@ tăng	B_W
 so	B_W
 với	B_W
 năm	B_W
-ngoái	B_W
+ngoái	I_W
 
 yếu	B_W
 tố	I_W
@@ -257,7 +257,7 @@ năm	B_W
 2018	B_W
 bị	B_W
 chậm	B_W
-trễ	B_W
+trễ	I_W
 hoặc	B_W
 hủy	B_W
 do	B_W
@@ -278,7 +278,7 @@ phúc	B_W
 ninh	I_W
 
 ghi	B_W
-nhận	B_W
+nhận	I_W
 doanh	B_W
 số	I_W
 bán	B_W
@@ -312,7 +312,7 @@ bán	B_W
 khoảng	B_W
 19ha	B_W
 đất	B_W
-tại	B_W
+tại	I_W
 kcn	B_W
 quế	B_W
 võ	B_W
@@ -353,9 +353,9 @@ thảo	I_W
 để	B_W
 ký	B_W
 kết	I_W
-hợp	I_W
+hợp	B_W
 đồng	B_W
-bán	B_W
+bán	I_W
 thêm	B_W
 10ha	B_W
 đất	B_W
@@ -381,7 +381,7 @@ lợi	B_W
 nhuận	I_W
 trung	B_W
 hạn	I_W
-hưởng	I_W
+hưởng	B_W
 lợi	B_W
 
 do	B_W
@@ -461,7 +461,7 @@ tục	I_W
 phê	B_W
 duyệt	I_W
 cần	B_W
-thiết	B_W
+thiết	I_W
 cho	B_W
 kcn	B_W
 tràng	B_W
@@ -472,7 +472,7 @@ vốn	B_W
 quy	B_W
 hoạch	I_W
 thành	B_W
-khu	B_W
+khu	I_W
 kinh	B_W
 tế	I_W
 đặc	B_W
@@ -525,7 +525,7 @@ giai	B_W
 đoạn	I_W
 2018-2020	B_W
 trước	B_W
-đây	B_W
+đây	I_W
 của	B_W
 chúng	B_W
 tôi	I_W
@@ -640,7 +640,7 @@ lợi	I_W
 gần	B_W
 các	B_W
 cụm	B_W
-công	B_W
+công	I_W
 nghiệp	I_W
 ở	B_W
 miền	B_W
@@ -705,7 +705,7 @@ ty	I_W
 này	B_W
 
 chúng	B_W
-tôi	B_W
+tôi	I_W
 cũng	B_W
 xác	B_W
 nhận	I_W
@@ -715,7 +715,7 @@ có	B_W
 phần	B_W
 thù	I_W
 lao	B_W
-nào	I_W
+nào	B_W
 của	B_W
 chúng	B_W
 tôi	I_W
@@ -842,7 +842,7 @@ quá	B_W
 khứ	I_W
 không	B_W
 nhất	B_W
-thiết	B_W
+thiết	I_W
 sẽ	B_W
 diễn	B_W
 ra	I_W
@@ -857,7 +857,7 @@ tương	B_W
 lai	I_W
 
 tỷ	B_W
-giá	B_W
+giá	I_W
 ngoại	B_W
 tệ	I_W
 có	B_W
@@ -931,7 +931,7 @@ vực	I_W
 để	B_W
 được	B_W
 giải	B_W
-đáp	B_W
+đáp	I_W
 
 lợi	B_W
 suất	I_W
@@ -944,7 +944,7 @@ tuần	B_W
 trước	B_W
 ,	O
 chủ	B_W
-yếu	B_W
+yếu	I_W
 ở	B_W
 kỳ	B_W
 hạn	I_W
@@ -1042,10 +1042,10 @@ tỷ	B_W
 tỷ	B_W
 lệ	I_W
 thành	B_W
-công	B_W
+công	I_W
 của	B_W
 phiên	B_W
-đấu	B_W
+đấu	I_W
 thầu	B_W
 trái	B_W
 phiếu	I_W
@@ -1074,7 +1074,7 @@ nghìn	B_W
 tỷ	B_W
 đồng	B_W
 chào	B_W
-thầu	O
+thầu	I_W
 
 lãi	B_W
 suất	I_W
@@ -1176,10 +1176,10 @@ tuần	B_W
 trước	B_W
 
 tỷ	B_W
-giá	B_W
+giá	I_W
 usd/vnd	B_W
 liên	B_W
-ngân	B_W
+ngân	I_W
 hàng	I_W
 giảm	B_W
 còn	B_W
@@ -1194,7 +1194,7 @@ khi	B_W
 tỷ	B_W
 giá	I_W
 tự	B_W
-do	B_W
+do	I_W
 tăng	B_W
 lên	B_W
 23.635	B_W
@@ -1220,7 +1220,7 @@ trường	I_W
 tiền	B_W
 tệ	I_W
 tăng	B_W
-cộng	B_W
+cộng	I_W
 với	B_W
 đồng	B_W
 usd	I_W
@@ -1287,7 +1287,7 @@ với	B_W
 1	B_W
 tuần	B_W
 trước	B_W
-đó	B_W
+đó	I_W
 và	B_W
 giảm	B_W
 0,62	B_W
@@ -1324,7 +1324,7 @@ với	B_W
 1	B_W
 tuần	B_W
 trước	B_W
-đó	B_W
+đó	I_W
 và	B_W
 giảm	B_W
 0,7	B_W
@@ -1515,11 +1515,11 @@ là	B_W
 %	O
 (	O
 xấp	B_W
-xỉ	B_W
+xỉ	I_W
 1	B_W
 tuần	B_W
 trước	B_W
-đó	B_W
+đó	I_W
 )	O
 với	B_W
 chênh	B_W
@@ -1552,7 +1552,7 @@ khoảng	B_W
 %	O
 
 nghĩa	B_W
-là	B_W
+là	I_W
 giao	B_W
 dịch	I_W
 được	B_W
@@ -1561,7 +1561,7 @@ hiện	I_W
 theo	B_W
 giá	B_W
 chào	B_W
-mua	B_W
+mua	I_W
 ,	O
 cho	B_W
 thấy	I_W
@@ -1623,7 +1623,7 @@ còn	B_W
 %	O
 
 tỷ	B_W
-giá	B_W
+giá	I_W
 đã	B_W
 tăng	B_W
 liên	B_W
@@ -1699,14 +1699,14 @@ hợp	B_W
 lý	I_W
 
 chúng	B_W
-tôi	B_W
+tôi	I_W
 duy	B_W
 trì	I_W
 dự	B_W
 báo	I_W
 đến	B_W
 cuối	B_W
-năm	B_W
+năm	I_W
 lợi	B_W
 suất	I_W
 tăng	B_W
@@ -1752,7 +1752,7 @@ lên	B_W
 %	O
 
 theo	B_W
-đó	B_W
+đó	I_W
 lợi	B_W
 suất	I_W
 kỳ	B_W
@@ -1787,7 +1787,7 @@ trái	B_W
 phiếu	I_W
 ,	O
 loại	B_W
-bỏ	B_W
+bỏ	I_W
 toàn	B_W
 bộ	I_W
 giao	B_W
@@ -1811,7 +1811,7 @@ vụ	I_W
 bán	B_W
 và	B_W
 mua	B_W
-lại	B_W
+lại	I_W
 với	B_W
 kỳ	B_W
 hạn	I_W
@@ -1834,7 +1834,7 @@ do	B_W
 kỳ	B_W
 hạn	I_W
 cực	B_W
-ngắn	B_W
+ngắn	I_W
 ,	O
 nên	B_W
 chúng	B_W
@@ -2070,10 +2070,10 @@ doanh	I_W
 của	B_W
 nđt	B_W
 trong	B_W
-nước	B_W
+nước	I_W
 và	B_W
 nước	B_W
-ngoài	B_W
+ngoài	I_W
 
 giá	B_W
 trị	I_W
@@ -2149,10 +2149,10 @@ có	B_W
 dấu	B_W
 hiệu	I_W
 cho	B_W
-thấy	B_W
+thấy	I_W
 nđtnn	B_W
 bán	B_W
-ra	B_W
+ra	I_W
 
 điều	B_W
 này	B_W
@@ -2195,7 +2195,7 @@ lên	B_W
 )	O
 
 nói	B_W
-chung	B_W
+chung	I_W
 ,	O
 nđtnn	B_W
 đã	B_W
@@ -2210,7 +2210,7 @@ danh	B_W
 mục	I_W
 từ	B_W
 đầu	B_W
-năm	B_W
+năm	I_W
 (	O
 giảm	B_W
 12	B_W
@@ -2239,7 +2239,7 @@ mua	B_W
 vào	B_W
 hay	B_W
 bán	B_W
-ra	B_W
+ra	I_W
 sẽ	B_W
 ảnh	B_W
 hưởng	I_W
@@ -2282,7 +2282,7 @@ phải	B_W
 lúc	B_W
 nào	B_W
 cũng	B_W
-vậy	B_W
+vậy	I_W
 )	O
 
 do	B_W
@@ -2311,7 +2311,7 @@ sẽ	B_W
 bắt	B_W
 đầu	I_W
 bán	B_W
-ra	I_W
+ra	B_W
 mạnh	B_W
 hơn	B_W
 ,	O
@@ -2369,7 +2369,7 @@ hạn	I_W
 )	O
 
 vì	B_W
-vậy	B_W
+vậy	I_W
 khối	B_W
 lượng	I_W
 trái	B_W
@@ -2392,7 +2392,7 @@ nhiều	B_W
 trong	B_W
 các	B_W
 phiên	B_W
-đấu	B_W
+đấu	I_W
 thầu	B_W
 tpcp	B_W
 tuần	B_W
@@ -2411,7 +2411,7 @@ tổng	B_W
 khối	B_W
 lượng	I_W
 gọi	B_W
-thầu	I_W
+thầu	B_W
 là	B_W
 5,5	B_W
 nghìn	B_W
@@ -2445,7 +2445,7 @@ phát	B_W
 hành	I_W
 từ	B_W
 đầu	B_W
-năm	B_W
+năm	I_W
 là	B_W
 98,8	B_W
 nghìn	B_W
@@ -2463,7 +2463,7 @@ tpcp	B_W
 hạn	I_W
 từ	B_W
 đầu	B_W
-năm	B_W
+năm	I_W
 ,	O
 tổng	B_W
 khối	B_W
@@ -2511,7 +2511,7 @@ tín	B_W
 dụng	I_W
 từ	B_W
 đầu	B_W
-năm	B_W
+năm	I_W
 đến	B_W
 hiện	B_W
 tại	I_W
@@ -2523,7 +2523,7 @@ cân	B_W
 bằng	I_W
 của	B_W
 cung	B_W
-cầu	B_W
+cầu	I_W
 thị	B_W
 trường	I_W
 
@@ -2535,7 +2535,7 @@ nâng	B_W
 lãi	B_W
 suất	I_W
 trúng	B_W
-thầu	I_W
+thầu	B_W
 trong	B_W
 tuần	B_W
 trước	B_W
@@ -2572,7 +2572,7 @@ là	B_W
 lãi	B_W
 suất	I_W
 trúng	B_W
-thầu	I_W
+thầu	B_W
 thấp	B_W
 hơn	B_W
 nhiều	B_W
@@ -2605,13 +2605,13 @@ trên	B_W
 %	O
 
 tổng	B_W
-cộng	B_W
+cộng	I_W
 61,5	B_W
 nghìn	B_W
 tỷ	B_W
 đồng	B_W
 trúng	B_W
-thầu	I_W
+thầu	B_W
 trong	B_W
 tổng	B_W
 số	I_W
@@ -2625,7 +2625,7 @@ phát	B_W
 hành	I_W
 từ	B_W
 đầu	B_W
-năm	B_W
+năm	I_W
 được	B_W
 bán	B_W
 với	B_W
@@ -2668,10 +2668,10 @@ và	B_W
 đây	B_W
 là	B_W
 phiên	B_W
-đấu	B_W
+đấu	I_W
 thầu	B_W
 thành	B_W
-công	B_W
+công	I_W
 thứ	B_W
 ba	B_W
 trong	B_W
@@ -2779,7 +2779,7 @@ hành	I_W
 mới	B_W
 từ	B_W
 đầu	B_W
-năm	B_W
+năm	I_W
 là	B_W
 94,9	B_W
 nghìn	B_W
@@ -2823,7 +2823,7 @@ tỷ	B_W
 đồng	B_W
 
 theo	B_W
-đó	B_W
+đó	I_W
 ,	O
 khối	B_W
 lượng	I_W
@@ -2858,7 +2858,7 @@ tuần	B_W
 trước	B_W
 trong	B_W
 khi	B_W
-đó	I_W
+đó	B_W
 tổng	B_W
 khối	B_W
 lượng	I_W
@@ -2866,7 +2866,7 @@ cho	B_W
 vay	B_W
 liên	B_W
 ngân	I_W
-hàng	B_W
+hàng	I_W
 giảm	B_W
 
 theo	B_W
@@ -3050,7 +3050,7 @@ cho	B_W
 vay	B_W
 liên	B_W
 ngân	I_W
-hàng	B_W
+hàng	I_W
 cũng	B_W
 giảm	B_W
 ,	O
@@ -3074,7 +3074,7 @@ giảm	B_W
 22	B_W
 nghìn	B_W
 tỷ	B_W
-đông	B_W
+đông	I_W
 trong	B_W
 hai	B_W
 tuần	B_W
@@ -3135,10 +3135,10 @@ ngân	B_W
 hàng	I_W
 tích	B_W
 lũy	I_W
-usd	O
+usd	B_W
 
 chúng	B_W
-tôi	B_W
+tôi	I_W
 kỳ	B_W
 vọng	I_W
 nhnn	B_W
@@ -3175,7 +3175,7 @@ khi	B_W
 đó	I_W
 ,	O
 chính	B_W
-sách	B_W
+sách	I_W
 điều	B_W
 hành	I_W
 lãi	B_W
@@ -3188,7 +3188,7 @@ quả	I_W
 hơn	B_W
 
 chúng	B_W
-tôi	B_W
+tôi	I_W
 dự	B_W
 báo	I_W
 lãi	B_W
@@ -3228,7 +3228,7 @@ lại	I_W
 tỷ	B_W
 giá	I_W
 tự	B_W
-do	B_W
+do	I_W
 là	B_W
 23.635	B_W
 (	O
@@ -3256,7 +3256,7 @@ năm	I_W
 )	O
 ,	O
 nới	B_W
-rộng	B_W
+rộng	I_W
 chênh	B_W
 lệnh	I_W
 giữa	B_W
@@ -3269,7 +3269,7 @@ và	B_W
 tỷ	B_W
 giá	I_W
 tự	B_W
-do	B_W
+do	I_W
 lên	B_W
 340	B_W
 điểm	B_W
@@ -3316,7 +3316,7 @@ vượt	B_W
 mốc	B_W
 97.	B_W
 trước	B_W
-đó	B_W
+đó	I_W
 khi	B_W
 dxy	B_W
 phá	B_W
@@ -3337,7 +3337,7 @@ tiền	B_W
 đồng	B_W
 đã	B_W
 lần	B_W
-lượt	B_W
+lượt	I_W
 mất	B_W
 giá	B_W
 5	B_W
@@ -3397,7 +3397,7 @@ ngày	B_W
 31/5/2018	B_W
 ,	O
 trong	B_W
-khi	B_W
+khi	I_W
 đó	B_W
 theo	B_W
 số	B_W
@@ -3445,7 +3445,7 @@ chỉ	B_W
 là	B_W
 4	B_W
 tỷ	B_W
-usd	O
+usd	I_W
 
 nhnn	B_W
 thường	B_W
@@ -3465,7 +3465,7 @@ hối	I_W
 ctcp	B_W
 xây	B_W
 lắp	B_W
-điện	B_W
+điện	I_W
 i	I_W
 (	O
 hsx	B_W
@@ -3526,12 +3526,12 @@ i	B_W
 vị	B_W
 trí	I_W
 dẫn	B_W
-đầu	B_W
+đầu	I_W
 trong	B_W
 ngành	B_W
 xây	B_W
 lắp	B_W
-điện	B_W
+điện	I_W
 và	B_W
 sản	B_W
 xuất	I_W
@@ -3616,7 +3616,7 @@ của	B_W
 ngành	B_W
 xây	B_W
 lắp	B_W
-điện	B_W
+điện	I_W
 ,	O
 xu	B_W
 hướng	I_W
@@ -3646,12 +3646,12 @@ tư	I_W
 vị	B_W
 thế	I_W
 dẫn	B_W
-đầu	B_W
+đầu	I_W
 trong	B_W
 ngành	B_W
 xây	B_W
 lắp	B_W
-điện	B_W
+điện	I_W
 (	O
 37	B_W
 %	O
@@ -3688,10 +3688,10 @@ của	B_W
 ngành	B_W
 
 chúng	B_W
-tôi	B_W
+tôi	I_W
 không	B_W
 nhận	B_W
-thấy	B_W
+thấy	I_W
 có	B_W
 sự	B_W
 cải	B_W
@@ -3712,8 +3712,8 @@ việc	B_W
 chia	B_W
 tách	I_W
 tổng	B_W
-cục	B_W
-năng	I_W
+cục	I_W
+năng	B_W
 lượng	I_W
 đã	B_W
 thực	B_W
@@ -3722,12 +3722,12 @@ xong	B_W
 trong	B_W
 2017.	B_W
 bên	B_W
-cạnh	B_W
+cạnh	I_W
 đó	B_W
 ,	O
 biên	B_W
 lợi	I_W
-nhuận	B_W
+nhuận	I_W
 của	B_W
 ngành	B_W
 dự	B_W
@@ -3751,10 +3751,10 @@ từ	B_W
 pc1	B_W
 đã	B_W
 bắt	B_W
-đầu	B_W
+đầu	I_W
 đa	B_W
 dạng	I_W
-hóa	B_W
+hóa	I_W
 đối	B_W
 tác	I_W
 khách	B_W
@@ -3763,9 +3763,9 @@ ngoài	B_W
 evn	B_W
 ,	O
 trước	B_W
-mắt	B_W
+mắt	I_W
 tập	B_W
-trung	I_W
+trung	B_W
 đấu	I_W
 thầu	B_W
 epc	B_W
@@ -3790,7 +3790,7 @@ biên	B_W
 lợi	I_W
 nhuận	B_W
 gộp	B_W
-khá	B_W
+khá	I_W
 ổn	B_W
 định	I_W
 ở	B_W
@@ -3824,7 +3824,7 @@ dự	B_W
 phóng	I_W
 biên	B_W
 lợi	I_W
-nhuận	I_W
+nhuận	B_W
 gộp	B_W
 của	B_W
 công	B_W
@@ -3850,7 +3850,7 @@ thủy	B_W
 điện	I_W
 
 đóng	B_W
-góp	B_W
+góp	I_W
 từ	B_W
 mảng	B_W
 bđs	B_W
@@ -3928,7 +3928,7 @@ vào	B_W
 q3/2018	B_W
 
 theo	B_W
-đó	B_W
+đó	I_W
 ,	O
 giá	B_W
 mục	B_W
@@ -3948,8 +3948,8 @@ hành	I_W
 rủi	B_W
 ro	I_W
 chính	B_W
-điều	B_W
-kiện	I_W
+điều	I_W
+kiện	B_W
 thời	B_W
 tiết	I_W
 
@@ -3970,7 +3970,7 @@ hoạt	B_W
 động	I_W
 xây	B_W
 lắp	B_W
-điện	B_W
+điện	I_W
 và	B_W
 hoạt	B_W
 động	I_W
@@ -4032,7 +4032,7 @@ truyền	B_W
 tải	I_W
 điện	B_W
 trọng	I_W
-yếu	I_W
+yếu	B_W
 thường	B_W
 được	B_W
 hỗ	B_W
@@ -4123,7 +4123,7 @@ trung	B_W
 cấp	I_W
 vẫn	B_W
 tìm	B_W
-thấy	B_W
+thấy	I_W
 động	B_W
 lực	I_W
 phát	B_W
@@ -4147,7 +4147,7 @@ các	B_W
 dự	B_W
 án	I_W
 hiện	B_W
-tại	B_W
+tại	I_W
 của	B_W
 pc1	B_W
 
@@ -4156,7 +4156,7 @@ công	B_W
 suất	I_W
 lắp	B_W
 đặt	B_W
-điện	B_W
+điện	I_W
 dự	B_W
 kiến	I_W
 tăng	B_W
@@ -4168,7 +4168,7 @@ năm	B_W
 2030	B_W
 ,	O
 kéo	B_W
-theo	B_W
+theo	I_W
 nhu	B_W
 cầu	I_W
 cơ	B_W
@@ -4187,12 +4187,12 @@ phối	I_W
 
 biên	B_W
 lợi	I_W
-nhuận	B_W
+nhuận	I_W
 của	B_W
 ngành	B_W
 xây	B_W
 lắp	B_W
-điện	B_W
+điện	I_W
 có	B_W
 khả	B_W
 năng	I_W
@@ -4232,7 +4232,7 @@ trình	I_W
 truyền	B_W
 tải	I_W
 điện	B_W
-&	I_W
+&	O
 biến	B_W
 áp	I_W
 ,	O
@@ -4241,8 +4241,8 @@ theo	B_W
 đó	B_W
 ,	O
 kéo	B_W
-giá	B_W
-đấu	B_W
+giá	I_W
+đấu	I_W
 thầu	B_W
 và	B_W
 doanh	B_W
@@ -4265,7 +4265,7 @@ công	B_W
 trình	I_W
 đường	B_W
 dây	I_W
-tải	I_W
+tải	B_W
 điện	B_W
 cao	B_W
 áp	B_W
@@ -4290,10 +4290,10 @@ tại	I_W
 ,	O
 pc1	B_W
 bắt	B_W
-đầu	B_W
+đầu	I_W
 đa	B_W
 dạng	I_W
-hóa	B_W
+hóa	I_W
 đối	B_W
 tượng	I_W
 khách	B_W
@@ -4302,7 +4302,7 @@ ngoài	B_W
 evn	B_W
 ,	O
 trước	B_W
-mắt	B_W
+mắt	I_W
 tập	B_W
 trung	I_W
 vào	B_W
@@ -4324,7 +4324,7 @@ tiến	B_W
 dự	B_W
 án	I_W
 đường	B_W
-dây	B_W
+dây	I_W
 500	B_W
 kv	B_W
 mạch	B_W
@@ -4332,11 +4332,11 @@ mạch	B_W
 pc1	B_W
 đặt	B_W
 mục	B_W
-tiêu	B_W
-thắng	I_W
+tiêu	I_W
+thắng	B_W
 gói	B_W
 thầu	B_W
-trị	B_W
+trị	I_W
 giá	B_W
 600	B_W
 –	O
@@ -4365,14 +4365,14 @@ pleiku	B_W
 ”	O
 (	O
 đường	B_W
-dây	B_W
+dây	I_W
 500	B_W
 kv	B_W
 mạch	B_W
 3	B_W
 với	B_W
 tổng	B_W
-vốn	B_W
+vốn	I_W
 dự	B_W
 kiến	I_W
 10.400	B_W
@@ -4381,7 +4381,7 @@ tỷ	B_W
 )	O
 
 quá	B_W
-trình	B_W
+trình	I_W
 thẩm	B_W
 định	I_W
 các	B_W
@@ -4405,7 +4405,7 @@ cơ	B_W
 cấu	I_W
 trong	B_W
 bộ	B_W
-công	B_W
+công	I_W
 thương	I_W
 
 công	B_W
@@ -4449,7 +4449,7 @@ với	B_W
 dự	B_W
 án	I_W
 đường	B_W
-dây	B_W
+dây	I_W
 500	B_W
 kv	B_W
 mạch	B_W
@@ -4473,7 +4473,7 @@ hoãn	I_W
 q3/2019	B_W
 
 chúng	B_W
-tôi	B_W
+tôi	I_W
 dự	B_W
 phóng	I_W
 doanh	B_W
@@ -4482,7 +4482,7 @@ hoạt	B_W
 động	I_W
 xây	B_W
 lắp	B_W
-điện	B_W
+điện	I_W
 của	B_W
 pc1	B_W
 2018	B_W
@@ -4535,7 +4535,7 @@ từ	B_W
 dự	B_W
 án	I_W
 đường	B_W
-dây	B_W
+dây	I_W
 500	B_W
 kv	B_W
 mạch	B_W
@@ -4578,7 +4578,7 @@ tỷ	B_W
 đồng/năm	B_W
 
 chúng	B_W
-tôi	B_W
+tôi	I_W
 dự	B_W
 phóng	I_W
 biên	B_W
@@ -4604,8 +4604,8 @@ vọng	I_W
 mảng	B_W
 xây	B_W
 lắp	B_W
-điện	B_W
-đóng	I_W
+điện	I_W
+đóng	B_W
 góp	I_W
 khoảng	B_W
 51	B_W
@@ -4632,11 +4632,11 @@ chuyển	B_W
 nhượng	I_W
 bất	B_W
 động	I_W
-sản	B_W
+sản	I_W
 )	O
 
 chúng	B_W
-tôi	B_W
+tôi	I_W
 dự	B_W
 báo	I_W
 xu	B_W
@@ -4658,7 +4658,7 @@ hoạt	B_W
 động	I_W
 xây	B_W
 lắp	B_W
-điện	B_W
+điện	I_W
 với	B_W
 các	B_W
 yếu	B_W
@@ -4698,7 +4698,7 @@ chuyển	B_W
 nhượng	I_W
 bất	B_W
 động	I_W
-sản	B_W
+sản	I_W
 )	O
 
 về	B_W
@@ -4734,14 +4734,14 @@ chế	B_W
 tạo	I_W
 cột	B_W
 thép	B_W
-đông	B_W
+đông	I_W
 anh	B_W
 –	O
 sẽ	B_W
 giúp	B_W
 pc1	B_W
 mở	B_W
-rộng	B_W
+rộng	I_W
 sang	B_W
 thị	B_W
 trường	I_W
@@ -4811,7 +4811,7 @@ tăng	B_W
 lợi	B_W
 nhuận	I_W
 gộp	B_W
-47	B_W
+47	I_W
 %	O
 trong	B_W
 2018	B_W
@@ -4843,7 +4843,7 @@ xuất	I_W
 điện	B_W
 đạt	B_W
 lần	B_W
-lượt	B_W
+lượt	I_W
 135	B_W
 %	O
 và	B_W
@@ -4865,16 +4865,16 @@ và	B_W
 dự	B_W
 phóng	I_W
 cả	B_W
-năm	B_W
+năm	I_W
 của	B_W
 chúng	B_W
 tôi	I_W
 
 theo	B_W
-đó	B_W
+đó	I_W
 ,	O
 chúng	B_W
-tôi	B_W
+tôi	I_W
 dự	B_W
 phóng	I_W
 doanh	B_W
@@ -4884,7 +4884,7 @@ lợi	B_W
 nhuận	I_W
 gộp	B_W
 tăng	I_W
-trưởng	I_W
+trưởng	B_W
 19	B_W
 %	O
 trong	B_W
@@ -4901,8 +4901,8 @@ kỳ	B_W
 
 các	B_W
 nhà	B_W
-máy	B_W
-thủy	I_W
+máy	I_W
+thủy	B_W
 điện	I_W
 có	B_W
 công	B_W
@@ -4918,7 +4918,7 @@ bán	B_W
 theo	B_W
 “	O
 biểu	B_W
-giá	B_W
+giá	I_W
 chi	B_W
 phí	I_W
 tránh	B_W
@@ -4938,7 +4938,7 @@ gia	I_W
 thị	B_W
 trường	I_W
 phát	B_W
-điện	B_W
+điện	I_W
 cạnh	B_W
 tranh	I_W
 với	B_W
@@ -4957,7 +4957,7 @@ rằng	I_W
 điều	B_W
 này	B_W
 đem	B_W
-lại	B_W
+lại	I_W
 cơ	B_W
 hội	I_W
 nhiều	B_W
@@ -4985,11 +4985,11 @@ nhiệt	B_W
 điện	I_W
 
 chúng	B_W
-tôi	B_W
+tôi	I_W
 dự	B_W
 phóng	I_W
 giá	B_W
-bán	B_W
+bán	I_W
 điện	B_W
 của	B_W
 nhà	B_W
@@ -5040,11 +5040,11 @@ biên	B_W
 lợi	I_W
 nhuận	B_W
 gộp	B_W
-nhóm	B_W
+nhóm	I_W
 thủy	B_W
 điện	I_W
 ước	B_W
-giảm	B_W
+giảm	I_W
 về	B_W
 51	B_W
 %	O
@@ -5113,8 +5113,8 @@ bình	I_W
 ngành	B_W
 
 đóng	B_W
-góp	B_W
-tích	I_W
+góp	I_W
+tích	B_W
 cực	I_W
 từ	B_W
 các	B_W
@@ -5146,7 +5146,7 @@ chuyển	B_W
 nhượng	I_W
 bất	B_W
 động	I_W
-sản	B_W
+sản	I_W
 2018	B_W
 ước	B_W
 ghi	B_W
@@ -5160,7 +5160,7 @@ với	B_W
 không	B_W
 có	B_W
 đóng	B_W
-góp	B_W
+góp	I_W
 trong	B_W
 2017	B_W
 )	O
@@ -5168,7 +5168,7 @@ từ	B_W
 dự	B_W
 án	I_W
 mỹ	B_W
-đình	B_W
+đình	I_W
 plaza	B_W
 2.	B_W
 pc1	B_W
@@ -5215,7 +5215,7 @@ trong	B_W
 q3/2018	B_W
 
 chúng	B_W
-tôi	B_W
+tôi	I_W
 dự	B_W
 phóng	I_W
 dự	B_W
@@ -5305,7 +5305,7 @@ triệu	B_W
 đồng/m2	B_W
 
 chúng	B_W
-tôi	B_W
+tôi	I_W
 nhận	B_W
 định	I_W
 nhu	B_W
@@ -5318,19 +5318,19 @@ trung	B_W
 cấp	I_W
 sẽ	B_W
 tạo	B_W
-tác	B_W
+tác	I_W
 động	I_W
 tốt	B_W
 đến	B_W
 khả	B_W
 năng	I_W
 bán	B_W
-hàng	B_W
+hàng	I_W
 của	B_W
 dự	B_W
 án	I_W
 mỹ	B_W
-đình	B_W
+đình	I_W
 plaza	B_W
 2	B_W
 và	B_W
@@ -5435,7 +5435,7 @@ quý	B_W
 trước	B_W
 
 nhìn	B_W
-chung	B_W
+chung	I_W
 ,	O
 cbre	B_W
 dự	B_W
@@ -5477,8 +5477,8 @@ cấp	I_W
 rủi	B_W
 ro	I_W
 chính	B_W
-điều	B_W
-kiện	I_W
+điều	I_W
+kiện	B_W
 thời	B_W
 tiết	I_W
 
@@ -5486,7 +5486,7 @@ hoạt	B_W
 động	I_W
 xây	B_W
 lắp	B_W
-điện	B_W
+điện	I_W
 của	B_W
 pc1	B_W
 thường	B_W
@@ -5508,7 +5508,7 @@ cả	B_W
 nước	B_W
 
 vì	B_W
-vậy	B_W
+vậy	I_W
 ,	O
 điều	B_W
 kiện	I_W
@@ -5697,7 +5697,7 @@ trung	B_W
 cấp	I_W
 vẫn	B_W
 tìm	B_W
-thấy	B_W
+thấy	I_W
 động	B_W
 lực	I_W
 phát	B_W
@@ -5721,7 +5721,7 @@ các	B_W
 dự	B_W
 án	I_W
 hiện	B_W
-tại	B_W
+tại	I_W
 của	B_W
 pc1	B_W
 
@@ -5734,12 +5734,12 @@ khả	B_W
 quan	I_W
 với	B_W
 giá	B_W
-mục	B_W
+mục	I_W
 tiêu	I_W
 37.300	B_W
 đồng/cổ	B_W
 phiếu	B_W
-chúng	B_W
+chúng	I_W
 tôi	B_W
 khuyến	B_W
 nghị	I_W
@@ -5784,7 +5784,7 @@ trong	B_W
 q3/2018	B_W
 
 theo	B_W
-đó	B_W
+đó	I_W
 ,	O
 giá	B_W
 mục	B_W
@@ -5807,7 +5807,7 @@ hành	I_W
 trên	B_W
 
 chúng	B_W
-tôi	B_W
+tôi	I_W
 dự	B_W
 phóng	I_W
 kết	B_W
@@ -5835,7 +5835,7 @@ của	B_W
 mảng	B_W
 xây	B_W
 lắp	B_W
-điện	B_W
+điện	I_W
 và	B_W
 sản	B_W
 xuất	I_W
@@ -5859,7 +5859,7 @@ và	B_W
 iii	B_W
 )	O
 đóng	B_W
-góp	B_W
+góp	I_W
 tích	B_W
 cực	I_W
 từ	B_W
@@ -5890,12 +5890,12 @@ như	B_W
 mảng	B_W
 xây	B_W
 lắp	B_W
-điện	B_W
+điện	I_W
 
 dự	B_W
 án	I_W
 mỹ	B_W
-đình	B_W
+đình	I_W
 plaza	B_W
 2	B_W
 và	B_W
@@ -5903,9 +5903,9 @@ thanh	B_W
 xuân	I_W
 ước	B_W
 đem	B_W
-lại	B_W
+lại	I_W
 lần	B_W
-lượt	B_W
+lượt	I_W
 1.100	B_W
 tỷ	B_W
 đồng	B_W
@@ -5944,7 +5944,7 @@ dự	B_W
 mới	B_W
 
 theo	B_W
-đó	B_W
+đó	I_W
 công	B_W
 ty	I_W
 đã	B_W
@@ -6007,7 +6007,7 @@ trưởng	I_W
 )	O
 
 chúng	B_W
-tôi	B_W
+tôi	I_W
 ước	B_W
 tính	I_W
 giá	B_W
@@ -6049,7 +6049,7 @@ mua	B_W
 vào	B_W
 
 theo	B_W
-đó	B_W
+đó	I_W
 công	B_W
 ty	I_W
 đa	B_W
@@ -6086,7 +6086,7 @@ mua	B_W
 vào	B_W
 
 chúng	B_W
-tôi	B_W
+tôi	I_W
 ước	B_W
 tính	I_W
 giá	B_W
@@ -6138,7 +6138,7 @@ ngành	B_W
 quảng	B_W
 cáo	I_W
 &	O
-marketing	B_W
+marketing	I_W
 nên	B_W
 60-70	B_W
 %	O
@@ -6166,7 +6166,7 @@ cho	B_W
 các	B_W
 chiến	B_W
 dịch	I_W
-marketing	B_W
+marketing	I_W
 để	B_W
 chuẩn	B_W
 bị	I_W
@@ -6174,12 +6174,12 @@ cho	B_W
 các	B_W
 dịp	B_W
 lễ	B_W
-tết	B_W
+tết	I_W
 sắp	B_W
 tới	B_W
 
 chúng	B_W
-tôi	B_W
+tôi	I_W
 dự	B_W
 báo	I_W
 lnst	B_W
@@ -6251,7 +6251,7 @@ góp	I_W
 %	O
 doanh	B_W
 thu	I_W
-thuần	I_W
+thuần	B_W
 
 doanh	B_W
 thu	I_W
@@ -6279,12 +6279,12 @@ góp	I_W
 %	O
 doanh	B_W
 thu	I_W
-thuần	I_W
+thuần	B_W
 
 lợi	B_W
 nhuận	I_W
 gộp	B_W
-từ	B_W
+từ	I_W
 quảng	B_W
 cáo	I_W
 trên	B_W
@@ -6309,13 +6309,13 @@ suất	I_W
 lợi	B_W
 nhuận	I_W
 gộp	B_W
-đạt	B_W
+đạt	I_W
 39,2	B_W
 %	O
 (	O
 cùng	B_W
 kỳ	B_W
-năm	B_W
+năm	I_W
 2017	B_W
 là	B_W
 24,4	B_W
@@ -6325,7 +6325,7 @@ là	B_W
 lợi	B_W
 nhuận	I_W
 gộp	B_W
-từ	B_W
+từ	I_W
 quảng	B_W
 cáo	I_W
 &	O
@@ -6345,13 +6345,13 @@ suất	I_W
 lợi	B_W
 nhuận	I_W
 gộp	B_W
-đạt	B_W
+đạt	I_W
 40,4	B_W
 %	O
 (	O
 cùng	B_W
 kỳ	B_W
-năm	B_W
+năm	I_W
 2017	B_W
 là	B_W
 45,1	B_W
@@ -6522,7 +6522,7 @@ sẽ	B_W
 đạt	B_W
 doanh	B_W
 thu	I_W
-thuần	I_W
+thuần	B_W
 2.344	B_W
 tỷ	B_W
 đồng	B_W
@@ -6555,7 +6555,7 @@ dự	B_W
 báo	I_W
 của	B_W
 chúng	B_W
-tôi	B_W
+tôi	I_W
 dựa	B_W
 trên	B_W
 những	B_W
@@ -6618,7 +6618,7 @@ tỷ	B_W
 đồng	B_W
 
 chúng	B_W
-tôi	B_W
+tôi	I_W
 dự	B_W
 báo	I_W
 lợi	B_W
@@ -6641,7 +6641,7 @@ suất	I_W
 lợi	B_W
 nhuận	I_W
 gộp	B_W
-đạt	B_W
+đạt	I_W
 25,2	B_W
 %	O
 trong	B_W
@@ -6666,7 +6666,7 @@ quản	B_W
 lý/	B_W
 doanh	B_W
 thu	I_W
-thuần	I_W
+thuần	B_W
 giảm	B_W
 xuống	B_W
 10,3	B_W
@@ -6713,7 +6713,7 @@ là	B_W
 đồng	B_W
 
 theo	B_W
-đó	B_W
+đó	I_W
 p/e	B_W
 dự	B_W
 phóng	I_W
@@ -6727,7 +6727,7 @@ năm	B_W
 2019	B_W
 ,	O
 chúng	B_W
-tôi	B_W
+tôi	I_W
 dự	B_W
 báo	I_W
 lnst	B_W
@@ -6753,7 +6753,7 @@ hsc	B_W
 dự	B_W
 báo	I_W
 doanh	B_W
-thu	I_W
+thu	B_W
 thuần	I_W
 đạt	B_W
 3.650	B_W
@@ -6826,14 +6826,14 @@ tỷ	B_W
 đồng	B_W
 
 chúng	B_W
-tôi	B_W
+tôi	I_W
 dự	B_W
 báo	I_W
 lợi	B_W
 nhuận	I_W
 gộp	B_W
-tăng	B_W
-trưởng	I_W
+tăng	I_W
+trưởng	B_W
 42,7	B_W
 %	O
 đạt	B_W
@@ -6848,7 +6848,7 @@ suất	I_W
 lợi	B_W
 nhuận	I_W
 gộp	B_W
-đạt	B_W
+đạt	I_W
 23,1	B_W
 %	O
 
@@ -6868,12 +6868,12 @@ là	B_W
 %	O
 
 theo	B_W
-đó	B_W
+đó	I_W
 ,	O
 chúng	B_W
-tôi	B_W
+tôi	I_W
 dư	B_W
-báo	B_W
+báo	I_W
 lnst	B_W
 của	B_W
 cổ	B_W
@@ -6898,7 +6898,7 @@ là	B_W
 đồng	B_W
 
 theo	B_W
-đó	B_W
+đó	I_W
 ,	O
 p/e	B_W
 dự	B_W
@@ -6930,7 +6930,7 @@ lượng	I_W
 giao	B_W
 dịch	I_W
 hàng	B_W
-ngày	B_W
+ngày	I_W
 –	O
 công	B_W
 ty	I_W
@@ -6951,7 +6951,7 @@ kể	I_W
 thanh	B_W
 khoản	I_W
 hàng	B_W
-ngày	B_W
+ngày	I_W
 của	B_W
 cổ	B_W
 phiếu	I_W
@@ -6974,10 +6974,10 @@ vào	B_W
 26/6/2018	B_W
 ,	O
 room	B_W
-nước	B_W
+nước	I_W
 ngoài	I_W
 đa	B_W
-chạm	B_W
+chạm	I_W
 trần	B_W
 49	B_W
 %	O
@@ -7062,7 +7062,7 @@ khá	B_W
 thấp	B_W
 
 nguyên	B_W
-nhân	B_W
+nhân	I_W
 có	B_W
 thể	I_W
 là	B_W
@@ -7099,7 +7099,7 @@ lên	B_W
 %	O
 
 chúng	B_W
-tôi	B_W
+tôi	I_W
 ước	B_W
 tính	I_W
 giá	B_W
@@ -7141,11 +7141,11 @@ là	B_W
 doanh	B_W
 nghiệp	I_W
 dẫn	B_W
-đầu	B_W
+đầu	I_W
 thị	B_W
 trường	I_W
 truyền	B_W
-thông	I_W
+thông	B_W
 số	I_W
 và	B_W
 quảng	B_W
@@ -7267,7 +7267,7 @@ a	B_W
 giảm	B_W
 bớt	B_W
 nỗi	B_W
-lo	B_W
+lo	I_W
 về	B_W
 chiến	B_W
 tranh	I_W
@@ -7316,7 +7316,7 @@ quốc	I_W
 ngày	B_W
 16/8	B_W
 cho	B_W
-biết	B_W
+biết	I_W
 bắc	B_W
 kinh	B_W
 sẽ	B_W
@@ -7330,7 +7330,7 @@ với	B_W
 washington	B_W
 vào	B_W
 cuối	B_W
-tháng	B_W
+tháng	I_W
 này	B_W
 ,	O
 trong	B_W
@@ -7376,7 +7376,7 @@ trong	B_W
 2	B_W
 phiên	B_W
 cuối	B_W
-tuần	B_W
+tuần	I_W
 nhờ	B_W
 kết	B_W
 quả	I_W
@@ -7395,20 +7395,20 @@ bố	I_W
 và	B_W
 nỗi	B_W
 lo	I_W
-chiến	I_W
+chiến	B_W
 tranh	I_W
 thương	B_W
 mại	I_W
 leo	B_W
 thang	I_W
 giảm	B_W
-bớt	O
+bớt	I_W
 
 kết	B_W
 thúc	I_W
 phiên	B_W
 cuối	B_W
-tuần	B_W
+tuần	I_W
 ,	O
 chỉ	B_W
 số	I_W
@@ -7428,7 +7428,7 @@ lên	B_W
 điểm	B_W
 ,	O
 ghi	B_W
-dấu	B_W
+dấu	I_W
 mức	B_W
 cao	B_W
 nhất	B_W
@@ -7472,7 +7472,7 @@ thêm	B_W
 %	O
 )	O
 đóng	B_W
-cửa	B_W
+cửa	I_W
 ở	B_W
 mức	B_W
 7.816,33	B_W
@@ -7535,7 +7535,7 @@ trong	B_W
 những	B_W
 phiên	B_W
 cuối	B_W
-tuần	B_W
+tuần	I_W
 nhờ	B_W
 thông	B_W
 tin	I_W
@@ -7548,12 +7548,12 @@ và	B_W
 trung	B_W
 quốc	I_W
 nối	B_W
-lại	I_W
+lại	B_W
 đàm	B_W
 phán	I_W
 vào	B_W
 cuối	B_W
-tháng	B_W
+tháng	I_W
 8/2018	B_W
 thì	B_W
 sắc	B_W
@@ -7594,7 +7594,7 @@ nổi	B_W
 và	B_W
 100	B_W
 triệu	B_W
-usd	I_W
+usd	B_W
 khỏi	B_W
 thị	B_W
 trường	I_W
@@ -7614,7 +7614,7 @@ tập	B_W
 trung	I_W
 ở	B_W
 nam	B_W
-phi	B_W
+phi	I_W
 và	B_W
 trung	B_W
 quốc	I_W
@@ -7651,9 +7651,9 @@ hạn	B_W
 chế	I_W
 
 đồng	B_W
-nhân	B_W
+nhân	I_W
 dân	I_W
-tệ	I_W
+tệ	B_W
 hiện	B_W
 đang	B_W
 bị	B_W
@@ -7675,7 +7675,7 @@ tháng	B_W
 ,	O
 đồng	B_W
 nhân	I_W
-dân	I_W
+dân	B_W
 tệ	I_W
 đã	B_W
 rớt	B_W
@@ -7738,7 +7738,7 @@ tuy	B_W
 nhiên	I_W
 ,	O
 chỉ	B_W
-số	B_W
+số	I_W
 này	B_W
 tiếp	B_W
 tục	I_W
@@ -7758,7 +7758,7 @@ vọt	B_W
 %	O
 từ	B_W
 đầu	B_W
-năm	B_W
+năm	I_W
 đến	B_W
 nay	B_W
 
@@ -7784,7 +7784,7 @@ dịch	I_W
 đạm	I_W
 từ	B_W
 đầu	B_W
-tuần	B_W
+tuần	I_W
 đã	B_W
 khiến	B_W
 thị	B_W
@@ -7807,8 +7807,8 @@ hoảng	I_W
 tài	B_W
 chính	I_W
 tại	B_W
-thổ	B_W
-nhĩ	I_W
+thổ	I_W
+nhĩ	B_W
 kỳ	B_W
 và	B_W
 những	B_W
@@ -7835,7 +7835,7 @@ nhiên	B_W
 liệu	I_W
 ,	O
 qua	B_W
-đó	B_W
+đó	I_W
 gây	B_W
 sức	B_W
 ép	I_W
@@ -7857,7 +7857,7 @@ ngân	B_W
 hàng	I_W
 commerzbank	B_W
 nhận	B_W
-định	B_W
+định	I_W
 giữa	B_W
 lúc	B_W
 mùa	B_W
@@ -7913,7 +7913,7 @@ thể	I_W
 là	B_W
 lệnh	B_W
 cấm	B_W
-vận	B_W
+vận	I_W
 của	B_W
 mỹ	B_W
 đối	B_W
@@ -7927,7 +7927,7 @@ của	B_W
 iran	B_W
 ,	O
 bắt	B_W
-đầu	B_W
+đầu	I_W
 có	B_W
 hiệu	B_W
 lực	I_W
@@ -7943,7 +7943,7 @@ cung	B_W
 sản	B_W
 lượng	I_W
 dầu	B_W
-tại	B_W
+tại	I_W
 libya	B_W
 được	B_W
 dự	B_W
@@ -7968,7 +7968,7 @@ do	B_W
 sản	B_W
 lượng	I_W
 tại	B_W
-mỏ	B_W
+mỏ	I_W
 dầu	B_W
 lớn	B_W
 nhất	B_W
@@ -7984,7 +7984,7 @@ thường	I_W
 
 trong	B_W
 tuần	B_W
-qua	B_W
+qua	I_W
 ,	O
 giá	B_W
 dầu	B_W
@@ -8019,8 +8019,8 @@ năm	B_W
 mặc	B_W
 dù	I_W
 giá	B_W
-kim	B_W
-loại	I_W
+kim	I_W
+loại	B_W
 quý	B_W
 đã	B_W
 phục	B_W
@@ -8029,7 +8029,7 @@ nhẹ	B_W
 trong	B_W
 phiên	B_W
 cuối	B_W
-tuần	B_W
+tuần	I_W
 ,	O
 song	B_W
 vàng	B_W
@@ -8051,7 +8051,7 @@ thông	B_W
 thường	I_W
 ,	O
 giới	B_W
-đầu	B_W
+đầu	I_W
 tư	I_W
 sẽ	B_W
 tìm	B_W
@@ -8062,7 +8062,7 @@ một	B_W
 ``	O
 kênh	B_W
 trú	B_W
-ẩn	B_W
+ẩn	I_W
 an	B_W
 toàn	I_W
 ''	O
@@ -8077,14 +8077,14 @@ năm	B_W
 nay	B_W
 ,	O
 kim	B_W
-loại	B_W
+loại	I_W
 quý	B_W
 này	B_W
 đã	B_W
 không	B_W
 được	B_W
 hưởng	B_W
-lợi	B_W
+lợi	I_W
 từ	B_W
 diễn	B_W
 biến	I_W
@@ -8117,7 +8117,7 @@ sắc	I_W
 trong	B_W
 phiên	B_W
 cuối	B_W
-tuần	B_W
+tuần	I_W
 khi	B_W
 chỉ	B_W
 số	I_W
@@ -8134,13 +8134,13 @@ giao	B_W
 dịch	I_W
 ngày	B_W
 thứ	B_W
-sáu	B_W
+sáu	I_W
 ,	O
 hợp	B_W
 đồng	I_W
 vàng	B_W
 giao	B_W
-tháng	B_W
+tháng	I_W
 12	B_W
 tăng	B_W
 20	B_W
@@ -8160,7 +8160,7 @@ tuần	B_W
 này	B_W
 ,	O
 đánh	B_W
-dấu	B_W
+dấu	I_W
 tuần	B_W
 sụt	B_W
 giảm	I_W
@@ -8233,7 +8233,7 @@ cổ	B_W
 phiếu	I_W
 bluechips	B_W
 trong	B_W
-đó	B_W
+đó	I_W
 nổi	B_W
 bật	I_W
 là	B_W
@@ -8286,7 +8286,7 @@ tỷ	B_W
 của	B_W
 tuần	B_W
 trước	B_W
-đó	I_W
+đó	B_W
 
 trong	B_W
 tuần	B_W
@@ -8305,7 +8305,7 @@ tin	I_W
 tác	B_W
 động	I_W
 bên	B_W
-ngoài	B_W
+ngoài	I_W
 khi	B_W
 căng	B_W
 thẳng	I_W
@@ -8313,7 +8313,7 @@ thương	B_W
 mại	I_W
 đang	B_W
 biến	B_W
-chuyển	B_W
+chuyển	I_W
 theo	B_W
 chiều	B_W
 hướng	I_W
@@ -8332,9 +8332,9 @@ phán	I_W
 để	B_W
 giải	B_W
 quyết	I_W
-tranh	I_W
-chấp	B_W
-thương	I_W
+tranh	B_W
+chấp	I_W
+thương	B_W
 mại	I_W
 trước	B_W
 tháng	B_W
@@ -8395,7 +8395,7 @@ do	B_W
 ,	O
 mức	B_W
 hồi	B_W
-phục	I_W
+phục	B_W
 hiện	I_W
 tại	B_W
 đang	B_W
@@ -8479,12 +8479,12 @@ này	B_W
 khả	B_W
 năng	I_W
 chỉ	B_W
-số	B_W
+số	I_W
 có	B_W
 thể	I_W
 có	B_W
 nhịp	B_W
-phục	B_W
+phục	I_W
 hồi	I_W
 có	B_W
 khuynh	B_W
@@ -8497,7 +8497,7 @@ tới	B_W
 các	B_W
 vùng	B_W
 kháng	B_W
-cự	I_W
+cự	B_W
 mạnh	I_W
 980	B_W
 điểm	B_W
@@ -8535,7 +8535,7 @@ với	B_W
 diễn	B_W
 biến	I_W
 tỷ	B_W
-giá	B_W
+giá	I_W
 đang	B_W
 khá	B_W
 căng	B_W
@@ -8547,23 +8547,23 @@ tệ	I_W
 tiếp	B_W
 tục	I_W
 mất	B_W
-giá	B_W
+giá	I_W
 trước	B_W
 áp	B_W
 lực	I_W
 tăng	B_W
 giá	B_W
-mạnh	B_W
+mạnh	I_W
 của	B_W
 usd	B_W
 index	B_W
 
 tỷ	B_W
-giá	B_W
+giá	I_W
 thị	B_W
 trường	I_W
 tự	B_W
-do	B_W
+do	I_W
 đang	B_W
 tăng	B_W
 và	B_W
@@ -8592,13 +8592,13 @@ hợp	I_W
 diễn	B_W
 biến	I_W
 tỷ	B_W
-giá	B_W
+giá	I_W
 biến	B_W
 động	I_W
 ngoài	B_W
 mong	B_W
 đợi	I_W
-&	I_W
+&	O
 nđtnn	B_W
 tiếp	B_W
 tục	I_W
@@ -8660,7 +8660,7 @@ bản	I_W
 này	B_W
 ,	O
 xem	B_W
-xét	B_W
+xét	I_W
 mua	B_W
 vào	B_W
 với	B_W
@@ -8686,11 +8686,11 @@ cao	B_W
 chốt	B_W
 lời	I_W
 dần	B_W
-tại	B_W
+tại	I_W
 các	B_W
 vùng	B_W
 kháng	B_W
-cự	B_W
+cự	I_W
 mạnh	I_W
 
 hiện	B_W
@@ -8721,7 +8721,7 @@ các	B_W
 phiên	B_W
 tăng	B_W
 điểm	B_W
-kèm	B_W
+kèm	I_W
 sau	B_W
 đó	B_W
 là	B_W
@@ -8743,7 +8743,7 @@ bản	I_W
 3-	B_W
 chỉ	B_W
 số	I_W
-xuyên	B_W
+xuyên	I_W
 qua	B_W
 vùng	B_W
 hỗ	B_W
@@ -8758,7 +8758,7 @@ xấu	B_W
 )	O
 :	O
 kịch	B_W
-bản	B_W
+bản	I_W
 xấu	B_W
 được	B_W
 kích	B_W
@@ -8766,7 +8766,7 @@ hoạt	I_W
 trong	B_W
 trường	B_W
 hợp	I_W
-ttck	B_W
+ttck	I_W
 thế	B_W
 giới	I_W
 và	B_W
@@ -8833,7 +8833,7 @@ tuần	B_W
 tương	B_W
 ứng	I_W
 quanh	B_W
-mốc	B_W
+mốc	I_W
 800-850	B_W
 điểm	B_W
 sẽ	B_W
@@ -8863,7 +8863,7 @@ vào	B_W
 khi	B_W
 vn-index	B_W
 giảm	B_W
-xuyên	B_W
+xuyên	I_W
 qua	B_W
 vùng	B_W
 850	B_W
@@ -8874,8 +8874,8 @@ thời	B_W
 điểm	I_W
 giải	B_W
 ngân	I_W
-thích	I_W
-hợp	I_W
+thích	B_W
+hợp	B_W
 ở	B_W
 các	B_W
 ngưỡng	B_W
@@ -8905,7 +8905,7 @@ có	B_W
 tín	B_W
 hiệu	I_W
 tạo	B_W
-đáy	B_W
+đáy	I_W
 ở	B_W
 vùng	B_W
 hỗ	B_W
@@ -8927,10 +8927,10 @@ thanh	B_W
 khoản	I_W
 và	B_W
 điểm	B_W
-số	B_W
+số	I_W
 hồi	B_W
 phục	I_W
-tích	I_W
+tích	B_W
 cực	I_W
 
 phòng	B_W
@@ -8945,7 +8945,7 @@ hơn	B_W
 có	B_W
 thể	I_W
 xem	B_W
-xét	B_W
+xét	I_W
 giải	B_W
 ngân	B_W
 theo	I_W
@@ -8954,10 +8954,10 @@ giai	B_W
 và	B_W
 chia	B_W
 tỷ	B_W
-trọng	B_W
-dải	I_W
+trọng	I_W
+dải	B_W
 ngân	B_W
-từng	B_W
+từng	I_W
 phần	B_W
 theo	B_W
 danh	B_W
@@ -8986,7 +8986,7 @@ trường	I_W
 vừa	B_W
 qua	B_W
 cho	B_W
-thấy	I_W
+thấy	B_W
 sự	B_W
 khởi	B_W
 sắc	I_W
@@ -9014,7 +9014,7 @@ tuần	B_W
 trước	B_W
 
 theo	B_W
-đó	B_W
+đó	I_W
 ,	O
 klgd	B_W
 trung	B_W
@@ -9049,7 +9049,7 @@ nhà	B_W
 tư	I_W
 dần	B_W
 chuyển	B_W
-hướng	B_W
+hướng	I_W
 quan	B_W
 tâm	I_W
 sang	B_W
@@ -9121,7 +9121,7 @@ mệnh	B_W
 giá	I_W
 ,	O
 thành	B_W
-tích	B_W
+tích	I_W
 tuần	B_W
 này	B_W
 đạt	B_W
@@ -9172,7 +9172,7 @@ trong	B_W
 ba	B_W
 phiên	B_W
 đầu	B_W
-tuần	B_W
+tuần	I_W
 chứng	B_W
 kiến	I_W
 sự	B_W
@@ -9215,7 +9215,7 @@ sở	I_W
 hai	B_W
 phiên	B_W
 cuối	B_W
-tuần	B_W
+tuần	I_W
 lại	B_W
 gây	B_W
 nhiều	B_W
@@ -9230,7 +9230,7 @@ các	B_W
 cú	B_W
 đảo	I_W
 chiều	B_W
-ngoạn	I_W
+ngoạn	B_W
 mục	I_W
 
 chính	B_W
@@ -9246,7 +9246,7 @@ gây	B_W
 tâm	B_W
 lý	I_W
 khó	B_W
-chịu	B_W
+chịu	I_W
 và	B_W
 nhiều	B_W
 rung	B_W
@@ -9306,16 +9306,16 @@ dịch	I_W
 ảm	B_W
 đạm	I_W
 trước	B_W
-đó	B_W
+đó	I_W
 
 đến	B_W
 cuối	B_W
-tuần	B_W
+tuần	I_W
 này	B_W
 ,	O
 nhìn	B_W
 chung	B_W
-giá	B_W
+giá	I_W
 các	B_W
 hợp	B_W
 đồng	I_W
@@ -9352,7 +9352,7 @@ tăng	B_W
 so	B_W
 với	B_W
 cuối	B_W
-tuần	B_W
+tuần	I_W
 trước	B_W
 và	B_W
 chênh	B_W
@@ -9395,7 +9395,7 @@ rất	B_W
 nhẹ	B_W
 0,3	B_W
 điểm	B_W
-lùi	B_W
+lùi	I_W
 về	B_W
 mức	B_W
 944,3	B_W
@@ -9502,8 +9502,8 @@ do	B_W
 ,	O
 các	B_W
 vị	B_W
-thế	B_W
-trading	B_W
+thế	I_W
+trading	I_W
 trong	B_W
 phiên	B_W
 trên	B_W
@@ -9568,7 +9568,7 @@ chỉnh	I_W
 trong	B_W
 phiên	B_W
 cuối	B_W
-tuần	B_W
+tuần	I_W
 
 stochastic	B_W
 rsi	B_W
@@ -9578,9 +9578,9 @@ cho	B_W
 tín	B_W
 hiệu	I_W
 trái	B_W
-chiều	B_W
+chiều	I_W
 hàm	B_W
-ý	B_W
+ý	I_W
 về	B_W
 khả	B_W
 năng	I_W
@@ -9596,7 +9596,7 @@ tục	I_W
 bollinger	B_W
 bands	B_W
 co	B_W
-thắt	B_W
+thắt	I_W
 và	B_W
 giá	B_W
 dao	B_W
@@ -9635,7 +9635,7 @@ s3:938	B_W
 điểm	B_W
 ,	O
 trong	B_W
-khi	B_W
+khi	I_W
 các	B_W
 ngưỡng	B_W
 kháng	B_W
@@ -9654,7 +9654,7 @@ tính	B_W
 thời	B_W
 điểm	I_W
 cuối	B_W
-tuần	B_W
+tuần	I_W
 này	B_W
 ,	O
 tổng	B_W
@@ -9681,7 +9681,7 @@ tổng	B_W
 khối	B_W
 lượng	I_W
 mở	B_W
-thời	I_W
+thời	B_W
 điểm	I_W
 cuối	B_W
 tuần	I_W
@@ -9711,7 +9711,7 @@ vn30f2q	B_W
 có	B_W
 oi	B_W
 lần	B_W
-lượt	B_W
+lượt	I_W
 đạt	B_W
 89	B_W
 ,	O
@@ -9738,11 +9738,11 @@ theo	B_W
 dõi	I_W
 trung	B_W
 dài	I_W
-hạn	B_W
+hạn	I_W
 và	B_W
 danh	B_W
 mục	I_W
 trading	B_W
-ngắn	I_W
+ngắn	B_W
 hạn	I_W
 

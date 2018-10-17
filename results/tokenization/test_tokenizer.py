@@ -53,16 +53,16 @@ def separate_word(tokens):
     return word_separate
 
 
-word2int, int2word = read_trained_data('word2int_ver9.pkl')
+word2int, int2word = read_trained_data('word2int_ver10.pkl')
 corpus_file = '../../data/tokenize/testFinance.txt'
 input_size = 64
 num_units = [32,4]
 embedding_dim = 50
-epochs = 500
-batch_size = 128
+epochs = 1
+batch_size = 512
 learning_rate = 0.2
-file_to_save_model = 'model_saved_ver9/model' + str(input_size) + '-' + str(num_units) + '-' + str(embedding_dim) + '-' + str(batch_size)+'.meta'
-checkpoint_file = 'model_saved_ver9/'
+file_to_save_model = '/home/fdm-thang/robochat/natural_language_understanding/results/tokenization/model_saved_ver10'
+# checkpoint_file = 'model_saved_ver10/'
 def tokenize_corpus():
     with open(corpus_file, encoding = 'utf-8') as f:
         text = f.read().lower()
@@ -137,10 +137,12 @@ def tokenize_corpus():
     # # lol
 
     with tf.Session() as sess:
-        
+        # saver = tf.train.Saver()
         #First let's load meta graph and restore weights
-        saver = tf.train.import_meta_graph(file_to_save_model)
-        saver.restore(sess,tf.train.latest_checkpoint(checkpoint_file))
+        # saver = tf.train.import_meta_graph(file_to_save_model)
+        # saver.restore(sess,tf.train.latest_checkpoint(checkpoint_file))
+        # saver.restore(sess, file_to_save_model)
+        tf.saved_model.loader.load(sess, ["tag"] ,export_dir = file_to_save_model)
         # Access and create placeholders variables and
         graph = tf.get_default_graph()
         
@@ -156,10 +158,15 @@ def tokenize_corpus():
                 # batch_x_train, batch_y_train = x_train[j*batch_size_classifier:(j+1)*batch_size_classifier], y_train[j*batch_size_classifier:(j+1)*batch_size_classifier]
         pred = (sess.run(prediction,{x:x_data}))
         print (pred.shape)
-        index = tf.argmax(pred, axis=1, name=None)
-        index = sess.run(index)
-
-        print (index[0:20])
+        print (pred)
+        all_index = []
+        for i in range(len(pred)):
+            index = tf.argmax(pred[i], axis=1, name=None)
+            index = sess.run(index)
+            all_index.append(index)
+        all_index = np.asarray(all_index)
+        print (all_index.shape)
+        print (all_index[0:20])
         file = open('token.txt','w', encoding="utf8")
         # k = 0
         # for i in range(len(real_word)):
@@ -171,12 +178,13 @@ def tokenize_corpus():
     #     print (index.shape)
         labels = []
     #     k = 0
+        print (real_word.shape)
         for i in range(real_word.shape[0]):
             labelsi = []
             for j in range(len(real_word[i])):
-                if (index[i*64+j] == 0):
+                if (all_index[i][j] == 0):
                     labelsi.append([real_word[i][j],'B_W'])
-                elif (index[i*64+j] == 1):
+                elif (all_index[i][j] == 1):
                     labelsi.append([real_word[i][j],'I_W'])
                 else :
                     labelsi.append([real_word[i][j],'O'])
@@ -201,7 +209,7 @@ def tokenize_corpus():
                 
     return all_tokens
 def preprocessing_testdata():
-    with open ('../../data/tokenize/10k - 5.txt',encoding = 'utf-8') as acro_file:
+    with open ('../../data/tokenize/tokenfix.txt',encoding = 'utf-8') as acro_file:
         lines = acro_file.readlines()
         x_test_raw = []
         y_test_raw = []
@@ -293,8 +301,9 @@ def evaluate():
     with tf.Session() as sess:
         
         #First let's load meta graph and restore weights
-        saver = tf.train.import_meta_graph(file_to_save_model)
-        saver.restore(sess,tf.train.latest_checkpoint(checkpoint_file))
+        # saver = tf.train.import_meta_graph(file_to_save_model)
+        # saver.restore(sess,tf.train.latest_checkpoint(checkpoint_file))
+        tf.saved_model.loader.load(sess, ["tag"] ,export_dir = file_to_save_model)
         # Access and create placeholders variables and
         graph = tf.get_default_graph()
         
@@ -311,9 +320,15 @@ def evaluate():
         pred = (sess.run(prediction,{x:x_data}))
         print (pred.shape)
         # lol
-        index = tf.argmax(pred, axis=1, name=None)
-        index = sess.run(index)
-        print (index.shape)
+        # index = tf.argmax(pred, axis=1, name=None)
+        # index = sess.run(index)
+        # print (index.shape)
+        all_index = []
+        for i in range(len(pred)):
+            index = tf.argmax(pred[i], axis=1, name=None)
+            index = sess.run(index)
+            all_index.append(index)
+        all_index = np.asarray(all_index)
         # print (index)
         # x_test_raw = np.asarray(x_test_raw)
         # x_test_raw_final = []
@@ -338,11 +353,11 @@ def evaluate():
                 if (x_vector[i][j] in special_character):
                     labelsi.append('O')
                 else:
-                    if index[i*64+j] == 0:
+                    if all_index[i][j] == 0:
                         labelsi.append('B_W')
-                    elif index[i*64+j] == 1:
+                    elif all_index[i][j] == 1:
                         labelsi.append('I_W')
-                    elif index[i*64+j] == 2:
+                    elif all_index[i][j] == 2:
                         labelsi.append('O')
             labels.append(labelsi)
         print (labels[-1])
@@ -357,7 +372,7 @@ def evaluate():
                 if(labels[i][j] == y_vector[i][j]):
                     correct +=1
                 else:
-                     print ( x_real_vector[i][j] ,',', labels[i][j], pred[i*64+j] , ',', y_vector[i][j])
+                     print ( x_real_vector[i][j] ,',', labels[i][j], pred[i][j] , ',', y_vector[i][j])
                      wrong_word.append(x_real_vector[i][j]) 
                          
         wrong_word = set(wrong_word)
@@ -463,8 +478,8 @@ def token_sentence(sentence):
     return all_tokens
 if __name__ == '__main__':
     # tokenize_corpus()
-    all_tokens = tokenize_corpus()
-    print (all_tokens)
+    # all_tokens = tokenize_corpus()
+    # print (all_tokens)
     # for i,sentence in enumerate(all_tokens):
     #     tokenized_sentence = ""
     #     for j,token in enumerate(all_tokens[i]):
@@ -497,7 +512,7 @@ if __name__ == '__main__':
     # pos = ViPosTagger.postagging(tokenized_sentence)
     # print (all_tokens)
     # print (pos)
-    # evaluate()
+    evaluate()
 
 
 # A - Adjective ------------------------------------ tính từ

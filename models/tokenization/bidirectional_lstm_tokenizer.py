@@ -76,7 +76,8 @@ class BiLSTMTokenizer():
         sess = tf.Session()
         init = tf.global_variables_initializer()
         # Add ops to save and restore all the variables.
-        saver = tf.train.Saver(save_relative_paths = True)
+        # saver = tf.train.Saver()
+        builder = tf.saved_model.builder.SavedModelBuilder(self.file_to_save_model)
         sess.run(init)
         total_batch = int(len(self.x_train)/ self.batch_size)
         print (total_batch)
@@ -103,8 +104,21 @@ class BiLSTMTokenizer():
             print('loss is : ',avg_loss)
             print("finished training tokenizer phrase!!!")
             print ('time for epoch: ', _ + 1 , time.time()-start_time)
-        save_path = saver.save(sess, self.file_to_save_model)
-
+        # save_path = saver.save(sess, self.file_to_save_model)
+        builder.add_meta_graph_and_variables(sess, ["tag"], signature_def_map= {
+                "model": tf.saved_model.signature_def_utils.predict_signature_def(
+                    inputs= {"sentence_one_hot": sentence_one_hot,"":y_label},
+                    outputs= {"outputs": outputs})
+                })
+        builder.save()
+        # inputs = {
+        #     "sentence_one_hot": sentence_one_hot,
+        #     "y_label": y_label
+        # }
+        # outputs = {"outputs": outputs}
+        # tf.saved_model.simple_save(
+        #     sess,  self.file_to_save_model, inputs, outputs
+        # )
         plt.plot(loss_set)
         plt.title('model loss')
         plt.ylabel('loss')
