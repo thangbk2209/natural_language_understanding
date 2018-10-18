@@ -53,7 +53,7 @@ def separate_word(tokens):
     return word_separate
 
 
-word2int, int2word = read_trained_data('word2int_ver10.pkl')
+word2int, int2word = read_trained_data('word2int_ver12.pkl')
 corpus_file = '../../data/tokenize/testFinance.txt'
 input_size = 64
 num_units = [32,4]
@@ -61,7 +61,7 @@ embedding_dim = 50
 epochs = 1
 batch_size = 512
 learning_rate = 0.2
-file_to_save_model = '/home/fdm-thang/robochat/natural_language_understanding/results/tokenization/model_saved_ver10'
+file_to_save_model = '/home/fdm-thang/robochat/natural_language_understanding/results/tokenization/model_saved_ver12'
 # checkpoint_file = 'model_saved_ver10/'
 def tokenize_corpus():
     with open(corpus_file, encoding = 'utf-8') as f:
